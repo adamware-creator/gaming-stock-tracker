@@ -53,7 +53,7 @@ COMPANY_LOGOS = {
 BENCHMARK = '^IXIC'  # NASDAQ Composite Index
 MATERIAL_CHANGE_THRESHOLD = 2.0  # 2% threshold
 DATA_FILE = 'stock_tracker_history.json'
-DASHBOARD_FILE = 'stock_dashboard.html'
+DASHBOARD_FILE = 'index.html'
 
 def load_historical_data():
     """Load existing historical data from JSON file"""

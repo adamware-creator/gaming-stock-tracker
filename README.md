@@ -28,7 +28,7 @@ This project monitors 7 major gaming companies for material price changes (±2% 
 - Generates Google News search queries for significant movements
 - Stores historical data in JSON format
 
-### Dashboard (`stock_dashboard.html`)
+### Dashboard (`index.html`)
 - **Material Changes Tab**: Daily tracking with price data and news links
 - **Earnings Tracker Tab**: Quarterly earnings with management presentation summaries
 - Modern, responsive UI with company logos
@@ -60,13 +60,13 @@ Options:
 
 ### View Dashboard
 
-Open `stock_dashboard.html` in your web browser after running the tracker.
+Open `index.html` in your web browser after running the tracker, or visit the live dashboard at https://adamware-creator.github.io/gaming-stock-tracker/
 
 ## Data Files
 
 - `stock_tracker_history.json` - Historical stock price data and material changes
 - `earnings_data.json` - Quarterly earnings data and summaries
-- `stock_dashboard.html` - Generated dashboard (updated on each run)
+- `index.html` - Generated dashboard (updated on each run)
 
 ## Requirements
 
