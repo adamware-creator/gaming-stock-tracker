@@ -39,11 +39,20 @@ This project monitors 7 major gaming companies for material price changes (±2% 
 - Stores revenue, earnings, and YoY growth
 - Management presentation summaries
 
+### Slack Integration (`slack_notifier.py`)
+- Daily automated Slack notifications
+- Material changes alerts (±2%)
+- All companies performance summary
+- Link to live dashboard
+- See [SLACK_SETUP.md](SLACK_SETUP.md) for configuration instructions
+
 ## Installation
 
 ```bash
-pip install yfinance pandas
+pip install yfinance pandas requests
 ```
+
+For Slack notifications, see [SLACK_SETUP.md](SLACK_SETUP.md) for additional configuration.
 
 ## Usage
 
@@ -61,6 +70,16 @@ Options:
 ### View Dashboard
 
 Open `index.html` in your web browser after running the tracker, or visit the live dashboard at https://adamware-creator.github.io/gaming-stock-tracker/
+
+### Send Slack Update
+
+After configuring Slack (see [SLACK_SETUP.md](SLACK_SETUP.md)):
+
+```bash
+python send_slack_update.py
+```
+
+This sends the latest stock data to your configured Slack channel.
 
 ## Data Files
 
