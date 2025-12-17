@@ -10,6 +10,9 @@ on:
   # Allow manual trigger for testing
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-stocks:
     runs-on: ubuntu-latest
