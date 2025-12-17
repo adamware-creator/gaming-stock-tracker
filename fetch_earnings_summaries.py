@@ -20,12 +20,13 @@ def save_earnings_data(data):
 
 def generate_earnings_summary_prompt(company_name, ticker, quarter):
     """Generate a prompt for summarizing an earnings call"""
-    return f"""Give me a one paragraph summary of {company_name} ({ticker}) {quarter} earnings call including:
-1. Key financial metrics (revenue, earnings)
-2. Prepared comments from the CEO and/or CFO highlighting strategic initiatives and business performance
-3. Summary of the Q&A with banking analysts covering main topics and concerns
+    return f"""Give me a comprehensive one-paragraph summary of {company_name} ({ticker}) {quarter} earnings call including:
+1. Key financial metrics (revenue, earnings, YoY growth)
+2. Management presentation highlights (CEO/CFO prepared remarks on strategy, performance, guidance)
+3. Investor Q&A topics (analyst questions, management responses, main concerns/opportunities discussed)
+4. Market reaction (stock price movement post-earnings, analyst sentiment)
 
-Keep it concise and focused on the most important information for investors."""
+Keep it dense with specific numbers and quotes where possible. Focus on what matters most to investors."""
 
 def list_quarters_needing_summaries():
     """List all quarters that need earnings call summaries"""

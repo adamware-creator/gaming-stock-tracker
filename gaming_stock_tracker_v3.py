@@ -29,11 +29,12 @@ except ImportError:
     pass
 
 # Configuration
+# Order: Flutter, DraftKings, MGM (BetMGM), Caesars, Penn, Rush Street, Bally's
 GAMING_COMPANIES = {
-    'DKNG': 'DraftKings',
     'FLUT': 'Flutter Entertainment',
-    'CZR': 'Caesars Entertainment',
+    'DKNG': 'DraftKings',
     'MGM': 'MGM Resorts',
+    'CZR': 'Caesars Entertainment',
     'PENN': 'Penn Entertainment',
     'RSI': 'Rush Street Interactive',
     'BALY': 'Bally\'s Corporation'
@@ -41,10 +42,10 @@ GAMING_COMPANIES = {
 
 # Company logo URLs (using Clearbit Logo API)
 COMPANY_LOGOS = {
-    'DKNG': 'https://logo.clearbit.com/draftkings.com',
     'FLUT': 'https://logo.clearbit.com/flutter.com',
-    'CZR': 'https://logo.clearbit.com/caesars.com',
+    'DKNG': 'https://logo.clearbit.com/draftkings.com',
     'MGM': 'https://logo.clearbit.com/mgmresorts.com',
+    'CZR': 'https://logo.clearbit.com/caesars.com',
     'PENN': 'https://logo.clearbit.com/pennentertainment.com',
     'RSI': 'https://logo.clearbit.com/rushstreetinteractive.com',
     'BALY': 'https://logo.clearbit.com/ballys.com'
