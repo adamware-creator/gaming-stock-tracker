@@ -2686,8 +2686,8 @@
           "search_query": "Penn Entertainment PENN stock drops December 15, 2025",
           "news": {
             "search_query": "Penn Entertainment PENN stock drops December 15, 2025",
-            "summary": "Penn Entertainment stock drops 3.7% on December 15, 2025",
-            "needs_manual_lookup": true
+            "summary": "PENN Entertainment closed down -3.70% on December 15 amid continued pressure following its December 1 termination of the ESPN Bet partnership and Q3 2025 earnings miss (-$0.22 vs -$0.05 expected). Stock trading below $14 as company pivots focus to theScore Bet brand.",
+            "needs_manual_lookup": false
           }
         },
         {
@@ -2702,8 +2702,8 @@
           "search_query": "Rush Street Interactive RSI stock drops December 15, 2025",
           "news": {
             "search_query": "Rush Street Interactive RSI stock drops December 15, 2025",
-            "summary": "Rush Street Interactive stock drops 2.3% on December 15, 2025",
-            "needs_manual_lookup": true
+            "summary": "Rush Street Interactive dropped -2.27% intraday on December 15 (opened $19.39, closed $18.95) despite positive analyst coverage. Susquehanna raised price target to $23 (from $22) maintaining Positive rating, citing favorable Colombia tax developments and strong Latin America performance. Broader market weakness (NASDAQ -1.17%) likely contributed to intraday decline.",
+            "needs_manual_lookup": false
           }
         }
       ]
