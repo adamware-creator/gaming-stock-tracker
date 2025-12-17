@@ -2,9 +2,10 @@ name: Daily Stock Update
 
 on:
   schedule:
-    # Run at 6:00 AM ET (11:00 AM UTC) on weekdays
+    # Run at 6:00 AM ET (11:00 AM UTC) the day after trading days
+    # Markets open Mon-Fri, so run Tue-Sat to process previous day
     # Note: GitHub Actions uses UTC, ET is UTC-5 (or UTC-4 during DST)
-    - cron: '0 11 * * 1-5'  # Monday-Friday at 11am UTC (6am ET)
+    - cron: '0 11 * * 2-6'  # Tuesday-Saturday at 11am UTC (6am ET)
 
   # Allow manual trigger for testing
   workflow_dispatch:

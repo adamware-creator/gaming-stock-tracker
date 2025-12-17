@@ -210,8 +210,10 @@ def main():
     record = analyze_single_day(yesterday)
 
     if not record or not record.get('companies'):
-        print("ERROR: Could not fetch stock data")
-        sys.exit(1)
+        print("INFO: No stock data available for yesterday")
+        print("This is normal for market holidays (Thanksgiving, Christmas, etc.)")
+        print("Exiting gracefully - no update needed")
+        sys.exit(0)  # Exit successfully, not an error
 
     print(f"✓ Fetched data for {record['date_display']}")
     print(f"  Companies: {len(record['companies'])}")

@@ -2,7 +2,7 @@
 
 ## What Happens Automatically
 
-Every weekday at **6:00 AM Eastern Time**, GitHub Actions will:
+Every **Tuesday-Saturday at 6:00 AM Eastern Time** (the day after trading days), GitHub Actions will:
 
 1. ✅ **Fetch stock data** for the previous trading day (unadjusted prices)
 2. ✅ **Identify material changes** (stocks moving ±2% or more)
@@ -23,9 +23,10 @@ Every weekday at **6:00 AM Eastern Time**, GitHub Actions will:
 - `GOOGLE_SEARCH_ENGINE_ID` - Custom search engine ID
 
 ### Schedule
-- **Runs:** Monday-Friday at 6:00 AM ET (11:00 AM UTC)
-- **Skips:** Weekends automatically
-- **Handles:** Market holidays gracefully (will show no data if market was closed)
+- **Runs:** Tuesday-Saturday at 6:00 AM ET (11:00 AM UTC)
+- **Processes:** Previous day's trading results (Mon-Fri markets)
+- **Skips:** Sundays and Mondays automatically
+- **Handles:** Market holidays gracefully (exits successfully if no trading data available)
 
 ## Testing the Automation
 
