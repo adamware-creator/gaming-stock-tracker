@@ -79,10 +79,10 @@ def get_stock_data(ticker, date=None):
             # Fetch data for specific date (need a range to get that day's data)
             end_date = date + timedelta(days=1)
             start_date = date - timedelta(days=5)  # Get a few days to ensure we have the data
-            hist = stock.history(start=start_date, end=end_date)
+            hist = stock.history(start=start_date, end=end_date, auto_adjust=False)
         else:
             # Get recent data (last 2 days for today)
-            hist = stock.history(period='2d')
+            hist = stock.history(period='2d', auto_adjust=False)
 
         if hist.empty:
             return None

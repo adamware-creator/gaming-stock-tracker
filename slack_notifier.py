@@ -10,6 +10,12 @@ import sys
 from datetime import datetime, timedelta
 import requests
 
+# Fix Windows console encoding for emojis
+if sys.platform == 'win32':
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+
 # Slack webhook URL (set via environment variable for security)
 SLACK_WEBHOOK_URL = os.environ.get('SLACK_WEBHOOK_URL', '')
 
@@ -83,24 +89,46 @@ def format_slack_message(record):
 
     # Material Changes Section
     if material_changes:
-        changes_text = f"*🚨 Material Changes (±2%):* {len(material_changes)}\n\n"
-        for change in material_changes:
-            ticker = change['ticker']
-            name = change['name']
-            data = companies.get(ticker, {})
-            pct_change = data.get('pct_change', 0)
-            current_price = data.get('current_price', 0)
-
-            emoji = "🟢" if pct_change > 0 else "🔴"
-            changes_text += f"{emoji} *{ticker}* ({name}): `{pct_change:+.2f}%` | ${current_price:.2f}\n"
-
+        changes_header = f"*🚨 Material Changes (±2%):* {len(material_changes)}\n"
         blocks.append({
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": changes_text
+                "text": changes_header
             }
         })
+        blocks.append({"type": "divider"})
+
+        # Show each material change with explanation
+        for change in material_changes:
+            ticker = change['ticker']
+            name = change['name']
+            company_info = companies.get(ticker, {})
+            # Handle nested data structure
+            data = company_info.get('data', company_info)
+            pct_change = data.get('pct_change', 0)
+            current_price = data.get('current_price', 0)
+
+            emoji = "🟢" if pct_change > 0 else "🔴"
+
+            # Build change text
+            change_text = f"{emoji} *{ticker}* ({name})\n"
+            change_text += f"`{pct_change:+.2f}%` | ${current_price:.2f}\n"
+
+            # Add news summary if available
+            news = change.get('news', {})
+            summary = news.get('summary', '')
+            if summary:
+                change_text += f"\n_{summary}_"
+
+            blocks.append({
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": change_text
+                }
+            })
+
         blocks.append({"type": "divider"})
     else:
         blocks.append({
@@ -111,37 +139,6 @@ def format_slack_message(record):
             }
         })
         blocks.append({"type": "divider"})
-
-    # All Companies Summary
-    summary_text = "*📈 All Companies:*\n\n"
-
-    # Sort companies by performance
-    company_performance = []
-    for ticker, name in GAMING_COMPANIES.items():
-        data = companies.get(ticker, {})
-        pct_change = data.get('pct_change', 0)
-        current_price = data.get('current_price', 0)
-        company_performance.append({
-            'ticker': ticker,
-            'name': name,
-            'pct_change': pct_change,
-            'price': current_price
-        })
-
-    # Sort by performance (best to worst)
-    company_performance.sort(key=lambda x: x['pct_change'], reverse=True)
-
-    for comp in company_performance:
-        emoji = "🟢" if comp['pct_change'] > 0 else "🔴" if comp['pct_change'] < 0 else "⚪"
-        summary_text += f"{emoji} *{comp['ticker']}*: `{comp['pct_change']:+.2f}%` | ${comp['price']:.2f}\n"
-
-    blocks.append({
-        "type": "section",
-        "text": {
-            "type": "mrkdwn",
-            "text": summary_text
-        }
-    })
 
     # Dashboard Link
     blocks.append({
@@ -169,10 +166,15 @@ def send_to_slack(message):
         return False
 
     try:
+        # Disable SSL warnings for Windows environments
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
         response = requests.post(
             SLACK_WEBHOOK_URL,
             json=message,
-            headers={'Content-Type': 'application/json'}
+            headers={'Content-Type': 'application/json'},
+            verify=False  # Disable SSL verification for Windows SSL certificate issues
         )
 
         if response.status_code == 200:
