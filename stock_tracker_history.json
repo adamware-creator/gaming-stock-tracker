@@ -2707,6 +2707,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2025-12-16",
+      "date_display": "December 16, 2025",
+      "benchmark": {
+        "current_price": 23111.4609375,
+        "open_price": 22981.8203125,
+        "pct_change": 0.5641007685082604,
+        "volume": 7759960000
+      },
+      "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 219.33999633789062,
+            "open_price": 219.57000732421875,
+            "pct_change": -0.10475519363101767,
+            "volume": 1652800
+          }
+        },
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.540000915527344,
+            "open_price": 35.650001525878906,
+            "pct_change": -3.1136060668771512,
+            "volume": 8935200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.84000015258789,
+            "open_price": 37.31999969482422,
+            "pct_change": -1.2861724173671352,
+            "volume": 3870700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.899999618530273,
+            "open_price": 23.899999618530273,
+            "pct_change": 0.0,
+            "volume": 9542800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.149999618530273,
+            "open_price": 13.920000076293945,
+            "pct_change": 1.6522955529865422,
+            "volume": 4530500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.600000381469727,
+            "open_price": 19.1200008392334,
+            "pct_change": 2.5104577466931395,
+            "volume": 974600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.079999923706055,
+            "open_price": 16.0,
+            "pct_change": 6.749999523162842,
+            "volume": 223800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.540000915527344,
+            "open_price": 35.650001525878906,
+            "pct_change": -3.1136060668771512,
+            "volume": 8935200
+          },
+          "search_query": "DraftKings DKNG stock drops December 16, 2025",
+          "news": {
+            "search_query": "DraftKings DKNG stock drops December 16, 2025",
+            "summary": "DraftKings fell -3.1% on December 16 after rival Robinhood Markets unveiled new features for its prediction market product, sparking competitive concerns. Analysts suggested Robinhood's entry could pose a direct threat to DraftKings' own prediction market plans. Stock down -4.4% YTD and trading 35% below February 2025 highs of $53.49.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.600000381469727,
+            "open_price": 19.1200008392334,
+            "pct_change": 2.5104577466931395,
+            "volume": 974600
+          },
+          "search_query": "Rush Street Interactive RSI stock rises December 16, 2025",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock rises December 16, 2025",
+            "summary": "Rush Street Interactive jumped +2.5% on December 16 after Susquehanna analyst Joseph Stauff raised the price target to $23 from $22 (Positive rating maintained). Favorable Colombia tax developments also contributed to gains. Stock up +42.9% YTD, though still -12.8% below September $22.53 highs.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.079999923706055,
+            "open_price": 16.0,
+            "pct_change": 6.749999523162842,
+            "volume": 223800
+          },
+          "search_query": "Bally's Corporation BALY stock rises December 16, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock rises December 16, 2025",
+            "summary": "Bally's Corporation surged +6.8% on December 16 following Monday's official approval from New York State Gaming Commission for its Bronx casino license. The $2.3B Ferry Point Park project includes 3,500 slots, 210 table games, and 507-room hotel. Bally's paid $500M for the 15-year license and expects 2030 opening.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
