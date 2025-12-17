@@ -26,7 +26,7 @@ from gaming_stock_tracker_v3 import (
 # Configuration
 GCP_PROJECT_ID = None  # Will be extracted from service account
 GCP_LOCATION = "us-east5"  # Vertex AI location
-CLAUDE_MODEL = "claude-3-5-sonnet-v2@20241022"
+CLAUDE_MODEL = "claude-sonnet-4-5@20250929"  # Claude Sonnet 4.5
 
 def setup_gcp_credentials():
     """Setup GCP credentials from GitHub secret"""
