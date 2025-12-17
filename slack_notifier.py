@@ -58,7 +58,8 @@ def format_slack_message(record):
         }
 
     date_display = record.get('date_display', 'Unknown Date')
-    benchmark_change = record.get('benchmark_change', 0)
+    benchmark_data = record.get('benchmark', {})
+    benchmark_change = benchmark_data.get('pct_change', 0) if benchmark_data else 0
     material_changes = record.get('material_changes', [])
     companies = record.get('companies', {})
 
