@@ -4,66 +4,12 @@
       "date": "2025-11-13",
       "date_display": "November 13, 2025",
       "benchmark": {
-        "current_price": 22900.58984375,
-        "open_price": 22544.720703125,
-        "pct_change": 1.578503212841629,
-        "volume": 10841540000
+        "current_price": 22870.359375,
+        "open_price": 23262.640625,
+        "pct_change": -1.6863143626885653,
+        "volume": 11351410000
       },
       "companies": {
-        "DKNG": {
-          "name": "DraftKings",
-          "data": {
-            "current_price": 29.579999923706055,
-            "open_price": 29.135000228881836,
-            "pct_change": 1.5273715164865036,
-            "volume": 17293800
-          }
-        },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 19.780000686645508,
-            "open_price": 19.440000534057617,
-            "pct_change": 1.7489719302848397,
-            "volume": 8510100
-          }
-        },
-        "MGM": {
-          "name": "MGM Resorts",
-          "data": {
-            "current_price": 32.470001220703125,
-            "open_price": 32.380001068115234,
-            "pct_change": 0.27794981352398496,
-            "volume": 4172000
-          }
-        },
-        "PENN": {
-          "name": "Penn Entertainment",
-          "data": {
-            "current_price": 14.600000381469727,
-            "open_price": 14.619999885559082,
-            "pct_change": -0.13679551467787626,
-            "volume": 2881600
-          }
-        },
-        "RSI": {
-          "name": "Rush Street Interactive",
-          "data": {
-            "current_price": 17.239999771118164,
-            "open_price": 17.110000610351562,
-            "pct_change": 0.7597846646945879,
-            "volume": 1470900
-          }
-        },
-        "BALY": {
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 17.170000076293945,
-            "open_price": 16.420000076293945,
-            "pct_change": 4.5676004659878044,
-            "volume": 109900
-          }
-        },
         "FLUT": {
           "name": "Flutter Entertainment",
           "data": {
@@ -72,26 +18,63 @@
             "pct_change": -8.843537414965986,
             "volume": 9308600
           }
+        },
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.690000534057617,
+            "open_price": 30.895000457763672,
+            "pct_change": -3.900307188386034,
+            "volume": 26775300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 32.81999969482422,
+            "open_price": 33.0,
+            "pct_change": -0.5454554702296401,
+            "volume": 3831500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 19.75,
+            "open_price": 19.559999465942383,
+            "pct_change": 0.9713729000271377,
+            "volume": 9662200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.800000190734863,
+            "open_price": 15.109999656677246,
+            "pct_change": -2.051617954904395,
+            "volume": 2859100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.350000381469727,
+            "open_price": 17.280000686645508,
+            "pct_change": 0.40509081043218115,
+            "volume": 1022500
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.280000686645508,
+            "open_price": 17.010000228881836,
+            "pct_change": -4.291590431591165,
+            "volume": 77700
+          }
         }
       },
       "material_changes": [
-        {
-          "ticker": "BALY",
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 17.170000076293945,
-            "open_price": 16.420000076293945,
-            "pct_change": 4.5676004659878044,
-            "volume": 109900
-          },
-          "search_query": "Bally's Corporation BALY stock rises November 13, 2025",
-          "news": {
-            "search_query": "Bally's Corporation BALY stock rises November 13, 2025",
-            "summary": "Truist raised Bally's price target to $18 from $13, citing improved revenue outlook and strategic casino asset sales progress.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
         {
           "ticker": "FLUT",
           "name": "Flutter Entertainment",
@@ -104,9 +87,56 @@
           "search_query": "Flutter Entertainment FLUT stock drops November 13, 2025",
           "news": {
             "search_query": "Flutter Entertainment FLUT stock drops November 13, 2025",
-            "summary": "Flutter plunged 8.84% despite Q3 earnings beat (revenue $3.79B, EPS $1.64 vs $0.59 est) as management cut full-year EBITDA guidance by $280M to $2.915B citing customer-friendly NFL results. Multiple analyst downgrades followed including Weiss Ratings to Sell.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Flutter Entertainment stock drops 8.8% on November 13, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.690000534057617,
+            "open_price": 30.895000457763672,
+            "pct_change": -3.900307188386034,
+            "volume": 26775300
+          },
+          "search_query": "DraftKings DKNG stock drops November 13, 2025",
+          "news": {
+            "search_query": "DraftKings DKNG stock drops November 13, 2025",
+            "summary": "DraftKings stock drops 3.9% on November 13, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.800000190734863,
+            "open_price": 15.109999656677246,
+            "pct_change": -2.051617954904395,
+            "volume": 2859100
+          },
+          "search_query": "Penn Entertainment PENN stock drops November 13, 2025",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock drops November 13, 2025",
+            "summary": "Penn Entertainment stock drops 2.1% on November 13, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.280000686645508,
+            "open_price": 17.010000228881836,
+            "pct_change": -4.291590431591165,
+            "volume": 77700
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 13, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock drops November 13, 2025",
+            "summary": "Bally's Corporation stock drops 4.3% on November 13, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -121,6 +151,15 @@
         "volume": 10841540000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 198.5800018310547,
+            "open_price": 197.57000732421875,
+            "pct_change": 0.5112084169630586,
+            "volume": 5126500
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -130,15 +169,6 @@
             "volume": 17293800
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 19.780000686645508,
-            "open_price": 19.440000534057617,
-            "pct_change": 1.7489719302848397,
-            "volume": 8510100
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -146,6 +176,15 @@
             "open_price": 32.380001068115234,
             "pct_change": 0.27794981352398496,
             "volume": 4172000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 19.780000686645508,
+            "open_price": 19.440000534057617,
+            "pct_change": 1.7489719302848397,
+            "volume": 8510100
           }
         },
         "PENN": {
@@ -173,15 +212,6 @@
             "open_price": 16.420000076293945,
             "pct_change": 4.5676004659878044,
             "volume": 109900
-          }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 198.5800018310547,
-            "open_price": 197.57000732421875,
-            "pct_change": 0.5112084169630586,
-            "volume": 5126500
           }
         }
       },
@@ -198,9 +228,8 @@
           "search_query": "Bally's Corporation BALY stock rises November 14, 2025",
           "news": {
             "search_query": "Bally's Corporation BALY stock rises November 14, 2025",
-            "summary": "Truist raised Bally's price target to $18 from $13, citing improved revenue outlook and strategic casino asset sales progress.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Bally's Corporation stock rises 4.6% on November 14, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -209,12 +238,194 @@
       "date": "2025-11-17",
       "date_display": "November 17, 2025",
       "benchmark": {
+        "current_price": 22708.0703125,
+        "open_price": 22788.3203125,
+        "pct_change": -0.35215408112365676,
+        "volume": 9744800000
+      },
+      "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 191.11000061035156,
+            "open_price": 198.8300018310547,
+            "pct_change": -3.882714454362269,
+            "volume": 3696000
+          }
+        },
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 28.81999969482422,
+            "open_price": 29.149999618530273,
+            "pct_change": -1.1320752247841472,
+            "volume": 12452900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 31.389999389648438,
+            "open_price": 32.040000915527344,
+            "pct_change": -2.0287188118147026,
+            "volume": 6542300
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.610000610351562,
+            "open_price": 19.700000762939453,
+            "pct_change": 4.619288386648406,
+            "volume": 22323000
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.649999618530273,
+            "open_price": 14.4399995803833,
+            "pct_change": -5.470914022229198,
+            "volume": 3603400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 16.84000015258789,
+            "open_price": 17.190000534057617,
+            "pct_change": -2.036069636974646,
+            "volume": 1339600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.639999389648438,
+            "open_price": 16.979999542236328,
+            "pct_change": -2.002356665217621,
+            "volume": 59500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 191.11000061035156,
+            "open_price": 198.8300018310547,
+            "pct_change": -3.882714454362269,
+            "volume": 3696000
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops November 17, 2025",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock drops November 17, 2025",
+            "summary": "Flutter Entertainment stock drops 3.9% on November 17, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 31.389999389648438,
+            "open_price": 32.040000915527344,
+            "pct_change": -2.0287188118147026,
+            "volume": 6542300
+          },
+          "search_query": "MGM Resorts MGM stock drops November 17, 2025",
+          "news": {
+            "search_query": "MGM Resorts MGM stock drops November 17, 2025",
+            "summary": "MGM Resorts stock drops 2.0% on November 17, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.610000610351562,
+            "open_price": 19.700000762939453,
+            "pct_change": 4.619288386648406,
+            "volume": 22323000
+          },
+          "search_query": "Caesars Entertainment CZR stock rises November 17, 2025",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock rises November 17, 2025",
+            "summary": "Caesars Entertainment stock rises 4.6% on November 17, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.649999618530273,
+            "open_price": 14.4399995803833,
+            "pct_change": -5.470914022229198,
+            "volume": 3603400
+          },
+          "search_query": "Penn Entertainment PENN stock drops November 17, 2025",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock drops November 17, 2025",
+            "summary": "Penn Entertainment stock drops 5.5% on November 17, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 16.84000015258789,
+            "open_price": 17.190000534057617,
+            "pct_change": -2.036069636974646,
+            "volume": 1339600
+          },
+          "search_query": "Rush Street Interactive RSI stock drops November 17, 2025",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock drops November 17, 2025",
+            "summary": "Rush Street Interactive stock drops 2.0% on November 17, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.639999389648438,
+            "open_price": 16.979999542236328,
+            "pct_change": -2.002356665217621,
+            "volume": 59500
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 17, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock drops November 17, 2025",
+            "summary": "Bally's Corporation stock drops 2.0% on November 17, 2025",
+            "needs_manual_lookup": true
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "date_display": "November 18, 2025",
+      "benchmark": {
         "current_price": 22432.849609375,
         "open_price": 22565.900390625,
         "pct_change": -0.5896098934535576,
         "volume": 8606260000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 193.19000244140625,
+            "open_price": 190.88999938964844,
+            "pct_change": 1.2048839955533768,
+            "volume": 2675800
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -224,15 +435,6 @@
             "volume": 9264700
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 20.350000381469727,
-            "open_price": 20.219999313354492,
-            "pct_change": 0.6429330985653097,
-            "volume": 9362700
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -240,6 +442,15 @@
             "open_price": 30.649999618530273,
             "pct_change": 2.4796092604919893,
             "volume": 4991000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.350000381469727,
+            "open_price": 20.219999313354492,
+            "pct_change": 0.6429330985653097,
+            "volume": 9362700
           }
         },
         "PENN": {
@@ -268,15 +479,6 @@
             "pct_change": 0.11848613008321712,
             "volume": 76300
           }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 191.11000061035156,
-            "open_price": 198.8300018310547,
-            "pct_change": -3.882714454362269,
-            "volume": 3696000
-          }
         }
       },
       "material_changes": [
@@ -289,12 +491,11 @@
             "pct_change": 3.233743590940034,
             "volume": 9264700
           },
-          "search_query": "DraftKings DKNG stock rises November 17, 2025",
+          "search_query": "DraftKings DKNG stock rises November 18, 2025",
           "news": {
-            "search_query": "DraftKings DKNG stock rises November 17, 2025",
-            "summary": "Missouri sportsbook pre-registration opened, allowing DraftKings (which won an untethered license) to begin accepting account sign-ups ahead of Dec 1 launch.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "DraftKings DKNG stock rises November 18, 2025",
+            "summary": "DraftKings stock rises 3.2% on November 18, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -306,12 +507,11 @@
             "pct_change": 2.4796092604919893,
             "volume": 4991000
           },
-          "search_query": "MGM Resorts MGM stock rises November 17, 2025",
+          "search_query": "MGM Resorts MGM stock rises November 18, 2025",
           "news": {
-            "search_query": "MGM Resorts MGM stock rises November 17, 2025",
-            "summary": "Missouri sportsbook pre-registration opened. BetMGM partnered with Century Casinos for market access ahead of December 1 wagering launch.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "MGM Resorts MGM stock rises November 18, 2025",
+            "summary": "MGM Resorts stock rises 2.5% on November 18, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -323,12 +523,11 @@
             "pct_change": 3.8490583311836675,
             "volume": 5398900
           },
-          "search_query": "Penn Entertainment PENN stock rises November 17, 2025",
+          "search_query": "Penn Entertainment PENN stock rises November 18, 2025",
           "news": {
-            "search_query": "Penn Entertainment PENN stock rises November 17, 2025",
-            "summary": "Missouri sportsbook pre-registration opened. Penn's theScore Bet to launch in Missouri after ESPN BET partnership termination.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Penn Entertainment PENN stock rises November 18, 2025",
+            "summary": "Penn Entertainment stock rises 3.8% on November 18, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -340,36 +539,18 @@
             "pct_change": 2.0722344234318633,
             "volume": 977200
           },
-          "search_query": "Rush Street Interactive RSI stock rises November 17, 2025",
+          "search_query": "Rush Street Interactive RSI stock rises November 18, 2025",
           "news": {
-            "search_query": "Rush Street Interactive RSI stock rises November 17, 2025",
-            "summary": "Missouri sportsbook pre-registration opened. Rush Street Interactive prepared for December 1 launch in the new market.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "FLUT",
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 191.11000061035156,
-            "open_price": 198.8300018310547,
-            "pct_change": -3.882714454362269,
-            "volume": 3696000
-          },
-          "search_query": "Flutter Entertainment FLUT stock drops November 17, 2025",
-          "news": {
-            "search_query": "Flutter Entertainment FLUT stock drops November 17, 2025",
-            "summary": "Flutter declined 3.88% as investors continued to digest the reduced full-year guidance announced with Q3 earnings, reflecting ongoing concerns about unfavorable sports betting outcomes in September-October.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Rush Street Interactive RSI stock rises November 18, 2025",
+            "summary": "Rush Street Interactive stock rises 2.1% on November 18, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
     },
     {
-      "date": "2025-11-18",
-      "date_display": "November 18, 2025",
+      "date": "2025-11-19",
+      "date_display": "November 19, 2025",
       "benchmark": {
         "current_price": 22564.23046875,
         "open_price": 22459.26953125,
@@ -377,6 +558,15 @@
         "volume": 8434200000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 193.27000427246094,
+            "open_price": 194.44000244140625,
+            "pct_change": -0.6017270902359133,
+            "volume": 1707500
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -386,15 +576,6 @@
             "volume": 9752100
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 19.979999542236328,
-            "open_price": 20.329999923706055,
-            "pct_change": -1.7215955867348733,
-            "volume": 8899100
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -402,6 +583,15 @@
             "open_price": 31.5,
             "pct_change": -1.2698400588262648,
             "volume": 4138800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 19.979999542236328,
+            "open_price": 20.329999923706055,
+            "pct_change": -1.7215955867348733,
+            "volume": 8899100
           }
         },
         "PENN": {
@@ -430,15 +620,6 @@
             "pct_change": -3.5118053015504866,
             "volume": 69300
           }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 193.19000244140625,
-            "open_price": 190.88999938964844,
-            "pct_change": 1.2048839955533768,
-            "volume": 2675800
-          }
         }
       },
       "material_changes": [
@@ -451,19 +632,18 @@
             "pct_change": -3.5118053015504866,
             "volume": 69300
           },
-          "search_query": "Bally's Corporation BALY stock drops November 18, 2025",
+          "search_query": "Bally's Corporation BALY stock drops November 19, 2025",
           "news": {
-            "search_query": "Bally's Corporation BALY stock drops November 18, 2025",
-            "summary": "Bally's shares declined 3.5% as investors took profits following the previous week's analyst upgrade rally.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Bally's Corporation BALY stock drops November 19, 2025",
+            "summary": "Bally's Corporation stock drops 3.5% on November 19, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
     },
     {
-      "date": "2025-11-19",
-      "date_display": "November 19, 2025",
+      "date": "2025-11-20",
+      "date_display": "November 20, 2025",
       "benchmark": {
         "current_price": 22078.05078125,
         "open_price": 23057.0,
@@ -471,6 +651,15 @@
         "volume": 10548620000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 192.5,
+            "open_price": 196.4199981689453,
+            "pct_change": -1.9957225361409652,
+            "volume": 2375500
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -480,15 +669,6 @@
             "volume": 11121900
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 19.90999984741211,
-            "open_price": 20.059999465942383,
-            "pct_change": -0.7477548480743527,
-            "volume": 6019100
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -496,6 +676,15 @@
             "open_price": 31.309999465942383,
             "pct_change": -1.756624868865972,
             "volume": 4436500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 19.90999984741211,
+            "open_price": 20.059999465942383,
+            "pct_change": -0.7477548480743527,
+            "volume": 6019100
           }
         },
         "PENN": {
@@ -523,15 +712,6 @@
             "open_price": 17.15999984741211,
             "pct_change": -3.1468473949907865,
             "volume": 66100
-          }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 193.27000427246094,
-            "open_price": 194.44000244140625,
-            "pct_change": -0.6017270902359133,
-            "volume": 1707500
           }
         }
       },
@@ -545,12 +725,11 @@
             "pct_change": -2.342086019391874,
             "volume": 4228600
           },
-          "search_query": "Penn Entertainment PENN stock drops November 19, 2025",
+          "search_query": "Penn Entertainment PENN stock drops November 20, 2025",
           "news": {
-            "search_query": "Penn Entertainment PENN stock drops November 19, 2025",
-            "summary": "Penn Entertainment declined 2.3% amid ongoing uncertainty about theScore Bet's competitive positioning post-ESPN BET split.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Penn Entertainment PENN stock drops November 20, 2025",
+            "summary": "Penn Entertainment stock drops 2.3% on November 20, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -562,12 +741,11 @@
             "pct_change": -2.3149509415128113,
             "volume": 905100
           },
-          "search_query": "Rush Street Interactive RSI stock drops November 19, 2025",
+          "search_query": "Rush Street Interactive RSI stock drops November 20, 2025",
           "news": {
-            "search_query": "Rush Street Interactive RSI stock drops November 19, 2025",
-            "summary": "Rush Street Interactive fell 2.3% despite strong fundamentals, experiencing insider selling activity as CEO sold 121,459 shares on Nov 10.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Rush Street Interactive RSI stock drops November 20, 2025",
+            "summary": "Rush Street Interactive stock drops 2.3% on November 20, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -579,140 +757,11 @@
             "pct_change": -3.1468473949907865,
             "volume": 66100
           },
-          "search_query": "Bally's Corporation BALY stock drops November 19, 2025",
+          "search_query": "Bally's Corporation BALY stock drops November 20, 2025",
           "news": {
-            "search_query": "Bally's Corporation BALY stock drops November 19, 2025",
-            "summary": "Bally's declined 3.1% continuing profit-taking from the Truist upgrade rally earlier in the month.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-11-20",
-      "date_display": "November 20, 2025",
-      "benchmark": {
-        "current_price": 22273.080078125,
-        "open_price": 22162.830078125,
-        "pct_change": 0.4974545200742128,
-        "volume": 9931240000
-      },
-      "companies": {
-        "DKNG": {
-          "name": "DraftKings",
-          "data": {
-            "current_price": 29.989999771118164,
-            "open_price": 29.56999969482422,
-            "pct_change": 1.4203587440937984,
-            "volume": 14841900
-          }
-        },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 21.31999969482422,
-            "open_price": 19.84000015258789,
-            "pct_change": 7.459675054706488,
-            "volume": 11057700
-          }
-        },
-        "MGM": {
-          "name": "MGM Resorts",
-          "data": {
-            "current_price": 32.54999923706055,
-            "open_price": 30.81999969482422,
-            "pct_change": 5.6132367273412305,
-            "volume": 8331700
-          }
-        },
-        "PENN": {
-          "name": "Penn Entertainment",
-          "data": {
-            "current_price": 13.800000190734863,
-            "open_price": 13.75,
-            "pct_change": 0.3636377507990057,
-            "volume": 3371100
-          }
-        },
-        "RSI": {
-          "name": "Rush Street Interactive",
-          "data": {
-            "current_price": 17.5,
-            "open_price": 17.209999084472656,
-            "pct_change": 1.6850722309973316,
-            "volume": 1495500
-          }
-        },
-        "BALY": {
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 17.489999771118164,
-            "open_price": 16.790000915527344,
-            "pct_change": 4.169141259209006,
-            "volume": 130300
-          }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 192.5,
-            "open_price": 196.4199981689453,
-            "pct_change": -1.9957225361409652,
-            "volume": 2375500
-          }
-        }
-      },
-      "material_changes": [
-        {
-          "ticker": "CZR",
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 21.31999969482422,
-            "open_price": 19.84000015258789,
-            "pct_change": 7.459675054706488,
-            "volume": 11057700
-          },
-          "search_query": "Caesars Entertainment CZR stock rises November 20, 2025",
-          "news": {
-            "search_query": "Caesars Entertainment CZR stock rises November 20, 2025",
-            "summary": "Caesars surged 7.5% after NY Federal Reserve President John Williams signaled 'room for further adjustment' in interest rates, boosting rate cut expectations from 39% to 73% for December meeting.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "MGM",
-          "name": "MGM Resorts",
-          "data": {
-            "current_price": 32.54999923706055,
-            "open_price": 30.81999969482422,
-            "pct_change": 5.6132367273412305,
-            "volume": 8331700
-          },
-          "search_query": "MGM Resorts MGM stock rises November 20, 2025",
-          "news": {
-            "search_query": "MGM Resorts MGM stock rises November 20, 2025",
-            "summary": "MGM Resorts jumped 5.6% as Fed rate cut optimism lifted casino operators. Lower rates benefit highly leveraged casino companies by reducing debt servicing costs.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "BALY",
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 17.489999771118164,
-            "open_price": 16.790000915527344,
-            "pct_change": 4.169141259209006,
-            "volume": 130300
-          },
-          "search_query": "Bally's Corporation BALY stock rises November 20, 2025",
-          "news": {
-            "search_query": "Bally's Corporation BALY stock rises November 20, 2025",
-            "summary": "Bally's rebounded 4.2% on Federal Reserve rate cut optimism and broader casino sector strength.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Bally's Corporation BALY stock drops November 20, 2025",
+            "summary": "Bally's Corporation stock drops 3.1% on November 20, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -727,6 +776,15 @@
         "volume": 9931240000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 193.30999755859375,
+            "open_price": 197.36000061035156,
+            "pct_change": -2.052089095679395,
+            "volume": 1469100
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -736,15 +794,6 @@
             "volume": 14841900
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 21.31999969482422,
-            "open_price": 19.84000015258789,
-            "pct_change": 7.459675054706488,
-            "volume": 11057700
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -752,6 +801,15 @@
             "open_price": 30.81999969482422,
             "pct_change": 5.6132367273412305,
             "volume": 8331700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.31999969482422,
+            "open_price": 19.84000015258789,
+            "pct_change": 7.459675054706488,
+            "volume": 11057700
           }
         },
         "PENN": {
@@ -780,33 +838,23 @@
             "pct_change": 4.169141259209006,
             "volume": 130300
           }
-        },
-        "FLUT": {
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
           "name": "Flutter Entertainment",
           "data": {
             "current_price": 193.30999755859375,
             "open_price": 197.36000061035156,
             "pct_change": -2.052089095679395,
             "volume": 1469100
-          }
-        }
-      },
-      "material_changes": [
-        {
-          "ticker": "CZR",
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 21.31999969482422,
-            "open_price": 19.84000015258789,
-            "pct_change": 7.459675054706488,
-            "volume": 11057700
           },
-          "search_query": "Caesars Entertainment CZR stock rises November 21, 2025",
+          "search_query": "Flutter Entertainment FLUT stock drops November 21, 2025",
           "news": {
-            "search_query": "Caesars Entertainment CZR stock rises November 21, 2025",
-            "summary": "Caesars surged 7.5% after NY Federal Reserve President John Williams signaled 'room for further adjustment' in interest rates, boosting rate cut expectations from 39% to 73% for December meeting.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Flutter Entertainment FLUT stock drops November 21, 2025",
+            "summary": "Flutter Entertainment stock drops 2.1% on November 21, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -821,9 +869,24 @@
           "search_query": "MGM Resorts MGM stock rises November 21, 2025",
           "news": {
             "search_query": "MGM Resorts MGM stock rises November 21, 2025",
-            "summary": "MGM Resorts jumped 5.6% as Fed rate cut optimism lifted casino operators. Lower rates benefit highly leveraged casino companies by reducing debt servicing costs.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "MGM Resorts stock rises 5.6% on November 21, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.31999969482422,
+            "open_price": 19.84000015258789,
+            "pct_change": 7.459675054706488,
+            "volume": 11057700
+          },
+          "search_query": "Caesars Entertainment CZR stock rises November 21, 2025",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock rises November 21, 2025",
+            "summary": "Caesars Entertainment stock rises 7.5% on November 21, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -838,26 +901,8 @@
           "search_query": "Bally's Corporation BALY stock rises November 21, 2025",
           "news": {
             "search_query": "Bally's Corporation BALY stock rises November 21, 2025",
-            "summary": "Bally's rebounded 4.2% on Federal Reserve rate cut optimism and broader casino sector strength.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "FLUT",
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 193.30999755859375,
-            "open_price": 197.36000061035156,
-            "pct_change": -2.052089095679395,
-            "volume": 1469100
-          },
-          "search_query": "Flutter Entertainment FLUT stock drops November 21, 2025",
-          "news": {
-            "search_query": "Flutter Entertainment FLUT stock drops November 21, 2025",
-            "summary": "Flutter fell 2.05% in consolidation following the post-earnings selloff, trading around $193 as the market absorbed the guidance cut despite strong Q3 operational performance.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Bally's Corporation stock rises 4.2% on November 21, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -866,12 +911,146 @@
       "date": "2025-11-24",
       "date_display": "November 24, 2025",
       "benchmark": {
+        "current_price": 22872.009765625,
+        "open_price": 22482.16015625,
+        "pct_change": 1.734039819419321,
+        "volume": 9232160000
+      },
+      "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 191.7899932861328,
+            "open_price": 194.6699981689453,
+            "pct_change": -1.479429244311737,
+            "volume": 2778700
+          }
+        },
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.440000534057617,
+            "open_price": 30.1299991607666,
+            "pct_change": -2.2900718417790644,
+            "volume": 14622700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 32.380001068115234,
+            "open_price": 32.779998779296875,
+            "pct_change": -1.220249316892197,
+            "volume": 5154600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.889999389648438,
+            "open_price": 21.350000381469727,
+            "pct_change": -2.1545713517669864,
+            "volume": 7970500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.710000038146973,
+            "open_price": 13.760000228881836,
+            "pct_change": -0.36337347313348406,
+            "volume": 3518000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.520000457763672,
+            "open_price": 17.5,
+            "pct_change": 0.11428833007812501,
+            "volume": 1610400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.940000534057617,
+            "open_price": 17.329999923706055,
+            "pct_change": -2.250429263504782,
+            "volume": 171500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.440000534057617,
+            "open_price": 30.1299991607666,
+            "pct_change": -2.2900718417790644,
+            "volume": 14622700
+          },
+          "search_query": "DraftKings DKNG stock drops November 24, 2025",
+          "news": {
+            "search_query": "DraftKings DKNG stock drops November 24, 2025",
+            "summary": "DraftKings stock drops 2.3% on November 24, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.889999389648438,
+            "open_price": 21.350000381469727,
+            "pct_change": -2.1545713517669864,
+            "volume": 7970500
+          },
+          "search_query": "Caesars Entertainment CZR stock drops November 24, 2025",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock drops November 24, 2025",
+            "summary": "Caesars Entertainment stock drops 2.2% on November 24, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.940000534057617,
+            "open_price": 17.329999923706055,
+            "pct_change": -2.250429263504782,
+            "volume": 171500
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 24, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock drops November 24, 2025",
+            "summary": "Bally's Corporation stock drops 2.3% on November 24, 2025",
+            "needs_manual_lookup": true
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "date_display": "November 25, 2025",
+      "benchmark": {
         "current_price": 23025.58984375,
         "open_price": 22802.849609375,
         "pct_change": 0.9768087681612572,
         "volume": 8498500000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 195.92999267578125,
+            "open_price": 191.36000061035156,
+            "pct_change": 2.3881647422938372,
+            "volume": 2420000
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -881,15 +1060,6 @@
             "volume": 22283300
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 22.010000228881836,
-            "open_price": 20.889999389648438,
-            "pct_change": 5.361421119946941,
-            "volume": 12637000
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -897,6 +1067,15 @@
             "open_price": 32.529998779296875,
             "pct_change": 4.949279651913845,
             "volume": 6515900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 22.010000228881836,
+            "open_price": 20.889999389648438,
+            "pct_change": 5.361421119946941,
+            "volume": 12637000
           }
         },
         "PENN": {
@@ -925,214 +1104,9 @@
             "pct_change": -1.0071095067887716,
             "volume": 86100
           }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 191.7899932861328,
-            "open_price": 194.6699981689453,
-            "pct_change": -1.479429244311737,
-            "volume": 2778700
-          }
         }
       },
       "material_changes": [
-        {
-          "ticker": "DKNG",
-          "name": "DraftKings",
-          "data": {
-            "current_price": 31.670000076293945,
-            "open_price": 29.360000610351562,
-            "pct_change": 7.867845428885781,
-            "volume": 22283300
-          },
-          "search_query": "DraftKings DKNG stock rises November 24, 2025",
-          "news": {
-            "search_query": "DraftKings DKNG stock rises November 24, 2025",
-            "summary": "DraftKings surged 7.9% during Thanksgiving week market rally as S&P 500 gained 3%+ amid Fed rate cut expectations and Missouri Dec 1 launch anticipation.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "CZR",
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 22.010000228881836,
-            "open_price": 20.889999389648438,
-            "pct_change": 5.361421119946941,
-            "volume": 12637000
-          },
-          "search_query": "Caesars Entertainment CZR stock rises November 24, 2025",
-          "news": {
-            "search_query": "Caesars Entertainment CZR stock rises November 24, 2025",
-            "summary": "Caesars rallied 5.4% during strong Thanksgiving week as casino stocks benefited from broader market optimism and Formula 1 Las Vegas Grand Prix partnership extension through 2030.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "MGM",
-          "name": "MGM Resorts",
-          "data": {
-            "current_price": 34.13999938964844,
-            "open_price": 32.529998779296875,
-            "pct_change": 4.949279651913845,
-            "volume": 6515900
-          },
-          "search_query": "MGM Resorts MGM stock rises November 24, 2025",
-          "news": {
-            "search_query": "MGM Resorts MGM stock rises November 24, 2025",
-            "summary": "MGM Resorts rose 4.9% in Thanksgiving week rally as Nevada casinos posted strong November results and Fed rate cut optimism continued.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "PENN",
-          "name": "Penn Entertainment",
-          "data": {
-            "current_price": 14.569999694824219,
-            "open_price": 13.710000038146973,
-            "pct_change": 6.272791059696326,
-            "volume": 3773800
-          },
-          "search_query": "Penn Entertainment PENN stock rises November 24, 2025",
-          "news": {
-            "search_query": "Penn Entertainment PENN stock rises November 24, 2025",
-            "summary": "Penn Entertainment surged 6.3% in Thanksgiving week market rally driven by Fed rate cut expectations and Missouri market launch anticipation.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "RSI",
-          "name": "Rush Street Interactive",
-          "data": {
-            "current_price": 18.1299991607666,
-            "open_price": 17.600000381469727,
-            "pct_change": 3.011356635281029,
-            "volume": 1075800
-          },
-          "search_query": "Rush Street Interactive RSI stock rises November 24, 2025",
-          "news": {
-            "search_query": "Rush Street Interactive RSI stock rises November 24, 2025",
-            "summary": "Rush Street Interactive rose 3.0% ahead of Q3 earnings report scheduled for Nov 27, riding Thanksgiving week market momentum.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-11-25",
-      "date_display": "November 25, 2025",
-      "benchmark": {
-        "current_price": 23214.689453125,
-        "open_price": 23163.189453125,
-        "pct_change": 0.22233552984669827,
-        "volume": 7291400000
-      },
-      "companies": {
-        "DKNG": {
-          "name": "DraftKings",
-          "data": {
-            "current_price": 32.20000076293945,
-            "open_price": 31.729999542236328,
-            "pct_change": 1.4812518987827232,
-            "volume": 14174300
-          }
-        },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 22.940000534057617,
-            "open_price": 21.889999389648438,
-            "pct_change": 4.796716188606724,
-            "volume": 8723100
-          }
-        },
-        "MGM": {
-          "name": "MGM Resorts",
-          "data": {
-            "current_price": 34.779998779296875,
-            "open_price": 34.119998931884766,
-            "pct_change": 1.9343489685615045,
-            "volume": 4340700
-          }
-        },
-        "PENN": {
-          "name": "Penn Entertainment",
-          "data": {
-            "current_price": 14.729999542236328,
-            "open_price": 14.5600004196167,
-            "pct_change": 1.1675763579689804,
-            "volume": 3802200
-          }
-        },
-        "RSI": {
-          "name": "Rush Street Interactive",
-          "data": {
-            "current_price": 17.899999618530273,
-            "open_price": 18.030000686645508,
-            "pct_change": -0.7210264179941146,
-            "volume": 984200
-          }
-        },
-        "BALY": {
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 16.940000534057617,
-            "open_price": 16.389999389648438,
-            "pct_change": 3.355711805313112,
-            "volume": 164900
-          }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 195.92999267578125,
-            "open_price": 191.36000061035156,
-            "pct_change": 2.3881647422938372,
-            "volume": 2420000
-          }
-        }
-      },
-      "material_changes": [
-        {
-          "ticker": "CZR",
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 22.940000534057617,
-            "open_price": 21.889999389648438,
-            "pct_change": 4.796716188606724,
-            "volume": 8723100
-          },
-          "search_query": "Caesars Entertainment CZR stock rises November 25, 2025",
-          "news": {
-            "search_query": "Caesars Entertainment CZR stock rises November 25, 2025",
-            "summary": "Caesars gained 4.8% as Thanksgiving week rally extended, with investors optimistic about Missouri launch and Fed rate policy.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "BALY",
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 16.940000534057617,
-            "open_price": 16.389999389648438,
-            "pct_change": 3.355711805313112,
-            "volume": 164900
-          },
-          "search_query": "Bally's Corporation BALY stock rises November 25, 2025",
-          "news": {
-            "search_query": "Bally's Corporation BALY stock rises November 25, 2025",
-            "summary": "Bally's rose 3.4% in shortened Thanksgiving trading week amid sector-wide optimism.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
         {
           "ticker": "FLUT",
           "name": "Flutter Entertainment",
@@ -1145,9 +1119,88 @@
           "search_query": "Flutter Entertainment FLUT stock rises November 25, 2025",
           "news": {
             "search_query": "Flutter Entertainment FLUT stock rises November 25, 2025",
-            "summary": "Flutter rose 2.39% beginning recovery rally as investors refocused on strong Q3 fundamentals and FanDuel's market leadership position ahead of Missouri Dec 1 launch.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Flutter Entertainment stock rises 2.4% on November 25, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 31.670000076293945,
+            "open_price": 29.360000610351562,
+            "pct_change": 7.867845428885781,
+            "volume": 22283300
+          },
+          "search_query": "DraftKings DKNG stock rises November 25, 2025",
+          "news": {
+            "search_query": "DraftKings DKNG stock rises November 25, 2025",
+            "summary": "DraftKings stock rises 7.9% on November 25, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.13999938964844,
+            "open_price": 32.529998779296875,
+            "pct_change": 4.949279651913845,
+            "volume": 6515900
+          },
+          "search_query": "MGM Resorts MGM stock rises November 25, 2025",
+          "news": {
+            "search_query": "MGM Resorts MGM stock rises November 25, 2025",
+            "summary": "MGM Resorts stock rises 4.9% on November 25, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 22.010000228881836,
+            "open_price": 20.889999389648438,
+            "pct_change": 5.361421119946941,
+            "volume": 12637000
+          },
+          "search_query": "Caesars Entertainment CZR stock rises November 25, 2025",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock rises November 25, 2025",
+            "summary": "Caesars Entertainment stock rises 5.4% on November 25, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.569999694824219,
+            "open_price": 13.710000038146973,
+            "pct_change": 6.272791059696326,
+            "volume": 3773800
+          },
+          "search_query": "Penn Entertainment PENN stock rises November 25, 2025",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock rises November 25, 2025",
+            "summary": "Penn Entertainment stock rises 6.3% on November 25, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.1299991607666,
+            "open_price": 17.600000381469727,
+            "pct_change": 3.011356635281029,
+            "volume": 1075800
+          },
+          "search_query": "Rush Street Interactive RSI stock rises November 25, 2025",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock rises November 25, 2025",
+            "summary": "Rush Street Interactive stock rises 3.0% on November 25, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -1162,6 +1215,15 @@
         "volume": 7291400000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 199.9199981689453,
+            "open_price": 197.7899932861328,
+            "pct_change": 1.0769022473908116,
+            "volume": 4061700
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -1171,15 +1233,6 @@
             "volume": 14174300
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 22.940000534057617,
-            "open_price": 21.889999389648438,
-            "pct_change": 4.796716188606724,
-            "volume": 8723100
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -1187,6 +1240,15 @@
             "open_price": 34.119998931884766,
             "pct_change": 1.9343489685615045,
             "volume": 4340700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 22.940000534057617,
+            "open_price": 21.889999389648438,
+            "pct_change": 4.796716188606724,
+            "volume": 8723100
           }
         },
         "PENN": {
@@ -1214,15 +1276,6 @@
             "open_price": 16.389999389648438,
             "pct_change": 3.355711805313112,
             "volume": 164900
-          }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 199.9199981689453,
-            "open_price": 197.7899932861328,
-            "pct_change": 1.0769022473908116,
-            "volume": 4061700
           }
         }
       },
@@ -1239,9 +1292,8 @@
           "search_query": "Caesars Entertainment CZR stock rises November 26, 2025",
           "news": {
             "search_query": "Caesars Entertainment CZR stock rises November 26, 2025",
-            "summary": "Caesars gained 4.8% as Thanksgiving week rally extended, with investors optimistic about Missouri launch and Fed rate policy.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Caesars Entertainment stock rises 4.8% on November 26, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -1256,9 +1308,8 @@
           "search_query": "Bally's Corporation BALY stock rises November 26, 2025",
           "news": {
             "search_query": "Bally's Corporation BALY stock rises November 26, 2025",
-            "summary": "Bally's rose 3.4% in shortened Thanksgiving trading week amid sector-wide optimism.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Bally's Corporation stock rises 3.4% on November 26, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -1266,113 +1317,9 @@
     {
       "date": "2025-11-27",
       "date_display": "November 27, 2025",
-      "benchmark": {
-        "current_price": 23365.689453125,
-        "open_price": 23291.58984375,
-        "pct_change": 0.3181389070994811,
-        "volume": 4541070000
-      },
-      "companies": {
-        "DKNG": {
-          "name": "DraftKings",
-          "data": {
-            "current_price": 33.15999984741211,
-            "open_price": 32.25,
-            "pct_change": 2.821704953215843,
-            "volume": 7700500
-          }
-        },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 23.270000457763672,
-            "open_price": 22.950000762939453,
-            "pct_change": 1.3943341358879893,
-            "volume": 3912100
-          }
-        },
-        "MGM": {
-          "name": "MGM Resorts",
-          "data": {
-            "current_price": 35.290000915527344,
-            "open_price": 34.869998931884766,
-            "pct_change": 1.2044794852532463,
-            "volume": 1863100
-          }
-        },
-        "PENN": {
-          "name": "Penn Entertainment",
-          "data": {
-            "current_price": 14.84000015258789,
-            "open_price": 14.880000114440918,
-            "pct_change": -0.2688169458695616,
-            "volume": 1151200
-          }
-        },
-        "RSI": {
-          "name": "Rush Street Interactive",
-          "data": {
-            "current_price": 18.440000534057617,
-            "open_price": 18.040000915527344,
-            "pct_change": 2.2172926731172544,
-            "volume": 570300
-          }
-        },
-        "BALY": {
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 17.450000762939453,
-            "open_price": 17.200000762939453,
-            "pct_change": 1.4534883076207226,
-            "volume": 82900
-          }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 199.9199981689453,
-            "open_price": 197.7899932861328,
-            "pct_change": 1.0769022473908116,
-            "volume": 4061700
-          }
-        }
-      },
-      "material_changes": [
-        {
-          "ticker": "DKNG",
-          "name": "DraftKings",
-          "data": {
-            "current_price": 33.15999984741211,
-            "open_price": 32.25,
-            "pct_change": 2.821704953215843,
-            "volume": 7700500
-          },
-          "search_query": "DraftKings DKNG stock rises November 27, 2025",
-          "news": {
-            "search_query": "DraftKings DKNG stock rises November 27, 2025",
-            "summary": "DraftKings rose 2.8% in anticipation of Missouri sports betting launch on Dec 1, where eight sportsbooks including DraftKings would go live.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "RSI",
-          "name": "Rush Street Interactive",
-          "data": {
-            "current_price": 18.440000534057617,
-            "open_price": 18.040000915527344,
-            "pct_change": 2.2172926731172544,
-            "volume": 570300
-          },
-          "search_query": "Rush Street Interactive RSI stock rises November 27, 2025",
-          "news": {
-            "search_query": "Rush Street Interactive RSI stock rises November 27, 2025",
-            "summary": "Rush Street Interactive gained 2.2% after reporting strong Q3 earnings with revenue of $277.9M (up 19.7% YoY), beating estimates by 4.3% and raising full-year guidance to $1.10-1.12B.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        }
-      ]
+      "benchmark": null,
+      "companies": {},
+      "material_changes": []
     },
     {
       "date": "2025-11-28",
@@ -1384,6 +1331,15 @@
         "volume": 4541070000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 208.80999755859375,
+            "open_price": 201.3000030517578,
+            "pct_change": 3.7307473387891523,
+            "volume": 1595500
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -1393,15 +1349,6 @@
             "volume": 7700500
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 23.270000457763672,
-            "open_price": 22.950000762939453,
-            "pct_change": 1.3943341358879893,
-            "volume": 3912100
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -1409,6 +1356,15 @@
             "open_price": 34.869998931884766,
             "pct_change": 1.2044794852532463,
             "volume": 1863100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.270000457763672,
+            "open_price": 22.950000762939453,
+            "pct_change": 1.3943341358879893,
+            "volume": 3912100
           }
         },
         "PENN": {
@@ -1437,18 +1393,25 @@
             "pct_change": 1.4534883076207226,
             "volume": 82900
           }
-        },
-        "FLUT": {
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
           "name": "Flutter Entertainment",
           "data": {
             "current_price": 208.80999755859375,
             "open_price": 201.3000030517578,
             "pct_change": 3.7307473387891523,
             "volume": 1595500
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises November 28, 2025",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock rises November 28, 2025",
+            "summary": "Flutter Entertainment stock rises 3.7% on November 28, 2025",
+            "needs_manual_lookup": true
           }
-        }
-      },
-      "material_changes": [
+        },
         {
           "ticker": "DKNG",
           "name": "DraftKings",
@@ -1461,9 +1424,8 @@
           "search_query": "DraftKings DKNG stock rises November 28, 2025",
           "news": {
             "search_query": "DraftKings DKNG stock rises November 28, 2025",
-            "summary": "DraftKings rose 2.8% in anticipation of Missouri sports betting launch on Dec 1, where eight sportsbooks including DraftKings would go live.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "DraftKings stock rises 2.8% on November 28, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -1478,26 +1440,8 @@
           "search_query": "Rush Street Interactive RSI stock rises November 28, 2025",
           "news": {
             "search_query": "Rush Street Interactive RSI stock rises November 28, 2025",
-            "summary": "Rush Street Interactive gained 2.2% after reporting strong Q3 earnings with revenue of $277.9M (up 19.7% YoY), beating estimates by 4.3% and raising full-year guidance to $1.10-1.12B.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "FLUT",
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 208.80999755859375,
-            "open_price": 201.3000030517578,
-            "pct_change": 3.7307473387891523,
-            "volume": 1595500
-          },
-          "search_query": "Flutter Entertainment FLUT stock rises November 28, 2025",
-          "news": {
-            "search_query": "Flutter Entertainment FLUT stock rises November 28, 2025",
-            "summary": "Flutter surged 3.73% on analyst upgrades including Wells Fargo $272 price target (Overweight) and HSBC upgrade to Buy, with momentum building from FanDuel Predicts platform launch and strong U.S. market positioning.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Rush Street Interactive stock rises 2.2% on November 28, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -1506,12 +1450,130 @@
       "date": "2025-12-01",
       "date_display": "December 01, 2025",
       "benchmark": {
+        "current_price": 23275.919921875,
+        "open_price": 23172.33984375,
+        "pct_change": 0.4469987874484649,
+        "volume": 7859560000
+      },
+      "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 204.1199951171875,
+            "open_price": 206.64999389648438,
+            "pct_change": -1.2242917270852707,
+            "volume": 2184100
+          }
+        },
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 33.869998931884766,
+            "open_price": 32.810001373291016,
+            "pct_change": 3.230714764482275,
+            "volume": 14207900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.439998626708984,
+            "open_price": 35.400001525878906,
+            "pct_change": 0.11298615566679719,
+            "volume": 4748100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.149999618530273,
+            "open_price": 23.010000228881836,
+            "pct_change": 0.6084284583044558,
+            "volume": 6637400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.84000015258789,
+            "open_price": 14.649999618530273,
+            "pct_change": 1.296932006860206,
+            "volume": 2757200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.459999084472656,
+            "open_price": 18.09000015258789,
+            "pct_change": 2.045322989297128,
+            "volume": 1160300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.700000762939453,
+            "open_price": 17.43000030517578,
+            "pct_change": 1.5490559554579935,
+            "volume": 538000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 33.869998931884766,
+            "open_price": 32.810001373291016,
+            "pct_change": 3.230714764482275,
+            "volume": 14207900
+          },
+          "search_query": "DraftKings DKNG stock rises December 01, 2025",
+          "news": {
+            "search_query": "DraftKings DKNG stock rises December 01, 2025",
+            "summary": "DraftKings stock rises 3.2% on December 01, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.459999084472656,
+            "open_price": 18.09000015258789,
+            "pct_change": 2.045322989297128,
+            "volume": 1160300
+          },
+          "search_query": "Rush Street Interactive RSI stock rises December 01, 2025",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock rises December 01, 2025",
+            "summary": "Rush Street Interactive stock rises 2.0% on December 01, 2025",
+            "needs_manual_lookup": true
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-12-02",
+      "date_display": "December 02, 2025",
+      "benchmark": {
         "current_price": 23413.669921875,
         "open_price": 23379.75,
         "pct_change": 0.14508248323870016,
         "volume": 7588580000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 208.1199951171875,
+            "open_price": 207.52999877929688,
+            "pct_change": 0.28429448338120594,
+            "volume": 2330200
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -1521,15 +1583,6 @@
             "volume": 10662600
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 23.18000030517578,
-            "open_price": 23.149999618530273,
-            "pct_change": 0.12959260103613113,
-            "volume": 4039000
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -1537,6 +1590,15 @@
             "open_price": 35.47999954223633,
             "pct_change": -0.39458678538532255,
             "volume": 3549600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.18000030517578,
+            "open_price": 23.149999618530273,
+            "pct_change": 0.12959260103613113,
+            "volume": 4039000
           }
         },
         "PENN": {
@@ -1565,15 +1627,6 @@
             "pct_change": -3.2590034435876825,
             "volume": 277400
           }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 204.1199951171875,
-            "open_price": 206.64999389648438,
-            "pct_change": -1.2242917270852707,
-            "volume": 2184100
-          }
         }
       },
       "material_changes": [
@@ -1586,19 +1639,18 @@
             "pct_change": -3.2590034435876825,
             "volume": 277400
           },
-          "search_query": "Bally's Corporation BALY stock drops December 01, 2025",
+          "search_query": "Bally's Corporation BALY stock drops December 02, 2025",
           "news": {
-            "search_query": "Bally's Corporation BALY stock drops December 01, 2025",
-            "summary": "Bally's declined 3.3% on Missouri sports betting launch day despite not participating in the initial rollout of eight sportsbooks.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Bally's Corporation BALY stock drops December 02, 2025",
+            "summary": "Bally's Corporation stock drops 3.3% on December 02, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
     },
     {
-      "date": "2025-12-02",
-      "date_display": "December 02, 2025",
+      "date": "2025-12-03",
+      "date_display": "December 03, 2025",
       "benchmark": {
         "current_price": 23454.08984375,
         "open_price": 23315.580078125,
@@ -1606,6 +1658,15 @@
         "volume": 7962730000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 211.77000427246094,
+            "open_price": 206.61000061035156,
+            "pct_change": 2.4974607457848528,
+            "volume": 1680200
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -1615,15 +1676,6 @@
             "volume": 11895700
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 23.520000457763672,
-            "open_price": 23.09000015258789,
-            "pct_change": 1.8622793518153677,
-            "volume": 5003500
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -1631,6 +1683,15 @@
             "open_price": 35.400001525878906,
             "pct_change": 0.39547848478506986,
             "volume": 2502800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.520000457763672,
+            "open_price": 23.09000015258789,
+            "pct_change": 1.8622793518153677,
+            "volume": 5003500
           }
         },
         "PENN": {
@@ -1659,18 +1720,25 @@
             "pct_change": 1.8245995886907582,
             "volume": 121300
           }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 208.1199951171875,
-            "open_price": 207.52999877929688,
-            "pct_change": 0.28429448338120594,
-            "volume": 2330200
-          }
         }
       },
       "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 211.77000427246094,
+            "open_price": 206.61000061035156,
+            "pct_change": 2.4974607457848528,
+            "volume": 1680200
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises December 03, 2025",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock rises December 03, 2025",
+            "summary": "Flutter Entertainment stock rises 2.5% on December 03, 2025",
+            "needs_manual_lookup": true
+          }
+        },
         {
           "ticker": "DKNG",
           "name": "DraftKings",
@@ -1680,19 +1748,18 @@
             "pct_change": 2.6745844587539986,
             "volume": 11895700
           },
-          "search_query": "DraftKings DKNG stock rises December 02, 2025",
+          "search_query": "DraftKings DKNG stock rises December 03, 2025",
           "news": {
-            "search_query": "DraftKings DKNG stock rises December 02, 2025",
-            "summary": "DraftKings rose 2.7% following successful Missouri sports betting launch on Dec 1, where the company was among eight operators to go live.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "DraftKings DKNG stock rises December 03, 2025",
+            "summary": "DraftKings stock rises 2.7% on December 03, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
     },
     {
-      "date": "2025-12-03",
-      "date_display": "December 03, 2025",
+      "date": "2025-12-04",
+      "date_display": "December 04, 2025",
       "benchmark": {
         "current_price": 23505.140625,
         "open_price": 23527.30078125,
@@ -1700,6 +1767,15 @@
         "volume": 7456860000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 211.08999633789062,
+            "open_price": 211.7899932861328,
+            "pct_change": -0.3305146467880929,
+            "volume": 1101300
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -1709,15 +1785,6 @@
             "volume": 19130000
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 22.940000534057617,
-            "open_price": 23.459999084472656,
-            "pct_change": -2.2165326969650554,
-            "volume": 5348400
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -1725,6 +1792,15 @@
             "open_price": 35.619998931884766,
             "pct_change": -0.6457033945344876,
             "volume": 3390600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 22.940000534057617,
+            "open_price": 23.459999084472656,
+            "pct_change": -2.2165326969650554,
+            "volume": 5348400
           }
         },
         "PENN": {
@@ -1753,15 +1829,6 @@
             "pct_change": 2.742130906883103,
             "volume": 92700
           }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 211.77000427246094,
-            "open_price": 206.61000061035156,
-            "pct_change": 2.4974607457848528,
-            "volume": 1680200
-          }
         }
       },
       "material_changes": [
@@ -1774,12 +1841,11 @@
             "pct_change": 2.0295648424952613,
             "volume": 19130000
           },
-          "search_query": "DraftKings DKNG stock rises December 03, 2025",
+          "search_query": "DraftKings DKNG stock rises December 04, 2025",
           "news": {
-            "search_query": "DraftKings DKNG stock rises December 03, 2025",
-            "summary": "DraftKings gained 2.0% as early Missouri launch metrics looked positive for major operators.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "DraftKings DKNG stock rises December 04, 2025",
+            "summary": "DraftKings stock rises 2.0% on December 04, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -1791,12 +1857,11 @@
             "pct_change": -2.2165326969650554,
             "volume": 5348400
           },
-          "search_query": "Caesars Entertainment CZR stock drops December 03, 2025",
+          "search_query": "Caesars Entertainment CZR stock drops December 04, 2025",
           "news": {
-            "search_query": "Caesars Entertainment CZR stock drops December 03, 2025",
-            "summary": "Caesars declined 2.2% as Citi maintained Neutral rating citing concerns over aggressive promotions replacing high-margin strategy.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Caesars Entertainment CZR stock drops December 04, 2025",
+            "summary": "Caesars Entertainment stock drops 2.2% on December 04, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -1808,157 +1873,11 @@
             "pct_change": 2.742130906883103,
             "volume": 92700
           },
-          "search_query": "Bally's Corporation BALY stock rises December 03, 2025",
+          "search_query": "Bally's Corporation BALY stock rises December 04, 2025",
           "news": {
-            "search_query": "Bally's Corporation BALY stock rises December 03, 2025",
-            "summary": "Bally's rose 2.7% on speculation about potential Missouri market entry despite missing initial launch.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "FLUT",
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 211.77000427246094,
-            "open_price": 206.61000061035156,
-            "pct_change": 2.4974607457848528,
-            "volume": 1680200
-          },
-          "search_query": "Flutter Entertainment FLUT stock rises December 03, 2025",
-          "news": {
-            "search_query": "Flutter Entertainment FLUT stock rises December 03, 2025",
-            "summary": "Flutter gained 2.50% as Zacks Research upgraded the stock from Strong Sell to Hold, with investors anticipating FanDuel's Missouri market entry on Dec 1 and upcoming FanDuel Predicts launch in December.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-12-04",
-      "date_display": "December 04, 2025",
-      "benchmark": {
-        "current_price": 23578.130859375,
-        "open_price": 23567.76953125,
-        "pct_change": 0.04396397423719397,
-        "volume": 8248280000
-      },
-      "companies": {
-        "DKNG": {
-          "name": "DraftKings",
-          "data": {
-            "current_price": 34.0,
-            "open_price": 35.22999954223633,
-            "pct_change": -3.491341351741188,
-            "volume": 19389800
-          }
-        },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 23.239999771118164,
-            "open_price": 22.920000076293945,
-            "pct_change": 1.3961592223343535,
-            "volume": 4384000
-          }
-        },
-        "MGM": {
-          "name": "MGM Resorts",
-          "data": {
-            "current_price": 36.06999969482422,
-            "open_price": 35.41999816894531,
-            "pct_change": 1.8351258031650572,
-            "volume": 6642300
-          }
-        },
-        "PENN": {
-          "name": "Penn Entertainment",
-          "data": {
-            "current_price": 13.819999694824219,
-            "open_price": 14.239999771118164,
-            "pct_change": -2.949438785426088,
-            "volume": 3608100
-          }
-        },
-        "RSI": {
-          "name": "Rush Street Interactive",
-          "data": {
-            "current_price": 18.3799991607666,
-            "open_price": 18.729999542236328,
-            "pct_change": -1.8686619862455007,
-            "volume": 834000
-          }
-        },
-        "BALY": {
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 17.190000534057617,
-            "open_price": 17.649999618530273,
-            "pct_change": -2.606227163822232,
-            "volume": 62500
-          }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 211.08999633789062,
-            "open_price": 211.7899932861328,
-            "pct_change": -0.3305146467880929,
-            "volume": 1101300
-          }
-        }
-      },
-      "material_changes": [
-        {
-          "ticker": "DKNG",
-          "name": "DraftKings",
-          "data": {
-            "current_price": 34.0,
-            "open_price": 35.22999954223633,
-            "pct_change": -3.491341351741188,
-            "volume": 19389800
-          },
-          "search_query": "DraftKings DKNG stock drops December 04, 2025",
-          "news": {
-            "search_query": "DraftKings DKNG stock drops December 04, 2025",
-            "summary": "DraftKings fell 3.5% despite receiving CFTC approval on Dec 4 for prediction markets platform through subsidiary Gus III LLC, as investors took profits.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "PENN",
-          "name": "Penn Entertainment",
-          "data": {
-            "current_price": 13.819999694824219,
-            "open_price": 14.239999771118164,
-            "pct_change": -2.949438785426088,
-            "volume": 3608100
-          },
-          "search_query": "Penn Entertainment PENN stock drops December 04, 2025",
-          "news": {
-            "search_query": "Penn Entertainment PENN stock drops December 04, 2025",
-            "summary": "Penn Entertainment declined 2.9% amid continued concerns about competitive positioning in key markets.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "BALY",
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 17.190000534057617,
-            "open_price": 17.649999618530273,
-            "pct_change": -2.606227163822232,
-            "volume": 62500
-          },
-          "search_query": "Bally's Corporation BALY stock drops December 04, 2025",
-          "news": {
-            "search_query": "Bally's Corporation BALY stock drops December 04, 2025",
-            "summary": "Bally's declined 2.6% as broader casino sector weakness offset earlier gains.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Bally's Corporation BALY stock rises December 04, 2025",
+            "summary": "Bally's Corporation stock rises 2.7% on December 04, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -1973,6 +1892,15 @@
         "volume": 8248280000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 208.5,
+            "open_price": 211.47999572753906,
+            "pct_change": -1.4091147095436627,
+            "volume": 2298600
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -1982,15 +1910,6 @@
             "volume": 19389800
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 23.239999771118164,
-            "open_price": 22.920000076293945,
-            "pct_change": 1.3961592223343535,
-            "volume": 4384000
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -1998,6 +1917,15 @@
             "open_price": 35.41999816894531,
             "pct_change": 1.8351258031650572,
             "volume": 6642300
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.239999771118164,
+            "open_price": 22.920000076293945,
+            "pct_change": 1.3961592223343535,
+            "volume": 4384000
           }
         },
         "PENN": {
@@ -2025,15 +1953,6 @@
             "open_price": 17.649999618530273,
             "pct_change": -2.606227163822232,
             "volume": 62500
-          }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 208.5,
-            "open_price": 211.47999572753906,
-            "pct_change": -1.4091147095436627,
-            "volume": 2298600
           }
         }
       },
@@ -2050,9 +1969,8 @@
           "search_query": "DraftKings DKNG stock drops December 05, 2025",
           "news": {
             "search_query": "DraftKings DKNG stock drops December 05, 2025",
-            "summary": "DraftKings fell 3.5% despite receiving CFTC approval on Dec 4 for prediction markets platform through subsidiary Gus III LLC, as investors took profits.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "DraftKings stock drops 3.5% on December 05, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -2067,9 +1985,8 @@
           "search_query": "Penn Entertainment PENN stock drops December 05, 2025",
           "news": {
             "search_query": "Penn Entertainment PENN stock drops December 05, 2025",
-            "summary": "Penn Entertainment declined 2.9% amid continued concerns about competitive positioning in key markets.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Penn Entertainment stock drops 2.9% on December 05, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -2084,9 +2001,8 @@
           "search_query": "Bally's Corporation BALY stock drops December 05, 2025",
           "news": {
             "search_query": "Bally's Corporation BALY stock drops December 05, 2025",
-            "summary": "Bally's declined 2.6% as broader casino sector weakness offset earlier gains.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Bally's Corporation stock drops 2.6% on December 05, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -2095,12 +2011,178 @@
       "date": "2025-12-08",
       "date_display": "December 08, 2025",
       "benchmark": {
+        "current_price": 23545.900390625,
+        "open_price": 23638.220703125,
+        "pct_change": -0.39055525227326077,
+        "volume": 8533670000
+      },
+      "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 214.77999877929688,
+            "open_price": 208.02000427246094,
+            "pct_change": 3.249684822610529,
+            "volume": 2122800
+          }
+        },
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.560001373291016,
+            "open_price": 34.11000061035156,
+            "pct_change": 4.250954960403645,
+            "volume": 12738200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.31999969482422,
+            "open_price": 36.099998474121094,
+            "pct_change": -2.160661529822586,
+            "volume": 3003100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.760000228881836,
+            "open_price": 23.239999771118164,
+            "pct_change": 2.237523506389659,
+            "volume": 6697800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.770000457763672,
+            "open_price": 13.84000015258789,
+            "pct_change": -0.5057781362172151,
+            "volume": 3451900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.260000228881836,
+            "open_price": 18.56999969482422,
+            "pct_change": -1.6693563329932906,
+            "volume": 1271600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.979999542236328,
+            "open_price": 17.280000686645508,
+            "pct_change": -7.5231544719431565,
+            "volume": 84000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 214.77999877929688,
+            "open_price": 208.02000427246094,
+            "pct_change": 3.249684822610529,
+            "volume": 2122800
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises December 08, 2025",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock rises December 08, 2025",
+            "summary": "Flutter Entertainment stock rises 3.2% on December 08, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.560001373291016,
+            "open_price": 34.11000061035156,
+            "pct_change": 4.250954960403645,
+            "volume": 12738200
+          },
+          "search_query": "DraftKings DKNG stock rises December 08, 2025",
+          "news": {
+            "search_query": "DraftKings DKNG stock rises December 08, 2025",
+            "summary": "DraftKings stock rises 4.3% on December 08, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.31999969482422,
+            "open_price": 36.099998474121094,
+            "pct_change": -2.160661529822586,
+            "volume": 3003100
+          },
+          "search_query": "MGM Resorts MGM stock drops December 08, 2025",
+          "news": {
+            "search_query": "MGM Resorts MGM stock drops December 08, 2025",
+            "summary": "MGM Resorts stock drops 2.2% on December 08, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.760000228881836,
+            "open_price": 23.239999771118164,
+            "pct_change": 2.237523506389659,
+            "volume": 6697800
+          },
+          "search_query": "Caesars Entertainment CZR stock rises December 08, 2025",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock rises December 08, 2025",
+            "summary": "Caesars Entertainment stock rises 2.2% on December 08, 2025",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.979999542236328,
+            "open_price": 17.280000686645508,
+            "pct_change": -7.5231544719431565,
+            "volume": 84000
+          },
+          "search_query": "Bally's Corporation BALY stock drops December 08, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock drops December 08, 2025",
+            "summary": "Bally's Corporation stock drops 7.5% on December 08, 2025",
+            "needs_manual_lookup": true
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-12-09",
+      "date_display": "December 09, 2025",
+      "benchmark": {
         "current_price": 23576.490234375,
         "open_price": 23504.609375,
         "pct_change": 0.30581601348139825,
         "volume": 7192600000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 216.0,
+            "open_price": 214.30999755859375,
+            "pct_change": 0.7885784427505266,
+            "volume": 2711200
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -2110,15 +2192,6 @@
             "volume": 8545300
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 23.290000915527344,
-            "open_price": 23.739999771118164,
-            "pct_change": -1.895530159769775,
-            "volume": 5600200
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -2126,6 +2199,15 @@
             "open_price": 35.09000015258789,
             "pct_change": 2.2798496254823952,
             "volume": 3303100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.290000915527344,
+            "open_price": 23.739999771118164,
+            "pct_change": -1.895530159769775,
+            "volume": 5600200
           }
         },
         "PENN": {
@@ -2154,15 +2236,6 @@
             "pct_change": -5.8348882584996,
             "volume": 111400
           }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 214.77999877929688,
-            "open_price": 208.02000427246094,
-            "pct_change": 3.249684822610529,
-            "volume": 2122800
-          }
         }
       },
       "material_changes": [
@@ -2175,12 +2248,11 @@
             "pct_change": 2.2798496254823952,
             "volume": 3303100
           },
-          "search_query": "MGM Resorts MGM stock rises December 08, 2025",
+          "search_query": "MGM Resorts MGM stock rises December 09, 2025",
           "news": {
-            "search_query": "MGM Resorts MGM stock rises December 08, 2025",
-            "summary": "MGM Resorts rose 2.3% on strong Nevada casino revenue data showing solid November performance.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "MGM Resorts MGM stock rises December 09, 2025",
+            "summary": "MGM Resorts stock rises 2.3% on December 09, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -2192,12 +2264,11 @@
             "pct_change": 5.384612643708757,
             "volume": 1818600
           },
-          "search_query": "Rush Street Interactive RSI stock rises December 08, 2025",
+          "search_query": "Rush Street Interactive RSI stock rises December 09, 2025",
           "news": {
-            "search_query": "Rush Street Interactive RSI stock rises December 08, 2025",
-            "summary": "Rush Street Interactive surged 5.4% as investors continued to react positively to strong Q3 earnings and raised guidance.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Rush Street Interactive RSI stock rises December 09, 2025",
+            "summary": "Rush Street Interactive stock rises 5.4% on December 09, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -2209,36 +2280,18 @@
             "pct_change": -5.8348882584996,
             "volume": 111400
           },
-          "search_query": "Bally's Corporation BALY stock drops December 08, 2025",
+          "search_query": "Bally's Corporation BALY stock drops December 09, 2025",
           "news": {
-            "search_query": "Bally's Corporation BALY stock drops December 08, 2025",
-            "summary": "Bally's plunged 5.8% ahead of NYC casino license announcement, with uncertainty about financing needs.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "FLUT",
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 214.77999877929688,
-            "open_price": 208.02000427246094,
-            "pct_change": 3.249684822610529,
-            "volume": 2122800
-          },
-          "search_query": "Flutter Entertainment FLUT stock rises December 08, 2025",
-          "news": {
-            "search_query": "Flutter Entertainment FLUT stock rises December 08, 2025",
-            "summary": "Flutter climbed 3.25% extending rally to $214.78 as FanDuel's successful Missouri launch on Dec 1 (now in 25 states) and prediction markets expansion drove optimism about market share gains.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Bally's Corporation BALY stock drops December 09, 2025",
+            "summary": "Bally's Corporation stock drops 5.8% on December 09, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
     },
     {
-      "date": "2025-12-09",
-      "date_display": "December 09, 2025",
+      "date": "2025-12-10",
+      "date_display": "December 10, 2025",
       "benchmark": {
         "current_price": 23654.150390625,
         "open_price": 23536.0,
@@ -2246,6 +2299,15 @@
         "volume": 7987900000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 218.33999633789062,
+            "open_price": 217.5500030517578,
+            "pct_change": 0.363131820294603,
+            "volume": 2777200
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -2255,15 +2317,6 @@
             "volume": 6702200
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 23.479999542236328,
-            "open_price": 23.229999542236328,
-            "pct_change": 1.076194597186517,
-            "volume": 11386000
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -2271,6 +2324,15 @@
             "open_price": 36.380001068115234,
             "pct_change": 2.2539848013992954,
             "volume": 5617800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.479999542236328,
+            "open_price": 23.229999542236328,
+            "pct_change": 1.076194597186517,
+            "volume": 11386000
           }
         },
         "PENN": {
@@ -2299,15 +2361,6 @@
             "pct_change": 0.8535792406322629,
             "volume": 120300
           }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 216.0,
-            "open_price": 214.30999755859375,
-            "pct_change": 0.7885784427505266,
-            "volume": 2711200
-          }
         }
       },
       "material_changes": [
@@ -2320,12 +2373,11 @@
             "pct_change": 2.2539848013992954,
             "volume": 5617800
           },
-          "search_query": "MGM Resorts MGM stock rises December 09, 2025",
+          "search_query": "MGM Resorts MGM stock rises December 10, 2025",
           "news": {
-            "search_query": "MGM Resorts MGM stock rises December 09, 2025",
-            "summary": "MGM Resorts rose 2.3% maintaining strength from solid operational trends in key markets.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "MGM Resorts MGM stock rises December 10, 2025",
+            "summary": "MGM Resorts stock rises 2.3% on December 10, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -2337,123 +2389,11 @@
             "pct_change": -2.0428989790034815,
             "volume": 1318600
           },
-          "search_query": "Rush Street Interactive RSI stock drops December 09, 2025",
+          "search_query": "Rush Street Interactive RSI stock drops December 10, 2025",
           "news": {
-            "search_query": "Rush Street Interactive RSI stock drops December 09, 2025",
-            "summary": "Rush Street Interactive declined 2.0% in profit-taking after recent rally.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-12-10",
-      "date_display": "December 10, 2025",
-      "benchmark": {
-        "current_price": 23593.859375,
-        "open_price": 23509.220703125,
-        "pct_change": 0.3600232987040241,
-        "volume": 8337770000
-      },
-      "companies": {
-        "DKNG": {
-          "name": "DraftKings",
-          "data": {
-            "current_price": 34.88999938964844,
-            "open_price": 34.630001068115234,
-            "pct_change": 0.7507892391392114,
-            "volume": 6535400
-          }
-        },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 24.100000381469727,
-            "open_price": 23.559999465942383,
-            "pct_change": 2.292024311409483,
-            "volume": 9463000
-          }
-        },
-        "MGM": {
-          "name": "MGM Resorts",
-          "data": {
-            "current_price": 37.439998626708984,
-            "open_price": 37.2599983215332,
-            "pct_change": 0.48309262824565385,
-            "volume": 3668500
-          }
-        },
-        "PENN": {
-          "name": "Penn Entertainment",
-          "data": {
-            "current_price": 14.010000228881836,
-            "open_price": 13.779999732971191,
-            "pct_change": 1.6690892624643956,
-            "volume": 3225400
-          }
-        },
-        "RSI": {
-          "name": "Rush Street Interactive",
-          "data": {
-            "current_price": 19.020000457763672,
-            "open_price": 19.200000762939453,
-            "pct_change": -0.9375015522042294,
-            "volume": 1167400
-          }
-        },
-        "BALY": {
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 16.020000457763672,
-            "open_price": 15.260000228881836,
-            "pct_change": 4.980342185339039,
-            "volume": 152600
-          }
-        },
-        "FLUT": {
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 218.33999633789062,
-            "open_price": 217.5500030517578,
-            "pct_change": 0.363131820294603,
-            "volume": 2777200
-          }
-        }
-      },
-      "material_changes": [
-        {
-          "ticker": "CZR",
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 24.100000381469727,
-            "open_price": 23.559999465942383,
-            "pct_change": 2.292024311409483,
-            "volume": 9463000
-          },
-          "search_query": "Caesars Entertainment CZR stock rises December 10, 2025",
-          "news": {
-            "search_query": "Caesars Entertainment CZR stock rises December 10, 2025",
-            "summary": "Caesars gained 2.3% on continued optimism about Missouri market performance and upcoming holiday gambling season.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "BALY",
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 16.020000457763672,
-            "open_price": 15.260000228881836,
-            "pct_change": 4.980342185339039,
-            "volume": 152600
-          },
-          "search_query": "Bally's Corporation BALY stock rises December 10, 2025",
-          "news": {
-            "search_query": "Bally's Corporation BALY stock rises December 10, 2025",
-            "summary": "Bally's rallied 5.0% after winning NYC casino bid and securing $1.1B in financing ($600M initial loan + $500M available), though financing news caused 5.5% drop on Dec 9.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Rush Street Interactive RSI stock drops December 10, 2025",
+            "summary": "Rush Street Interactive stock drops 2.0% on December 10, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -2468,6 +2408,15 @@
         "volume": 8337770000
       },
       "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 220.17999267578125,
+            "open_price": 215.8300018310547,
+            "pct_change": 2.0154708834833843,
+            "volume": 1949700
+          }
+        },
         "DKNG": {
           "name": "DraftKings",
           "data": {
@@ -2477,15 +2426,6 @@
             "volume": 6535400
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
-          "data": {
-            "current_price": 24.100000381469727,
-            "open_price": 23.559999465942383,
-            "pct_change": 2.292024311409483,
-            "volume": 9463000
-          }
-        },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
@@ -2493,6 +2433,15 @@
             "open_price": 37.2599983215332,
             "pct_change": 0.48309262824565385,
             "volume": 3668500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.100000381469727,
+            "open_price": 23.559999465942383,
+            "pct_change": 2.292024311409483,
+            "volume": 9463000
           }
         },
         "PENN": {
@@ -2521,18 +2470,25 @@
             "pct_change": 4.980342185339039,
             "volume": 152600
           }
-        },
-        "FLUT": {
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
           "name": "Flutter Entertainment",
           "data": {
             "current_price": 220.17999267578125,
             "open_price": 215.8300018310547,
             "pct_change": 2.0154708834833843,
             "volume": 1949700
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises December 11, 2025",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock rises December 11, 2025",
+            "summary": "Flutter Entertainment stock rises 2.0% on December 11, 2025",
+            "needs_manual_lookup": true
           }
-        }
-      },
-      "material_changes": [
+        },
         {
           "ticker": "CZR",
           "name": "Caesars Entertainment",
@@ -2545,9 +2501,8 @@
           "search_query": "Caesars Entertainment CZR stock rises December 11, 2025",
           "news": {
             "search_query": "Caesars Entertainment CZR stock rises December 11, 2025",
-            "summary": "Caesars gained 2.3% on continued optimism about Missouri market performance and upcoming holiday gambling season.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Caesars Entertainment stock rises 2.3% on December 11, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
@@ -2562,26 +2517,8 @@
           "search_query": "Bally's Corporation BALY stock rises December 11, 2025",
           "news": {
             "search_query": "Bally's Corporation BALY stock rises December 11, 2025",
-            "summary": "Bally's rallied 5.0% after winning NYC casino bid and securing $1.1B in financing ($600M initial loan + $500M available), though financing news caused 5.5% drop on Dec 9.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "FLUT",
-          "name": "Flutter Entertainment",
-          "data": {
-            "current_price": 220.17999267578125,
-            "open_price": 215.8300018310547,
-            "pct_change": 2.0154708834833843,
-            "volume": 1949700
-          },
-          "search_query": "Flutter Entertainment FLUT stock rises December 11, 2025",
-          "news": {
-            "search_query": "Flutter Entertainment FLUT stock rises December 11, 2025",
-            "summary": "Flutter rose 2.02% despite some analysts lowering price targets (Bernstein $245, Citizens $311), as the company appointed Sally Susman as Non-Executive Director and maintained strong operational momentum.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "summary": "Bally's Corporation stock rises 5.0% on December 11, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]
@@ -2590,126 +2527,183 @@
       "date": "2025-12-12",
       "date_display": "December 12, 2025",
       "benchmark": {
-        "current_price": 23593.859375,
-        "open_price": 23509.220703125,
-        "pct_change": 0.3600232987040241,
-        "volume": 8337770000
+        "current_price": 23195.169921875,
+        "open_price": 23488.869140625,
+        "pct_change": -1.2503761547295382,
+        "volume": 8724070000
       },
       "companies": {
-        "DKNG": {
-          "name": "DraftKings",
-          "data": {
-            "current_price": 34.88999938964844,
-            "open_price": 34.630001068115234,
-            "pct_change": 0.7507892391392114,
-            "volume": 6535400
-          }
-        },
         "FLUT": {
           "name": "Flutter Entertainment",
           "data": {
-            "current_price": 220.17999267578125,
-            "open_price": 215.8300018310547,
-            "pct_change": 2.0154708834833843,
-            "volume": 1949700
+            "current_price": 223.0399932861328,
+            "open_price": 222.9600067138672,
+            "pct_change": 0.03587485192726726,
+            "volume": 3150200
           }
         },
-        "CZR": {
-          "name": "Caesars Entertainment",
+        "DKNG": {
+          "name": "DraftKings",
           "data": {
-            "current_price": 24.100000381469727,
-            "open_price": 23.559999465942383,
-            "pct_change": 2.292024311409483,
-            "volume": 9463000
+            "current_price": 35.52000045776367,
+            "open_price": 35.459999084472656,
+            "pct_change": 0.16920861489048722,
+            "volume": 11121200
           }
         },
         "MGM": {
           "name": "MGM Resorts",
           "data": {
-            "current_price": 37.439998626708984,
-            "open_price": 37.2599983215332,
-            "pct_change": 0.48309262824565385,
-            "volume": 3668500
+            "current_price": 37.400001525878906,
+            "open_price": 38.0,
+            "pct_change": -1.5789433529502468,
+            "volume": 3297400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.530000686645508,
+            "open_price": 24.25,
+            "pct_change": 1.1546420067855991,
+            "volume": 8358100
           }
         },
         "PENN": {
           "name": "Penn Entertainment",
           "data": {
-            "current_price": 14.010000228881836,
-            "open_price": 13.779999732971191,
-            "pct_change": 1.6690892624643956,
-            "volume": 3225400
+            "current_price": 14.279999732971191,
+            "open_price": 14.100000381469727,
+            "pct_change": 1.27659111086281,
+            "volume": 3554800
           }
         },
         "RSI": {
           "name": "Rush Street Interactive",
           "data": {
-            "current_price": 19.020000457763672,
-            "open_price": 19.200000762939453,
-            "pct_change": -0.9375015522042294,
-            "volume": 1167400
+            "current_price": 19.299999237060547,
+            "open_price": 19.170000076293945,
+            "pct_change": 0.6781385511174903,
+            "volume": 796900
           }
         },
         "BALY": {
           "name": "Bally's Corporation",
           "data": {
-            "current_price": 16.020000457763672,
-            "open_price": 15.260000228881836,
-            "pct_change": 4.980342185339039,
-            "volume": 152600
+            "current_price": 16.030000686645508,
+            "open_price": 16.010000228881836,
+            "pct_change": 0.12492478124760613,
+            "volume": 82100
+          }
+        }
+      },
+      "material_changes": []
+    },
+    {
+      "date": "2025-12-15",
+      "date_display": "December 15, 2025",
+      "benchmark": {
+        "current_price": 23057.41015625,
+        "open_price": 23330.0390625,
+        "pct_change": -1.168574581121107,
+        "volume": 8649240000
+      },
+      "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 219.6999969482422,
+            "open_price": 223.36000061035156,
+            "pct_change": -1.6386119502632885,
+            "volume": 2331900
+          }
+        },
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.59000015258789,
+            "open_price": 35.439998626708984,
+            "pct_change": 0.42325488626249314,
+            "volume": 8610600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.380001068115234,
+            "open_price": 37.689998626708984,
+            "pct_change": -0.8224928890659882,
+            "volume": 4858700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.010000228881836,
+            "open_price": 24.0,
+            "pct_change": 0.04166762034098308,
+            "volume": 8934500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.8100004196167,
+            "open_price": 14.34000015258789,
+            "pct_change": -3.6959534681423567,
+            "volume": 5905800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.950000762939453,
+            "open_price": 19.389999389648438,
+            "pct_change": -2.2692039224296336,
+            "volume": 1362400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.139999389648438,
+            "open_price": 16.18000030517578,
+            "pct_change": -0.2472244423539841,
+            "volume": 120400
           }
         }
       },
       "material_changes": [
         {
-          "ticker": "FLUT",
-          "name": "Flutter Entertainment",
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
           "data": {
-            "current_price": 220.17999267578125,
-            "open_price": 215.8300018310547,
-            "pct_change": 2.0154708834833843,
-            "volume": 1949700
+            "current_price": 13.8100004196167,
+            "open_price": 14.34000015258789,
+            "pct_change": -3.6959534681423567,
+            "volume": 5905800
           },
-          "search_query": "Flutter Entertainment FLUT stock rises December 12, 2025",
+          "search_query": "Penn Entertainment PENN stock drops December 15, 2025",
           "news": {
-            "search_query": "Flutter Entertainment FLUT stock rises December 12, 2025",
-            "summary": "Flutter Entertainment rose 2.0% as FanDuel continued strong performance in Missouri's new sports betting market, which launched Dec 1.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Penn Entertainment PENN stock drops December 15, 2025",
+            "summary": "Penn Entertainment stock drops 3.7% on December 15, 2025",
+            "needs_manual_lookup": true
           }
         },
         {
-          "ticker": "CZR",
-          "name": "Caesars Entertainment",
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
           "data": {
-            "current_price": 24.100000381469727,
-            "open_price": 23.559999465942383,
-            "pct_change": 2.292024311409483,
-            "volume": 9463000
+            "current_price": 18.950000762939453,
+            "open_price": 19.389999389648438,
+            "pct_change": -2.2692039224296336,
+            "volume": 1362400
           },
-          "search_query": "Caesars Entertainment CZR stock rises December 12, 2025",
+          "search_query": "Rush Street Interactive RSI stock drops December 15, 2025",
           "news": {
-            "search_query": "Caesars Entertainment CZR stock rises December 12, 2025",
-            "summary": "Caesars gained 2.3% on continued optimism about Missouri market performance and strong holiday gambling season outlook.",
-            "needs_manual_lookup": true,
-            "researched": true
-          }
-        },
-        {
-          "ticker": "BALY",
-          "name": "Bally's Corporation",
-          "data": {
-            "current_price": 16.020000457763672,
-            "open_price": 15.260000228881836,
-            "pct_change": 4.980342185339039,
-            "volume": 152600
-          },
-          "search_query": "Bally's Corporation BALY stock rises December 12, 2025",
-          "news": {
-            "search_query": "Bally's Corporation BALY stock rises December 12, 2025",
-            "summary": "Bally's surged 5.0% as investors digested the NYC casino license win and $1.1B financing package secured for the project.",
-            "needs_manual_lookup": true,
-            "researched": true
+            "search_query": "Rush Street Interactive RSI stock drops December 15, 2025",
+            "summary": "Rush Street Interactive stock drops 2.3% on December 15, 2025",
+            "needs_manual_lookup": true
           }
         }
       ]

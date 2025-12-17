@@ -11,6 +11,8 @@ import json
 import os
 from pathlib import Path
 import warnings
+import time
+import random
 
 # Disable SSL warnings (workaround for Windows SSL certificate issues)
 warnings.filterwarnings('ignore')
@@ -27,6 +29,15 @@ try:
     curl_requests.Session.request = patched_request
 except ImportError:
     pass
+
+# Configure yfinance session with Edge browser impersonation to avoid rate limiting
+try:
+    from curl_cffi import requests as curl_requests
+    session = curl_requests.Session(impersonate="edge101")
+    session.verify = False
+except Exception as e:
+    print(f"Warning: Could not configure custom session: {e}")
+    session = None
 
 # Configuration
 # Order: Flutter, DraftKings, MGM (BetMGM), Caesars, Penn, Rush Street, Bally's
@@ -70,41 +81,76 @@ def save_historical_data(data):
 
 def get_stock_data(ticker, date=None):
     """
-    Fetch stock data for a given ticker
+    Fetch stock data for a given ticker with retry logic and rate limit handling
     If date is provided, fetch historical data for that specific day
     """
-    try:
-        stock = yf.Ticker(ticker)
+    max_retries = 3
+    base_delay = 2  # seconds
 
-        if date:
-            # Fetch data for specific date (need a range to get that day's data)
-            end_date = date + timedelta(days=1)
-            start_date = date - timedelta(days=5)  # Get a few days to ensure we have the data
-            hist = stock.history(start=start_date, end=end_date, auto_adjust=False)
-        else:
-            # Get recent data (last 2 days for today)
-            hist = stock.history(period='2d', auto_adjust=False)
+    for attempt in range(max_retries):
+        try:
+            # Add random delay between requests to avoid rate limiting
+            if attempt > 0:
+                delay = base_delay * (2 ** attempt) + random.uniform(0, 1)
+                print(f"  Retry {attempt}/{max_retries} for {ticker} after {delay:.1f}s delay...")
+                time.sleep(delay)
 
-        if hist.empty:
-            return None
+            # Try using yf.download() method first (different API path, less rate limiting)
+            if date:
+                end_date = date + timedelta(days=1)
+                start_date = date - timedelta(days=5)
+                hist = yf.download(
+                    ticker,
+                    start=start_date,
+                    end=end_date,
+                    auto_adjust=False,
+                    progress=False,
+                    session=session
+                )
+            else:
+                hist = yf.download(
+                    ticker,
+                    period='2d',
+                    auto_adjust=False,
+                    progress=False,
+                    session=session
+                )
 
-        # Get the last available day's data
-        current_price = hist['Close'].iloc[-1]
-        open_price = hist['Open'].iloc[-1]
-        volume = hist['Volume'].iloc[-1]
+            if hist.empty:
+                print(f"  No data returned for {ticker} (attempt {attempt + 1}/{max_retries})")
+                continue
 
-        # Calculate percentage change from open
-        pct_change = ((current_price - open_price) / open_price) * 100
+            # Get the last available day's data
+            current_price = hist['Close'].iloc[-1]
+            open_price = hist['Open'].iloc[-1]
+            volume = hist['Volume'].iloc[-1]
 
-        return {
-            'current_price': float(current_price),
-            'open_price': float(open_price),
-            'pct_change': float(pct_change),
-            'volume': int(volume)
-        }
-    except Exception as e:
-        print(f"Error fetching {ticker}: {e}")
-        return None
+            # Calculate percentage change from open
+            pct_change = ((current_price - open_price) / open_price) * 100
+
+            # Add small delay between successful requests
+            time.sleep(random.uniform(0.5, 1.5))
+
+            return {
+                'current_price': float(current_price),
+                'open_price': float(open_price),
+                'pct_change': float(pct_change),
+                'volume': int(volume)
+            }
+
+        except Exception as e:
+            error_msg = str(e)
+            if "rate limit" in error_msg.lower() or "429" in error_msg:
+                print(f"  Rate limit hit for {ticker} (attempt {attempt + 1}/{max_retries}): {e}")
+                if attempt < max_retries - 1:
+                    continue
+            else:
+                print(f"  Error fetching {ticker} (attempt {attempt + 1}/{max_retries}): {e}")
+                if attempt < max_retries - 1:
+                    continue
+
+    print(f"  Failed to fetch {ticker} after {max_retries} attempts")
+    return None
 
 def get_news_summary(ticker, company_name, pct_change, date_str):
     """
