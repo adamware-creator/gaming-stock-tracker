@@ -9,11 +9,9 @@ import os
 import sys
 import json
 import requests
-import base64
 from datetime import datetime, timedelta
 from google.cloud import aiplatform
 from google.oauth2 import service_account
-import anthropic
 
 # Add project directory to path
 sys.path.insert(0, '.')
