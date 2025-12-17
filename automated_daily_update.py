@@ -91,9 +91,6 @@ def search_web(query):
 def call_claude_vertex(prompt, search_results=None):
     """Call Claude via Vertex AI to generate news narrative"""
 
-    # Initialize Vertex AI
-    aiplatform.init(project=GCP_PROJECT_ID, location=GCP_LOCATION)
-
     # Build the prompt with search results if available
     full_prompt = prompt
     if search_results:
@@ -103,17 +100,19 @@ def call_claude_vertex(prompt, search_results=None):
             full_prompt += f"   {result['snippet']}\n"
             full_prompt += f"   URL: {result['link']}\n"
 
-    # Call Claude via Vertex AI
-    endpoint = f"projects/{GCP_PROJECT_ID}/locations/{GCP_LOCATION}/publishers/anthropic/models/{CLAUDE_MODEL}"
+    # Call Claude via Vertex AI REST API
+    from google.auth.transport.requests import Request
+    from google.oauth2 import service_account
+    import google.auth
 
-    # Create client
-    from google.cloud.aiplatform_v1.services.prediction_service import PredictionServiceClient
-    client = PredictionServiceClient(
-        client_options={"api_endpoint": f"{GCP_LOCATION}-aiplatform.googleapis.com"}
-    )
+    # Get credentials
+    credentials, project = google.auth.default()
 
-    # Prepare request
-    instance = {
+    # Build endpoint URL
+    endpoint_url = f"https://{GCP_LOCATION}-aiplatform.googleapis.com/v1/projects/{GCP_PROJECT_ID}/locations/{GCP_LOCATION}/publishers/anthropic/models/{CLAUDE_MODEL}:streamRawPredict"
+
+    # Prepare request payload
+    payload = {
         "anthropic_version": "vertex-2023-10-16",
         "messages": [
             {
@@ -125,17 +124,43 @@ def call_claude_vertex(prompt, search_results=None):
         "temperature": 1.0
     }
 
-    # Make request
-    response = client.predict(
-        endpoint=endpoint,
-        instances=[instance]
-    )
+    # Get auth token
+    credentials.refresh(Request())
+    headers = {
+        "Authorization": f"Bearer {credentials.token}",
+        "Content-Type": "application/json"
+    }
 
-    # Extract response
-    if response.predictions:
-        prediction = response.predictions[0]
-        if 'content' in prediction and len(prediction['content']) > 0:
-            return prediction['content'][0]['text']
+    # Make request
+    try:
+        response = requests.post(endpoint_url, headers=headers, json=payload, timeout=60)
+        response.raise_for_status()
+
+        # Parse streaming response
+        lines = response.text.strip().split('\n')
+        for line in lines:
+            if line.startswith('data: '):
+                data = json.loads(line[6:])
+                if data.get('type') == 'content_block_delta':
+                    delta = data.get('delta', {})
+                    if delta.get('type') == 'text_delta':
+                        return delta.get('text', '')
+                elif data.get('type') == 'message_start':
+                    continue
+                elif data.get('type') == 'content_block_start':
+                    continue
+
+        # Fallback: try to get text from final message
+        if lines:
+            last_data = json.loads(lines[-1].replace('data: ', ''))
+            if 'content' in last_data:
+                for content in last_data['content']:
+                    if content.get('type') == 'text':
+                        return content.get('text', '')
+
+    except Exception as e:
+        print(f"    ERROR calling Claude: {e}")
+        return None
 
     return None
 
