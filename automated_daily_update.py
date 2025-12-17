@@ -103,10 +103,12 @@ def call_claude_vertex(prompt, search_results=None):
     # Call Claude via Vertex AI REST API
     from google.auth.transport.requests import Request
     from google.oauth2 import service_account
-    import google.auth
 
-    # Get credentials
-    credentials, project = google.auth.default()
+    # Get credentials with proper scopes
+    credentials = service_account.Credentials.from_service_account_file(
+        '/tmp/gcp_credentials.json',
+        scopes=['https://www.googleapis.com/auth/cloud-platform']
+    )
 
     # Build endpoint URL
     endpoint_url = f"https://{GCP_LOCATION}-aiplatform.googleapis.com/v1/projects/{GCP_PROJECT_ID}/locations/{GCP_LOCATION}/publishers/anthropic/models/{CLAUDE_MODEL}:streamRawPredict"
