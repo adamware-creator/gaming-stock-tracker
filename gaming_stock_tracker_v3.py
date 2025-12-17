@@ -329,7 +329,7 @@ def generate_earnings_tracker_html():
             </div>
 
             <div id="company-{company_index}" class="company-content" style="padding: 25px; background: #fafafa;">
-                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+                <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto repeat(4, 1fr); gap: 15px 20px;">
         """
 
         # Helper function to generate quarter card
@@ -337,7 +337,7 @@ def generate_earnings_tracker_html():
             if data is None:
                 # Placeholder for missing quarter
                 return f"""
-                    <div style="background: #f0f0f0; padding: 15px; border-radius: 6px; border-left: 4px solid #ccc; opacity: 0.5;">
+                    <div style="background: #f0f0f0; padding: 15px; border-radius: 6px; border-left: 4px solid #ccc; opacity: 0.5; height: 100%; display: flex; flex-direction: column;">
                         <div style="font-weight: 700; color: #999; font-size: 1em; margin-bottom: 10px;">{quarter}</div>
                         <div style="color: #999; font-size: 0.85em; font-style: italic;">No data available</div>
                     </div>
@@ -365,7 +365,7 @@ def generate_earnings_tracker_html():
                 earnings_yoy_str = f'<span style="color: {yoy_color}; font-size: 0.85em; font-weight: 600;">({earnings_yoy:+.1f}% YoY)</span>'
 
             card_html = f"""
-                <div style="background: #f8f9fa; padding: 15px; border-radius: 6px; border-left: 4px solid #0047FF;">
+                <div style="background: #f8f9fa; padding: 15px; border-radius: 6px; border-left: 4px solid #0047FF; height: 100%; display: flex; flex-direction: column;">
                     <div style="font-weight: 700; color: #0047FF; font-size: 1em; margin-bottom: 10px;">{quarter}</div>
 
                     <div style="display: flex; gap: 20px; margin-bottom: 12px;">
@@ -382,7 +382,7 @@ def generate_earnings_tracker_html():
 
             if presentation_summary:
                 card_html += f"""
-                    <div style="background: white; padding: 12px; border-radius: 4px; border-left: 3px solid #FF4500; margin-top: 10px;">
+                    <div style="background: white; padding: 12px; border-radius: 4px; border-left: 3px solid #FF4500; margin-top: auto;">
                         <div style="font-weight: 700; color: #0047FF; font-size: 0.75em; text-transform: uppercase; margin-bottom: 6px;">Management Presentation</div>
                         <div style="color: #333; font-size: 0.88em; line-height: 1.5;">{presentation_summary}</div>
                     </div>
@@ -394,19 +394,25 @@ def generate_earnings_tracker_html():
 
             return card_html
 
-        # Column 1: 2024
-        html += '<div style="display: flex; flex-direction: column; gap: 15px;">'
+        # Year headers (row 1)
         html += '<div style="background: #0047FF; color: white; padding: 10px 15px; border-radius: 6px; font-weight: 700; text-align: center; font-size: 1.1em;">2024</div>'
-        for q in ['Q1 2024', 'Q2 2024', 'Q3 2024', 'Q4 2024']:
-            html += generate_quarter_card(q, quarters_2024.get(q))
-        html += '</div>'
-
-        # Column 2: 2025
-        html += '<div style="display: flex; flex-direction: column; gap: 15px;">'
         html += '<div style="background: #FF4500; color: white; padding: 10px 15px; border-radius: 6px; font-weight: 700; text-align: center; font-size: 1.1em;">2025</div>'
-        for q in ['Q1 2025', 'Q2 2025', 'Q3 2025', 'Q4 2025']:
-            html += generate_quarter_card(q, quarters_2025.get(q))
-        html += '</div>'
+
+        # Q1 row (row 2)
+        html += generate_quarter_card('Q1 2024', quarters_2024.get('Q1 2024'))
+        html += generate_quarter_card('Q1 2025', quarters_2025.get('Q1 2025'))
+
+        # Q2 row (row 3)
+        html += generate_quarter_card('Q2 2024', quarters_2024.get('Q2 2024'))
+        html += generate_quarter_card('Q2 2025', quarters_2025.get('Q2 2025'))
+
+        # Q3 row (row 4)
+        html += generate_quarter_card('Q3 2024', quarters_2024.get('Q3 2024'))
+        html += generate_quarter_card('Q3 2025', quarters_2025.get('Q3 2025'))
+
+        # Q4 row (row 5)
+        html += generate_quarter_card('Q4 2024', quarters_2024.get('Q4 2024'))
+        html += generate_quarter_card('Q4 2025', quarters_2025.get('Q4 2025'))
 
         html += """
                 </div>
