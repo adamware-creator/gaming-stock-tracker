@@ -120,7 +120,17 @@ def get_stock_data(ticker, date=None):
                 print(f"  No data returned for {ticker} (attempt {attempt + 1}/{max_retries})")
                 continue
 
-            # Get the last available day's data
+            # If a specific date was requested, filter to only that date
+            if date:
+                date_str = date.strftime('%Y-%m-%d')
+                # Filter to only the requested date
+                hist = hist[hist.index.strftime('%Y-%m-%d') == date_str]
+
+                if hist.empty:
+                    print(f"  No data for {ticker} on {date_str} (attempt {attempt + 1}/{max_retries})")
+                    continue
+
+            # Get the last available day's data (or the specific date if filtered)
             current_price = hist['Close'].iloc[-1]
             open_price = hist['Open'].iloc[-1]
             volume = hist['Volume'].iloc[-1]
