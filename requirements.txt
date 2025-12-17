@@ -1,0 +1,15 @@
+# Stock data fetching
+yfinance>=0.2.33
+curl-cffi>=0.6.0
+
+# Google Cloud / Vertex AI
+google-cloud-aiplatform>=1.38.0
+google-auth>=2.25.0
+google-cloud-core>=2.4.0
+
+# Web requests
+requests>=2.31.0
+urllib3>=2.1.0
+
+# Data handling
+python-dotenv>=1.0.0
