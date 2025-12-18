@@ -76,6 +76,17 @@ def format_slack_message(record):
         }
     })
 
+    # Disclaimer
+    blocks.append({
+        "type": "section",
+        "text": {
+            "type": "mrkdwn",
+            "text": "⚠️ *Disclaimer:* Data shown here is for informational purposes only and is not intended to be financial advice. Pursuant to the GeoComply Code of Business Conduct and Ethics, company employees and their family are prohibited from buying or selling these securities."
+        }
+    })
+
+    blocks.append({"type": "divider"})
+
     # NASDAQ Benchmark
     benchmark_emoji = "🟢" if benchmark_change >= 0 else "🔴"
     blocks.append({
