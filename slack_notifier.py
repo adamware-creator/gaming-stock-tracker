@@ -81,7 +81,7 @@ def format_slack_message(record):
         "type": "section",
         "text": {
             "type": "mrkdwn",
-            "text": "⚠️ *Disclaimer:* Data shown here is for informational purposes only and is not intended to be financial advice. Pursuant to the GeoComply Code of Business Conduct and Ethics, company employees and their family are prohibited from buying or selling these securities."
+            "text": "⚠️ *Disclaimer:* Data shown here is for informational purposes only and is not intended to be financial advice. Pursuant to the GeoComply <https://drive.google.com/file/d/1AKZ-Bu2KGJGaApcUeE6reQXLA5lqARV3/edit|Restricted Trading List>, company employees and their families are prohibited from buying or selling gaming related securities."
         }
     })
 
