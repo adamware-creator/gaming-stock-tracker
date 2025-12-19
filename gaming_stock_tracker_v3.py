@@ -11,8 +11,6 @@ import json
 import os
 from pathlib import Path
 import warnings
-import time
-import random
 
 # Disable SSL warnings (workaround for Windows SSL certificate issues)
 warnings.filterwarnings('ignore')
@@ -30,22 +28,12 @@ try:
 except ImportError:
     pass
 
-# Configure yfinance session with Edge browser impersonation to avoid rate limiting
-try:
-    from curl_cffi import requests as curl_requests
-    session = curl_requests.Session(impersonate="edge101")
-    session.verify = False
-except Exception as e:
-    print(f"Warning: Could not configure custom session: {e}")
-    session = None
-
 # Configuration
-# Order: Flutter, DraftKings, MGM (BetMGM), Caesars, Penn, Rush Street, Bally's
 GAMING_COMPANIES = {
-    'FLUT': 'Flutter Entertainment',
     'DKNG': 'DraftKings',
-    'MGM': 'MGM Resorts',
+    'FLUT': 'Flutter Entertainment',
     'CZR': 'Caesars Entertainment',
+    'MGM': 'MGM Resorts',
     'PENN': 'Penn Entertainment',
     'RSI': 'Rush Street Interactive',
     'BALY': 'Bally\'s Corporation'
@@ -53,10 +41,10 @@ GAMING_COMPANIES = {
 
 # Company logo URLs (using Clearbit Logo API)
 COMPANY_LOGOS = {
-    'FLUT': 'https://logo.clearbit.com/flutter.com',
     'DKNG': 'https://logo.clearbit.com/draftkings.com',
-    'MGM': 'https://logo.clearbit.com/mgmresorts.com',
+    'FLUT': 'https://logo.clearbit.com/flutter.com',
     'CZR': 'https://logo.clearbit.com/caesars.com',
+    'MGM': 'https://logo.clearbit.com/mgmresorts.com',
     'PENN': 'https://logo.clearbit.com/pennentertainment.com',
     'RSI': 'https://logo.clearbit.com/rushstreetinteractive.com',
     'BALY': 'https://logo.clearbit.com/ballys.com'
@@ -65,7 +53,7 @@ COMPANY_LOGOS = {
 BENCHMARK = '^IXIC'  # NASDAQ Composite Index
 MATERIAL_CHANGE_THRESHOLD = 2.0  # 2% threshold
 DATA_FILE = 'stock_tracker_history.json'
-DASHBOARD_FILE = 'index.html'
+DASHBOARD_FILE = 'stock_dashboard.html'
 
 def load_historical_data():
     """Load existing historical data from JSON file"""
@@ -81,86 +69,41 @@ def save_historical_data(data):
 
 def get_stock_data(ticker, date=None):
     """
-    Fetch stock data for a given ticker with retry logic and rate limit handling
+    Fetch stock data for a given ticker
     If date is provided, fetch historical data for that specific day
     """
-    max_retries = 3
-    base_delay = 2  # seconds
+    try:
+        stock = yf.Ticker(ticker)
 
-    for attempt in range(max_retries):
-        try:
-            # Add random delay between requests to avoid rate limiting
-            if attempt > 0:
-                delay = base_delay * (2 ** attempt) + random.uniform(0, 1)
-                print(f"  Retry {attempt}/{max_retries} for {ticker} after {delay:.1f}s delay...")
-                time.sleep(delay)
+        if date:
+            # Fetch data for specific date (need a range to get that day's data)
+            end_date = date + timedelta(days=1)
+            start_date = date - timedelta(days=5)  # Get a few days to ensure we have the data
+            hist = stock.history(start=start_date, end=end_date)
+        else:
+            # Get recent data (last 2 days for today)
+            hist = stock.history(period='2d')
 
-            # Try using yf.download() method first (different API path, less rate limiting)
-            if date:
-                end_date = date + timedelta(days=1)
-                start_date = date - timedelta(days=5)
-                hist = yf.download(
-                    ticker,
-                    start=start_date,
-                    end=end_date,
-                    auto_adjust=False,
-                    progress=False,
-                    session=session
-                )
-            else:
-                hist = yf.download(
-                    ticker,
-                    period='2d',
-                    auto_adjust=False,
-                    progress=False,
-                    session=session
-                )
+        if hist.empty:
+            return None
 
-            if hist.empty:
-                print(f"  No data returned for {ticker} (attempt {attempt + 1}/{max_retries})")
-                continue
+        # Get the last available day's data
+        current_price = hist['Close'].iloc[-1]
+        open_price = hist['Open'].iloc[-1]
+        volume = hist['Volume'].iloc[-1]
 
-            # If a specific date was requested, filter to only that date
-            if date:
-                date_str = date.strftime('%Y-%m-%d')
-                # Filter to only the requested date
-                hist = hist[hist.index.strftime('%Y-%m-%d') == date_str]
+        # Calculate percentage change from open
+        pct_change = ((current_price - open_price) / open_price) * 100
 
-                if hist.empty:
-                    print(f"  No data for {ticker} on {date_str} (attempt {attempt + 1}/{max_retries})")
-                    continue
-
-            # Get the last available day's data (or the specific date if filtered)
-            current_price = hist['Close'].iloc[-1]
-            open_price = hist['Open'].iloc[-1]
-            volume = hist['Volume'].iloc[-1]
-
-            # Calculate percentage change from open
-            pct_change = ((current_price - open_price) / open_price) * 100
-
-            # Add small delay between successful requests
-            time.sleep(random.uniform(0.5, 1.5))
-
-            return {
-                'current_price': float(current_price),
-                'open_price': float(open_price),
-                'pct_change': float(pct_change),
-                'volume': int(volume)
-            }
-
-        except Exception as e:
-            error_msg = str(e)
-            if "rate limit" in error_msg.lower() or "429" in error_msg:
-                print(f"  Rate limit hit for {ticker} (attempt {attempt + 1}/{max_retries}): {e}")
-                if attempt < max_retries - 1:
-                    continue
-            else:
-                print(f"  Error fetching {ticker} (attempt {attempt + 1}/{max_retries}): {e}")
-                if attempt < max_retries - 1:
-                    continue
-
-    print(f"  Failed to fetch {ticker} after {max_retries} attempts")
-    return None
+        return {
+            'current_price': float(current_price),
+            'open_price': float(open_price),
+            'pct_change': float(pct_change),
+            'volume': int(volume)
+        }
+    except Exception as e:
+        print(f"Error fetching {ticker}: {e}")
+        return None
 
 def get_news_summary(ticker, company_name, pct_change, date_str):
     """
@@ -322,10 +265,10 @@ def generate_industry_summary():
     # Generate industry overview
     html = f"""
     <div style="background: linear-gradient(135deg, #0047FF 0%, #0056CC 100%); padding: 25px 30px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,71,255,0.2);">
-        <h2 style="color: white; font-size: 1.5em; margin-bottom: 15px; font-weight: 700;">Industry Overview: Q3 2025</h2>
+        <h2 style="color: white; font-size: 1.5em; margin-bottom: 15px; font-weight: 700;">Industry Overview: {most_recent_quarter}</h2>
         <div style="color: rgba(255,255,255,0.95); font-size: 0.95em; line-height: 1.7;">
-            <p style="margin-bottom: 10px;"><strong style="color: white;">Gaming Industry Q3 2025 Highlights:</strong></p>
-            <p>The gaming sector delivered mixed Q3 2025 results across {len(summaries)} companies. Flutter cut full-year EBITDA guidance by $280M due to customer-friendly NFL outcomes but announced $200-300M FanDuel Predicts investment. DraftKings missed revenue expectations amid competitive pressures. Regional operators faced softening Las Vegas leisure demand and integration challenges, while sports betting operators prepared for Missouri's December 1 launch. Industry focus remained on market share expansion, cost optimization, and navigating regulatory developments.</p>
+            <p style="margin-bottom: 10px;"><strong style="color: white;">Gaming Industry {most_recent_quarter} Highlights:</strong></p>
+            <p>The gaming sector showed mixed performance across {len(summaries)} companies. Key themes included digital growth momentum, regional gaming challenges, strategic transformations, and evolving regulatory landscapes. Companies focused on cost optimization, market share expansion, and preparing for upcoming market opportunities while navigating customer-friendly sports outcomes and operational headwinds.</p>
         </div>
     </div>
     """
@@ -386,7 +329,7 @@ def generate_earnings_tracker_html():
             </div>
 
             <div id="company-{company_index}" class="company-content" style="padding: 25px; background: #fafafa;">
-                <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto repeat(4, 1fr); gap: 15px 20px;">
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
         """
 
         # Helper function to generate quarter card
@@ -394,7 +337,7 @@ def generate_earnings_tracker_html():
             if data is None:
                 # Placeholder for missing quarter
                 return f"""
-                    <div style="background: #f0f0f0; padding: 15px; border-radius: 6px; border-left: 4px solid #ccc; opacity: 0.5; height: 100%; display: flex; flex-direction: column;">
+                    <div style="background: #f0f0f0; padding: 15px; border-radius: 6px; border-left: 4px solid #ccc; opacity: 0.5;">
                         <div style="font-weight: 700; color: #999; font-size: 1em; margin-bottom: 10px;">{quarter}</div>
                         <div style="color: #999; font-size: 0.85em; font-style: italic;">No data available</div>
                     </div>
@@ -422,7 +365,7 @@ def generate_earnings_tracker_html():
                 earnings_yoy_str = f'<span style="color: {yoy_color}; font-size: 0.85em; font-weight: 600;">({earnings_yoy:+.1f}% YoY)</span>'
 
             card_html = f"""
-                <div style="background: #f8f9fa; padding: 15px; border-radius: 6px; border-left: 4px solid #0047FF; height: 100%; display: flex; flex-direction: column;">
+                <div style="background: #f8f9fa; padding: 15px; border-radius: 6px; border-left: 4px solid #0047FF;">
                     <div style="font-weight: 700; color: #0047FF; font-size: 1em; margin-bottom: 10px;">{quarter}</div>
 
                     <div style="display: flex; gap: 20px; margin-bottom: 12px;">
@@ -439,7 +382,7 @@ def generate_earnings_tracker_html():
 
             if presentation_summary:
                 card_html += f"""
-                    <div style="background: white; padding: 12px; border-radius: 4px; border-left: 3px solid #FF4500; margin-top: auto;">
+                    <div style="background: white; padding: 12px; border-radius: 4px; border-left: 3px solid #FF4500; margin-top: 10px;">
                         <div style="font-weight: 700; color: #0047FF; font-size: 0.75em; text-transform: uppercase; margin-bottom: 6px;">Management Presentation</div>
                         <div style="color: #333; font-size: 0.88em; line-height: 1.5;">{presentation_summary}</div>
                     </div>
@@ -451,25 +394,19 @@ def generate_earnings_tracker_html():
 
             return card_html
 
-        # Year headers (row 1)
+        # Column 1: 2024
+        html += '<div style="display: flex; flex-direction: column; gap: 15px;">'
         html += '<div style="background: #0047FF; color: white; padding: 10px 15px; border-radius: 6px; font-weight: 700; text-align: center; font-size: 1.1em;">2024</div>'
+        for q in ['Q1 2024', 'Q2 2024', 'Q3 2024', 'Q4 2024']:
+            html += generate_quarter_card(q, quarters_2024.get(q))
+        html += '</div>'
+
+        # Column 2: 2025
+        html += '<div style="display: flex; flex-direction: column; gap: 15px;">'
         html += '<div style="background: #FF4500; color: white; padding: 10px 15px; border-radius: 6px; font-weight: 700; text-align: center; font-size: 1.1em;">2025</div>'
-
-        # Q1 row (row 2)
-        html += generate_quarter_card('Q1 2024', quarters_2024.get('Q1 2024'))
-        html += generate_quarter_card('Q1 2025', quarters_2025.get('Q1 2025'))
-
-        # Q2 row (row 3)
-        html += generate_quarter_card('Q2 2024', quarters_2024.get('Q2 2024'))
-        html += generate_quarter_card('Q2 2025', quarters_2025.get('Q2 2025'))
-
-        # Q3 row (row 4)
-        html += generate_quarter_card('Q3 2024', quarters_2024.get('Q3 2024'))
-        html += generate_quarter_card('Q3 2025', quarters_2025.get('Q3 2025'))
-
-        # Q4 row (row 5)
-        html += generate_quarter_card('Q4 2024', quarters_2024.get('Q4 2024'))
-        html += generate_quarter_card('Q4 2025', quarters_2025.get('Q4 2025'))
+        for q in ['Q1 2025', 'Q2 2025', 'Q3 2025', 'Q4 2025']:
+            html += generate_quarter_card(q, quarters_2025.get(q))
+        html += '</div>'
 
         html += """
                 </div>
@@ -874,23 +811,6 @@ def generate_html_dashboard():
             padding: 0 25px !important;
             overflow: hidden;
         }}
-
-        .disclaimer {{
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-            color: #f0f0f0;
-            padding: 15px 25px;
-            border-radius: 8px;
-            margin-bottom: 15px;
-            border-left: 4px solid #FFD700;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-            font-size: 0.85em;
-            line-height: 1.6;
-        }}
-
-        .disclaimer strong {{
-            color: #FFD700;
-            font-weight: 600;
-        }}
     </style>
 </head>
 <body>
@@ -905,9 +825,6 @@ def generate_html_dashboard():
         <div style="width: 120px;"></div>
     </div>
     <div class="container">
-        <div class="disclaimer">
-            <strong>⚠️ Disclaimer:</strong> Data shown here is for informational purposes only and is not intended to be financial advice. Pursuant to the GeoComply Code of Business Conduct and Ethics, company employees and their family are prohibited from buying or selling these securities.
-        </div>
         <div class="header">
             <div class="header-main">
                 <h1>Gaming Stock Tracker Dashboard</h1>
@@ -924,6 +841,10 @@ def generate_html_dashboard():
                 <div class="header-section-title">Companies Monitored</div>
                 <div class="header-section-content">{company_list}</div>
             </div>
+        </div>
+
+        <div style="background: #FF4500; color: white; padding: 12px 20px; border-radius: 8px; margin-bottom: 15px; box-shadow: 0 2px 8px rgba(255,69,0,0.2); font-size: 0.9em; line-height: 1.5;">
+            <strong>⚠️ Disclaimer:</strong> Data shown here is for informational purposes only and is not intended to be financial advice. Pursuant to the GeoComply <a href="https://drive.google.com/file/d/1AKZ-Bu2KGJGaApcUeE6reQXLA5lqARV3/edit" target="_blank" style="color: white; text-decoration: underline; font-weight: 600;">Restricted Trading List</a>, company employees and their families are prohibited from buying or selling gaming related securities.
         </div>
 
         <div class="tabs">
