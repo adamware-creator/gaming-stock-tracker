@@ -2925,6 +2925,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2025-12-18",
+      "date_display": "December 18, 2025",
+      "benchmark": {
+        "current_price": 23006.359375,
+        "open_price": 23012.060546875,
+        "pct_change": -0.024774712648555974,
+        "volume": 7977920000
+      },
+      "companies": {
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 220.17999267578125,
+            "open_price": 219.9199981689453,
+            "pct_change": 0.11822231220473475,
+            "volume": 2568700
+          }
+        },
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.189998626708984,
+            "open_price": 34.439998626708984,
+            "pct_change": -0.7259001450892029,
+            "volume": 9290100
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.77000045776367,
+            "open_price": 36.400001525878906,
+            "pct_change": 1.0164805394903942,
+            "volume": 4140900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.979999542236328,
+            "open_price": 24.059999465942383,
+            "pct_change": -0.3325017684198076,
+            "volume": 4081500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.699999809265137,
+            "open_price": 14.520000457763672,
+            "pct_change": 1.2396649161620468,
+            "volume": 3119200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.950000762939453,
+            "open_price": 19.68000030517578,
+            "pct_change": 1.3719535242723677,
+            "volume": 1240700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.860000610351562,
+            "open_price": 16.6200008392334,
+            "pct_change": 7.460888739493947,
+            "volume": 132300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.860000610351562,
+            "open_price": 16.6200008392334,
+            "pct_change": 7.460888739493947,
+            "volume": 132300
+          },
+          "search_query": "Bally's Corporation BALY stock rises December 18, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up December 18, 2025",
+            "summary": "Bally's Corporation (BALY) stock rose 7.5% on December 18, 2025, to close at $17.86, driven by the company's announcement that it secured up to $1.1 billion in term loan financing through an amended and restated commitment letter. The financing package consisted of a $600 million initial loan with up to $500 million available in additional funding. The stock's year-to-date return stood at 3.30% as of the close.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
