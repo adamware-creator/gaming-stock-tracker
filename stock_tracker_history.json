@@ -3111,6 +3111,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2025-12-22",
+      "date_display": "December 22, 2025",
+      "benchmark": {
+        "current_price": 23428.830078125,
+        "open_price": 23450.529296875,
+        "pct_change": -0.09253189331164317,
+        "volume": 7244910000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.900001525878906,
+            "open_price": 34.459999084472656,
+            "pct_change": 1.2768498348698765,
+            "volume": 8604800
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 223.97000122070312,
+            "open_price": 223.94000244140625,
+            "pct_change": 0.013395900227662166,
+            "volume": 1888200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.020000457763672,
+            "open_price": 24.3799991607666,
+            "pct_change": 2.6251079533546062,
+            "volume": 4367500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.54999923706055,
+            "open_price": 37.470001220703125,
+            "pct_change": 0.2134988357385506,
+            "volume": 3039900
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.760000228881836,
+            "open_price": 14.569999694824219,
+            "pct_change": 1.3040531093841556,
+            "volume": 3350100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.649999618530273,
+            "open_price": 19.709999084472656,
+            "pct_change": -0.30441130760706026,
+            "volume": 2462700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 18.1299991607666,
+            "open_price": 17.56999969482422,
+            "pct_change": 3.1872480117762767,
+            "volume": 90100
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.020000457763672,
+            "open_price": 24.3799991607666,
+            "pct_change": 2.6251079533546062,
+            "volume": 4367500
+          },
+          "search_query": "Caesars Entertainment CZR stock rises December 22, 2025",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up December 22, 2025",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Caesars Entertainment stock rose 2.6% on December 22, 2025. The search results show stock price data from that date but do not contain any specific catalysts such as analyst actions, earnings announcements, competitive developments, regulatory changes, or market events that would explain the price movement on that particular day.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 18.1299991607666,
+            "open_price": 17.56999969482422,
+            "pct_change": 3.1872480117762767,
+            "volume": 90100
+          },
+          "search_query": "Bally's Corporation BALY stock rises December 22, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up December 22, 2025",
+            "summary": "I don't have sufficient information from the provided search results to explain why Bally's Corporation stock rose 3.2% on December 22, 2025. The search results show stock price quotes and SEC filings but do not contain any specific news about analyst actions, earnings announcements, competitive developments, regulatory changes, or market events that occurred on or immediately before that date that would explain the price movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
