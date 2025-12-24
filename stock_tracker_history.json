@@ -3220,6 +3220,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2025-12-23",
+      "date_display": "December 23, 2025",
+      "benchmark": {
+        "current_price": 23561.83984375,
+        "open_price": 23407.69921875,
+        "pct_change": 0.6585039544447432,
+        "volume": 7518190000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.540000915527344,
+            "open_price": 34.75,
+            "pct_change": -0.6043139121515287,
+            "volume": 8370200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 219.2100067138672,
+            "open_price": 224.53500366210938,
+            "pct_change": -2.3715665091824563,
+            "volume": 1351300
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.440000534057617,
+            "open_price": 25.0,
+            "pct_change": -2.2399978637695312,
+            "volume": 3728400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.970001220703125,
+            "open_price": 37.540000915527344,
+            "pct_change": -1.5183795442808705,
+            "volume": 3102900
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.649999618530273,
+            "open_price": 14.699999809265137,
+            "pct_change": -0.3401373563511823,
+            "volume": 2669600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.25,
+            "open_price": 19.479999542236328,
+            "pct_change": -1.180695829779901,
+            "volume": 1783700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.479999542236328,
+            "open_price": 17.969999313354492,
+            "pct_change": -2.726765664114513,
+            "volume": 42600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 219.2100067138672,
+            "open_price": 224.53500366210938,
+            "pct_change": -2.3715665091824563,
+            "volume": 1351300
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops December 23, 2025",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down December 23, 2025",
+            "summary": "Flutter Entertainment stock fell 2.4% on December 23, 2025, to close at $219.21, with shares declining amid its FanDuel Predict expansion into prediction markets, according to market reports. The drop occurred as the stock remained approximately 32% below its all-time highs despite the company's efforts to maintain its leadership position in U.S. sports betting and iGaming markets.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.440000534057617,
+            "open_price": 25.0,
+            "pct_change": -2.2399978637695312,
+            "volume": 3728400
+          },
+          "search_query": "Caesars Entertainment CZR stock drops December 23, 2025",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down December 23, 2025",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information about specific catalysts that caused Caesars Entertainment's 2.2% decline on December 23, 2025. The search results only show general stock quote pages and a Q1 2025 10-Q filing, without mentioning analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that specific date. Without concrete information about the actual drivers behind the stock movement, I cannot write a factual news narrative meeting your requirements.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.479999542236328,
+            "open_price": 17.969999313354492,
+            "pct_change": -2.726765664114513,
+            "volume": 42600
+          },
+          "search_query": "Bally's Corporation BALY stock drops December 23, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down December 23, 2025",
+            "summary": "Bally's Corporation (BALY) stock fell 2.7% on December 23, 2025, to close at $17.48, though no specific catalyst was identified in available reports for the day's decline. The gaming and hospitality company had previously experienced significant volatility in 2025, including a 24% plunge in March when it canceled an earnings call amid declining fourth-quarter revenue. The December decline appeared to reflect ongoing investor concerns about the company's operational performance following its troubled earnings reports earlier in the year.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
