@@ -3497,6 +3497,115 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2025-12-26",
+      "date_display": "December 26, 2025",
+      "benchmark": {
+        "current_price": 23593.099609375,
+        "open_price": 23645.91015625,
+        "pct_change": -0.22333903210336484,
+        "volume": 5170300000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.880001068115234,
+            "open_price": 34.380001068115234,
+            "pct_change": 1.454333869883765,
+            "volume": 5474100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 220.64999389648438,
+            "open_price": 220.0,
+            "pct_change": 0.29545177112926135,
+            "volume": 756700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.790000915527344,
+            "open_price": 24.389999389648438,
+            "pct_change": 1.6400226973710963,
+            "volume": 1809200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.68000030517578,
+            "open_price": 37.2400016784668,
+            "pct_change": 1.1815215007452693,
+            "volume": 2588200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.100000381469727,
+            "open_price": 14.609999656677246,
+            "pct_change": 3.3538722539841683,
+            "volume": 2763000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.489999771118164,
+            "open_price": 19.170000076293945,
+            "pct_change": 1.6692733101234443,
+            "volume": 1017700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.760000228881836,
+            "open_price": 17.09000015258789,
+            "pct_change": 3.9204217104263113,
+            "volume": 22800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.100000381469727,
+            "open_price": 14.609999656677246,
+            "pct_change": 3.3538722539841683,
+            "volume": 2763000
+          },
+          "search_query": "Penn Entertainment PENN stock rises December 26, 2025",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up December 26, 2025",
+            "summary": "I don't have sufficient information from the provided search results to write an accurate news narrative explaining why Penn Entertainment (PENN) stock rose 3.4% on December 26, 2025. The search results only confirm that PENN has a \"Buy\" consensus rating from 15 analysts as of that date but do not contain specific catalysts, news events, analyst actions, or market developments that would explain the stock's movement on that particular day.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.760000228881836,
+            "open_price": 17.09000015258789,
+            "pct_change": 3.9204217104263113,
+            "volume": 22800
+          },
+          "search_query": "Bally's Corporation BALY stock rises December 26, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up December 26, 2025",
+            "summary": "I apologize, but the web search results provided do not contain specific information about catalysts that caused Bally's Corporation (BALY) stock to rise 3.9% on December 26, 2025. The search results only confirm basic stock information and that the stock traded on that date, but they do not include details about analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the price movement. Without concrete catalyst information from the search results, I cannot write a factual news narrative meeting your requirements.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
