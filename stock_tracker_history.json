@@ -3606,6 +3606,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2025-12-29",
+      "date_display": "December 29, 2025",
+      "benchmark": {
+        "current_price": 23474.349609375,
+        "open_price": 23414.6796875,
+        "pct_change": 0.25483979568106147,
+        "volume": 6527530000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.540000915527344,
+            "open_price": 34.78499984741211,
+            "pct_change": -0.7043235100171856,
+            "volume": 6925100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 217.13999938964844,
+            "open_price": 218.00999450683594,
+            "pct_change": -0.3990620334427927,
+            "volume": 1457400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.030000686645508,
+            "open_price": 24.690000534057617,
+            "pct_change": -2.673146347249768,
+            "volume": 3751700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.15999984741211,
+            "open_price": 37.43000030517578,
+            "pct_change": -0.7213477305965623,
+            "volume": 3243000
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.890000343322754,
+            "open_price": 15.020000457763672,
+            "pct_change": -0.8655133853456198,
+            "volume": 3862800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.75,
+            "open_price": 19.350000381469727,
+            "pct_change": 2.0671814503597004,
+            "volume": 973700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.360000610351562,
+            "open_price": 17.799999237060547,
+            "pct_change": -8.089880272077936,
+            "volume": 63900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.030000686645508,
+            "open_price": 24.690000534057617,
+            "pct_change": -2.673146347249768,
+            "volume": 3751700
+          },
+          "search_query": "Caesars Entertainment CZR stock drops December 29, 2025",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down December 29, 2025",
+            "summary": "Caesars Entertainment (CZR) stock fell 2.7% to close at $24.03 on December 29, 2025, amid pre-market weakness that persisted throughout the trading session. The decline came despite Jefferies raising its price target on the stock to $25 from $22 just days earlier on December 24, suggesting the sell-off may have been driven by broader market pressures or profit-taking. The stock traded slightly below the newly established analyst price target, indicating continued investor caution in the gaming sector heading into year-end.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.75,
+            "open_price": 19.350000381469727,
+            "pct_change": 2.0671814503597004,
+            "volume": 973700
+          },
+          "search_query": "Rush Street Interactive RSI stock rises December 29, 2025",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up December 29, 2025",
+            "summary": "Rush Street Interactive (RSI) stock rose 2.1% to close at $19.75 on December 29, 2025, though no specific catalyst was immediately apparent from available sources. The closing price represented a significant recovery from the company's 52-week low of $9.54, following the online gaming operator's third-quarter earnings release in late October that included raised full-year guidance.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.360000610351562,
+            "open_price": 17.799999237060547,
+            "pct_change": -8.089880272077936,
+            "volume": 63900
+          },
+          "search_query": "Bally's Corporation BALY stock drops December 29, 2025",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down December 29, 2025",
+            "summary": "Bally's Corporation (BALY) stock fell 8.1% on December 29, 2025, to close at $16.36, though the specific catalyst for the decline was not immediately disclosed in available reports. The sharp single-day drop continued the stock's downward trajectory, with market observers noting the severity of the sell-off as the integrated entertainment company faced ongoing pressure.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
