@@ -3699,6 +3699,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2025-12-30",
+      "date_display": "December 30, 2025",
+      "benchmark": {
+        "current_price": 23419.080078125,
+        "open_price": 23465.669921875,
+        "pct_change": -0.19854469915034623,
+        "volume": 6769300000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.7599983215332,
+            "open_price": 34.459999084472656,
+            "pct_change": 0.8705723883658595,
+            "volume": 5852700
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 217.4600067138672,
+            "open_price": 217.1999969482422,
+            "pct_change": 0.11970983852589978,
+            "volume": 857900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.520000457763672,
+            "open_price": 23.979999542236328,
+            "pct_change": -1.918261439757132,
+            "volume": 4925300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.72999954223633,
+            "open_price": 37.06999969482422,
+            "pct_change": -0.9171841256728201,
+            "volume": 2294800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.779999732971191,
+            "open_price": 14.890000343322754,
+            "pct_change": -0.7387549215261837,
+            "volume": 2920300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.110000610351562,
+            "open_price": 19.690000534057617,
+            "pct_change": 2.1330627978779124,
+            "volume": 1241100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.219999313354492,
+            "open_price": 16.260000228881836,
+            "pct_change": -0.24600808711116806,
+            "volume": 34300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.110000610351562,
+            "open_price": 19.690000534057617,
+            "pct_change": 2.1330627978779124,
+            "volume": 1241100
+          },
+          "search_query": "Rush Street Interactive RSI stock rises December 30, 2025",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up December 30, 2025",
+            "summary": "Rush Street Interactive stock rose 2.1% to close at $20.11 on December 30, 2025, building on momentum from the company's strong third-quarter 2025 results announced in late October, which showed revenue up 30% year-over-year and prompted management to raise full-year guidance. The gains came as the online casino and sports betting operator continued to benefit from positive market sentiment following its consecutive quarters of raised guidance throughout 2025.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
