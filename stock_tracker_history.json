@@ -3792,6 +3792,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2025-12-31",
+      "date_display": "December 31, 2025",
+      "benchmark": {
+        "current_price": 23241.990234375,
+        "open_price": 23420.849609375,
+        "pct_change": -0.7636758613931981,
+        "volume": 5895130000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.459999084472656,
+            "open_price": 34.7599983215332,
+            "pct_change": -0.863058836440457,
+            "volume": 6314400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 215.0399932861328,
+            "open_price": 217.1300048828125,
+            "pct_change": -0.9625623127525329,
+            "volume": 1117700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.389999389648438,
+            "open_price": 23.5,
+            "pct_change": -0.4680877036236702,
+            "volume": 3571700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.4900016784668,
+            "open_price": 36.66999816894531,
+            "pct_change": -0.49085492082448234,
+            "volume": 2583200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.75,
+            "open_price": 14.75,
+            "pct_change": 0.0,
+            "volume": 2170700
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.43000030517578,
+            "open_price": 20.1200008392334,
+            "pct_change": -3.4294259705602834,
+            "volume": 1844300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.520000457763672,
+            "open_price": 16.209999084472656,
+            "pct_change": 1.9124083331254587,
+            "volume": 59700
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.43000030517578,
+            "open_price": 20.1200008392334,
+            "pct_change": -3.4294259705602834,
+            "volume": 1844300
+          },
+          "search_query": "Rush Street Interactive RSI stock drops December 31, 2025",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down December 31, 2025",
+            "summary": "I cannot provide a factual news narrative explaining why Rush Street Interactive stock fell 3.4% on December 31, 2025, as the web search results provided do not contain any information about specific catalysts, analyst actions, earnings announcements, competitive developments, regulatory changes, or market events that occurred on that date. The search results only confirm the closing price of $19.43 but offer no explanation for the day's price movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
