@@ -3978,6 +3978,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-02",
+      "date_display": "January 02, 2026",
+      "benchmark": {
+        "current_price": 23235.630859375,
+        "open_price": 23481.490234375,
+        "pct_change": -1.0470348029278047,
+        "volume": 7331460000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.65999984741211,
+            "open_price": 34.59000015258789,
+            "pct_change": 3.0933786935648957,
+            "volume": 10156300
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 218.27000427246094,
+            "open_price": 216.35000610351562,
+            "pct_change": 0.8874500183867169,
+            "volume": 2433900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.559999465942383,
+            "open_price": 23.59000015258789,
+            "pct_change": -0.12717544065898045,
+            "volume": 2469500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.4900016784668,
+            "open_price": 36.630001068115234,
+            "pct_change": -0.3821987047941985,
+            "volume": 4241800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.850000381469727,
+            "open_price": 14.84000015258789,
+            "pct_change": 0.06738698638147948,
+            "volume": 2533300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.309999465942383,
+            "open_price": 19.260000228881836,
+            "pct_change": 0.2596014354432313,
+            "volume": 1232500
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.639999389648438,
+            "open_price": 16.56999969482422,
+            "pct_change": 0.42244837726873197,
+            "volume": 58600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.65999984741211,
+            "open_price": 34.59000015258789,
+            "pct_change": 3.0933786935648957,
+            "volume": 10156300
+          },
+          "search_query": "DraftKings DKNG stock rises January 02, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up January 02, 2026",
+            "summary": "DraftKings Inc. (DKNG) stock rose 3.1% to close at $35.66 on January 2, 2026, as the sports betting company benefited from strong momentum heading into the new year following a 26% year-to-date gain in 2025 driven by NFL season betting activity. The stock's advance occurred despite recent headline risk from the company's predictions app expansion, which had pressured shares down more than 19% in recent weeks, suggesting investors found value at current levels with the company's $17.16 billion market capitalization.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
