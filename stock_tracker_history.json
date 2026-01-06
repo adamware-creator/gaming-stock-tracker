@@ -4071,6 +4071,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-05",
+      "date_display": "January 05, 2026",
+      "benchmark": {
+        "current_price": 23395.8203125,
+        "open_price": 23449.669921875,
+        "pct_change": -0.22963909323417148,
+        "volume": 8737320000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 36.2400016784668,
+            "open_price": 35.81999969482422,
+            "pct_change": 1.1725348610297894,
+            "volume": 7679500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 221.4199981689453,
+            "open_price": 218.17999267578125,
+            "pct_change": 1.4850149426756831,
+            "volume": 962200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.860000610351562,
+            "open_price": 23.559999465942383,
+            "pct_change": 1.273349538241086,
+            "volume": 3705300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.959999084472656,
+            "open_price": 36.060001373291016,
+            "pct_change": -0.2773219218245212,
+            "volume": 6403500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.140000343322754,
+            "open_price": 14.819999694824219,
+            "pct_change": 2.159248684804583,
+            "volume": 3125600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.770000457763672,
+            "open_price": 19.31999969482422,
+            "pct_change": 2.3291965323374577,
+            "volume": 1253700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.190000534057617,
+            "open_price": 16.690000534057617,
+            "pct_change": 2.9958057759177414,
+            "volume": 61000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.140000343322754,
+            "open_price": 14.819999694824219,
+            "pct_change": 2.159248684804583,
+            "volume": 3125600
+          },
+          "search_query": "Penn Entertainment PENN stock rises January 05, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up January 05, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 2.2% to close at $15.14 on January 5, 2026, though specific catalysts for the gain were not immediately disclosed in available reports. The stock continued to trade higher in after-hours activity, reaching $15.58 as of 5:00 PM ET, while technical analysis showed the stock's overall moving average trend remained bullish with limited negative signals.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.770000457763672,
+            "open_price": 19.31999969482422,
+            "pct_change": 2.3291965323374577,
+            "volume": 1253700
+          },
+          "search_query": "Rush Street Interactive RSI stock rises January 05, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up January 05, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 2.3% to close at $19.77 on January 5, 2026, following the company's announcement that management would present at two upcoming investor conferences, including the ICR Conference on January 12, 2026. The gain contributed to the stock's year-to-date return of 1.75% as investor interest appeared to build ahead of the scheduled presentations by the online casino and sports betting company.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.190000534057617,
+            "open_price": 16.690000534057617,
+            "pct_change": 2.9958057759177414,
+            "volume": 61000
+          },
+          "search_query": "Bally's Corporation BALY stock rises January 05, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up January 05, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 3.0% to close at $17.19 on January 5, 2026, following news that the company secured up to $1.1 billion in term loans through an amended and restated commitment letter. The financing development provided investors with confidence in the gaming company's liquidity position and capital structure as it continues its expansion efforts.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
