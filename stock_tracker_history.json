@@ -4305,6 +4305,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-07",
+      "date_display": "January 07, 2026",
+      "benchmark": {
+        "current_price": 23584.279296875,
+        "open_price": 23544.890625,
+        "pct_change": 0.16729180229521665,
+        "volume": 8396920000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.65999984741211,
+            "open_price": 34.65999984741211,
+            "pct_change": 0.0,
+            "volume": 13271200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 211.52000427246094,
+            "open_price": 215.72999572753906,
+            "pct_change": -1.9515095436219387,
+            "volume": 2197200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.0,
+            "open_price": 23.719999313354492,
+            "pct_change": -3.035410346530358,
+            "volume": 3411500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.119998931884766,
+            "open_price": 35.5,
+            "pct_change": -3.8873269524372795,
+            "volume": 7175000
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.819999694824219,
+            "open_price": 14.90999984741211,
+            "pct_change": -7.310530943949535,
+            "volume": 3832900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.520000457763672,
+            "open_price": 19.329999923706055,
+            "pct_change": -4.1903749050149255,
+            "volume": 1735500
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.5,
+            "open_price": 17.469999313354492,
+            "pct_change": -5.552371788664017,
+            "volume": 81300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.0,
+            "open_price": 23.719999313354492,
+            "pct_change": -3.035410346530358,
+            "volume": 3411500
+          },
+          "search_query": "Caesars Entertainment CZR stock drops January 07, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down January 07, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 3.0% to close at $23.00 on January 7, 2026, amid ongoing weakness in the gaming sector that had already pushed shares down 30% over the past year. According to research reports, the stock had previously traded down 6.4% to $20.65 following recent quarterly results, suggesting continued investor concerns about the company's performance. The decline left Caesars with a market capitalization of $4.7 billion as the stock struggled to recover from its poor annual performance.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.119998931884766,
+            "open_price": 35.5,
+            "pct_change": -3.8873269524372795,
+            "volume": 7175000
+          },
+          "search_query": "MGM Resorts MGM stock drops January 07, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down January 07, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative about why MGM Resorts stock fell 3.9% on January 07, 2026. The search results contain only general website content about MGM properties and poker tournaments, with no relevant news about analyst actions, earnings reports, competitive developments, regulatory changes, or market events that would explain the stock decline on that specific date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.819999694824219,
+            "open_price": 14.90999984741211,
+            "pct_change": -7.310530943949535,
+            "volume": 3832900
+          },
+          "search_query": "Penn Entertainment PENN stock drops January 07, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down January 07, 2026",
+            "summary": "Penn Entertainment (PENN) stock fell 7.3% on January 7, 2026, to close at $13.82, following the company's announcement of a new corporate organizational structure on January 5th. The decline came amid broader concerns about the company's strategic direction after Penn and ESPN mutually agreed to terminate their online sports betting deal in early December 2025. The stock continued its downward trajectory, with shares down 14% in recent trading according to market data.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.520000457763672,
+            "open_price": 19.329999923706055,
+            "pct_change": -4.1903749050149255,
+            "volume": 1735500
+          },
+          "search_query": "Rush Street Interactive RSI stock drops January 07, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down January 07, 2026",
+            "summary": "Rush Street Interactive (RSI) stock fell 4.2% to close at $18.52 on January 7, 2026, following news that the company's Chief Operating Officer sold 90,000 shares on January 6, which likely raised concerns among investors about insider confidence. The decline came despite the stock trading up earlier in December, as the insider selling activity appeared to trigger negative sentiment in the market.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.5,
+            "open_price": 17.469999313354492,
+            "pct_change": -5.552371788664017,
+            "volume": 81300
+          },
+          "search_query": "Bally's Corporation BALY stock drops January 07, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down January 07, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 5.6% on January 7, 2026, to close at $16.50, amid concerns about re-rating risk despite recent debt relief efforts, according to a Seeking Alpha analysis published that day. The article noted that while Bally's had used $1.8 billion in cash proceeds to pay down $1.3 billion in debt, significant valuation risks remained for the casino operator.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
