@@ -4462,6 +4462,179 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-08",
+      "date_display": "January 08, 2026",
+      "benchmark": {
+        "current_price": 23480.01953125,
+        "open_price": 23548.880859375,
+        "pct_change": -0.29241868662979686,
+        "volume": 7723140000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.97999954223633,
+            "open_price": 34.560001373291016,
+            "pct_change": 4.108790834836971,
+            "volume": 12423100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 217.36000061035156,
+            "open_price": 209.25,
+            "pct_change": 3.8757470061417263,
+            "volume": 2433100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.06999969482422,
+            "open_price": 23.420000076293945,
+            "pct_change": 7.045258809373046,
+            "volume": 8910000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.150001525878906,
+            "open_price": 33.90999984741211,
+            "pct_change": 3.6567433914672502,
+            "volume": 7260500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.430000305175781,
+            "open_price": 13.819999694824219,
+            "pct_change": 4.413897422733057,
+            "volume": 5094300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.170000076293945,
+            "open_price": 18.350000381469727,
+            "pct_change": 4.4686630941559775,
+            "volume": 1507500
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.15999984741211,
+            "open_price": 16.329999923706055,
+            "pct_change": -1.0410292534487913,
+            "volume": 62900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.97999954223633,
+            "open_price": 34.560001373291016,
+            "pct_change": 4.108790834836971,
+            "volume": 12423100
+          },
+          "search_query": "DraftKings DKNG stock rises January 08, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up January 08, 2026",
+            "summary": "DraftKings (DKNG) stock rose 4.1% to close at $35.98 on January 8, 2026, following the announcement of a partnership with Mindway AI that highlighted the company's responsible gaming initiatives. The collaboration underscored DraftKings' commitment to player safety and regulatory compliance, which resonated positively with investors amid the evolving regulatory landscape for online sports betting.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 217.36000061035156,
+            "open_price": 209.25,
+            "pct_change": 3.8757470061417263,
+            "volume": 2433100
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises January 08, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up January 08, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 3.9% to close at $217.36 on January 8, 2026, though the provided search results did not reveal specific catalysts for the gain. The stock opened at $209.63 that Thursday morning and posted a year-to-date return of 1.08% as of the close.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.06999969482422,
+            "open_price": 23.420000076293945,
+            "pct_change": 7.045258809373046,
+            "volume": 8910000
+          },
+          "search_query": "Caesars Entertainment CZR stock rises January 08, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up January 08, 2026",
+            "summary": "Caesars Entertainment (CZR) stock rose 7.0% on January 8, 2026, to close at $25.07, driven by an analyst rating and price target upgrade. The rally, which reached 9% intraday according to reports, came as the stock traded well below its 52-week high of $40.00. The upgrade occurred just days before the company's scheduled fourth-quarter earnings release.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.150001525878906,
+            "open_price": 33.90999984741211,
+            "pct_change": 3.6567433914672502,
+            "volume": 7260500
+          },
+          "search_query": "MGM Resorts MGM stock rises January 08, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up January 08, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information to explain why MGM Resorts stock rose 3.7% on January 08, 2026. The search results only include after-hours trading data, pre-market prices, and general MGM properties information, but lack specific catalysts such as analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the stock's movement on that date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.430000305175781,
+            "open_price": 13.819999694824219,
+            "pct_change": 4.413897422733057,
+            "volume": 5094300
+          },
+          "search_query": "Penn Entertainment PENN stock rises January 08, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up January 08, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 4.4% on January 8, 2026, to close at $14.43, climbing from an opening price of $14.03. The web search results provided do not specify particular catalysts such as analyst upgrades, earnings announcements, or regulatory developments that drove the gain on that trading day. The stock's movement occurred amid ongoing investor attention to the company's gaming and entertainment portfolio following its previous acquisition of Barstool Sports.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.170000076293945,
+            "open_price": 18.350000381469727,
+            "pct_change": 4.4686630941559775,
+            "volume": 1507500
+          },
+          "search_query": "Rush Street Interactive RSI stock rises January 08, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up January 08, 2026",
+            "summary": "Based on the available information, Rush Street Interactive (RSI) stock rose 4.5% on January 8, 2026, to close at $19.17, rebounding from its previous flat trading at $18.18. The gain occurred on the same day that the company's CFO executed a stock sale transaction worth approximately $3.05 million, though no specific catalyst for the upward movement was evident in the available reports. The closing price remained well above the stock's 52-week low of $9.54.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
