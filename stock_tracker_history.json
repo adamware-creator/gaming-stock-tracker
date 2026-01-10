@@ -4635,6 +4635,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-09",
+      "date_display": "January 09, 2026",
+      "benchmark": {
+        "current_price": 23671.349609375,
+        "open_price": 23496.2109375,
+        "pct_change": 0.7453911285562999,
+        "volume": 8124420000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.16999816894531,
+            "open_price": 36.51499938964844,
+            "pct_change": -3.6834211781047346,
+            "volume": 9597000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 215.3000030517578,
+            "open_price": 223.9499969482422,
+            "pct_change": -3.8624666284248725,
+            "volume": 1332700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.6299991607666,
+            "open_price": 25.68000030517578,
+            "pct_change": -4.088789454560687,
+            "volume": 4676700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.45000076293945,
+            "open_price": 35.68000030517578,
+            "pct_change": -3.4473081045851424,
+            "volume": 5329200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.430000305175781,
+            "open_price": 14.579999923706055,
+            "pct_change": -1.0288039733552028,
+            "volume": 4129800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.260000228881836,
+            "open_price": 19.31999969482422,
+            "pct_change": -0.31055624684329847,
+            "volume": 954400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.020000457763672,
+            "open_price": 16.25,
+            "pct_change": -1.415381798377404,
+            "volume": 59000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.16999816894531,
+            "open_price": 36.51499938964844,
+            "pct_change": -3.6834211781047346,
+            "volume": 9597000
+          },
+          "search_query": "DraftKings DKNG stock drops January 09, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down January 09, 2026",
+            "summary": "I apologize, but the web search results provided do not contain specific information about catalysts that caused DraftKings stock to fall 3.7% on January 9, 2026. The search results show the stock price of $35.17 and reference that shares were down more than 19% following earlier December 2025 announcements, but they do not explain the specific reason for the January 9, 2026 decline. Without concrete information about analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that specific date, I cannot write a factual news narrative explaining the stock movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 215.3000030517578,
+            "open_price": 223.9499969482422,
+            "pct_change": -3.8624666284248725,
+            "volume": 1332700
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops January 09, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down January 09, 2026",
+            "summary": "Flutter Entertainment stock fell 3.9% to close at $215.30 on January 9, 2026, though no specific catalyst was identified in available reports. The decline left shares trading 31.2% below their 52-week high, reflecting ongoing pressure on the gaming company's valuation amid a challenging period for the stock.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.6299991607666,
+            "open_price": 25.68000030517578,
+            "pct_change": -4.088789454560687,
+            "volume": 4676700
+          },
+          "search_query": "Caesars Entertainment CZR stock drops January 09, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down January 09, 2026",
+            "summary": "Caesars Entertainment stock fell 4.1% on January 9, 2026, to close at $24.63, continuing a difficult stretch that saw the gaming company's shares decline 30% over the past year to a market capitalization of $5.03 billion. The stock's downturn occurred amid broader weakness in the gaming sector and ongoing investor concerns about the company's performance, though it showed modest recovery in after-hours trading with a 0.65% gain to $24.79.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.45000076293945,
+            "open_price": 35.68000030517578,
+            "pct_change": -3.4473081045851424,
+            "volume": 5329200
+          },
+          "search_query": "MGM Resorts MGM stock drops January 09, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down January 09, 2026",
+            "summary": "MGM Resorts International (MGM) stock fell 3.4% to close at $34.45 on January 9, 2026, as the company announced it would release its fourth quarter and full year 2025 financial results, creating uncertainty among investors ahead of the earnings report. The decline also came amid pre-market weakness, with shares trading at $33.95 earlier in the session according to pre-market data from January 8.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
