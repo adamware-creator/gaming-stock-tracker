@@ -4776,6 +4776,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-12",
+      "date_display": "January 12, 2026",
+      "benchmark": {
+        "current_price": 23733.900390625,
+        "open_price": 23576.880859375,
+        "pct_change": 0.665989416439552,
+        "volume": 8707170000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.959999084472656,
+            "open_price": 34.779998779296875,
+            "pct_change": 0.5175397110218651,
+            "volume": 8434200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 206.39999389648438,
+            "open_price": 212.6300048828125,
+            "pct_change": -2.929977351861367,
+            "volume": 4333900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.56999969482422,
+            "open_price": 24.34000015258789,
+            "pct_change": 0.9449447033461665,
+            "volume": 4964300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.81999969482422,
+            "open_price": 34.04999923706055,
+            "pct_change": 2.2613817181105587,
+            "volume": 4557200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.199999809265137,
+            "open_price": 14.270000457763672,
+            "pct_change": -0.4905441223055527,
+            "volume": 3605700
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.889999389648438,
+            "open_price": 19.110000610351562,
+            "pct_change": -1.1512360736605842,
+            "volume": 944600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.649999618530273,
+            "open_price": 15.899999618530273,
+            "pct_change": 4.716981245244374,
+            "volume": 125600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 206.39999389648438,
+            "open_price": 212.6300048828125,
+            "pct_change": -2.929977351861367,
+            "volume": 4333900
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops January 12, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down January 12, 2026",
+            "summary": "Flutter Entertainment stock fell 4.13% on January 12, 2026, to close at $206.40, amid a broader market selloff that saw the S&P 500 sink following news related to the Department of Justice. The gaming stock's decline represented a 3.02% drop from its opening price earlier that week of $212.68, continuing pressure on the company's shares despite Vanguard's substantial $4.9 billion stake in the operator.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.81999969482422,
+            "open_price": 34.04999923706055,
+            "pct_change": 2.2613817181105587,
+            "volume": 4557200
+          },
+          "search_query": "MGM Resorts MGM stock rises January 12, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up January 12, 2026",
+            "summary": "I cannot provide a factual news narrative explaining why MGM Resorts stock rose 2.3% on January 12, 2026, as the search results provided do not contain any specific catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the stock movement. The search results only show basic stock price information and unrelated content about UNLV presentations and MGM resort events, without any substantive news that would account for the price increase.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.649999618530273,
+            "open_price": 15.899999618530273,
+            "pct_change": 4.716981245244374,
+            "volume": 125600
+          },
+          "search_query": "Bally's Corporation BALY stock rises January 12, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up January 12, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 4.7% on January 12, 2026, to close at $16.65, driven by news that the company secured up to $1.1 billion in term loans by amending and restating its commitment letter. The financing development provided investors with confidence in the casino operator's liquidity position and ability to fund its operations and expansion plans.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
