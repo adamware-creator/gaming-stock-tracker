@@ -4901,6 +4901,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-13",
+      "date_display": "January 13, 2026",
+      "benchmark": {
+        "current_price": 23709.869140625,
+        "open_price": 23735.119140625,
+        "pct_change": -0.10638244472420673,
+        "volume": 9416400000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.04999923706055,
+            "open_price": 34.994998931884766,
+            "pct_change": -2.700384979761229,
+            "volume": 9133100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 203.6999969482422,
+            "open_price": 208.22999572753906,
+            "pct_change": -2.175478496010826,
+            "volume": 3366800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.860000610351562,
+            "open_price": 24.670000076293945,
+            "pct_change": 0.7701683561816999,
+            "volume": 4386900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.650001525878906,
+            "open_price": 34.66999816894531,
+            "pct_change": -0.05767708140324532,
+            "volume": 4203100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.84000015258789,
+            "open_price": 14.140000343322754,
+            "pct_change": -2.1216420328909718,
+            "volume": 3179000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.770000457763672,
+            "open_price": 18.889999389648438,
+            "pct_change": -0.6352511157333549,
+            "volume": 1071500
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.639999389648438,
+            "open_price": 16.559999465942383,
+            "pct_change": 0.4830913423070096,
+            "volume": 45000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 34.04999923706055,
+            "open_price": 34.994998931884766,
+            "pct_change": -2.700384979761229,
+            "volume": 9133100
+          },
+          "search_query": "DraftKings DKNG stock drops January 13, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down January 13, 2026",
+            "summary": "DraftKings (DKNG) stock fell 2.7% to close at $34.05 on January 13, 2026, extending losses that pushed shares down more than 19% following recent company announcements related to its predictions app expansion. The decline occurred as the stock continued to face pressure from competitive challenges in the sports betting and prediction markets space.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 203.6999969482422,
+            "open_price": 208.22999572753906,
+            "pct_change": -2.175478496010826,
+            "volume": 3366800
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops January 13, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down January 13, 2026",
+            "summary": "Flutter Entertainment stock fell 2.2% on January 13, 2026, to close at $203.70, pressured by Truist Securities lowering its price target to $260 from $280. The decline came amid concerns about intensifying competition in the lucrative prediction market space and deteriorating cash flow, with operating cash flow dropping to $756 million for the nine months ended September 30th from $950 million in the prior-year period.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.84000015258789,
+            "open_price": 14.140000343322754,
+            "pct_change": -2.1216420328909718,
+            "volume": 3179000
+          },
+          "search_query": "Penn Entertainment PENN stock drops January 13, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down January 13, 2026",
+            "summary": "Penn Entertainment (PENN) stock fell 2.1% to close at $13.84 on January 13, 2026, extending its decline from the opening price of $14.17, representing a 2.35% drop for the day. The gaming and entertainment company's shares continued to trade under pressure, with its market capitalization standing at $1.53 billion, though 14 analysts maintained a Buy consensus rating on the stock as of that date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
