@@ -5102,6 +5102,163 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2026-01-15",
+      "date_display": "January 15, 2026",
+      "benchmark": {
+        "current_price": 23530.01953125,
+        "open_price": 23693.970703125,
+        "pct_change": -0.691953129887919,
+        "volume": 9740630000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 35.459999084472656,
+            "open_price": 35.119998931884766,
+            "pct_change": 0.9681098033269331,
+            "volume": 12576000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 201.0800018310547,
+            "open_price": 200.30999755859375,
+            "pct_change": 0.3844063111406606,
+            "volume": 2525600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.350000381469727,
+            "open_price": 24.34000015258789,
+            "pct_change": 4.149548983361243,
+            "volume": 7262400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.40999984741211,
+            "open_price": 34.470001220703125,
+            "pct_change": 2.727004912736728,
+            "volume": 4360200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.579999923706055,
+            "open_price": 13.789999961853027,
+            "pct_change": 5.7287887167395715,
+            "volume": 8327600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.729999542236328,
+            "open_price": 18.969999313354492,
+            "pct_change": 4.006327129104382,
+            "volume": 1470100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.030000686645508,
+            "open_price": 16.65999984741211,
+            "pct_change": 2.2208934130985165,
+            "volume": 148200
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.350000381469727,
+            "open_price": 24.34000015258789,
+            "pct_change": 4.149548983361243,
+            "volume": 7262400
+          },
+          "search_query": "Caesars Entertainment CZR stock rises January 15, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up January 15, 2026",
+            "summary": "Caesars Entertainment stock rose 4.1% on January 15, 2026, to close at $25.35, supported by a consensus \"Buy\" rating from 16 analysts ahead of the company's scheduled fourth quarter and full-year 2025 earnings release. The gaming and hospitality company's market capitalization stood at $4.99 billion following the gains.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.40999984741211,
+            "open_price": 34.470001220703125,
+            "pct_change": 2.727004912736728,
+            "volume": 4360200
+          },
+          "search_query": "MGM Resorts MGM stock rises January 15, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up January 15, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any specific information about catalysts or reasons for MGM Resorts' stock movement on January 15, 2026. The search results only show generic stock quote pages, a poker tournament schedule, and performance overview pages without actual news content, analyst actions, earnings announcements, or other concrete catalysts that would explain the 2.7% price increase to $35.41. Without access to actual news articles or press releases from that date, I cannot write a factual narrative explaining the stock movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.579999923706055,
+            "open_price": 13.789999961853027,
+            "pct_change": 5.7287887167395715,
+            "volume": 8327600
+          },
+          "search_query": "Penn Entertainment PENN stock rises January 15, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up January 15, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information to explain why Penn Entertainment (PENN) stock rose 5.7% on January 15, 2026 to close at $14.58. While the results confirm the date and mention a \"Buy consensus rating\" from 14 analysts and a reference to the stock trading up, they do not specify the actual catalysts\u2014such as specific analyst upgrades, earnings announcements, competitive developments, regulatory changes, or market events\u2014that drove the 5.7% gain on that particular day. To write an accurate news narrative, I would need search results that include the specific news or events from January 15, 2026 that triggered the stock movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.729999542236328,
+            "open_price": 18.969999313354492,
+            "pct_change": 4.006327129104382,
+            "volume": 1470100
+          },
+          "search_query": "Rush Street Interactive RSI stock rises January 15, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up January 15, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 4.0% on January 15, 2026, closing at $19.73, though no specific catalyst was identified in available reports. The stock had previously traded flat at $18.18 earlier in the session and remained well above its 52-week low of $9.54, suggesting continued momentum in the online gaming operator's shares.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 17.030000686645508,
+            "open_price": 16.65999984741211,
+            "pct_change": 2.2208934130985165,
+            "volume": 148200
+          },
+          "search_query": "Bally's Corporation BALY stock rises January 15, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up January 15, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 2.2% to close at $17.03 on January 15, 2026, likely boosted by news that the company secured up to $1.1 billion in term loans through an amended and restated commitment letter. The gain contributed to the stock's positive year-to-date performance of 3.09%, outpacing its recent trajectory despite analysts maintaining a Hold consensus rating.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
