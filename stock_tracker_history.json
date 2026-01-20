@@ -5384,6 +5384,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-19",
+      "date_display": "January 19, 2026",
+      "benchmark": {
+        "current_price": 23515.390625,
+        "open_price": 23639.689453125,
+        "pct_change": -0.5258056725807309,
+        "volume": 9514500000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 32.619998931884766,
+            "open_price": 35.0,
+            "pct_change": -6.8000030517578125,
+            "volume": 28015000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 188.4600067138672,
+            "open_price": 201.2100067138672,
+            "pct_change": -6.336662976275963,
+            "volume": 3837200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.350000381469727,
+            "open_price": 25.010000228881836,
+            "pct_change": -2.6389437879729964,
+            "volume": 3811300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.97999954223633,
+            "open_price": 34.81999969482422,
+            "pct_change": 0.4595055968248396,
+            "volume": 5311800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.289999961853027,
+            "open_price": 14.520000457763672,
+            "pct_change": -1.5840254039914028,
+            "volume": 3322800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.299999237060547,
+            "open_price": 19.65999984741211,
+            "pct_change": -1.831132315084683,
+            "volume": 1564300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.770000457763672,
+            "open_price": 16.959999084472656,
+            "pct_change": -1.1202749821073594,
+            "volume": 32900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 32.619998931884766,
+            "open_price": 35.0,
+            "pct_change": -6.8000030517578125,
+            "volume": 28015000
+          },
+          "search_query": "DraftKings DKNG stock drops January 19, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down January 19, 2026",
+            "summary": "DraftKings (DKNG) stock fell 6.8% on January 19, 2026, closing at $32.62, extending losses from a sharp 8.01% decline on January 16 that dropped shares from $35. The sports betting company's recent downward trend appeared linked to broader concerns affecting the stock, though it maintained a Buy consensus rating from 28 analysts as of the trading session.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 188.4600067138672,
+            "open_price": 201.2100067138672,
+            "pct_change": -6.336662976275963,
+            "volume": 3837200
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops January 19, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down January 19, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock fell 6.3% to close at $188.46 on January 19, 2026, as short interest in the company surged 23.2% in December, signaling increased bearish sentiment among investors. The decline came despite the stock already trading nearly 40% below its 52-week high, reflecting mounting pressure on the online gaming and betting giant amid rising short positions.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.350000381469727,
+            "open_price": 25.010000228881836,
+            "pct_change": -2.6389437879729964,
+            "volume": 3811300
+          },
+          "search_query": "Caesars Entertainment CZR stock drops January 19, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down January 19, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 2.6% to close at $24.35 on January 19, 2026, as the casino operator appeared on a \"New Strong Sell Stocks\" list published by Dow Jones that morning. The decline continued the stock's significant downward trajectory, with shares having already dropped approximately 30% earlier in the year and substantially more from prior highs. The gaming company faced ongoing investor concerns despite recent contrarian interest from some analysts viewing the beaten-down shares as a potential value opportunity heading into 2026.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
