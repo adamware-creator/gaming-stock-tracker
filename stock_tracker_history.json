@@ -5509,6 +5509,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-20",
+      "date_display": "January 20, 2026",
+      "benchmark": {
+        "current_price": 22954.3203125,
+        "open_price": 23142.689453125,
+        "pct_change": -0.8139466288329948,
+        "volume": 9469480000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 32.25,
+            "open_price": 31.850000381469727,
+            "pct_change": 1.2558857574237032,
+            "volume": 17489900
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 184.0800018310547,
+            "open_price": 181.92999267578125,
+            "pct_change": 1.1817782893582502,
+            "volume": 3733000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 22.850000381469727,
+            "open_price": 23.889999389648438,
+            "pct_change": -4.353281853281853,
+            "volume": 6010500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.599998474121094,
+            "open_price": 34.540000915527344,
+            "pct_change": -2.7214893355248146,
+            "volume": 4728500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.729999542236328,
+            "open_price": 13.989999771118164,
+            "pct_change": -1.8584720023984331,
+            "volume": 3974400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.829999923706055,
+            "open_price": 18.860000610351562,
+            "pct_change": -0.159070443661818,
+            "volume": 1666800
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.920000076293945,
+            "open_price": 16.600000381469727,
+            "pct_change": -4.09638728644159,
+            "volume": 76900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 22.850000381469727,
+            "open_price": 23.889999389648438,
+            "pct_change": -4.353281853281853,
+            "volume": 6010500
+          },
+          "search_query": "Caesars Entertainment CZR stock drops January 20, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down January 20, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 4.4% on January 20, 2026, to close at $22.85, extending recent weakness following Morgan Stanley's decision to lower its price target for the stock to $27.00 earlier in the month. The decline brought the gaming and hospitality company's market capitalization to approximately $4.67 billion as shares reached an intraday low of $23.16 during mid-day trading. The stock's drop of over 4% from its opening price of $23.86 reflected ongoing investor concerns about the company's valuation despite analyst consensus maintaining a moderate buy rating.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.599998474121094,
+            "open_price": 34.540000915527344,
+            "pct_change": -2.7214893355248146,
+            "volume": 4728500
+          },
+          "search_query": "MGM Resorts MGM stock drops January 20, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down January 20, 2026",
+            "summary": "MGM Resorts International stock fell 2.7% on January 20, 2026, closing at $33.60, as the company experienced heavy and directionally bearish put option volume despite announcing it would power 100% of its daytime Las Vegas Strip electricity needs with solar energy. The decline represented a drop from $34.98 just four days earlier on January 16, 2026, suggesting investors focused on bearish sentiment rather than the company's sustainability milestone.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.920000076293945,
+            "open_price": 16.600000381469727,
+            "pct_change": -4.09638728644159,
+            "volume": 76900
+          },
+          "search_query": "Bally's Corporation BALY stock drops January 20, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down January 20, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any specific information about catalysts, news events, analyst actions, earnings reports, or other factors that would explain why Bally's Corporation stock fell 4.1% on January 20, 2026. The search results only show basic stock information pages and a racing programs schedule, without any actual news content or market-moving developments. Without concrete information about the cause of the decline, I cannot write a factual news narrative that meets your requirements.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
