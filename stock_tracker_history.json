@@ -5634,6 +5634,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-21",
+      "date_display": "January 21, 2026",
+      "benchmark": {
+        "current_price": 23224.8203125,
+        "open_price": 23017.6796875,
+        "pct_change": 0.8999196609399771,
+        "volume": 9162740000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 31.579999923706055,
+            "open_price": 32.119998931884766,
+            "pct_change": -1.6811924848561144,
+            "volume": 10959100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 181.07000732421875,
+            "open_price": 182.55999755859375,
+            "pct_change": -0.8161646879387027,
+            "volume": 3467700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.530000686645508,
+            "open_price": 22.889999389648438,
+            "pct_change": 2.795986518402873,
+            "volume": 6814300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.900001525878906,
+            "open_price": 33.86000061035156,
+            "pct_change": 0.11813619257618918,
+            "volume": 4012200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.949999809265137,
+            "open_price": 13.710000038146973,
+            "pct_change": 1.7505453716293509,
+            "volume": 4392100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.479999542236328,
+            "open_price": 18.6299991607666,
+            "pct_change": -0.8051509677260831,
+            "volume": 2049200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.979999542236328,
+            "open_price": 15.9399995803833,
+            "pct_change": 0.2509407961481608,
+            "volume": 81900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.530000686645508,
+            "open_price": 22.889999389648438,
+            "pct_change": 2.795986518402873,
+            "volume": 6814300
+          },
+          "search_query": "Caesars Entertainment CZR stock rises January 21, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up January 21, 2026",
+            "summary": "I apologize, but I cannot write the requested narrative. The web search results provided do not contain any information explaining why Caesars Entertainment stock rose 2.8% on January 21, 2026. The search results show only basic stock quotes, pre-market and after-hours trading information, and general company data, but no specific catalysts such as analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the price movement on that date. Without factual information about the actual drivers of the stock increase, I cannot create an accurate news narrative.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
