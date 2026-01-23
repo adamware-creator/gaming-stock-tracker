@@ -5727,6 +5727,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-22",
+      "date_display": "January 22, 2026",
+      "benchmark": {
+        "current_price": 23436.01953125,
+        "open_price": 23440.7109375,
+        "pct_change": -0.020013924758974688,
+        "volume": 9034850000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 31.6200008392334,
+            "open_price": 31.850000381469727,
+            "pct_change": -0.7221335619516709,
+            "volume": 17589600
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 181.19000244140625,
+            "open_price": 180.5,
+            "pct_change": 0.3822728207236842,
+            "volume": 4470200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.610000610351562,
+            "open_price": 23.68000030517578,
+            "pct_change": -0.29560681554940177,
+            "volume": 3767400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.41999816894531,
+            "open_price": 34.2400016784668,
+            "pct_change": 0.5256906590390551,
+            "volume": 3243900
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.529999732971191,
+            "open_price": 14.069999694824219,
+            "pct_change": 3.2693677905066907,
+            "volume": 6194700
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.760000228881836,
+            "open_price": 18.690000534057617,
+            "pct_change": -4.9759244440956545,
+            "volume": 3358600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.520000457763672,
+            "open_price": 16.09000015258789,
+            "pct_change": 2.6724692423736283,
+            "volume": 121500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.529999732971191,
+            "open_price": 14.069999694824219,
+            "pct_change": 3.2693677905066907,
+            "volume": 6194700
+          },
+          "search_query": "Penn Entertainment PENN stock rises January 22, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up January 22, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information to explain why Penn Entertainment (PENN) stock rose 3.3% on January 22, 2026 to close at $14.53. The search results include only general references to Penn Entertainment's stock price and unrelated content about library events and Penn State campuses, but no specific news about analyst actions, earnings reports, competitive developments, regulatory changes, or market events from that date that would explain the stock movement. Without concrete catalysts or news from credible sources, I cannot provide an accurate factual narrative about the reasons for the stock's rise.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.760000228881836,
+            "open_price": 18.690000534057617,
+            "pct_change": -4.9759244440956545,
+            "volume": 3358600
+          },
+          "search_query": "Rush Street Interactive RSI stock drops January 22, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down January 22, 2026",
+            "summary": "Rush Street Interactive (RSI) stock fell 5.0% to close at $17.76 on January 22, 2026, though the provided search results did not reveal a specific catalyst for the decline. The drop prompted market observers to question whether it represented a selling opportunity, as the stock experienced notable intraday weakness without apparent company-specific news or analyst actions.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.520000457763672,
+            "open_price": 16.09000015258789,
+            "pct_change": 2.6724692423736283,
+            "volume": 121500
+          },
+          "search_query": "Bally's Corporation BALY stock rises January 22, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up January 22, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 2.7% to close at $16.52 on January 22, 2026, driven by news that the company secured up to $1.1 billion in term loans through an amended and restated commitment letter. The financing announcement provided investors with confidence about the gaming and hospitality company's liquidity position and ability to fund its operations and expansion plans.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
