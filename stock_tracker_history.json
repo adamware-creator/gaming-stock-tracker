@@ -5852,6 +5852,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-23",
+      "date_display": "January 23, 2026",
+      "benchmark": {
+        "current_price": 23501.240234375,
+        "open_price": 23440.919921875,
+        "pct_change": 0.2573291180595232,
+        "volume": 8228760000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.969999313354492,
+            "open_price": 31.450000762939453,
+            "pct_change": -4.705886847955147,
+            "volume": 17124800
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 174.91000366210938,
+            "open_price": 180.6699981689453,
+            "pct_change": -3.188130052146091,
+            "volume": 4634400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 23.350000381469727,
+            "open_price": 23.299999237060547,
+            "pct_change": 0.2145971933323019,
+            "volume": 4609900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.029998779296875,
+            "open_price": 34.540000915527344,
+            "pct_change": -1.476555074441816,
+            "volume": 2696800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.270000457763672,
+            "open_price": 14.449999809265137,
+            "pct_change": -1.2456702690476977,
+            "volume": 3986800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.170000076293945,
+            "open_price": 17.809999465942383,
+            "pct_change": -3.593483485905164,
+            "volume": 2552700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.5,
+            "open_price": 16.450000762939453,
+            "pct_change": 0.3039467157545135,
+            "volume": 39300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.969999313354492,
+            "open_price": 31.450000762939453,
+            "pct_change": -4.705886847955147,
+            "volume": 17124800
+          },
+          "search_query": "DraftKings DKNG stock drops January 23, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down January 23, 2026",
+            "summary": "DraftKings (DKNG) stock fell 4.7% on January 23, 2026, to close at $29.97, underperforming the broader market despite Benchmark maintaining a bullish stance on the company. The decline came amid concerns about weakness in the New York market, one of DraftKings' key geographic segments, even as analysts remained optimistic about the company's overall prospects.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 174.91000366210938,
+            "open_price": 180.6699981689453,
+            "pct_change": -3.188130052146091,
+            "volume": 4634400
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops January 23, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down January 23, 2026",
+            "summary": "Flutter Entertainment stock fell 3.2% on January 23, 2026, to close at $174.91, pressured by Barclays lowering its price target on the shares. The decline left the stock trading more than 42% below its 52-week high, reflecting ongoing weakness in the online gaming operator's valuation despite after-hours trading showing a modest recovery to around $175-$176.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.170000076293945,
+            "open_price": 17.809999465942383,
+            "pct_change": -3.593483485905164,
+            "volume": 2552700
+          },
+          "search_query": "Rush Street Interactive RSI stock drops January 23, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down January 23, 2026",
+            "summary": "Rush Street Interactive stock fell 3.6% to close at $17.17 on January 23, 2026, following a price target reduction by Susquehanna, which lowered its target to $22 from $23. The decline came after the stock had already dropped 5.1% the previous day on January 22, 2026, extending the gaming company's recent downward pressure.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
