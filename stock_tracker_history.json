@@ -5977,6 +5977,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-26",
+      "date_display": "January 26, 2026",
+      "benchmark": {
+        "current_price": 23601.359375,
+        "open_price": 23529.279296875,
+        "pct_change": 0.30634205670112974,
+        "volume": 7505250000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 30.579999923706055,
+            "open_price": 29.90999984741211,
+            "pct_change": 2.24005376032095,
+            "volume": 15610600
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 174.6999969482422,
+            "open_price": 174.44000244140625,
+            "pct_change": 0.14904523228453215,
+            "volume": 3040400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 22.3700008392334,
+            "open_price": 23.09000015258789,
+            "pct_change": -3.1182300069140356,
+            "volume": 5196900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.099998474121094,
+            "open_price": 33.970001220703125,
+            "pct_change": 0.3826825102930568,
+            "volume": 3085400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.130000114440918,
+            "open_price": 14.239999771118164,
+            "pct_change": -0.7724695115539922,
+            "volume": 2955300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.09000015258789,
+            "open_price": 17.0,
+            "pct_change": 0.5294126622817096,
+            "volume": 2543700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 16.59000015258789,
+            "open_price": 16.5,
+            "pct_change": 0.5454554702296401,
+            "volume": 39500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 30.579999923706055,
+            "open_price": 29.90999984741211,
+            "pct_change": 2.24005376032095,
+            "volume": 15610600
+          },
+          "search_query": "DraftKings DKNG stock rises January 26, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up January 26, 2026",
+            "summary": "DraftKings (DKNG) stock rose 2.2% to close at $30.58 on January 26, 2026, though the web search results did not reveal specific catalysts driving the day's gain. The stock's year-to-date return stood at 11.26% as of the close, outpacing broader market benchmarks, while the company's market capitalization reached $14.92 billion.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 22.3700008392334,
+            "open_price": 23.09000015258789,
+            "pct_change": -3.1182300069140356,
+            "volume": 5196900
+          },
+          "search_query": "Caesars Entertainment CZR stock drops January 26, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down January 26, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 4.2% on January 26, 2026, to close at $22.37, underperforming its competitors during Monday's trading session. The stock traded significantly below its 52-week high of $40.00, with shares moving closer to the 52-week low of $18.25 amid elevated volume of 4.8 million shares.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
