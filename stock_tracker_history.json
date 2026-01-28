@@ -6086,6 +6086,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-27",
+      "date_display": "January 27, 2026",
+      "benchmark": {
+        "current_price": 23817.099609375,
+        "open_price": 23734.75,
+        "pct_change": 0.3469579809140606,
+        "volume": 8026050000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 30.110000610351562,
+            "open_price": 30.290000915527344,
+            "pct_change": -0.5942565194295157,
+            "volume": 12044100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 168.1199951171875,
+            "open_price": 173.72999572753906,
+            "pct_change": -3.2291491097195055,
+            "volume": 3170700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.579999923706055,
+            "open_price": 22.219999313354492,
+            "pct_change": -2.8802853709531395,
+            "volume": 4239700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.47999954223633,
+            "open_price": 33.84000015258789,
+            "pct_change": -1.0638315860764902,
+            "volume": 2571200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.739999771118164,
+            "open_price": 14.069999694824219,
+            "pct_change": -2.3454152868777123,
+            "volume": 2964500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.09000015258789,
+            "open_price": 17.200000762939453,
+            "pct_change": -0.6395384039085564,
+            "volume": 3318000
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.960000038146973,
+            "open_price": 16.719999313354492,
+            "pct_change": -4.5454503972407325,
+            "volume": 38800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 168.1199951171875,
+            "open_price": 173.72999572753906,
+            "pct_change": -3.2291491097195055,
+            "volume": 3170700
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops January 27, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down January 27, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock fell 3.2% on January 27, 2026, to close at $168.12, pressured by a downgrade from Craig-Hallum that sent shares down 3.47% during the session. The decline pushed the stock to a new 52-week low of $167.23, with shares trading significantly below their August 2025 high of $313.69.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.579999923706055,
+            "open_price": 22.219999313354492,
+            "pct_change": -2.8802853709531395,
+            "volume": 4239700
+          },
+          "search_query": "Caesars Entertainment CZR stock drops January 27, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down January 27, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 2.9% on January 27, 2026, to close at $21.58, continuing a downward trend that saw the stock decline 4.66% earlier in the week on January 20. The search results did not reveal specific catalysts for the decline, such as analyst downgrades, earnings announcements, or regulatory changes, though the stock dropped from $22.22 to $21.58 during the trading session. The consecutive days of losses suggested ongoing selling pressure in the gaming and hospitality sector affecting the casino operator.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.739999771118164,
+            "open_price": 14.069999694824219,
+            "pct_change": -2.3454152868777123,
+            "volume": 2964500
+          },
+          "search_query": "Penn Entertainment PENN stock drops January 27, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down January 27, 2026",
+            "summary": "Penn Entertainment (PENN) stock fell 2.3% to close at $13.74 on January 27, 2026, despite maintaining a \"Buy\" consensus rating from 14 analysts. The decline came approximately seven weeks after the company mutually agreed with ESPN to an early termination of their U.S. sports betting partnership in November 2025 and three weeks following the announcement of a new corporate organizational structure on January 5, 2026.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.960000038146973,
+            "open_price": 16.719999313354492,
+            "pct_change": -4.5454503972407325,
+            "volume": 38800
+          },
+          "search_query": "Bally's Corporation BALY stock drops January 27, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down January 27, 2026",
+            "summary": "Based on the limited information available in the search results, Bally's Corporation (BALY) stock fell 4.5% on January 27, 2026 to close at $15.96, though no specific catalyst for that day's decline was identified in the provided sources. The stock remained under pressure following a significant 24% plunge in March 2025 when the company canceled its earnings call with investors amid declining fourth-quarter revenue. The gaming and hospitality company continued to face investor concerns about its operational performance nearly a year after that tumultuous earnings episode.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
