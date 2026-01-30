@@ -6384,6 +6384,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-01-29",
+      "date_display": "January 29, 2026",
+      "benchmark": {
+        "current_price": 23685.119140625,
+        "open_price": 23830.919921875,
+        "pct_change": -0.6118134831889801,
+        "volume": 8782210000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.940000534057617,
+            "open_price": 30.049999237060547,
+            "pct_change": -0.36605226554305104,
+            "volume": 15930700
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 168.72000122070312,
+            "open_price": 167.2899932861328,
+            "pct_change": 0.8548078139524024,
+            "volume": 2656400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.280000686645508,
+            "open_price": 21.219999313354492,
+            "pct_change": 0.28275860147297294,
+            "volume": 5231600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.34000015258789,
+            "open_price": 32.84000015258789,
+            "pct_change": 1.5225334886626012,
+            "volume": 4152300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.149999618530273,
+            "open_price": 13.15999984741211,
+            "pct_change": -0.07598958205005196,
+            "volume": 3891100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.780000686645508,
+            "open_price": 16.81999969482422,
+            "pct_change": 5.707497082278168,
+            "volume": 5111000
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.029999732971191,
+            "open_price": 15.359999656677246,
+            "pct_change": -2.148437051315937,
+            "volume": 143400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.780000686645508,
+            "open_price": 16.81999969482422,
+            "pct_change": 5.707497082278168,
+            "volume": 5111000
+          },
+          "search_query": "Rush Street Interactive RSI stock rises January 29, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up January 29, 2026",
+            "summary": "I apologize, but the web search results provided do not contain specific information about catalysts or reasons for RSI's 5.7% stock increase on January 29, 2026. The results only show price data and general company information, without mentioning analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the stock movement. Without concrete details about what drove the price increase, I cannot write a factual news narrative that meets your requirements.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.029999732971191,
+            "open_price": 15.359999656677246,
+            "pct_change": -2.148437051315937,
+            "volume": 143400
+          },
+          "search_query": "Bally's Corporation BALY stock drops January 29, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down January 29, 2026",
+            "summary": "I apologize, but the web search results provided do not contain specific information about why Bally's Corporation (BALY) stock fell 2.1% on January 29, 2026. The search results only show general stock information pages and historical data without detailing any particular catalysts, analyst actions, earnings announcements, regulatory changes, or competitive developments that occurred on that specific date. Without concrete information about the actual cause of the decline, I cannot write a factual news narrative that meets your requirements.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
