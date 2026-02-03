@@ -6618,6 +6618,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-02",
+      "date_display": "February 02, 2026",
+      "benchmark": {
+        "current_price": 23592.109375,
+        "open_price": 23370.5390625,
+        "pct_change": 0.9480753178497635,
+        "volume": 8882530000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 27.420000076293945,
+            "open_price": 27.65999984741211,
+            "pct_change": -0.8676781360887051,
+            "volume": 17352000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 162.50999450683594,
+            "open_price": 166.16000366210938,
+            "pct_change": -2.1966833623185424,
+            "volume": 2363600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.59000015258789,
+            "open_price": 20.450000762939453,
+            "pct_change": 0.6845935668723867,
+            "volume": 5090500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.4900016784668,
+            "open_price": 33.5,
+            "pct_change": -0.02984573592000933,
+            "volume": 3622100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 12.600000381469727,
+            "open_price": 12.729999542236328,
+            "pct_change": -1.02120318492772,
+            "volume": 2592000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.889999389648438,
+            "open_price": 17.549999237060547,
+            "pct_change": 1.9373228909885545,
+            "volume": 1642700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.100000381469727,
+            "open_price": 15.25,
+            "pct_change": -0.9836040559362192,
+            "volume": 102300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 162.50999450683594,
+            "open_price": 166.16000366210938,
+            "pct_change": -2.1966833623185424,
+            "volume": 2363600
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops February 02, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down February 02, 2026",
+            "summary": "Flutter Entertainment stock fell 2.2% to close at $162.51 on February 2, 2026, though no specific catalyst was identified in available reports for the decline. The stock also experienced weakness on the London Stock Exchange, where Flutter's shares dropped from a previous close of 12,125.00 to an opening price of 11,825.00 on the same day.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
