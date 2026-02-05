@@ -6868,6 +6868,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-04",
+      "date_display": "February 04, 2026",
+      "benchmark": {
+        "current_price": 22904.580078125,
+        "open_price": 23217.01953125,
+        "pct_change": -1.3457345491933534,
+        "volume": 10862000000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 27.239999771118164,
+            "open_price": 27.809999465942383,
+            "pct_change": -2.049621379972592,
+            "volume": 15472200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 153.89999389648438,
+            "open_price": 157.30999755859375,
+            "pct_change": -2.167696723051083,
+            "volume": 3180000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.950000762939453,
+            "open_price": 21.2549991607666,
+            "pct_change": 3.269826533118456,
+            "volume": 9249200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.93000030517578,
+            "open_price": 38.189998626708984,
+            "pct_change": -3.299288732238908,
+            "volume": 13038900
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.039999961853027,
+            "open_price": 12.8100004196167,
+            "pct_change": 1.7954686549745653,
+            "volume": 5277600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.440000534057617,
+            "open_price": 17.100000381469727,
+            "pct_change": 1.9883049415386502,
+            "volume": 3026400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.729999542236328,
+            "open_price": 14.779999732971191,
+            "pct_change": -0.33829628983905163,
+            "volume": 113400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 27.239999771118164,
+            "open_price": 27.809999465942383,
+            "pct_change": -2.049621379972592,
+            "volume": 15472200
+          },
+          "search_query": "DraftKings DKNG stock drops February 04, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down February 04, 2026",
+            "summary": "DraftKings (DKNG) stock fell 2.0% to close at $27.24 on February 4, 2026, amid concerns highlighted in analyst commentary about the company's recent 26% price drop and its elevated 2.4x price-to-sales ratio compared to industry peers. The decline extended the stock's negative performance, which was down 4.9% year-to-date as of early December 2025, as market sentiment continued to deteriorate around the online sports betting company's valuation metrics.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 153.89999389648438,
+            "open_price": 157.30999755859375,
+            "pct_change": -2.167696723051083,
+            "volume": 3180000
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops February 04, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down February 04, 2026",
+            "summary": "Flutter Entertainment stock fell 2.2% to close at $153.90 on February 4, 2026, amid a broader decline that saw shares plummet 26% recently and trade 50.25% below their 52-week high. The sharp downturn appeared to continue pressure from a significant gap down to $156.56 on February 3, reflecting ongoing investor concerns about the company's valuation and recent stock price deterioration.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.950000762939453,
+            "open_price": 21.2549991607666,
+            "pct_change": 3.269826533118456,
+            "volume": 9249200
+          },
+          "search_query": "Caesars Entertainment CZR stock rises February 04, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up February 04, 2026",
+            "summary": "I cannot provide a factual news narrative explaining why Caesars Entertainment stock rose 3.3% on February 04, 2026, as the search results provided do not contain any information about specific catalysts, news events, analyst actions, earnings announcements, or market developments from that date that would explain the stock movement. The search results only show general investor relations pages and stock quote information without any news content from February 4, 2026.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.93000030517578,
+            "open_price": 38.189998626708984,
+            "pct_change": -3.299288732238908,
+            "volume": 13038900
+          },
+          "search_query": "MGM Resorts MGM stock drops February 04, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down February 04, 2026",
+            "summary": "I cannot provide a factual news narrative explaining why MGM Resorts stock fell 3.3% on February 04, 2026, as the search results do not contain specific information about catalysts or reasons for a decline on that date. One search result actually references the stock \"rocketing higher\" that day, which contradicts the premise of a 3.3% decline, while the other results provide only general company information without relevant news catalysts for the specified date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
