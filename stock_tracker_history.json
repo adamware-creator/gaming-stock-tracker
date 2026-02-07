@@ -7166,6 +7166,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-06",
+      "date_display": "February 06, 2026",
+      "benchmark": {
+        "current_price": 23031.2109375,
+        "open_price": 22625.30078125,
+        "pct_change": 1.7940541881608274,
+        "volume": 9054400000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.6200008392334,
+            "open_price": 26.0,
+            "pct_change": 2.3846186124361477,
+            "volume": 16345600
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 152.52999877929688,
+            "open_price": 149.91000366210938,
+            "pct_change": 1.7477119959871759,
+            "volume": 2076800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.520000457763672,
+            "open_price": 20.350000381469727,
+            "pct_change": 0.8353811946300687,
+            "volume": 11252000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.4900016784668,
+            "open_price": 36.22999954223633,
+            "pct_change": 3.4777867848482287,
+            "volume": 6089800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.40999984741211,
+            "open_price": 12.390000343322754,
+            "pct_change": 8.232441289955702,
+            "volume": 6754200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.670000076293945,
+            "open_price": 16.920000076293945,
+            "pct_change": 4.432624093488039,
+            "volume": 2103600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.989999771118164,
+            "open_price": 14.760000228881836,
+            "pct_change": 1.5582624571121166,
+            "volume": 184500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.6200008392334,
+            "open_price": 26.0,
+            "pct_change": 2.3846186124361477,
+            "volume": 16345600
+          },
+          "search_query": "DraftKings DKNG stock rises February 06, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up February 06, 2026",
+            "summary": "DraftKings Inc. (DKNG) stock rose 2.4% to close at $26.62 on February 6, 2026, driven by the company's announcement of an agreement with Crypto.com to expand its prediction markets catalog. The stock traded in a range of $25.68 to $26.62 during the session with volume of 16.2 million shares, as investors anticipated the company's upcoming earnings report.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.4900016784668,
+            "open_price": 36.22999954223633,
+            "pct_change": 3.4777867848482287,
+            "volume": 6089800
+          },
+          "search_query": "MGM Resorts MGM stock rises February 06, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up February 06, 2026",
+            "summary": "MGM Resorts International stock rose 3.5% on February 6, 2026, to close at $37.49, following the company's BetMGM FY 2025 business update released on February 4, which provided investors with insights into the performance of its sports betting and iGaming operations across multiple states. The gain brought MGM's market capitalization to $10.26 billion as investor sentiment improved following the digital gaming division's annual results.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.40999984741211,
+            "open_price": 12.390000343322754,
+            "pct_change": 8.232441289955702,
+            "volume": 6754200
+          },
+          "search_query": "Penn Entertainment PENN stock rises February 06, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up February 06, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 8.2% to close at $13.41 on February 6, 2026, opening at $12.37 and gaining momentum throughout the trading session. The provided search results do not identify a specific catalyst for the day's surge, though the company had previously announced in November 2025 that it was terminating its ESPN BET partnership early and transitioning to its theScore Bet brand. The stock's intraday rally represented significant volatility for the gaming and entertainment company as investors appeared to react to developments not captured in the available press releases.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.670000076293945,
+            "open_price": 16.920000076293945,
+            "pct_change": 4.432624093488039,
+            "volume": 2103600
+          },
+          "search_query": "Rush Street Interactive RSI stock rises February 06, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up February 06, 2026",
+            "summary": "I apologize, but the web search results provided do not contain specific information about catalysts or reasons for Rush Street Interactive's 4.4% stock rise on February 06, 2026. The search results only show stock price data and performance overviews without mentioning analyst actions, earnings announcements, competitive developments, regulatory changes, or other specific news events that would have driven the price movement to $17.67 on that date. Without access to actual news catalysts from that day, I cannot write a factual narrative explaining the \u043f\u0440\u0438\u0447\u0438\u043d\u044b for the stock's increase.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
