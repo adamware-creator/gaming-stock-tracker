@@ -7307,6 +7307,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-09",
+      "date_display": "February 09, 2026",
+      "benchmark": {
+        "current_price": 23238.669921875,
+        "open_price": 22952.240234375,
+        "pct_change": 1.2479378246966122,
+        "volume": 8174050000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 27.219999313354492,
+            "open_price": 26.75,
+            "pct_change": 1.7570067788952977,
+            "volume": 12411800
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 154.50999450683594,
+            "open_price": 152.4600067138672,
+            "pct_change": 1.344606915055508,
+            "volume": 20766700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.649999618530273,
+            "open_price": 20.549999237060547,
+            "pct_change": 0.48661987923280586,
+            "volume": 4821100
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 38.060001373291016,
+            "open_price": 37.66999816894531,
+            "pct_change": 1.0353151667185825,
+            "volume": 4227200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.600000381469727,
+            "open_price": 13.3100004196167,
+            "pct_change": 2.1788125673205556,
+            "volume": 3840000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.700000762939453,
+            "open_price": 17.670000076293945,
+            "pct_change": 0.1697831721334099,
+            "volume": 2240700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.029999732971191,
+            "open_price": 14.890000343322754,
+            "pct_change": -5.775692347362636,
+            "volume": 155300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.600000381469727,
+            "open_price": 13.3100004196167,
+            "pct_change": 2.1788125673205556,
+            "volume": 3840000
+          },
+          "search_query": "Penn Entertainment PENN stock rises February 09, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up February 09, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative explaining why Penn Entertainment (PENN) stock rose 2.2% on February 09, 2026, because the web search results provided do not contain any specific information about catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date. The search results only show stock price data and generic investor relations page content without any news explaining the price movement. Without concrete information about what drove the stock price increase, I cannot create an accurate narrative that meets your requirements for factual reporting.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.029999732971191,
+            "open_price": 14.890000343322754,
+            "pct_change": -5.775692347362636,
+            "volume": 155300
+          },
+          "search_query": "Bally's Corporation BALY stock drops February 09, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down February 09, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information about the specific catalysts that caused Bally's Corporation (BALY) stock to fall 5.8% on February 9, 2026. While the search results confirm that shares were down on that date, they do not include details about analyst actions, earnings news, competitive developments, regulatory changes, or other specific market events that drove the decline. Without concrete information about the underlying causes, I cannot write a factual news narrative that meets the requirements.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
