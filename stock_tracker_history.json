@@ -7416,6 +7416,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-10",
+      "date_display": "February 10, 2026",
+      "benchmark": {
+        "current_price": 23102.470703125,
+        "open_price": 23271.220703125,
+        "pct_change": -0.7251445987847953,
+        "volume": 8513440000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 27.1200008392334,
+            "open_price": 27.270000457763672,
+            "pct_change": -0.5500535974049428,
+            "volume": 18721300
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 151.6300048828125,
+            "open_price": 155.89999389648438,
+            "pct_change": -2.738928275075555,
+            "volume": 5026600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.75,
+            "open_price": 20.739999771118164,
+            "pct_change": 0.048217111823510836,
+            "volume": 7280900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.36000061035156,
+            "open_price": 38.099998474121094,
+            "pct_change": -1.9422516887295016,
+            "volume": 4194600
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.880000114440918,
+            "open_price": 13.720000267028809,
+            "pct_change": 1.1661796231638033,
+            "volume": 3132900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.3700008392334,
+            "open_price": 17.829999923706055,
+            "pct_change": -2.5799163569320034,
+            "volume": 2095200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.949999809265137,
+            "open_price": 14.029999732971191,
+            "pct_change": 6.557377717776429,
+            "volume": 63000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 151.6300048828125,
+            "open_price": 155.89999389648438,
+            "pct_change": -2.738928275075555,
+            "volume": 5026600
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops February 10, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down February 10, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock fell 2.7% on February 10, 2026, closing at $151.63, though the provided search results did not specify a clear catalyst for the decline. The stock underperformed the S&P 500, which declined 1.86% on the same day, amid what analysts characterized as a fundamentally stable core business facing a potential contrarian setup. Trading volume reached 1,741,215 shares during regular hours, with the stock continuing to trade near its closing price in after-hours activity.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.3700008392334,
+            "open_price": 17.829999923706055,
+            "pct_change": -2.5799163569320034,
+            "volume": 2095200
+          },
+          "search_query": "Rush Street Interactive RSI stock drops February 10, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down February 10, 2026",
+            "summary": "I cannot provide a specific news narrative explaining why Rush Street Interactive stock fell 2.6% on February 10, 2026, as the web search results provided do not contain any information about specific catalysts, analyst actions, earnings developments, competitive news, or regulatory changes that occurred on that date. The search results only show basic stock information pages and headers without the actual news content or events that would have driven the stock movement on February 10, 2026.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.949999809265137,
+            "open_price": 14.029999732971191,
+            "pct_change": 6.557377717776429,
+            "volume": 63000
+          },
+          "search_query": "Bally's Corporation BALY stock rises February 10, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up February 10, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 6.6% on February 10, 2026, to close at $14.95, though no specific catalyst was evident in available market reports for that trading session. The gain came approximately one year after the company completed transactions with Standard General and The Queen Casino & Entertainment in February 2025, which involved consolidating operations of 19 casinos across 11 states and reverting to the BALY ticker symbol. The stock movement appeared to reflect broader market dynamics rather than company-specific news announced on that particular date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
