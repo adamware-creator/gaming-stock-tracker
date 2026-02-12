@@ -7541,6 +7541,179 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-11",
+      "date_display": "February 11, 2026",
+      "benchmark": {
+        "current_price": 23066.470703125,
+        "open_price": 23278.2890625,
+        "pct_change": -0.9099395527149258,
+        "volume": 9927010000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.299999237060547,
+            "open_price": 26.969999313354492,
+            "pct_change": -2.4842420962249987,
+            "volume": 11620200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 144.27999877929688,
+            "open_price": 150.0,
+            "pct_change": -3.8133341471354165,
+            "volume": 3070900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 19.84000015258789,
+            "open_price": 20.770000457763672,
+            "pct_change": -4.4776133109239,
+            "volume": 5234800
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.36000061035156,
+            "open_price": 37.43000030517578,
+            "pct_change": -2.8586686777992365,
+            "volume": 3605100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.359999656677246,
+            "open_price": 13.869999885559082,
+            "pct_change": -3.6770024015128424,
+            "volume": 3200000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 17.100000381469727,
+            "open_price": 17.440000534057617,
+            "pct_change": -1.9495420996342463,
+            "volume": 2551400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.539999961853027,
+            "open_price": 14.880000114440918,
+            "pct_change": -2.284947244442043,
+            "volume": 68200
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.299999237060547,
+            "open_price": 26.969999313354492,
+            "pct_change": -2.4842420962249987,
+            "volume": 11620200
+          },
+          "search_query": "DraftKings DKNG stock drops February 11, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down February 11, 2026",
+            "summary": "DraftKings Inc. (DKNG) stock fell 2.5% on February 11, 2026, closing at $26.30, down from its previous closing price of $27.12. The decline occurred amid broader market volatility and continued negative sentiment surrounding the online sports betting company that had emerged in early December 2025 when traders questioned the company's long-term viability. The stock showed some recovery in after-hours trading, rebounding to $27.14 by 8:00 PM ET.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 144.27999877929688,
+            "open_price": 150.0,
+            "pct_change": -3.8133341471354165,
+            "volume": 3070900
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops February 11, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down February 11, 2026",
+            "summary": "Flutter Entertainment PLC (FLUT) stock fell 3.8% on February 11, 2026, to close at $144.28, though the provided search results did not specify a particular catalyst for the decline. The stock traded near its 52-week low of $143.56, significantly below its 52-week high of $313.69, reflecting sustained downward pressure on shares of the gaming and entertainment company.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 19.84000015258789,
+            "open_price": 20.770000457763672,
+            "pct_change": -4.4776133109239,
+            "volume": 5234800
+          },
+          "search_query": "Caesars Entertainment CZR stock drops February 11, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down February 11, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 4.5% on February 11, 2026, to close at $19.84, as investors appeared cautious ahead of the company's fourth-quarter earnings report scheduled for release. The decline represented a notable drop from the $20.65 level seen just two days earlier on February 9, suggesting pre-earnings uncertainty weighed on investor sentiment. The stock traded lower as market participants awaited key financial results and guidance from the casino and entertainment operator.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.36000061035156,
+            "open_price": 37.43000030517578,
+            "pct_change": -2.8586686777992365,
+            "volume": 3605100
+          },
+          "search_query": "MGM Resorts MGM stock drops February 11, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down February 11, 2026",
+            "summary": "MGM Resorts International stock fell 2.9% to close at $36.36 on February 11, 2026, as the company released its fourth quarter and full year 2025 earnings results and filed its annual 10-K report with the SEC. The decline extended the stock's recent weakness, with shares down approximately 11% over an eight-day losing streak according to market data.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.359999656677246,
+            "open_price": 13.869999885559082,
+            "pct_change": -3.6770024015128424,
+            "volume": 3200000
+          },
+          "search_query": "Penn Entertainment PENN stock drops February 11, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down February 11, 2026",
+            "summary": "Penn Entertainment (PENN) stock fell 3.7% on February 11, 2026, to close at $13.36, continuing its broader decline following the company's November 2025 announcement that it would terminate its exclusive online sports betting partnership with ESPN effective December 1. The stock had already dropped 14% in recent trading as investors weighed the loss of the high-profile ESPN Bet brand and the uncertainty surrounding the company's digital sports betting strategy going forward. Despite the weakness, analysts maintained a consensus Buy rating on the stock as of February 11, 2026.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.539999961853027,
+            "open_price": 14.880000114440918,
+            "pct_change": -2.284947244442043,
+            "volume": 68200
+          },
+          "search_query": "Bally's Corporation BALY stock drops February 11, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down February 11, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.3% on February 11, 2026, to close at $14.54, following news that Gaming and Leisure Properties acquired Bally's Lincoln real estate assets for $700 million. The sale-leaseback transaction, announced late in the trading day, raised investor concerns about the company's need to monetize assets and potentially increase its lease obligations. The stock declined 2.61% during the session as the market digested the implications of the real estate divestiture.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
