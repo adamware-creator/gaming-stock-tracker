@@ -7903,6 +7903,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-13",
+      "date_display": "February 13, 2026",
+      "benchmark": {
+        "current_price": 22546.669921875,
+        "open_price": 22561.4609375,
+        "pct_change": -0.0655587670761846,
+        "volume": 7964830000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 21.760000228881836,
+            "open_price": 21.549999237060547,
+            "pct_change": 0.9744825951554582,
+            "volume": 65814100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 125.16999816894531,
+            "open_price": 136.6699981689453,
+            "pct_change": -8.414429029101337,
+            "volume": 8682400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 18.139999389648438,
+            "open_price": 18.700000762939453,
+            "pct_change": -2.9946596280405124,
+            "volume": 9008400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.13999938964844,
+            "open_price": 34.06999969482422,
+            "pct_change": 0.2054584545090349,
+            "volume": 4017400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 11.760000228881836,
+            "open_price": 12.34000015258789,
+            "pct_change": -4.700161398169996,
+            "volume": 5542600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 16.030000686645508,
+            "open_price": 15.600000381469727,
+            "pct_change": 2.756412145262201,
+            "volume": 2595200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.90999984741211,
+            "open_price": 13.600000381469727,
+            "pct_change": 2.279407773875972,
+            "volume": 159800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 125.16999816894531,
+            "open_price": 136.6699981689453,
+            "pct_change": -8.414429029101337,
+            "volume": 8682400
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops February 13, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down February 13, 2026",
+            "summary": "Flutter Entertainment PLC (FLUT) shares fell 8.4% on February 13, 2026 to close at $125.17, extending declines following an earnings miss announced the previous day that sent the stock down 15% overall. Despite Citi maintaining its buy rating on February 12, investor sentiment remained negative as the online gambling company struggled to recover from the disappointing quarterly results.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 18.139999389648438,
+            "open_price": 18.700000762939453,
+            "pct_change": -2.9946596280405124,
+            "volume": 9008400
+          },
+          "search_query": "Caesars Entertainment CZR stock drops February 13, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down February 13, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 3.0% on February 13, 2026, to close at $18.14, pressured by higher-than-expected CPI data released that morning showing inflation rising from 324.05 to 325.25, which dampened investor sentiment toward discretionary spending stocks. The decline added to the company's struggles, as CZR remained down 38.2% year-to-date amid broader concerns about gaming sector weakness following Nevada's reported 1.55% decline in December statewide gaming revenue.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 11.760000228881836,
+            "open_price": 12.34000015258789,
+            "pct_change": -4.700161398169996,
+            "volume": 5542600
+          },
+          "search_query": "Penn Entertainment PENN stock drops February 13, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down February 13, 2026",
+            "summary": "Penn Entertainment stock fell 4.7% to close at $11.76 on February 13, 2026, declining from an opening price of $12.29 as competitor DraftKings reported disappointing 2026 revenue guidance that missed expectations. The drop appeared to reflect broader concerns about the online gaming and sports betting sector following DraftKings' weak outlook. The decline brought Penn Entertainment's market capitalization to $1.27 billion.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 16.030000686645508,
+            "open_price": 15.600000381469727,
+            "pct_change": 2.756412145262201,
+            "volume": 2595200
+          },
+          "search_query": "Rush Street Interactive RSI stock rises February 13, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up February 13, 2026",
+            "summary": "I cannot write a factual news narrative about why Rush Street Interactive (RSI) stock rose 2.8% on February 13, 2026, because the web search results provided do not contain any information about specific catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date. The search results only show basic stock price information and performance charts without explaining the reasons behind the price movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.90999984741211,
+            "open_price": 13.600000381469727,
+            "pct_change": 2.279407773875972,
+            "volume": 159800
+          },
+          "search_query": "Bally's Corporation BALY stock rises February 13, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up February 13, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 2.3% to close at $13.91 on February 13, 2026, amid ongoing investor interest following the company's binding agreement with The Star Entertainment Group announced in April 2025, which would give Bally's up to 56.7% ownership of The Star's fully diluted share capital upon conversion. The gain contributed to the stock's strong year-to-date performance of 15.80%, significantly outpacing the S&P 500 benchmark over the same period.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
