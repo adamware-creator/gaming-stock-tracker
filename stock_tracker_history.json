@@ -8060,6 +8060,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-16",
+      "date_display": "February 16, 2026",
+      "benchmark": {
+        "current_price": 22546.669921875,
+        "open_price": 22561.4609375,
+        "pct_change": -0.0655587670761846,
+        "volume": 7964830000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 21.760000228881836,
+            "open_price": 21.549999237060547,
+            "pct_change": 0.9744825951554582,
+            "volume": 65814100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 125.16999816894531,
+            "open_price": 136.6699981689453,
+            "pct_change": -8.414429029101337,
+            "volume": 8682400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 18.139999389648438,
+            "open_price": 18.700000762939453,
+            "pct_change": -2.9946596280405124,
+            "volume": 9008400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.13999938964844,
+            "open_price": 34.06999969482422,
+            "pct_change": 0.2054584545090349,
+            "volume": 4017400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 11.760000228881836,
+            "open_price": 12.34000015258789,
+            "pct_change": -4.700161398169996,
+            "volume": 5542600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 16.030000686645508,
+            "open_price": 15.600000381469727,
+            "pct_change": 2.756412145262201,
+            "volume": 2595200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.90999984741211,
+            "open_price": 13.600000381469727,
+            "pct_change": 2.279407773875972,
+            "volume": 159800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 125.16999816894531,
+            "open_price": 136.6699981689453,
+            "pct_change": -8.414429029101337,
+            "volume": 8682400
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops February 16, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down February 16, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock fell 8.4% on February 16, 2026, to close at $125.17, extending a steep decline that saw the shares lose approximately 26% in the 30 days leading up to mid-February. The selling pressure came after Weiss Ratings downgraded the stock on January 16, 2026, assigning it an E rating with a Sell recommendation. The single-day drop contributed to an 11.5% slide during the broader period, reflecting deteriorating sentiment around the gaming company's near-term prospects.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 18.139999389648438,
+            "open_price": 18.700000762939453,
+            "pct_change": -2.9946596280405124,
+            "volume": 9008400
+          },
+          "search_query": "Caesars Entertainment CZR stock drops February 16, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down February 16, 2026",
+            "summary": "Caesars Entertainment stock fell 3.0% on February 16, 2026, closing at $18.14, as investors positioned ahead of the company's fourth quarter and full year earnings report scheduled for February 17, 2026. The decline extended CZR's significant year-to-date losses, with the stock down 41% in 2026 amid ongoing weakness in the casino and gaming sector. The pullback reflected investor caution before the closely-watched earnings announcement, with the company's market capitalization falling to approximately $3.7 billion.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 11.760000228881836,
+            "open_price": 12.34000015258789,
+            "pct_change": -4.700161398169996,
+            "volume": 5542600
+          },
+          "search_query": "Penn Entertainment PENN stock drops February 16, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down February 16, 2026",
+            "summary": "I cannot write a factual news narrative about why Penn Entertainment (PENN) stock fell 4.7% on February 16, 2026, as none of the provided web search results contain information about Penn Entertainment's stock performance, analyst actions, earnings reports, or relevant market catalysts for that date. The search results reference Penn State University, Pennsylvania utilities, and transportation services, but do not provide the specific financial or business developments needed to accurately explain the stock movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 16.030000686645508,
+            "open_price": 15.600000381469727,
+            "pct_change": 2.756412145262201,
+            "volume": 2595200
+          },
+          "search_query": "Rush Street Interactive RSI stock rises February 16, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up February 16, 2026",
+            "summary": "Rush Street Interactive stock rose 2.8% to close at $16.03 on February 16, 2026, though the gain came amid news that CEO Richard Schwartz sold 247,114 directly held shares valued at approximately $4 million. The online casino and sports betting company's stock advanced despite the insider selling activity, which typically signals caution but did not dampen investor sentiment on this trading day.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.90999984741211,
+            "open_price": 13.600000381469727,
+            "pct_change": 2.279407773875972,
+            "volume": 159800
+          },
+          "search_query": "Bally's Corporation BALY stock rises February 16, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up February 16, 2026",
+            "summary": "I cannot provide a factual news narrative explaining why Bally's Corporation (BALY) stock rose 2.3% on February 16, 2026, as the web search results provided do not contain any relevant information about specific catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date to explain the stock movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
