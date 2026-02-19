@@ -8374,6 +8374,179 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-18",
+      "date_display": "February 18, 2026",
+      "benchmark": {
+        "current_price": 22753.630859375,
+        "open_price": 22629.849609375,
+        "pct_change": 0.5469822033139824,
+        "volume": 7705590000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.209999084472656,
+            "open_price": 23.09000015258789,
+            "pct_change": 0.5197008709041361,
+            "volume": 19843500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 126.08000183105469,
+            "open_price": 122.33999633789062,
+            "pct_change": 3.057058693082308,
+            "volume": 6317900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.420000076293945,
+            "open_price": 20.1200008392334,
+            "pct_change": 6.461228542921267,
+            "volume": 14871900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.189998626708984,
+            "open_price": 34.560001373291016,
+            "pct_change": 7.60994545402567,
+            "volume": 5581100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.140000343322754,
+            "open_price": 12.239999771118164,
+            "pct_change": 7.352945988841075,
+            "volume": 5578400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.18000030517578,
+            "open_price": 20.329999923706055,
+            "pct_change": -10.57550234431255,
+            "volume": 5821600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.34000015258789,
+            "open_price": 13.75,
+            "pct_change": 4.290910200639204,
+            "volume": 109800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 126.08000183105469,
+            "open_price": 122.33999633789062,
+            "pct_change": 3.057058693082308,
+            "volume": 6317900
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises February 18, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up February 18, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 3.1% on February 18, 2026, closing at $126.08, though specific catalysts for the day's gain were not disclosed in available reports. The gaming and entertainment company had recently received a Hold rating from Bernstein on February 13, and was listed among Morningstar's best consumer cyclical stocks as of February 17. After-hours trading showed the stock pulling back slightly to $123.71 by 7:00 PM ET.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.420000076293945,
+            "open_price": 20.1200008392334,
+            "pct_change": 6.461228542921267,
+            "volume": 14871900
+          },
+          "search_query": "Caesars Entertainment CZR stock rises February 18, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up February 18, 2026",
+            "summary": "Caesars Entertainment (CZR) stock rose 6.5% to close at $21.42 on February 18, 2026, following the company's announcement of its new Ca$hline product debut and maintained Buy rating from Stifel. The stock actually surged 14.93% intraday before settling at the $21.42 close, with the company's market capitalization reaching $3.87 billion.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.189998626708984,
+            "open_price": 34.560001373291016,
+            "pct_change": 7.60994545402567,
+            "volume": 5581100
+          },
+          "search_query": "MGM Resorts MGM stock rises February 18, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up February 18, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any information about specific catalysts that caused MGM Resorts stock to rise 7.6% on February 18, 2026. The search results only include general company information pages and a performance overview reference without details about analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the stock movement. Without access to actual news about the catalysts behind this price increase, I cannot write a factual news narrative as requested.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.140000343322754,
+            "open_price": 12.239999771118164,
+            "pct_change": 7.352945988841075,
+            "volume": 5578400
+          },
+          "search_query": "Penn Entertainment PENN stock rises February 18, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up February 18, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 7.4% on February 18, 2026, to close at $13.14, though no specific catalyst for the single-day gain was evident in available reports. The increase contributed to the company's year-to-date return of 10.92% as of that date, with trading volume reaching approximately 5.6 million shares.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.18000030517578,
+            "open_price": 20.329999923706055,
+            "pct_change": -10.57550234431255,
+            "volume": 5821600
+          },
+          "search_query": "Rush Street Interactive RSI stock drops February 18, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down February 18, 2026",
+            "summary": "I cannot write an accurate narrative about RSI stock falling 10.6% on February 18, 2026, as the search results contradict this premise. According to the web search results provided, Rush Street Interactive's stock was actually up on February 18, 2026, with AAII reporting the stock rose 8.91% (or 7.32% in another reference) and StockStory describing it as \"rocketing higher\" that day, closing at $18.18. The search results contain no information about a 10.6% decline or any negative catalysts for that date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.34000015258789,
+            "open_price": 13.75,
+            "pct_change": 4.290910200639204,
+            "volume": 109800
+          },
+          "search_query": "Bally's Corporation BALY stock rises February 18, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up February 18, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 4.3% on February 18, 2026, closing at $14.34, though no specific catalysts were identified in available news sources for the day's gain. The gaming and entertainment company's shares climbed $0.59 during the trading session, with intraday data showing the stock trading between daily lows and reaching $14.52 during market hours. The advance came weeks after Bally's completed its second rollover election period in January 2026, which allowed existing shareholders and warrant holders to maintain their positions in the restructured company.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
