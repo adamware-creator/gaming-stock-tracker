@@ -8547,6 +8547,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-19",
+      "date_display": "February 19, 2026",
+      "benchmark": {
+        "current_price": 22682.73046875,
+        "open_price": 22639.880859375,
+        "pct_change": 0.18926605506961539,
+        "volume": 6984780000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.489999771118164,
+            "open_price": 23.010000228881836,
+            "pct_change": -2.25988897258234,
+            "volume": 13510800
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 122.16000366210938,
+            "open_price": 125.0999984741211,
+            "pct_change": -2.350115785668777,
+            "volume": 4892900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.889999389648438,
+            "open_price": 21.149999618530273,
+            "pct_change": 3.4988169478254916,
+            "volume": 6345900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.459999084472656,
+            "open_price": 36.79999923706055,
+            "pct_change": -0.9239134772738888,
+            "volume": 4419400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.329999923706055,
+            "open_price": 13.010000228881836,
+            "pct_change": 2.459644036852731,
+            "volume": 3795500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.65999984741211,
+            "open_price": 18.100000381469727,
+            "pct_change": 3.0939196361326853,
+            "volume": 3637300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.260000228881836,
+            "open_price": 14.220000267028809,
+            "pct_change": 0.2812936786349661,
+            "volume": 63000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.489999771118164,
+            "open_price": 23.010000228881836,
+            "pct_change": -2.25988897258234,
+            "volume": 13510800
+          },
+          "search_query": "DraftKings DKNG stock drops February 19, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down February 19, 2026",
+            "summary": "I cannot provide a factual news narrative explaining why DraftKings stock fell 2.3% on February 19, 2026, because the web search results provided do not contain any specific information about catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date. The search results only show stock price data and general information pages without substantive news content that would explain the decline.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 122.16000366210938,
+            "open_price": 125.0999984741211,
+            "pct_change": -2.350115785668777,
+            "volume": 4892900
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops February 19, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down February 19, 2026",
+            "summary": "Flutter Entertainment PLC (FLUT) stock fell 2.4% to close at $122.16 on February 19, 2026, hitting a new 52-week low of $119.47 during intraday trading. The shares opened at $125.10 and declined throughout the session, marking a significant drop from the stock's 52-week high of $313.69 reached in August 2025. The specific catalyst for the decline was not immediately disclosed, though the stock has been experiencing downward pressure as analysts questioned whether it represented a \"falling knife\" or contrarian opportunity earlier in the month.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 21.889999389648438,
+            "open_price": 21.149999618530273,
+            "pct_change": 3.4988169478254916,
+            "volume": 6345900
+          },
+          "search_query": "Caesars Entertainment CZR stock rises February 19, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up February 19, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information to explain why Caesars Entertainment (CZR) stock rose 3.5% on February 19, 2026. The search results only show generic company pages and trading platform information without any specific news about analyst actions, earnings announcements, competitive developments, regulatory changes, or market events that would have caused the stock movement on that date. To write an accurate news narrative about this stock price increase, I would need access to actual news sources reporting on specific catalysts from that day.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.329999923706055,
+            "open_price": 13.010000228881836,
+            "pct_change": 2.459644036852731,
+            "volume": 3795500
+          },
+          "search_query": "Penn Entertainment PENN stock rises February 19, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up February 19, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 2.5% to close at $13.33 on February 19, 2026, contributing to a broader rally that saw the stock up 10.87% amid positive expectations that the company would beat earnings estimates in its upcoming report. The gaming and entertainment company's shares gained 9.63% year-to-date as of the close, outperforming earlier in the month following analyst optimism about its financial performance.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.65999984741211,
+            "open_price": 18.100000381469727,
+            "pct_change": 3.0939196361326853,
+            "volume": 3637300
+          },
+          "search_query": "Rush Street Interactive RSI stock rises February 19, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up February 19, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 3.1% to close at $18.66 on February 19, 2026, amid analyst attention to the company's profitability shift and evolving earnings narrative. The gain came as Simply Wall St published analysis examining RSI's transition toward profitability, which appeared to generate positive investor sentiment despite the stock still trading well below its 52-week high of $22.65.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
