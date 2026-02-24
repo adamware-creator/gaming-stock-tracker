@@ -8797,6 +8797,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-23",
+      "date_display": "February 23, 2026",
+      "benchmark": {
+        "current_price": 22627.26953125,
+        "open_price": 22840.970703125,
+        "pct_change": -0.9356045968999135,
+        "volume": 8263920000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 21.809999465942383,
+            "open_price": 22.149999618530273,
+            "pct_change": -1.5349894286384227,
+            "volume": 13836100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 115.41999816894531,
+            "open_price": 120.05000305175781,
+            "pct_change": -3.8567303332898213,
+            "volume": 3334400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.219999313354492,
+            "open_price": 21.200000762939453,
+            "pct_change": -4.62264818074035,
+            "volume": 5515700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.25,
+            "open_price": 36.459999084472656,
+            "pct_change": -6.061434832602165,
+            "volume": 6140700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 12.170000076293945,
+            "open_price": 12.930000305175781,
+            "pct_change": -5.877805189050255,
+            "volume": 5462400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.34000015258789,
+            "open_price": 18.899999618530273,
+            "pct_change": -2.962960197064439,
+            "volume": 2466100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.0600004196167,
+            "open_price": 14.25,
+            "pct_change": -1.3333303886547423,
+            "volume": 48900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 115.41999816894531,
+            "open_price": 120.05000305175781,
+            "pct_change": -3.8567303332898213,
+            "volume": 3334400
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops February 23, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down February 23, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Flutter Entertainment stock fell 3.9% on February 23, 2026. The search results show stock price charts, comparative analysis with DraftKings, and a reference to a previous 10.1% drop on February 13, 2026, but none contain specific catalysts, analyst actions, earnings announcements, regulatory changes, or market events that occurred on February 23, 2026 to explain that day's 3.9% decline.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.219999313354492,
+            "open_price": 21.200000762939453,
+            "pct_change": -4.62264818074035,
+            "volume": 5515700
+          },
+          "search_query": "Caesars Entertainment CZR stock drops February 23, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down February 23, 2026",
+            "summary": "I don't have sufficient information from the provided search results to write an accurate news narrative explaining the specific catalysts behind Caesars Entertainment's 4.6% decline on February 23, 2026. While the search results confirm the stock underperformed on that date and mention an analyst price target reduction from Macquarie on February 18, 2026 (from $33 to $32), there are no details about specific events, news, or developments that occurred on February 23rd itself that would explain the decline. The search results also reference fourth quarter earnings released on February 17, 2026, but provide no details about the results or market reaction. Without concrete information about what drove the stock movement on that specific date, I cannot produce a factual narrative that meets your requirements.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 34.25,
+            "open_price": 36.459999084472656,
+            "pct_change": -6.061434832602165,
+            "volume": 6140700
+          },
+          "search_query": "MGM Resorts MGM stock drops February 23, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down February 23, 2026",
+            "summary": "MGM Resorts International stock fell 6.1% to close at $34.25 on February 23, 2026, underperforming its competitors as U.S. indexes ended lower amid concerns over tariff developments that weighed on the broader market. The casino and resort operator's shares declined along with other hospitality stocks including Expedia Group and Wynn Resorts as investors reacted to the negative market sentiment stemming from trade policy uncertainty.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 12.170000076293945,
+            "open_price": 12.930000305175781,
+            "pct_change": -5.877805189050255,
+            "volume": 5462400
+          },
+          "search_query": "Penn Entertainment PENN stock drops February 23, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down February 23, 2026",
+            "summary": "Penn Entertainment stock fell 5.9% to close at $12.17 on February 23, 2026, following the company's disclosure of a cooperation agreement with activist investor HG Vora Capital Management filed in an 8-K on February 22. The decline came months after ESPN had exited its ESPN BET partnership with Penn Entertainment in November 2025 to pursue a deal with competitor DraftKings, which had pressured the stock throughout the period.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.34000015258789,
+            "open_price": 18.899999618530273,
+            "pct_change": -2.962960197064439,
+            "volume": 2466100
+          },
+          "search_query": "Rush Street Interactive RSI stock drops February 23, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down February 23, 2026",
+            "summary": "Rush Street Interactive (RSI) stock fell 3.0% to close at $18.34 on February 23, 2026, following the company's Q4 2025 earnings report released on February 18, 2026. The decline came as investors digested the quarterly results amid broader underperformance, with the stock trailing the S&P 500 benchmark year-to-date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
