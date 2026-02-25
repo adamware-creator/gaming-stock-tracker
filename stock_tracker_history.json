@@ -8954,6 +8954,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-24",
+      "date_display": "February 24, 2026",
+      "benchmark": {
+        "current_price": 22863.6796875,
+        "open_price": 22641.599609375,
+        "pct_change": 0.980849771908542,
+        "volume": 7932270000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.3700008392334,
+            "open_price": 21.934999465942383,
+            "pct_change": 1.983138289866044,
+            "volume": 12465000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 118.38999938964844,
+            "open_price": 116.41999816894531,
+            "pct_change": 1.6921501904203062,
+            "volume": 3153400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.34000015258789,
+            "open_price": 20.18000030517578,
+            "pct_change": 0.7928634538775131,
+            "volume": 4907000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.04999923706055,
+            "open_price": 34.400001525878906,
+            "pct_change": 1.889528146365492,
+            "volume": 3314300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 12.720000267028809,
+            "open_price": 12.09000015258789,
+            "pct_change": 5.210918994951916,
+            "volume": 3888500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.81999969482422,
+            "open_price": 18.530000686645508,
+            "pct_change": 1.565024271087653,
+            "volume": 1188100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.25,
+            "open_price": 14.100000381469727,
+            "pct_change": -6.028371336690177,
+            "volume": 59900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 12.720000267028809,
+            "open_price": 12.09000015258789,
+            "pct_change": 5.210918994951916,
+            "volume": 3888500
+          },
+          "search_query": "Penn Entertainment PENN stock rises February 24, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up February 24, 2026",
+            "summary": "Penn Entertainment stock rose 5.2% on February 24, 2026 to close at $12.72, driven by anticipation ahead of the company's Q4 2025 earnings call scheduled for February 26. The gain came one day after PENN announced the appointment of three new independent directors to its board on February 23, which may have boosted investor confidence in the company's governance and strategic direction.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.25,
+            "open_price": 14.100000381469727,
+            "pct_change": -6.028371336690177,
+            "volume": 59900
+          },
+          "search_query": "Bally's Corporation BALY stock drops February 24, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down February 24, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 6.0% on February 24, 2026, closing at $13.25, as the gaming company maintained a Hold consensus rating from 5 analysts amid ongoing concerns about its operational performance. The decline continued the stock's struggles that began in early 2025, when shares had plummeted 24% in a single day after the company controversially canceled an earnings call with investors in March 2025 amid declining fourth-quarter revenue.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
