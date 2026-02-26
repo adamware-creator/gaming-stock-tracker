@@ -9063,6 +9063,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-25",
+      "date_display": "February 25, 2026",
+      "benchmark": {
+        "current_price": 23152.080078125,
+        "open_price": 23005.009765625,
+        "pct_change": 0.6392968922784736,
+        "volume": 8427450000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.940000534057617,
+            "open_price": 22.510000228881836,
+            "pct_change": 1.9102634420414715,
+            "volume": 10841400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 119.83999633789062,
+            "open_price": 119.0999984741211,
+            "pct_change": 0.6213248306046983,
+            "volume": 5262700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.770000457763672,
+            "open_price": 20.34000015258789,
+            "pct_change": 2.114062448131652,
+            "volume": 4925300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.560001373291016,
+            "open_price": 35.31999969482422,
+            "pct_change": 0.679506456796393,
+            "volume": 5126600
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 12.539999961853027,
+            "open_price": 12.819999694824219,
+            "pct_change": -2.184085332577932,
+            "volume": 3663500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.100000381469727,
+            "open_price": 18.899999618530273,
+            "pct_change": 1.0582051162761126,
+            "volume": 2881300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.510000228881836,
+            "open_price": 13.199999809265137,
+            "pct_change": 2.348488061333975,
+            "volume": 73100
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 20.770000457763672,
+            "open_price": 20.34000015258789,
+            "pct_change": 2.114062448131652,
+            "volume": 4925300
+          },
+          "search_query": "Caesars Entertainment CZR stock rises February 25, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up February 25, 2026",
+            "summary": "Caesars Entertainment stock rose 2.1% on February 25, 2026, to close at $20.77, as six analysts firmed up bullish ratings on the casino and entertainment company, contributing to a 13% climb. The positive analyst sentiment came shortly after the company reported operating results on February 17, adding momentum to shares that had already surged 14.93% earlier in the month on February 18.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 12.539999961853027,
+            "open_price": 12.819999694824219,
+            "pct_change": -2.184085332577932,
+            "volume": 3663500
+          },
+          "search_query": "Penn Entertainment PENN stock drops February 25, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down February 25, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative about Penn Entertainment's stock performance on February 25, 2026, as the search results provided do not contain specific information about catalysts or events that caused the 2.2% decline on that date. The search results only show general stock information pages and unrelated news items, with no concrete details about analyst actions, earnings reports, competitive developments, or other specific factors that would have driven the stock movement on that particular day.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.510000228881836,
+            "open_price": 13.199999809265137,
+            "pct_change": 2.348488061333975,
+            "volume": 73100
+          },
+          "search_query": "Bally's Corporation BALY stock rises February 25, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up February 25, 2026",
+            "summary": "I cannot write a factual news narrative explaining why Bally's Corporation stock rose 2.3% on February 25, 2026, because the search results provided do not contain any specific catalysts, news events, analyst actions, or developments from that date that would explain the price movement. The search results only show stock price information and performance data, plus one news item from February 2025, but no catalyst information for the February 25, 2026 trading session.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
