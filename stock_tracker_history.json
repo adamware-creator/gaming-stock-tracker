@@ -9188,6 +9188,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-26",
+      "date_display": "February 26, 2026",
+      "benchmark": {
+        "current_price": 22878.380859375,
+        "open_price": 23100.580078125,
+        "pct_change": -0.9618772255871213,
+        "volume": 9033470000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.489999771118164,
+            "open_price": 23.240999221801758,
+            "pct_change": 1.0713848700740265,
+            "volume": 12646500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 123.12999725341797,
+            "open_price": 123.0,
+            "pct_change": 0.10568882391704777,
+            "volume": 6138000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.739999771118164,
+            "open_price": 20.969999313354492,
+            "pct_change": 17.978066672433282,
+            "volume": 17018900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.619998931884766,
+            "open_price": 36.0,
+            "pct_change": 4.499997033013238,
+            "volume": 7325400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.640000343322754,
+            "open_price": 13.510000228881836,
+            "pct_change": 8.364175390798222,
+            "volume": 14637500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.75,
+            "open_price": 19.399999618530273,
+            "pct_change": 1.8041257131542268,
+            "volume": 2182900
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.890000343322754,
+            "open_price": 13.630000114440918,
+            "pct_change": 1.907558523102043,
+            "volume": 97900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.739999771118164,
+            "open_price": 20.969999313354492,
+            "pct_change": 17.978066672433282,
+            "volume": 17018900
+          },
+          "search_query": "Caesars Entertainment CZR stock rises February 26, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up February 26, 2026",
+            "summary": "Caesars Entertainment stock rose 18.0% on February 26, 2026, to close at $24.74, driven by reports that the Las Vegas casino operator was weighing takeover offers from several potential bidders. The surge came as six analysts firmed up bullish ratings on the stock, with CZR maintaining a Buy consensus rating from 15 analysts, signaling strong investor confidence in the potential acquisition prospects.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.619998931884766,
+            "open_price": 36.0,
+            "pct_change": 4.499997033013238,
+            "volume": 7325400
+          },
+          "search_query": "MGM Resorts MGM stock rises February 26, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up February 26, 2026",
+            "summary": "MGM Resorts International stock rose 4.5% to close at $37.62 on February 26, 2026, following the company's announcement of a commitment of over $1 million to responsible gaming initiatives, including $450,000 dedicated to groundbreaking responsible gaming research. The stock performance came as investors responded positively to the company's corporate responsibility efforts and continued operational momentum from its recent achievement of powering 100% of its daytime Las Vegas Strip electricity needs.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.640000343322754,
+            "open_price": 13.510000228881836,
+            "pct_change": 8.364175390798222,
+            "volume": 14637500
+          },
+          "search_query": "Penn Entertainment PENN stock rises February 26, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up February 26, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 8.4% to close at $14.64 on February 26, 2026, following the company's release of its fourth quarter financial results that morning. The significant single-day gain suggested investors responded positively to the quarterly earnings report, which PENN announced via business wire and presented during a conference call and webcast held that same day.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
