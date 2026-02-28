@@ -9313,6 +9313,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-02-27",
+      "date_display": "February 27, 2026",
+      "benchmark": {
+        "current_price": 22668.2109375,
+        "open_price": 22615.4296875,
+        "pct_change": 0.23338601445708215,
+        "volume": 9552610000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.84000015258789,
+            "open_price": 22.65999984741211,
+            "pct_change": 5.207415327103559,
+            "volume": 18093200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 106.13999938964844,
+            "open_price": 110.04000091552734,
+            "pct_change": -3.5441671150773244,
+            "volume": 21973900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.049999237060547,
+            "open_price": 24.3700008392334,
+            "pct_change": 2.790309291792946,
+            "volume": 17981800
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.86000061035156,
+            "open_price": 36.86000061035156,
+            "pct_change": 0.0,
+            "volume": 6606700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.640000343322754,
+            "open_price": 14.5600004196167,
+            "pct_change": 7.41758167981211,
+            "volume": 12747300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.75,
+            "open_price": 19.399999618530273,
+            "pct_change": 1.8041257131542268,
+            "volume": 2492700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.220000267028809,
+            "open_price": 13.619999885559082,
+            "pct_change": 4.405289181433039,
+            "volume": 68800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.84000015258789,
+            "open_price": 22.65999984741211,
+            "pct_change": 5.207415327103559,
+            "volume": 18093200
+          },
+          "search_query": "DraftKings DKNG stock rises February 27, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up February 27, 2026",
+            "summary": "DraftKings (DKNG) stock rose 5.2% to close at $23.84 on February 27, 2026, despite TipRanks lowering its price target on the stock the previous day. The gain extended the online sports betting company's strong year-to-date performance to 30.82%, significantly outpacing the S&P 500 benchmark.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 106.13999938964844,
+            "open_price": 110.04000091552734,
+            "pct_change": -3.5441671150773244,
+            "volume": 21973900
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops February 27, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down February 27, 2026",
+            "summary": "Flutter Entertainment stock fell 13.8% on February 27, 2026, to close at $106.14, following the FanDuel parent company's disappointing fourth-quarter earnings results and underwhelming 2026 guidance released the previous day. The sharp decline wiped out $16.99 per share in value as investors reacted negatively to the weaker-than-expected financial performance from the online gaming and sports betting operator.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.049999237060547,
+            "open_price": 24.3700008392334,
+            "pct_change": 2.790309291792946,
+            "volume": 17981800
+          },
+          "search_query": "Caesars Entertainment CZR stock rises February 27, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up February 27, 2026",
+            "summary": "Caesars Entertainment (CZR) stock rose 2.8% to close at $25.05 on February 27, 2026, as the company maintained upward momentum following its February 17 earnings report. The casino and entertainment operator benefited from continued positive investor sentiment after announcing its fourth-quarter operating results earlier in the month. The stock's gains reflected broader confidence in the company's performance trajectory, with shares climbing 4.35% overall amid sustained market interest.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.640000343322754,
+            "open_price": 14.5600004196167,
+            "pct_change": 7.41758167981211,
+            "volume": 12747300
+          },
+          "search_query": "Penn Entertainment PENN stock rises February 27, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up February 27, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 7.4% to close at $15.64 on February 27, 2026, though specific catalysts for the intraday surge were not immediately disclosed in available reports. The gaming and entertainment company had previously announced in November 2025 that it was transitioning away from ESPN BET to its theScore Bet platform following an early termination of its partnership with ESPN, a strategic shift that may have influenced investor sentiment.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.220000267028809,
+            "open_price": 13.619999885559082,
+            "pct_change": 4.405289181433039,
+            "volume": 68800
+          },
+          "search_query": "Bally's Corporation BALY stock rises February 27, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up February 27, 2026",
+            "summary": "I cannot write a factual news narrative about Bally's Corporation (BALY) stock rising 4.4% on February 27, 2026, as the search results provided do not contain any information explaining the \u043f\u0440\u0438\u0447\u0438\u043d\u0430 for this price movement. In fact, one search result indicates that BALY was delisted on February 27, 2026, pending stock liquidation, which would contradict a scenario of normal trading with a 4.4% gain. Without credible information about specific catalysts such as analyst actions, earnings news, or other developments, I cannot produce an accurate narrative.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
