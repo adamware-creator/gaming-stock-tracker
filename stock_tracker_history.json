@@ -9470,6 +9470,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-02",
+      "date_display": "March 02, 2026",
+      "benchmark": {
+        "current_price": 22748.859375,
+        "open_price": 22322.119140625,
+        "pct_change": 1.9117371056332946,
+        "volume": 8303030000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.81999969482422,
+            "open_price": 23.261999130249023,
+            "pct_change": 2.3987644460427844,
+            "volume": 13427000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 106.08000183105469,
+            "open_price": 103.61000061035156,
+            "pct_change": 2.3839409382807686,
+            "volume": 7063500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 24.639999389648438,
+            "open_price": 24.415000915527344,
+            "pct_change": 0.9215583276017828,
+            "volume": 6095400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.720001220703125,
+            "open_price": 35.779998779296875,
+            "pct_change": -0.16768463007457104,
+            "volume": 4586000
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.850000381469727,
+            "open_price": 15.390000343322754,
+            "pct_change": -3.508771603681716,
+            "volume": 4486900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.950000762939453,
+            "open_price": 19.290000915527344,
+            "pct_change": 3.4214609439486723,
+            "volume": 1960200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.579999923706055,
+            "open_price": 13.90999984741211,
+            "pct_change": -2.372393438720631,
+            "volume": 55800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.81999969482422,
+            "open_price": 23.261999130249023,
+            "pct_change": 2.3987644460427844,
+            "volume": 13427000
+          },
+          "search_query": "DraftKings DKNG stock rises March 02, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up March 02, 2026",
+            "summary": "I cannot provide a factual news narrative explaining why DraftKings stock rose 2.4% on March 02, 2026, as the web search results provided do not contain any specific catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events from that date that would explain the price movement. The search results only show general stock quote pages and older articles from December 2025, without any information about what drove the March 2, 2026 price increase.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 106.08000183105469,
+            "open_price": 103.61000061035156,
+            "pct_change": 2.3839409382807686,
+            "volume": 7063500
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises March 02, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up March 02, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 2.4% to close at $106.08 on March 2, 2026, rebounding from earlier weakness after the company's shares had tumbled 12% following cautious 2026 guidance that disappointed investors. The gain came just days before Flutter's scheduled March 4, 2026 investor event, suggesting some market participants anticipated potential clarification or positive developments ahead of the registered presentation.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.850000381469727,
+            "open_price": 15.390000343322754,
+            "pct_change": -3.508771603681716,
+            "volume": 4486900
+          },
+          "search_query": "Penn Entertainment PENN stock drops March 02, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down March 02, 2026",
+            "summary": "Penn Entertainment (PENN) stock fell 3.5% to close at $14.85 on March 2, 2026, coinciding with the release of its Q4 2025 earnings results. Despite Zacks Equity Research highlighting PENN as a top momentum stock for long-term investors on the same day, the market appeared to react negatively to the quarterly report. The stock continued to decline in after-hours trading, falling an additional 0.33% to $14.80.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.950000762939453,
+            "open_price": 19.290000915527344,
+            "pct_change": 3.4214609439486723,
+            "volume": 1960200
+          },
+          "search_query": "Rush Street Interactive RSI stock rises March 02, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up March 02, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 3.4% to close at $19.95 on March 2, 2026, driven by investor enthusiasm following the company's strong 2025 profit jump and positive 2026 revenue outlook that had pushed shares up 6.6% in recent trading. The gains represented a significant recovery from the stock's 52-week low of $9.54, as the online gaming operator's improved financial performance bolstered market confidence in its growth trajectory.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.579999923706055,
+            "open_price": 13.90999984741211,
+            "pct_change": -2.372393438720631,
+            "volume": 55800
+          },
+          "search_query": "Bally's Corporation BALY stock drops March 02, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down March 02, 2026",
+            "summary": "Based on the limited information provided in the search results, a specific catalyst for Bally's Corporation's 2.4% decline to $13.58 on March 2, 2026 could not be determined from the available sources. The search results primarily showed performance overview pages dated March 2, 2026, but did not contain news articles explaining specific market-moving events, analyst actions, earnings announcements, or regulatory developments that occurred on that date. The only substantive news referenced was from March 2025, when the stock plunged 24% after the company canceled an earnings call, though this event predated the March 2, 2026 decline by approximately one year.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
