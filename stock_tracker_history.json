@@ -9627,6 +9627,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-03",
+      "date_display": "March 03, 2026",
+      "benchmark": {
+        "current_price": 22516.689453125,
+        "open_price": 22292.369140625,
+        "pct_change": 1.006265018692898,
+        "volume": 9705500000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.450000762939453,
+            "open_price": 23.44499969482422,
+            "pct_change": 4.286632890582212,
+            "volume": 16788700
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 111.4000015258789,
+            "open_price": 104.0999984741211,
+            "pct_change": 7.012491026666604,
+            "volume": 4842600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.020000457763672,
+            "open_price": 23.920000076293945,
+            "pct_change": 4.598663787463313,
+            "volume": 4866700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.849998474121094,
+            "open_price": 34.79999923706055,
+            "pct_change": 3.0172392531041825,
+            "volume": 4809700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.930000305175781,
+            "open_price": 14.869999885559082,
+            "pct_change": 0.40349979877920705,
+            "volume": 5137200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.989999771118164,
+            "open_price": 19.459999084472656,
+            "pct_change": 2.72353911397869,
+            "volume": 1762600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.420000076293945,
+            "open_price": 13.170000076293945,
+            "pct_change": 1.8982535956852502,
+            "volume": 134500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.450000762939453,
+            "open_price": 23.44499969482422,
+            "pct_change": 4.286632890582212,
+            "volume": 16788700
+          },
+          "search_query": "DraftKings DKNG stock rises March 03, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up March 03, 2026",
+            "summary": "DraftKings (DKNG) stock rose 4.3% to close at $24.45 on March 3, 2026, as the company maintained its \"Buy\" rating from analysts, contributing to investor confidence in the sports betting platform. The stock gained 2.22% for the month of March following the company's announcement of lofty prediction markets goals in its 2026 outlook released in February.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 111.4000015258789,
+            "open_price": 104.0999984741211,
+            "pct_change": 7.012491026666604,
+            "volume": 4842600
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises March 03, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up March 03, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 7.0% on March 3, 2026, to close at $111.40, with shares initially surging before cooling to finish the session with strong gains. The rally occurred just days after the company's February 26 earnings release and ahead of its scheduled presentation at the Morgan Stanley Technology, Media & Telecom Conference on March 4, suggesting investor optimism around the company's financial performance and growth outlook. After-hours trading showed continued strength with shares holding near $111.51 as of 6:00 PM ET.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.020000457763672,
+            "open_price": 23.920000076293945,
+            "pct_change": 4.598663787463313,
+            "volume": 4866700
+          },
+          "search_query": "Caesars Entertainment CZR stock rises March 03, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up March 03, 2026",
+            "summary": "Caesars Entertainment (CZR) stock rose 4.6% to close at $25.02 on March 3, 2026, driven by the official grand opening of its Caesars Race & Sportsbook at The Resort at Summerlin and strengthened analyst confidence. The rally came as six analysts firmed up bullish ratings on the casino and entertainment company, contributing to a broader 13% climb in the stock's recent performance.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.849998474121094,
+            "open_price": 34.79999923706055,
+            "pct_change": 3.0172392531041825,
+            "volume": 4809700
+          },
+          "search_query": "MGM Resorts MGM stock rises March 03, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up March 03, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any relevant information about why MGM Resorts stock rose 3.0% on March 03, 2026. The search results only show general MGM property websites and promotional pages without any news about analyst actions, earnings reports, competitive developments, regulatory changes, or market events that would explain the stock movement on that specific date. Without access to actual financial news or market data from March 3, 2026, I cannot provide a factual narrative about the cause of the stock price increase.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.989999771118164,
+            "open_price": 19.459999084472656,
+            "pct_change": 2.72353911397869,
+            "volume": 1762600
+          },
+          "search_query": "Rush Street Interactive RSI stock rises March 03, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up March 03, 2026",
+            "summary": "Rush Street Interactive stock rose 2.7% to close at $19.99 on March 03, 2026, contributing to a broader 6.6% gain driven by the company's strong 2025 profit performance and positive 2026 revenue outlook. The gaming platform operator posted a year-to-date return of 2.88% as investor sentiment improved following the encouraging financial guidance.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
