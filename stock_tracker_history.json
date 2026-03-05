@@ -9784,6 +9784,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-04",
+      "date_display": "March 04, 2026",
+      "benchmark": {
+        "current_price": 22807.48046875,
+        "open_price": 22620.890625,
+        "pct_change": 0.8248563102276172,
+        "volume": 10918410000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.43000030517578,
+            "open_price": 24.549999237060547,
+            "pct_change": 3.5845258470997807,
+            "volume": 20234100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 112.68000030517578,
+            "open_price": 112.5,
+            "pct_change": 0.16000027126736113,
+            "volume": 3304600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.559999465942383,
+            "open_price": 25.329999923706055,
+            "pct_change": 0.9080124079316487,
+            "volume": 4991200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.68000030517578,
+            "open_price": 35.939998626708984,
+            "pct_change": 2.0589919497572295,
+            "volume": 4407900
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.270000457763672,
+            "open_price": 15.279999732971191,
+            "pct_change": -0.06544028391533993,
+            "volume": 4277000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.3799991607666,
+            "open_price": 20.079999923706055,
+            "pct_change": 1.49402011055973,
+            "volume": 1244100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.15999984741211,
+            "open_price": 13.5,
+            "pct_change": 4.888887758608218,
+            "volume": 140100
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.43000030517578,
+            "open_price": 24.549999237060547,
+            "pct_change": 3.5845258470997807,
+            "volume": 20234100
+          },
+          "search_query": "DraftKings DKNG stock rises March 04, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up March 04, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information about specific catalysts that drove DraftKings stock's 3.6% increase on March 04, 2026. The search results only show basic stock price information and trading ranges but do not mention any analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the price movement. Without access to actual news about specific catalysts from that date, I cannot write a factual narrative explaining why the stock rose.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.68000030517578,
+            "open_price": 35.939998626708984,
+            "pct_change": 2.0589919497572295,
+            "volume": 4407900
+          },
+          "search_query": "MGM Resorts MGM stock rises March 04, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up March 04, 2026",
+            "summary": "Based on the limited information provided in the search results, MGM Resorts International stock rose 2.1% to close at $36.68 on March 4, 2026, with pre-market data indicating the stock was trading higher before the opening bell. The search results do not reveal specific catalysts such as analyst upgrades, earnings announcements, or major corporate developments that drove the day's gain. Without additional context from the provided sources, the stock's movement appears to have occurred amid routine trading activity, though the actual drivers behind the increase remain unclear from these search results alone.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.15999984741211,
+            "open_price": 13.5,
+            "pct_change": 4.888887758608218,
+            "volume": 140100
+          },
+          "search_query": "Bally's Corporation BALY stock rises March 04, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up March 04, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 4.9% on March 4, 2026, closing at $14.16, as gaming and entertainment stocks rallied following news that tariff implementation would be delayed for up to 150 days. The stock gained alongside broader gaming sector optimism after the announcement of a 15% global tariff pause, providing temporary relief to companies with international exposure.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
