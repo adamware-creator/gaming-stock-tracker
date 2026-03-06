@@ -9909,6 +9909,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-05",
+      "date_display": "March 05, 2026",
+      "benchmark": {
+        "current_price": 22748.990234375,
+        "open_price": 22707.470703125,
+        "pct_change": 0.18284524856520495,
+        "volume": 10994660000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.459999084472656,
+            "open_price": 25.5,
+            "pct_change": -0.15686633540134803,
+            "volume": 16663700
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 114.56999969482422,
+            "open_price": 112.80999755859375,
+            "pct_change": 1.5601473046006582,
+            "volume": 2612600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.59000015258789,
+            "open_price": 25.200000762939453,
+            "pct_change": 5.515870426847959,
+            "volume": 4437000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.130001068115234,
+            "open_price": 36.22999954223633,
+            "pct_change": 2.4841334177487346,
+            "volume": 4391300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.470000267028809,
+            "open_price": 15.579999923706055,
+            "pct_change": -0.7060311759685823,
+            "volume": 5350200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.8799991607666,
+            "open_price": 20.280000686645508,
+            "pct_change": 2.9585722574269737,
+            "volume": 1663300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.600000381469727,
+            "open_price": 14.279999732971191,
+            "pct_change": 2.240900941753405,
+            "volume": 162100
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.59000015258789,
+            "open_price": 25.200000762939453,
+            "pct_change": 5.515870426847959,
+            "volume": 4437000
+          },
+          "search_query": "Caesars Entertainment CZR stock rises March 05, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up March 05, 2026",
+            "summary": "Caesars Entertainment (CZR) stock rose 5.5% to close at $26.59 on March 5, 2026, following the announcement that Jennifer Lopez would return to Las Vegas with a new residency at The Colosseum at Caesars Palace. The high-profile entertainment booking was seen as a positive catalyst for driving tourism and gaming revenue to the company's flagship Las Vegas property.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.130001068115234,
+            "open_price": 36.22999954223633,
+            "pct_change": 2.4841334177487346,
+            "volume": 4391300
+          },
+          "search_query": "MGM Resorts MGM stock rises March 05, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up March 05, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any specific information about catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain why MGM Resorts stock rose 2.5% on March 05, 2026. The search results only show general MGM resort websites and promotional content without relevant financial news or stock performance data needed to write an accurate news narrative about the stock movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.8799991607666,
+            "open_price": 20.280000686645508,
+            "pct_change": 2.9585722574269737,
+            "volume": 1663300
+          },
+          "search_query": "Rush Street Interactive RSI stock rises March 05, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up March 05, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 3.0% to close at $20.88 on March 5, 2026, buoyed by momentum from the company's strong 2025 profit jump and positive 2026 revenue outlook that had already driven shares up 6.6% in recent trading. The gains came as the online gaming operator's stock continued to trade well below its 52-week high of $22.65, leaving room for further upside as investors digested the encouraging financial guidance.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.600000381469727,
+            "open_price": 14.279999732971191,
+            "pct_change": 2.240900941753405,
+            "volume": 162100
+          },
+          "search_query": "Bally's Corporation BALY stock rises March 05, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up March 05, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 2.2% on March 5, 2026, closing at $14.60, though the specific catalyst for the day's gain was not disclosed in available reports. The stock remained significantly below the $18.25 per share merger agreement price announced in July 2024 with affiliates of Standard General L.P., suggesting continued investor uncertainty about the deal's completion. The company's 1-year analyst target estimate of $16.25 indicated potential upside from current trading levels.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
