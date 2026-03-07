@@ -10050,6 +10050,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-06",
+      "date_display": "March 06, 2026",
+      "benchmark": {
+        "current_price": 22387.6796875,
+        "open_price": 22421.169921875,
+        "pct_change": -0.14936880854877058,
+        "volume": 9300220000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.149999618530273,
+            "open_price": 24.975000381469727,
+            "pct_change": 0.7006976351855757,
+            "volume": 12096600
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 112.25,
+            "open_price": 112.5,
+            "pct_change": -0.2222222222222222,
+            "volume": 3671000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.399999618530273,
+            "open_price": 26.280000686645508,
+            "pct_change": 0.45661692827026634,
+            "volume": 5012400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.56999969482422,
+            "open_price": 36.400001525878906,
+            "pct_change": -2.2802247150033503,
+            "volume": 4598300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.640000343322754,
+            "open_price": 15.25,
+            "pct_change": -3.999997748703253,
+            "volume": 4465500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.8700008392334,
+            "open_price": 20.530000686645508,
+            "pct_change": 1.6561136932112048,
+            "volume": 1715800
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.770000457763672,
+            "open_price": 14.149999618530273,
+            "pct_change": -2.685506508911632,
+            "volume": 87200
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.56999969482422,
+            "open_price": 36.400001525878906,
+            "pct_change": -2.2802247150033503,
+            "volume": 4598300
+          },
+          "search_query": "MGM Resorts MGM stock drops March 06, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down March 06, 2026",
+            "summary": "I cannot write a factual news narrative explaining why MGM Resorts stock fell 2.3% on March 06, 2026, as the web search results provided do not contain any information about specific catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date. The search results only show basic trading data (pre-market and after-hours prices) and general company website pages, but no actual news or analysis explaining the stock's decline.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.640000343322754,
+            "open_price": 15.25,
+            "pct_change": -3.999997748703253,
+            "volume": 4465500
+          },
+          "search_query": "Penn Entertainment PENN stock drops March 06, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down March 06, 2026",
+            "summary": "Penn Entertainment (PENN) stock fell 4.0% on March 6, 2026, to close at $14.64, extending declines in a challenging period for gaming stocks as competitor Caesars Entertainment dropped 21% over the past year amid sector headwinds. The decline occurred despite PENN having previously risen 21.8% following a board refresh, though the stock remained under pressure ahead of its May 6, 2026 earnings date. The shares traded with elevated after-hours volume of 285,640 as the gaming sector faced ongoing competitive and market challenges.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.770000457763672,
+            "open_price": 14.149999618530273,
+            "pct_change": -2.685506508911632,
+            "volume": 87200
+          },
+          "search_query": "Bally's Corporation BALY stock drops March 06, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down March 06, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to explain why Bally's Corporation stock fell 2.7% on March 06, 2026. The search results only show stock price pages and a casino promotion, but contain no news about specific catalysts, analyst actions, earnings reports, competitive developments, regulatory changes, or market events that occurred on that date that would explain the decline.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
