@@ -10175,6 +10175,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-09",
+      "date_display": "March 09, 2026",
+      "benchmark": {
+        "current_price": 22695.94921875,
+        "open_price": 22184.05078125,
+        "pct_change": 2.307506607101069,
+        "volume": 9797740000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.15999984741211,
+            "open_price": 24.770000457763672,
+            "pct_change": 1.5744827712596987,
+            "volume": 14986100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 109.41000366210938,
+            "open_price": 108.87000274658203,
+            "pct_change": 0.4960052373511096,
+            "volume": 3756200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.760000228881836,
+            "open_price": 25.829999923706055,
+            "pct_change": -0.27100152934950256,
+            "volume": 5958900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.63999938964844,
+            "open_price": 34.75,
+            "pct_change": 2.5611493227293165,
+            "volume": 7072800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.699999809265137,
+            "open_price": 14.180000305175781,
+            "pct_change": 3.6671332362352116,
+            "volume": 4475200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.729999542236328,
+            "open_price": 20.5,
+            "pct_change": 1.1219489865186738,
+            "volume": 1079300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.920000076293945,
+            "open_price": 13.420000076293945,
+            "pct_change": -3.725782393125586,
+            "volume": 161500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.63999938964844,
+            "open_price": 34.75,
+            "pct_change": 2.5611493227293165,
+            "volume": 7072800
+          },
+          "search_query": "MGM Resorts MGM stock rises March 09, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up March 09, 2026",
+            "summary": "MGM Resorts International stock rose 2.6% on March 9, 2026, to close at $35.64, gaining momentum ahead of the company's scheduled presentation at the J.P. Morgan Gaming conference. The stock traded in a range between $33.45 and $35.89 during the session, showing modest year-to-date gains of 0.2% from its previous closing price.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.699999809265137,
+            "open_price": 14.180000305175781,
+            "pct_change": 3.6671332362352116,
+            "volume": 4475200
+          },
+          "search_query": "Penn Entertainment PENN stock rises March 09, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up March 09, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Penn Entertainment (PENN) stock rose 3.7% on March 09, 2026 to close at $14.70. The search results only show generic stock page headers and an entertainment schedule, but contain no specific catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events from that date that would explain the stock movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.920000076293945,
+            "open_price": 13.420000076293945,
+            "pct_change": -3.725782393125586,
+            "volume": 161500
+          },
+          "search_query": "Bally's Corporation BALY stock drops March 09, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down March 09, 2026",
+            "summary": "Bally's Corporation (BALY) fell 3.7% on March 9, 2026, to close at $12.92, as the stock's Aroon Indicator entered a downtrend, signaling potential weakness in momentum. Despite the day's decline, the gaming and entertainment company maintained a strong year-to-date return of 21.79%, significantly outperforming the broader market. The stock's market capitalization stood at $635.18 million following the session's losses.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
