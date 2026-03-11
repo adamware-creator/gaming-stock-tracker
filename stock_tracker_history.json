@@ -10300,6 +10300,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-10",
+      "date_display": "March 10, 2026",
+      "benchmark": {
+        "current_price": 22697.099609375,
+        "open_price": 22722.939453125,
+        "pct_change": -0.11371699424409787,
+        "volume": 8800580000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.139999389648438,
+            "open_price": 25.010000228881836,
+            "pct_change": 0.519788722818471,
+            "volume": 12325400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 107.25,
+            "open_price": 109.52999877929688,
+            "pct_change": -2.081620382276345,
+            "volume": 3367800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.010000228881836,
+            "open_price": 25.850000381469727,
+            "pct_change": 0.6189549131566102,
+            "volume": 4409400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.0,
+            "open_price": 35.369998931884766,
+            "pct_change": -1.046081263947184,
+            "volume": 3907300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.329999923706055,
+            "open_price": 14.600000381469727,
+            "pct_change": -1.849318155541664,
+            "volume": 5076900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.780000686645508,
+            "open_price": 20.690000534057617,
+            "pct_change": 0.4349934763884719,
+            "volume": 1272300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.729999542236328,
+            "open_price": 12.75,
+            "pct_change": -0.15686633540134803,
+            "volume": 103300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 107.25,
+            "open_price": 109.52999877929688,
+            "pct_change": -2.081620382276345,
+            "volume": 3367800
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops March 10, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down March 10, 2026",
+            "summary": "I cannot write a factual news narrative about why Flutter Entertainment stock fell 2.1% on March 10, 2026, because the web search results provided do not contain any specific information about catalysts, news events, or reasons for the stock's decline on that date. The search results only show general stock quote pages and a reference to Senator Merkley's proposed prediction market ban from March 5, 2026, but no concrete details linking any developments to the March 10th price movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
