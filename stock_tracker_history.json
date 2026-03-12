@@ -10393,6 +10393,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-11",
+      "date_display": "March 11, 2026",
+      "benchmark": {
+        "current_price": 22716.130859375,
+        "open_price": 22771.26953125,
+        "pct_change": -0.2421414045419418,
+        "volume": 8348570000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.56999969482422,
+            "open_price": 24.950000762939453,
+            "pct_change": 2.4849655828696706,
+            "volume": 15193200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 109.58999633789062,
+            "open_price": 109.16000366210938,
+            "pct_change": 0.3939104629496318,
+            "volume": 3280700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.06999969482422,
+            "open_price": 26.209999084472656,
+            "pct_change": 10.911868409968339,
+            "volume": 14139700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.290000915527344,
+            "open_price": 35.119998931884766,
+            "pct_change": 3.331440829231792,
+            "volume": 7242100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.869999885559082,
+            "open_price": 14.539999961853027,
+            "pct_change": 2.269600581649509,
+            "volume": 5514500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 21.06999969482422,
+            "open_price": 20.75,
+            "pct_change": 1.5421672039721386,
+            "volume": 1025200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.329999923706055,
+            "open_price": 12.619999885559082,
+            "pct_change": 5.625990844575343,
+            "volume": 90600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.56999969482422,
+            "open_price": 24.950000762939453,
+            "pct_change": 2.4849655828696706,
+            "volume": 15193200
+          },
+          "search_query": "DraftKings DKNG stock rises March 11, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up March 11, 2026",
+            "summary": "DraftKings Inc. (DKNG) stock rose 2.5% on March 11, 2026, to close at $25.57, outperforming the broader market as the shares were highlighted by Zacks Equity Research as being \"considered a good investment by brokers.\" The stock's gains came amid positive broker sentiment and analyst attention on the online sports betting company, with shares trading in a range between $24.61 and the closing price during the session.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.06999969482422,
+            "open_price": 26.209999084472656,
+            "pct_change": 10.911868409968339,
+            "volume": 14139700
+          },
+          "search_query": "Caesars Entertainment CZR stock rises March 11, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up March 11, 2026",
+            "summary": "Caesars Entertainment (CZR) stock rose 10.9% to close at $29.07 on March 11, 2026, as buyout speculation intensified following reports of a potential acquisition offer at approximately $34 per share. The reported takeover approach generated significant investor interest in the casino and entertainment company, driving the sharp single-day gain. The potential deal price represented a premium of roughly 17% above the closing price, fueling optimism about a possible transaction.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.290000915527344,
+            "open_price": 35.119998931884766,
+            "pct_change": 3.331440829231792,
+            "volume": 7242100
+          },
+          "search_query": "MGM Resorts MGM stock rises March 11, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up March 11, 2026",
+            "summary": "Based on the limited information available in the search results, MGM Resorts International (MGM) stock rose 3.3% on March 11, 2026, to close at $36.29, though specific catalysts for the gain were not disclosed in the available sources. The stock continued trading in after-hours at $36.14 as of 7:00 PM ET that day, according to Public.com data. The search results did not provide information about analyst upgrades, earnings announcements, or other specific market-moving events that would explain the day's price movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.869999885559082,
+            "open_price": 14.539999961853027,
+            "pct_change": 2.269600581649509,
+            "volume": 5514500
+          },
+          "search_query": "Penn Entertainment PENN stock rises March 11, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up March 11, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information to explain why Penn Entertainment (PENN) stock rose 2.3% on March 11, 2026. The search results include a general stock page, a PennDOT press release unrelated to the company, a reference to analyst ratings without specific details about recent changes, casino promotions, and a Pennsylvania college website. None of these sources provide specific catalysts such as analyst upgrades, earnings announcements, competitive developments, or other market events that would explain the stock movement on that particular date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.329999923706055,
+            "open_price": 12.619999885559082,
+            "pct_change": 5.625990844575343,
+            "volume": 90600
+          },
+          "search_query": "Bally's Corporation BALY stock rises March 11, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up March 11, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any specific information about why Bally's Corporation (BALY) stock rose 5.6% on March 11, 2026. The search results only show generic stock quote pages and company homepage information without any news catalysts, analyst actions, earnings reports, regulatory changes, or other developments that would explain the price movement on that specific date. Without access to actual news or catalyst information, I cannot write a factual narrative explaining the stock's rise.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
