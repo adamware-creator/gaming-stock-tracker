@@ -10784,6 +10784,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-16",
+      "date_display": "March 16, 2026",
+      "benchmark": {
+        "current_price": 22374.177734375,
+        "open_price": 22340.388671875,
+        "pct_change": 0.15124652930742466,
+        "volume": 6766158000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.895000457763672,
+            "open_price": 25.600000381469727,
+            "pct_change": -2.7539059109403805,
+            "volume": 11810438
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 108.66999816894531,
+            "open_price": 106.54000091552734,
+            "pct_change": 1.9992465131540456,
+            "volume": 2847474
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.15999984741211,
+            "open_price": 27.559999465942383,
+            "pct_change": -1.4513774538514705,
+            "volume": 7002378
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.97999954223633,
+            "open_price": 37.220001220703125,
+            "pct_change": -3.3315465819411707,
+            "volume": 4760870
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.979999542236328,
+            "open_price": 14.454999923706055,
+            "pct_change": -3.2860628431462717,
+            "volume": 3657488
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.190000534057617,
+            "open_price": 20.530000686645508,
+            "pct_change": -1.6561136932112048,
+            "volume": 1183106
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.819999694824219,
+            "open_price": 12.720000267028809,
+            "pct_change": 0.786159007045119,
+            "volume": 54557
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.895000457763672,
+            "open_price": 25.600000381469727,
+            "pct_change": -2.7539059109403805,
+            "volume": 11810438
+          },
+          "search_query": "DraftKings DKNG stock drops March 16, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down March 16, 2026",
+            "summary": "DraftKings (DKNG) stock fell 2.8% on March 16, 2026, to close at $24.90, as part of a broader decline that saw the stock down as much as 3.27% intraday according to MarketWatch. The search results did not reveal specific catalysts for the decline, though the stock had already fallen more than 22% from previous levels based on historical performance data cited by Trefis.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.97999954223633,
+            "open_price": 37.220001220703125,
+            "pct_change": -3.3315465819411707,
+            "volume": 4760870
+          },
+          "search_query": "MGM Resorts MGM stock drops March 16, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down March 16, 2026",
+            "summary": "MGM Resorts International stock fell 3.3% on March 16, 2026, to close at $35.98, following news that SIIT Large Cap Disciplined Equity Fund sold 27,125 shares of the company. The institutional selling appeared to weigh on investor sentiment, contributing to the stock's decline during the trading session.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.979999542236328,
+            "open_price": 14.454999923706055,
+            "pct_change": -3.2860628431462717,
+            "volume": 3657488
+          },
+          "search_query": "Penn Entertainment PENN stock drops March 16, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down March 16, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any specific information about catalysts or reasons why Penn Entertainment (PENN) stock fell 3.3% on March 16, 2026 to close at $13.98. The search results only show general stock performance data and unrelated news from other Penn-affiliated organizations. Without concrete information about analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date, I cannot write a factual narrative explaining the stock's decline.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
