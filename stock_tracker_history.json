@@ -11220,6 +11220,179 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-20",
+      "date_display": "March 20, 2026",
+      "benchmark": {
+        "current_price": 21647.611328125,
+        "open_price": 21989.33203125,
+        "pct_change": -1.5540294841124132,
+        "volume": 10441715000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.670000076293945,
+            "open_price": 24.90999984741211,
+            "pct_change": -4.977919625507292,
+            "volume": 14996483
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 104.80999755859375,
+            "open_price": 105.87999725341797,
+            "pct_change": -1.0105777508316638,
+            "volume": 3781438
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.760000228881836,
+            "open_price": 27.5,
+            "pct_change": -2.690908258611506,
+            "volume": 5225454
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.369998931884766,
+            "open_price": 36.869998931884766,
+            "pct_change": -4.068348368469348,
+            "volume": 8990651
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.670000076293945,
+            "open_price": 14.279999732971191,
+            "pct_change": -4.271706359131181,
+            "volume": 5244046
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.700000762939453,
+            "open_price": 21.190000534057617,
+            "pct_change": -2.3124103764443618,
+            "volume": 960711
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.039999961853027,
+            "open_price": 12.3100004196167,
+            "pct_change": -2.193342392851673,
+            "volume": 56988
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.670000076293945,
+            "open_price": 24.90999984741211,
+            "pct_change": -4.977919625507292,
+            "volume": 14996483
+          },
+          "search_query": "DraftKings DKNG stock drops March 20, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down March 20, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient specific information about why DraftKings stock fell 5.0% on March 20, 2026. While the search results confirm that DKNG experienced a larger drop than the general market that day, they do not include details about specific catalysts such as analyst downgrades, earnings reports, regulatory news, or competitive developments that would have driven the decline. Without access to the actual content of these articles or additional sources containing concrete information about the cause of the stock movement, I cannot write a factual narrative explaining the specific reasons for the drop.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.760000228881836,
+            "open_price": 27.5,
+            "pct_change": -2.690908258611506,
+            "volume": 5225454
+          },
+          "search_query": "Caesars Entertainment CZR stock drops March 20, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down March 20, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 2.7% to close at $26.76 on March 20, 2026, following a gap down to $27 on March 16 that pressured shares throughout the week. The decline came despite the company maintaining a \"Buy\" consensus rating from 14 analysts as of that date, suggesting the weakness may have been driven by broader market conditions or profit-taking after the company's fourth-quarter earnings release in mid-February.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.369998931884766,
+            "open_price": 36.869998931884766,
+            "pct_change": -4.068348368469348,
+            "volume": 8990651
+          },
+          "search_query": "MGM Resorts MGM stock drops March 20, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down March 20, 2026",
+            "summary": "MGM Resorts International stock fell 4.1% on March 20, 2026, to close at $35.37, contributing to the company's year-to-date decline of 3.1% as the broader market weakened amid economic uncertainty. The stock experienced selling pressure throughout the trading session, opening lower in pre-market trading and continuing its downward trajectory during regular hours before recovering slightly in after-hours trading to $37.46. The decline occurred against a backdrop of broader market weakness, with the S&P 500 moving lower on March 20 amid heightened economic concerns.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.670000076293945,
+            "open_price": 14.279999732971191,
+            "pct_change": -4.271706359131181,
+            "volume": 5244046
+          },
+          "search_query": "Penn Entertainment PENN stock drops March 20, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down March 20, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative about why Penn Entertainment (PENN) stock fell 4.3% on March 20, 2026. The search results do not contain specific news about analyst downgrades, earnings announcements, competitive developments, regulatory changes, or market events from that date that would explain the stock decline. Without concrete catalysts mentioned in the search results, I cannot provide a factual narrative that meets the requirements.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.700000762939453,
+            "open_price": 21.190000534057617,
+            "pct_change": -2.3124103764443618,
+            "volume": 960711
+          },
+          "search_query": "Rush Street Interactive RSI stock drops March 20, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down March 20, 2026",
+            "summary": "Rush Street Interactive (RSI) stock fell 2.3% to close at $20.70 on March 20, 2026, despite posting strong fourth-quarter results in February that showed 28% revenue growth driven by its casino strategy. The decline came even as the stock maintained a positive year-to-date return of 6.54%, suggesting profit-taking or broader market pressures rather than company-specific negative catalysts.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.039999961853027,
+            "open_price": 12.3100004196167,
+            "pct_change": -2.193342392851673,
+            "volume": 56988
+          },
+          "search_query": "Bally's Corporation BALY stock drops March 20, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down March 20, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.2% on March 20, 2026 to close at $12.04, continuing pressure from a disappointing Q4 pre-announcement released on March 16 that initially sent shares down 3%. The stock's decline reflected ongoing concerns about the company's International Interactive revenues, which had experienced a notable decline, while analyst sentiment remained neutral with a Hold consensus rating.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
