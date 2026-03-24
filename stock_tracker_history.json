@@ -11393,6 +11393,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-23",
+      "date_display": "March 23, 2026",
+      "benchmark": {
+        "current_price": 21946.759765625,
+        "open_price": 21995.779296875,
+        "pct_change": -0.22285880663007168,
+        "volume": 7151570000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.959999084472656,
+            "open_price": 25.20199966430664,
+            "pct_change": -4.928182669540379,
+            "volume": 18172155
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 109.37999725341797,
+            "open_price": 114.8499984741211,
+            "pct_change": -4.762735127014972,
+            "volume": 2614244
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.440000534057617,
+            "open_price": 27.43000030517578,
+            "pct_change": -3.6091861469332924,
+            "volume": 6248554
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.95000076293945,
+            "open_price": 36.9900016784668,
+            "pct_change": -0.10813980457489332,
+            "volume": 4577597
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.4399995803833,
+            "open_price": 14.180000305175781,
+            "pct_change": 1.833563255373262,
+            "volume": 4160813
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 21.75,
+            "open_price": 20.940000534057617,
+            "pct_change": 3.8681921933333703,
+            "volume": 2399984
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.109999656677246,
+            "open_price": 12.25,
+            "pct_change": -1.1428599454918686,
+            "volume": 69712
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.959999084472656,
+            "open_price": 25.20199966430664,
+            "pct_change": -4.928182669540379,
+            "volume": 18172155
+          },
+          "search_query": "DraftKings DKNG stock drops March 23, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down March 23, 2026",
+            "summary": "DraftKings (DKNG) stock fell 4.9% to close at $23.96 on March 23, 2026, despite broader market strength as stocks soared following President Trump's announcement of delayed tariff strikes and ongoing trade talks. The decline came as the sports betting company underperformed the rallying market, with the stock pulling back after an early session pop of nearly 7% when Citizens reiterated its positive stance on the shares. The weakness marked a continuation of DKNG's struggles in 2026, following a 13% plunge in February after the company issued a disappointing revenue forecast.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 109.37999725341797,
+            "open_price": 114.8499984741211,
+            "pct_change": -4.762735127014972,
+            "volume": 2614244
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops March 23, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down March 23, 2026",
+            "summary": "Flutter Entertainment stock fell 4.8% on March 23, 2026, to close at $109.38, though the specific catalyst for the decline was not immediately disclosed in available market reports. The gaming and betting company's shares continued to decline in after-hours trading, hovering around $109, as broader market volatility related to geopolitical tensions, including an Iran conflict that impacted commodity markets, may have contributed to investor sentiment.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.440000534057617,
+            "open_price": 27.43000030517578,
+            "pct_change": -3.6091861469332924,
+            "volume": 6248554
+          },
+          "search_query": "Caesars Entertainment CZR stock drops March 23, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down March 23, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 3.6% to close at $26.44 on March 23, 2026, though the specific catalyst for the decline was not immediately apparent from available public information. The gaming and hospitality company had reported its fourth quarter and full year 2025 earnings results on February 17, 2026, approximately one month prior to the trading session. The stock showed modest recovery in after-hours trading, edging up 0.40% to $26.55.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 21.75,
+            "open_price": 20.940000534057617,
+            "pct_change": 3.8681921933333703,
+            "volume": 2399984
+          },
+          "search_query": "Rush Street Interactive RSI stock rises March 23, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up March 23, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 3.9% to close at $21.75 on March 23, 2026, extending gains following the company's strong 2025 profit results and optimistic 2026 revenue outlook announced in its fourth quarter earnings report released in mid-February. The stock was up 6.6% overall in the period following the earnings announcement, which highlighted improved profitability in the online gaming and sports betting company's operations.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
