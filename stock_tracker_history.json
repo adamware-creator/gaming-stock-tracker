@@ -11534,6 +11534,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-24",
+      "date_display": "March 24, 2026",
+      "benchmark": {
+        "current_price": 21761.89453125,
+        "open_price": 21807.595703125,
+        "pct_change": -0.20956538491059368,
+        "volume": 7234901000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.309999465942383,
+            "open_price": 23.729999542236328,
+            "pct_change": -1.7699118600756798,
+            "volume": 15863013
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 107.83000183105469,
+            "open_price": 107.73999786376953,
+            "pct_change": 0.08353811868361147,
+            "volume": 1765643
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.309999465942383,
+            "open_price": 26.299999237060547,
+            "pct_change": 0.038023685064386435,
+            "volume": 3774550
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.11000061035156,
+            "open_price": 36.79999923706055,
+            "pct_change": 0.842395053581467,
+            "volume": 4651244
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.470000267028809,
+            "open_price": 14.369999885559082,
+            "pct_change": 0.6958968842457713,
+            "volume": 2634031
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.15999984741211,
+            "open_price": 21.510000228881836,
+            "pct_change": 3.0218484965774577,
+            "volume": 2438436
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.600000381469727,
+            "open_price": 11.989999771118164,
+            "pct_change": -3.2527055637472033,
+            "volume": 51116
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.15999984741211,
+            "open_price": 21.510000228881836,
+            "pct_change": 3.0218484965774577,
+            "volume": 2438436
+          },
+          "search_query": "Rush Street Interactive RSI stock rises March 24, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up March 24, 2026",
+            "summary": "Rush Street Interactive stock rose 3.0% on March 24, 2026, closing at $22.16, driven by the company's strong 2025 profit jump and positive 2026 revenue outlook that sent shares up 6.6% for the day. The stock continued to gain momentum in after-hours trading, climbing to $22.28 by 6:30 PM ET, as investors responded favorably to the earnings announcement and forward guidance.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.600000381469727,
+            "open_price": 11.989999771118164,
+            "pct_change": -3.2527055637472033,
+            "volume": 51116
+          },
+          "search_query": "Bally's Corporation BALY stock drops March 24, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down March 24, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 3.3% on March 24, 2026, to close at $11.60, continuing pressure following the company's disappointing Q4 pre-announcement earlier in March that had initially sent shares down 3% to $12.41. The decline came as Stifel Nicolaus maintained its Hold rating on the stock on March 17, reflecting ongoing analyst caution after Bally's had canceled its earnings call in March 2025 when shares plunged 24% amid declining revenue. The stock remained under pressure with a consensus Hold rating from five analysts as of March 24, 2026.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
