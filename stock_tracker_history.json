@@ -11643,6 +11643,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-25",
+      "date_display": "March 25, 2026",
+      "benchmark": {
+        "current_price": 21929.826171875,
+        "open_price": 22006.427734375,
+        "pct_change": -0.34808721990050673,
+        "volume": 6785904000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 21.420000076293945,
+            "open_price": 23.395000457763672,
+            "pct_change": -8.441976246315136,
+            "volume": 21103637
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 103.4000015258789,
+            "open_price": 109.54000091552734,
+            "pct_change": -5.605257749069537,
+            "volume": 2904337
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.81999969482422,
+            "open_price": 26.459999084472656,
+            "pct_change": 1.3605465714578169,
+            "volume": 5256850
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.4900016784668,
+            "open_price": 37.439998626708984,
+            "pct_change": 0.13355516450831617,
+            "volume": 3456797
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.65999984741211,
+            "open_price": 14.569999694824219,
+            "pct_change": 0.6177086786066431,
+            "volume": 2066271
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 21.920000076293945,
+            "open_price": 22.270000457763672,
+            "pct_change": -1.5716226954441348,
+            "volume": 1319172
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.920000076293945,
+            "open_price": 11.760000228881836,
+            "pct_change": 1.360542893691104,
+            "volume": 47606
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 21.420000076293945,
+            "open_price": 23.395000457763672,
+            "pct_change": -8.441976246315136,
+            "volume": 21103637
+          },
+          "search_query": "DraftKings DKNG stock drops March 25, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down March 25, 2026",
+            "summary": "DraftKings stock fell 8.4% to close at $21.42 on March 25, 2026, primarily driven by a Senate betting bill that negatively impacted the sports betting company. The legislative development hit DraftKings particularly hard with an initial 6% decline that deepened throughout the trading session, while competitor Penn Entertainment demonstrated more resilience to the regulatory headwinds.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 103.4000015258789,
+            "open_price": 109.54000091552734,
+            "pct_change": -5.605257749069537,
+            "volume": 2904337
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops March 25, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down March 25, 2026",
+            "summary": "Flutter Entertainment stock fell 5.6% on March 25, 2026, closing at $103.40 as investors continued to digest a recent guidance reset and ongoing analyst estimate reductions. The decline extended the stock's retreat from early March levels when shares traded above $111 following an initial positive reaction to the company's 2026 revenue outlook. The sell-off reflected persistent concerns about the online gambling company's revised financial projections, which had prompted analysts to lower their earnings estimates in recent weeks.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
