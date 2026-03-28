@@ -11861,6 +11861,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-27",
+      "date_display": "March 27, 2026",
+      "benchmark": {
+        "current_price": 20948.359375,
+        "open_price": 21287.189453125,
+        "pct_change": -1.5917088485124515,
+        "volume": 8713310000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.719999313354492,
+            "open_price": 21.079999923706055,
+            "pct_change": -1.7077827877348073,
+            "volume": 13669100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 100.5,
+            "open_price": 102.87000274658203,
+            "pct_change": -2.303881290273201,
+            "volume": 3094000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.850000381469727,
+            "open_price": 26.75,
+            "pct_change": -3.364484555253359,
+            "volume": 4704600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.31999969482422,
+            "open_price": 37.31999969482422,
+            "pct_change": -2.679528424912304,
+            "volume": 4698400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.770000457763672,
+            "open_price": 14.430000305175781,
+            "pct_change": -4.573803419639425,
+            "volume": 3503700
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.979999542236328,
+            "open_price": 21.274999618530273,
+            "pct_change": -1.3866043787704876,
+            "volume": 1432700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.529999732971191,
+            "open_price": 11.079999923706055,
+            "pct_change": -4.963900672581398,
+            "volume": 151100
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 100.5,
+            "open_price": 102.87000274658203,
+            "pct_change": -2.303881290273201,
+            "volume": 3094000
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops March 27, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down March 27, 2026",
+            "summary": "Flutter Entertainment stock fell 2.3% on March 27, 2026, to close at $100.50, continuing a broader decline that saw shares drop across multiple timeframes including year-to-date performance. The stock's weakness followed the company's March 6 announcement of a 2025 loss and 2026 guidance, along with FanDuel predictions, which had triggered a 7% decline earlier in the month. The March 27 selloff extended Flutter's downward trajectory as investors remained cautious about the online gambling company's near-term outlook.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.850000381469727,
+            "open_price": 26.75,
+            "pct_change": -3.364484555253359,
+            "volume": 4704600
+          },
+          "search_query": "Caesars Entertainment CZR stock drops March 27, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down March 27, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 3.4% on March 27, 2026, to close at $25.85, part of a broader selloff in casino operator stocks that also saw competitor MGM Resorts decline 3.8% on the same day. The decline appeared to be part of a sector-wide downturn affecting consumer discretionary casino companies, though no specific catalyst such as analyst downgrades or earnings news was identified in the available reports.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.31999969482422,
+            "open_price": 37.31999969482422,
+            "pct_change": -2.679528424912304,
+            "volume": 4698400
+          },
+          "search_query": "MGM Resorts MGM stock drops March 27, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down March 27, 2026",
+            "summary": "MGM Resorts stock fell 2.7% to close at $36.32 on March 27, 2026, as part of broader weakness in the casino sector that also affected Caesars Entertainment and other gaming stocks. The decline occurred on the same day the company filed additional proxy soliciting materials with the SEC, amid broader market volatility as investors monitored developments related to a Trump-related deadline affecting the S&P 500.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.770000457763672,
+            "open_price": 14.430000305175781,
+            "pct_change": -4.573803419639425,
+            "volume": 3503700
+          },
+          "search_query": "Penn Entertainment PENN stock drops March 27, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down March 27, 2026",
+            "summary": "Penn Entertainment stock fell 4.6% on March 27, 2026, to close at $13.77, as part of a broader decline among gaming and hospitality stocks including Opendoor, Bally's, Wolverine Worldwide, and Royal Caribbean. The decline came two days after a Senate betting bill caused significant turbulence in the gaming sector, with competitor DraftKings falling 6% while Penn initially held steady before succumbing to sector pressure.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.529999732971191,
+            "open_price": 11.079999923706055,
+            "pct_change": -4.963900672581398,
+            "volume": 151100
+          },
+          "search_query": "Bally's Corporation BALY stock drops March 27, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down March 27, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 5.0% on March 27, 2026, to close at $10.53, as shares declined alongside other consumer-facing stocks including PENN Entertainment and Wolverine Worldwide following the latest University of Michigan consumer sentiment survey. The drop occurred amid ongoing concerns about the company's financial reporting, as Bally's had delayed filing its 2025 annual report just ten days earlier on March 17, 2026.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
