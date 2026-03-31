@@ -12018,6 +12018,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-03-30",
+      "date_display": "March 30, 2026",
+      "benchmark": {
+        "current_price": 20794.640625,
+        "open_price": 21096.240234375,
+        "pct_change": -1.429636778991369,
+        "volume": 9234380000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.93000030517578,
+            "open_price": 20.80500030517578,
+            "pct_change": 0.6008171024583115,
+            "volume": 14708700
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 99.5,
+            "open_price": 100.05999755859375,
+            "pct_change": -0.5596617751922522,
+            "volume": 2887500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.5,
+            "open_price": 25.729999542236328,
+            "pct_change": -0.893896410137043,
+            "volume": 6061500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 35.619998931884766,
+            "open_price": 36.31999969482422,
+            "pct_change": -1.9273148921287206,
+            "volume": 3402300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 13.989999771118164,
+            "open_price": 13.739999771118164,
+            "pct_change": 1.8195051249237026,
+            "volume": 2303000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.700000762939453,
+            "open_price": 20.950000762939453,
+            "pct_change": -1.1933173789771405,
+            "volume": 1471200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.739999771118164,
+            "open_price": 10.550000190734863,
+            "pct_change": -7.677728957086193,
+            "volume": 134400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.739999771118164,
+            "open_price": 10.550000190734863,
+            "pct_change": -7.677728957086193,
+            "volume": 134400
+          },
+          "search_query": "Bally's Corporation BALY stock drops March 30, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down March 30, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 7.7% on March 30, 2026, to close at $9.74 after analysts lowered their price target for the gaming company. The decline came despite Bally's previously announced merger agreement with Standard General affiliates at $18.25 per share, a 71% premium to the 30-day volume weighted average price at the time of the July 2024 announcement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
