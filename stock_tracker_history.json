@@ -12252,6 +12252,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-01",
+      "date_display": "April 01, 2026",
+      "benchmark": {
+        "current_price": 21840.94921875,
+        "open_price": 21742.7890625,
+        "pct_change": 0.45146073931838754,
+        "volume": 8801740000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.15999984741211,
+            "open_price": 21.75,
+            "pct_change": 1.8850567697108478,
+            "volume": 13288400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 102.7300033569336,
+            "open_price": 103.4800033569336,
+            "pct_change": -0.7247777113159002,
+            "volume": 2115900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.549999237060547,
+            "open_price": 26.81999969482422,
+            "pct_change": -1.0067131276506955,
+            "volume": 3472400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.779998779296875,
+            "open_price": 37.45000076293945,
+            "pct_change": -1.78905732975475,
+            "volume": 4079500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.0,
+            "open_price": 15.149999618530273,
+            "pct_change": -0.9900965168791546,
+            "volume": 3512800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 21.940000534057617,
+            "open_price": 21.940000534057617,
+            "pct_change": 0.0,
+            "volume": 1014600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.40999984741211,
+            "open_price": 9.699999809265137,
+            "pct_change": -2.9896903871691674,
+            "volume": 76600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.40999984741211,
+            "open_price": 9.699999809265137,
+            "pct_change": -2.9896903871691674,
+            "volume": 76600
+          },
+          "search_query": "Bally's Corporation BALY stock drops April 01, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down April 01, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 3.0% on April 1, 2026, to close at $9.41, though no specific catalyst was identified in available reports. The gaming and entertainment company traded with a market capitalization of approximately $457 million and continued to show negative earnings with a price-to-earnings ratio of -0.72, reflecting ongoing profitability challenges.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
