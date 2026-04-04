@@ -12486,6 +12486,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-03",
+      "date_display": "April 03, 2026",
+      "benchmark": {
+        "current_price": 21879.1796875,
+        "open_price": 21472.51953125,
+        "pct_change": 1.8938632499934054,
+        "volume": 8134780000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.15999984741211,
+            "open_price": 21.829999923706055,
+            "pct_change": 6.092532882978875,
+            "volume": 10212800
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 106.37999725341797,
+            "open_price": 100.29000091552734,
+            "pct_change": 6.072386361846911,
+            "volume": 2475800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.530000686645508,
+            "open_price": 26.5,
+            "pct_change": 0.11321013828493513,
+            "volume": 2371200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.68000030517578,
+            "open_price": 36.20000076293945,
+            "pct_change": 1.3259655583425793,
+            "volume": 3428100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.770000457763672,
+            "open_price": 14.729999542236328,
+            "pct_change": 0.2715608742053685,
+            "volume": 2741200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.68000030517578,
+            "open_price": 21.600000381469727,
+            "pct_change": 4.999999558484121,
+            "volume": 1848600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.649999618530273,
+            "open_price": 9.300000190734863,
+            "pct_change": 3.7634346302927772,
+            "volume": 46400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.15999984741211,
+            "open_price": 21.829999923706055,
+            "pct_change": 6.092532882978875,
+            "volume": 10212800
+          },
+          "search_query": "DraftKings DKNG stock rises April 03, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up April 03, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to explain why DraftKings stock rose 6.1% on April 3, 2026. While the search results confirm the closing price of $23.16 and reference a prior economic indicator change (from -92 to 178), they do not provide specific catalysts such as analyst upgrades, earnings announcements, regulatory developments, or competitive news that would explain the stock's movement on that particular date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 106.37999725341797,
+            "open_price": 100.29000091552734,
+            "pct_change": 6.072386361846911,
+            "volume": 2475800
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises April 03, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up April 03, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 6.1% to close at $106.38 on April 3, 2026, rebounding from a sharp 15.6% decline in late February when the company reported a fourth-quarter net loss. The recovery brought shares above the $103.89 level reached after the disappointing Q4 earnings release on February 27, 2026, suggesting investors were regaining confidence in the global sports betting and iGaming operator.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.68000030517578,
+            "open_price": 21.600000381469727,
+            "pct_change": 4.999999558484121,
+            "volume": 1848600
+          },
+          "search_query": "Rush Street Interactive RSI stock rises April 03, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up April 03, 2026",
+            "summary": "Rush Street Interactive stock rose 5.0% on April 3, 2026, to close at $22.68, continuing momentum from strong 2025 profit results and upbeat 2026 revenue guidance reported in early March that had previously lifted shares 6.6%. The stock reached its 52-week high of $22.80 during intraday trading, reflecting sustained investor confidence in the online gaming operator's improved profitability trajectory.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.649999618530273,
+            "open_price": 9.300000190734863,
+            "pct_change": 3.7634346302927772,
+            "volume": 46400
+          },
+          "search_query": "Bally's Corporation BALY stock rises April 03, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up April 03, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 3.8% to close at $9.65 on April 3, 2026, though specific catalysts for the day's gain were not disclosed in available reports. The casino-entertainment company, which owns and operates 19 casinos across 11 states with a growing omni-channel presence, maintained a Hold consensus rating from 5 analysts as of the close.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
