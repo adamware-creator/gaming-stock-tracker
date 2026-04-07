@@ -12627,6 +12627,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-06",
+      "date_display": "April 06, 2026",
+      "benchmark": {
+        "current_price": 21996.33984375,
+        "open_price": 21939.80078125,
+        "pct_change": 0.2577008928372719,
+        "volume": 7907270000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.899999618530273,
+            "open_price": 22.959999084472656,
+            "pct_change": -0.26132172619710226,
+            "volume": 9335400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 104.66999816894531,
+            "open_price": 106.0,
+            "pct_change": -1.254718708542158,
+            "volume": 1703900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.700000762939453,
+            "open_price": 26.1200008392334,
+            "pct_change": 2.2205203103778968,
+            "volume": 2762800
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.599998474121094,
+            "open_price": 36.630001068115234,
+            "pct_change": 2.6480954892742234,
+            "volume": 2935600
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.65999984741211,
+            "open_price": 14.670000076293945,
+            "pct_change": -0.0681678856838989,
+            "volume": 2949200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.1200008392334,
+            "open_price": 22.6200008392334,
+            "pct_change": -2.210433162905865,
+            "volume": 1560600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.380000114440918,
+            "open_price": 9.569999694824219,
+            "pct_change": 8.46395449787501,
+            "volume": 79000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.700000762939453,
+            "open_price": 26.1200008392334,
+            "pct_change": 2.2205203103778968,
+            "volume": 2762800
+          },
+          "search_query": "Caesars Entertainment CZR stock rises April 06, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up April 06, 2026",
+            "summary": "I apologize, but the web search results provided do not contain specific information about catalysts that drove Caesars Entertainment's 2.2% stock price increase on April 06, 2026. The search results only show general investor relations pages, stock quote information, and the stock's market cap of $5.44 billion, but no news about analyst upgrades, earnings reports, regulatory changes, competitive developments, or other specific events that would explain the day's price movement. Without concrete catalyst information, I cannot write a factual news narrative explaining the stock's rise.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.599998474121094,
+            "open_price": 36.630001068115234,
+            "pct_change": 2.6480954892742234,
+            "volume": 2935600
+          },
+          "search_query": "MGM Resorts MGM stock rises April 06, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up April 06, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why MGM Resorts stock rose 2.6% on April 06, 2026. The search results contain general company website pages and basic stock price information but do not include any specific catalysts such as analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the stock movement on that particular date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.1200008392334,
+            "open_price": 22.6200008392334,
+            "pct_change": -2.210433162905865,
+            "volume": 1560600
+          },
+          "search_query": "Rush Street Interactive RSI stock drops April 06, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down April 06, 2026",
+            "summary": "Rush Street Interactive (RSI) stock fell 2.2% on April 6, 2026, closing at $22.12, down from the previous day's close of $22.62. The decline came despite analysts noting the company's solid growth showing no signs of slowing down, with the stock pulling back from its 52-week high of $22.80 reached earlier in the trading session. No specific catalyst was identified in available reports for the modest decline, which appeared to reflect normal profit-taking after the stock approached its yearly peak.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.380000114440918,
+            "open_price": 9.569999694824219,
+            "pct_change": 8.46395449787501,
+            "volume": 79000
+          },
+          "search_query": "Bally's Corporation BALY stock rises April 06, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up April 06, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information to explain why Bally's Corporation (BALY) stock rose 8.5% on April 06, 2026. The search results only confirm that the stock was up on that date but do not include any specific catalysts such as analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the price movement. Without access to the actual news content or specific catalysts from that date, I cannot write a factual narrative about what drove the stock increase.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
