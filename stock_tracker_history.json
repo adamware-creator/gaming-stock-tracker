@@ -12768,6 +12768,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-07",
+      "date_display": "April 07, 2026",
+      "benchmark": {
+        "current_price": 22017.849609375,
+        "open_price": 21927.08984375,
+        "pct_change": 0.4139161478871295,
+        "volume": 10796020000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.950000762939453,
+            "open_price": 22.899999618530273,
+            "pct_change": 0.21834561241092618,
+            "volume": 7818400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 103.62999725341797,
+            "open_price": 104.1500015258789,
+            "pct_change": -0.4992839796855195,
+            "volume": 2180700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.579999923706055,
+            "open_price": 26.639999389648438,
+            "pct_change": -0.22522322566455064,
+            "volume": 3317000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.88999938964844,
+            "open_price": 37.439998626708984,
+            "pct_change": 1.2019251587750623,
+            "volume": 3581400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.050000190734863,
+            "open_price": 14.619999885559082,
+            "pct_change": 2.9411785809965325,
+            "volume": 3338800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.059999465942383,
+            "open_price": 22.040000915527344,
+            "pct_change": 0.09073752079996483,
+            "volume": 951300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.40999984741211,
+            "open_price": 10.1899995803833,
+            "pct_change": 2.1589821009642596,
+            "volume": 43700
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.050000190734863,
+            "open_price": 14.619999885559082,
+            "pct_change": 2.9411785809965325,
+            "volume": 3338800
+          },
+          "search_query": "Penn Entertainment PENN stock rises April 07, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up April 07, 2026",
+            "summary": "Based on the limited information provided in the search results, Penn Entertainment (PENN) stock rose 2.9% to close at $15.05 on April 7, 2026, though no specific catalyst was identified in the available sources. The search results referenced the company's 43 entertainment destinations across North America and recent shareholder engagement activities from 2025, but did not contain details about analyst actions, earnings announcements, or material news that would explain the April 7th price movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.40999984741211,
+            "open_price": 10.1899995803833,
+            "pct_change": 2.1589821009642596,
+            "volume": 43700
+          },
+          "search_query": "Bally's Corporation BALY stock rises April 07, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up April 07, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 2.2% on April 7, 2026, to close at $10.41, continuing momentum from the previous session when shares gained 4.97%. The multi-day rally appeared to be driven by the company's partnership announcement with Minor League Baseball as the league's first-ever national media rightsholder and exclusive fantasy and gaming partner, expanding Bally's sports betting and digital gaming footprint.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
