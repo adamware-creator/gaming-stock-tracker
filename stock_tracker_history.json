@@ -12877,6 +12877,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-08",
+      "date_display": "April 08, 2026",
+      "benchmark": {
+        "current_price": 22634.990234375,
+        "open_price": 22821.2109375,
+        "pct_change": -0.8159983430984402,
+        "volume": 10411670000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.940000534057617,
+            "open_price": 23.709999084472656,
+            "pct_change": 0.9700609804560713,
+            "volume": 9942900
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 109.51000213623047,
+            "open_price": 109.43000030517578,
+            "pct_change": 0.07310776828253705,
+            "volume": 2673900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.850000381469727,
+            "open_price": 27.200000762939453,
+            "pct_change": -1.2867660722517666,
+            "volume": 2509700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.099998474121094,
+            "open_price": 39.0099983215332,
+            "pct_change": -4.896180286062214,
+            "volume": 5119500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.329999923706055,
+            "open_price": 15.550000190734863,
+            "pct_change": -1.4147926966579143,
+            "volume": 4466300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.209999084472656,
+            "open_price": 23.0,
+            "pct_change": -3.434786589249321,
+            "volume": 1218900
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.319999694824219,
+            "open_price": 10.920000076293945,
+            "pct_change": 3.6630001440991404,
+            "volume": 86900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.099998474121094,
+            "open_price": 39.0099983215332,
+            "pct_change": -4.896180286062214,
+            "volume": 5119500
+          },
+          "search_query": "MGM Resorts MGM stock drops April 08, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down April 08, 2026",
+            "summary": "I cannot provide a factual news narrative about MGM Resorts stock falling 4.9% on April 08, 2026, as the search results provided do not contain any information about stock performance, analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain this movement. The search results only show entertainment schedules, poker tournaments, and general website pages from MGM properties, with no relevant financial or news content to support a credible explanation for the stock decline.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.209999084472656,
+            "open_price": 23.0,
+            "pct_change": -3.434786589249321,
+            "volume": 1218900
+          },
+          "search_query": "Rush Street Interactive RSI stock drops April 08, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down April 08, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative about why Rush Street Interactive (RSI) stock fell 3.4% on April 08, 2026, because the web search results provided do not contain specific information about catalysts or reasons for the stock decline on that date. The search results only confirm stock price data and mention Q4 earnings discussion, but do not provide concrete details about analyst actions, competitive developments, regulatory changes, or other specific events that caused the 3.4% drop. Writing a narrative without this information would require speculation rather than factual reporting.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.319999694824219,
+            "open_price": 10.920000076293945,
+            "pct_change": 3.6630001440991404,
+            "volume": 86900
+          },
+          "search_query": "Bally's Corporation BALY stock rises April 08, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up April 08, 2026",
+            "summary": "I cannot provide a factual news narrative explaining why Bally's Corporation (BALY) stock rose 3.7% on April 08, 2026, as the search results provided contain only basic stock information pages without any news content, analyst actions, earnings announcements, regulatory changes, or other specific catalysts that would explain the price movement on that date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
