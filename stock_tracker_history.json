@@ -13002,6 +13002,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-09",
+      "date_display": "April 09, 2026",
+      "benchmark": {
+        "current_price": 22822.419921875,
+        "open_price": 22646.349609375,
+        "pct_change": 0.7774776753738336,
+        "volume": 8662470000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.25,
+            "open_price": 23.700000762939453,
+            "pct_change": -6.118146482116877,
+            "volume": 15526900
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 105.25,
+            "open_price": 107.08999633789062,
+            "pct_change": -1.7181776083781568,
+            "volume": 3054700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.440000534057617,
+            "open_price": 26.6200008392334,
+            "pct_change": -0.6761844459091493,
+            "volume": 2612800
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.93000030517578,
+            "open_price": 36.83000183105469,
+            "pct_change": 0.27151362788360234,
+            "volume": 3556100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.65999984741211,
+            "open_price": 15.220000267028809,
+            "pct_change": 2.890930175188465,
+            "volume": 2538400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 21.40999984741211,
+            "open_price": 22.06999969482422,
+            "pct_change": -2.9904841709938506,
+            "volume": 1022300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.0600004196167,
+            "open_price": 11.260000228881836,
+            "pct_change": -1.7761972042606033,
+            "volume": 49500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.25,
+            "open_price": 23.700000762939453,
+            "pct_change": -6.118146482116877,
+            "volume": 15526900
+          },
+          "search_query": "DraftKings DKNG stock drops April 09, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down April 09, 2026",
+            "summary": "DraftKings stock fell 6.1% to close at $22.25 on April 9, 2026, as concerns about costs associated with the company's new predictions product spooked investors. The decline came amid broader regulatory uncertainty in the sports betting sector, following a Senate betting bill introduced in late March that had previously pressured shares.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.65999984741211,
+            "open_price": 15.220000267028809,
+            "pct_change": 2.890930175188465,
+            "volume": 2538400
+          },
+          "search_query": "Penn Entertainment PENN stock rises April 09, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up April 09, 2026",
+            "summary": "I cannot write a factual news narrative explaining why PENN Entertainment stock rose 2.9% on April 09, 2026, because the web search results provided do not contain any specific information about catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date. The search results only show basic company information and stock data confirmation without explaining the reasons behind the price movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 21.40999984741211,
+            "open_price": 22.06999969482422,
+            "pct_change": -2.9904841709938506,
+            "volume": 1022300
+          },
+          "search_query": "Rush Street Interactive RSI stock drops April 09, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down April 09, 2026",
+            "summary": "Rush Street Interactive stock fell 3.0% to close at $21.41 on April 09, 2026, amid broader market pressure as investors digested economic data, with the stock declining from its previous close of $22.21. The drop occurred just days after the company filed a Form 144 on April 6, 2026, indicating a proposed sale of securities by insiders, which may have contributed to selling pressure. The decline brought RSI shares further below its 52-week high of $23.15, which had been reached earlier in the trading session on the same day according to intraday data.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
