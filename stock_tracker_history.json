@@ -13252,6 +13252,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-13",
+      "date_display": "April 13, 2026",
+      "benchmark": {
+        "current_price": 23183.740234375,
+        "open_price": 22849.23046875,
+        "pct_change": 1.4639870085887396,
+        "volume": 7925320000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.510000228881836,
+            "open_price": 22.020000457763672,
+            "pct_change": 2.2252486872469754,
+            "volume": 11587400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 105.33000183105469,
+            "open_price": 100.87000274658203,
+            "pct_change": 4.421531637782951,
+            "volume": 2563100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.75,
+            "open_price": 26.530000686645508,
+            "pct_change": 0.8292472961194982,
+            "volume": 2456200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.75,
+            "open_price": 36.959999084472656,
+            "pct_change": -0.5681793551799069,
+            "volume": 2626800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.289999961853027,
+            "open_price": 15.140000343322754,
+            "pct_change": 0.9907504301770262,
+            "volume": 2896300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 21.43000030517578,
+            "open_price": 20.899999618530273,
+            "pct_change": 2.5358884991347117,
+            "volume": 958500
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.920000076293945,
+            "open_price": 10.729999542236328,
+            "pct_change": 1.7707413062761195,
+            "volume": 33800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.510000228881836,
+            "open_price": 22.020000457763672,
+            "pct_change": 2.2252486872469754,
+            "volume": 11587400
+          },
+          "search_query": "DraftKings DKNG stock rises April 13, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up April 13, 2026",
+            "summary": "DraftKings (DKNG) stock rose 2.2% on April 13, 2026, closing at $22.51, outperforming broader market returns on the day. The sports betting company's shares gained momentum as it surpassed overall market performance, according to Zacks Equity Research. However, the web search results did not identify specific catalysts such as analyst upgrades, earnings announcements, or regulatory developments that drove the stock's advance on this particular trading session.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 105.33000183105469,
+            "open_price": 100.87000274658203,
+            "pct_change": 4.421531637782951,
+            "volume": 2563100
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises April 13, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up April 13, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 4.4% to close at $105.33 on April 13, 2026, as Oppenheimer maintained its Outperform rating on the shares, though the firm lowered its price target. The gain extended the company's strong year-to-date performance, with FLUT delivering a 51.02% return in 2026 despite facing challenges over the previous six months that had pressured the stock.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 21.43000030517578,
+            "open_price": 20.899999618530273,
+            "pct_change": 2.5358884991347117,
+            "volume": 958500
+          },
+          "search_query": "Rush Street Interactive RSI stock rises April 13, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up April 13, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative explaining why RSI stock rose 2.5% on April 13, 2026, because the search results provided do not contain any specific catalysts, news events, analyst actions, or developments that occurred on that date to explain the price movement. The search results only show basic stock price information and a February 2026 earnings announcement, but no information about what specifically drove the April 13th gain. Without concrete information about the cause of the stock movement, I cannot create a factual narrative that meets your requirements.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
