@@ -13828,6 +13828,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-20",
+      "date_display": "April 20, 2026",
+      "benchmark": {
+        "current_price": 24404.390625,
+        "open_price": 24417.529296875,
+        "pct_change": -0.053808359212991756,
+        "volume": 8379940000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.889999389648438,
+            "open_price": 22.402000427246094,
+            "pct_change": 2.178372257366902,
+            "volume": 14582400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 109.62999725341797,
+            "open_price": 108.54000091552734,
+            "pct_change": 1.004234686471883,
+            "volume": 1680500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.649999618530273,
+            "open_price": 26.54199981689453,
+            "pct_change": 4.17451514309211,
+            "volume": 9525400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 39.400001525878906,
+            "open_price": 38.400001525878906,
+            "pct_change": 2.604166563186385,
+            "volume": 3440100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.84000015258789,
+            "open_price": 15.609999656677246,
+            "pct_change": 1.4734176871827207,
+            "volume": 3740800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.969999313354492,
+            "open_price": 22.649999618530273,
+            "pct_change": 1.4128022084487042,
+            "volume": 1040900
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.010000228881836,
+            "open_price": 11.84000015258789,
+            "pct_change": 1.4358114366813424,
+            "volume": 61300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.889999389648438,
+            "open_price": 22.402000427246094,
+            "pct_change": 2.178372257366902,
+            "volume": 14582400
+          },
+          "search_query": "DraftKings DKNG stock rises April 20, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up April 20, 2026",
+            "summary": "Based on the search results provided, there is insufficient information to explain the specific catalysts behind DraftKings' stock performance on April 20, 2026. The search results show that DraftKings (DKNG) stock closed at $22.89, up 2.2% on April 20, 2026, but do not contain details about analyst actions, earnings announcements, competitive developments, regulatory changes, or other market events that drove the price movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.649999618530273,
+            "open_price": 26.54199981689453,
+            "pct_change": 4.17451514309211,
+            "volume": 9525400
+          },
+          "search_query": "Caesars Entertainment CZR stock rises April 20, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up April 20, 2026",
+            "summary": "Caesars Entertainment rose 4.2% on April 20, 2026.",
+            "needs_manual_lookup": true
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 39.400001525878906,
+            "open_price": 38.400001525878906,
+            "pct_change": 2.604166563186385,
+            "volume": 3440100
+          },
+          "search_query": "MGM Resorts MGM stock rises April 20, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up April 20, 2026",
+            "summary": "MGM Resorts rose 2.6% on April 20, 2026.",
+            "needs_manual_lookup": true
+          }
+        }
+      ]
     }
   ]
 }
