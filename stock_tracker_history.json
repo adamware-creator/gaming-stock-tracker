@@ -13953,6 +13953,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-21",
+      "date_display": "April 21, 2026",
+      "benchmark": {
+        "current_price": 24259.9609375,
+        "open_price": 24465.33984375,
+        "pct_change": -0.8394688467917064,
+        "volume": 9309940000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.989999771118164,
+            "open_price": 22.959999084472656,
+            "pct_change": 0.130665016732499,
+            "volume": 10750600
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 109.5,
+            "open_price": 109.56999969482422,
+            "pct_change": -0.06388582186655363,
+            "volume": 2082900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.639999389648438,
+            "open_price": 27.90999984741211,
+            "pct_change": -0.9673968442844941,
+            "volume": 2961900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 39.11000061035156,
+            "open_price": 39.5,
+            "pct_change": -0.9873402269580697,
+            "volume": 2796800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.470000267028809,
+            "open_price": 15.869999885559082,
+            "pct_change": -2.5204765054488334,
+            "volume": 4958400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 23.239999771118164,
+            "open_price": 23.010000228881836,
+            "pct_change": 0.9995634069904783,
+            "volume": 1236000
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.920000076293945,
+            "open_price": 12.0,
+            "pct_change": -0.6666660308837891,
+            "volume": 32500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.470000267028809,
+            "open_price": 15.869999885559082,
+            "pct_change": -2.5204765054488334,
+            "volume": 4958400
+          },
+          "search_query": "Penn Entertainment PENN stock drops April 21, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down April 21, 2026",
+            "summary": "Penn Entertainment (PENN) stock fell 2.5% to close at $15.47 on April 21, 2026, amid investor caution ahead of the company's first-quarter 2026 earnings call scheduled for April 23. The decline extended the stock's recent losses, as shares were already down 3.54% from the previous session's closing price, reflecting growing concerns about the company's quarterly performance in the competitive gaming and entertainment sector.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
