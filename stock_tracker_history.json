@@ -14389,6 +14389,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-27",
+      "date_display": "April 27, 2026",
+      "benchmark": {
+        "current_price": 24887.099609375,
+        "open_price": 24799.640625,
+        "pct_change": 0.3526623054643559,
+        "volume": 8126500000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.530000686645508,
+            "open_price": 23.09000015258789,
+            "pct_change": 1.9055891344734472,
+            "volume": 14002500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 110.93000030517578,
+            "open_price": 111.16000366210938,
+            "pct_change": -0.20691197315243884,
+            "volume": 3703900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.030000686645508,
+            "open_price": 28.040000915527344,
+            "pct_change": -0.03566415319301306,
+            "volume": 3398900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 40.54999923706055,
+            "open_price": 39.619998931884766,
+            "pct_change": 2.347300177303514,
+            "volume": 6554100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.829999923706055,
+            "open_price": 17.229999542236328,
+            "pct_change": 3.482300623391955,
+            "volume": 5334100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.280000686645508,
+            "open_price": 23.579999923706055,
+            "pct_change": 2.968620717575619,
+            "volume": 2013000
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.890000343322754,
+            "open_price": 12.630000114440918,
+            "pct_change": 2.0585924507202207,
+            "volume": 45000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 40.54999923706055,
+            "open_price": 39.619998931884766,
+            "pct_change": 2.347300177303514,
+            "volume": 6554100
+          },
+          "search_query": "MGM Resorts MGM stock rises April 27, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up April 27, 2026",
+            "summary": "MGM Resorts International stock rose 2.3% to close at $40.55 on April 27, 2026, climbing to a new 52-week high ahead of its Q1 2026 earnings report scheduled for release after market close. The gain extended the casino operator's year-to-date advance to 13.4%, driven by investor optimism around strong travel demand and positive momentum in its China operations that analysts expected would lead to a quarterly earnings beat.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.829999923706055,
+            "open_price": 17.229999542236328,
+            "pct_change": 3.482300623391955,
+            "volume": 5334100
+          },
+          "search_query": "Penn Entertainment PENN stock rises April 27, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up April 27, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 3.5% to close at $17.83 on April 27, 2026, as investors digested the company's first-quarter earnings results released four days earlier on April 23. Despite PENN Entertainment posting a loss in Q1 2026 according to reports, the stock gained ground in the days following the earnings announcement, suggesting the results may have been better than feared or included positive forward guidance.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.280000686645508,
+            "open_price": 23.579999923706055,
+            "pct_change": 2.968620717575619,
+            "volume": 2013000
+          },
+          "search_query": "Rush Street Interactive RSI stock rises April 27, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up April 27, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 3.0% to close at $24.28 on April 27, 2026, though the search results provided do not specify the catalyst for the gain. The stock's movement came ahead of the company's Q1 2026 earnings report, with shares trading near their 52-week high of $23.91 set earlier in the month.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.890000343322754,
+            "open_price": 12.630000114440918,
+            "pct_change": 2.0585924507202207,
+            "volume": 45000
+          },
+          "search_query": "Bally's Corporation BALY stock rises April 27, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up April 27, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any specific information about catalysts that caused Bally's Corporation (BALY) stock to rise 2.1% to $12.89 on April 27, 2026. The search results only show general company information, historical news from 2023, and basic stock quote pages without details about analyst actions, earnings announcements, competitive developments, regulatory changes, or market events from that specific date. Without access to actual news or catalysts from April 27, 2026, I cannot write a factual narrative explaining the stock movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
