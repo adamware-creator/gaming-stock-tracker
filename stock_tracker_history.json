@@ -14530,6 +14530,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-28",
+      "date_display": "April 28, 2026",
+      "benchmark": {
+        "current_price": 24663.80078125,
+        "open_price": 24609.5703125,
+        "pct_change": 0.22036333044975834,
+        "volume": 7441950000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.399999618530273,
+            "open_price": 23.290000915527344,
+            "pct_change": 0.47230012313822634,
+            "volume": 6683100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 109.08999633789062,
+            "open_price": 109.8499984741211,
+            "pct_change": -0.6918544804618392,
+            "volume": 3429100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.309999465942383,
+            "open_price": 28.100000381469727,
+            "pct_change": -2.81139112029444,
+            "volume": 3675600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 39.7400016784668,
+            "open_price": 40.5099983215332,
+            "pct_change": -1.9007570352258256,
+            "volume": 4520200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.0,
+            "open_price": 17.75,
+            "pct_change": 1.4084507042253522,
+            "volume": 3948200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.0,
+            "open_price": 24.059999465942383,
+            "pct_change": -0.24937434444798628,
+            "volume": 1948300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.020000457763672,
+            "open_price": 12.699999809265137,
+            "pct_change": 2.5196901834997067,
+            "volume": 36800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.309999465942383,
+            "open_price": 28.100000381469727,
+            "pct_change": -2.81139112029444,
+            "volume": 3675600
+          },
+          "search_query": "Caesars Entertainment CZR stock drops April 28, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down April 28, 2026",
+            "summary": "Caesars Entertainment stock fell 2.8% to close at $27.31 on April 28, 2026, despite reporting a narrowed first-quarter loss, as investors appeared to react negatively to the company's Q1 2026 earnings results released that day. The decline came even as the stock initially traded up 1.50% to $27.72 during regular hours before reversing in after-hours trading following the earnings call.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.020000457763672,
+            "open_price": 12.699999809265137,
+            "pct_change": 2.5196901834997067,
+            "volume": 36800
+          },
+          "search_query": "Bally's Corporation BALY stock rises April 28, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up April 28, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any specific information about catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain why Bally's Corporation (BALY) stock rose 2.5% on April 28, 2026 to close at $13.02. The search results only show general stock quote pages and information about Bally's casino properties, without any news content or performance context that would allow me to write a factual narrative about the stock movement on that date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
