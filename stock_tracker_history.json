@@ -14639,6 +14639,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-29",
+      "date_display": "April 29, 2026",
+      "benchmark": {
+        "current_price": 24673.240234375,
+        "open_price": 24606.529296875,
+        "pct_change": 0.2711107149453711,
+        "volume": 8147470000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.139999389648438,
+            "open_price": 23.40999984741211,
+            "pct_change": -1.1533552307712616,
+            "volume": 6605200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 107.5999984741211,
+            "open_price": 109.69999694824219,
+            "pct_change": -1.914310421641943,
+            "volume": 1472000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.3799991607666,
+            "open_price": 27.6200008392334,
+            "pct_change": -0.8689416045414508,
+            "volume": 3089800
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 39.27000045776367,
+            "open_price": 39.68000030517578,
+            "pct_change": -1.0332657365393967,
+            "volume": 6662300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.81999969482422,
+            "open_price": 18.0,
+            "pct_change": -1.000001695421007,
+            "volume": 3937400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.979999542236328,
+            "open_price": 28.639999389648438,
+            "pct_change": -2.304468790074967,
+            "volume": 6403800
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.869999885559082,
+            "open_price": 13.029999732971191,
+            "pct_change": -1.2279343874984492,
+            "volume": 52400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.979999542236328,
+            "open_price": 28.639999389648438,
+            "pct_change": -2.304468790074967,
+            "volume": 6403800
+          },
+          "search_query": "Rush Street Interactive RSI stock drops April 29, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down April 29, 2026",
+            "summary": "Rush Street Interactive stock fell 2.3% on April 29, 2026, to close at $27.98 following the company's Q1 2026 earnings call, though specific details about disappointing results or guidance were not disclosed in available sources. The decline occurred despite generally positive sentiment in the online gaming sector, suggesting investors reacted negatively to aspects of the quarterly report or management commentary. The stock's movement contrasted with earlier trading activity that day, which initially showed gains before reversing course.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
