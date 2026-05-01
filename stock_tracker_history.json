@@ -14732,6 +14732,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-04-30",
+      "date_display": "April 30, 2026",
+      "benchmark": {
+        "current_price": 24892.310546875,
+        "open_price": 24859.939453125,
+        "pct_change": 0.13021388813531812,
+        "volume": 8139190000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.31999969482422,
+            "open_price": 23.15999984741211,
+            "pct_change": 0.6908456324104324,
+            "volume": 8065100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 107.93000030517578,
+            "open_price": 107.43000030517578,
+            "pct_change": 0.4654193415057739,
+            "volume": 3086100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.799999237060547,
+            "open_price": 27.399999618530273,
+            "pct_change": 1.4598526426976983,
+            "volume": 4986200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 38.939998626708984,
+            "open_price": 39.68000030517578,
+            "pct_change": -1.8649235705027765,
+            "volume": 8289700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.459999084472656,
+            "open_price": 17.850000381469727,
+            "pct_change": -2.1848811689770873,
+            "volume": 6102100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 28.100000381469727,
+            "open_price": 27.969999313354492,
+            "pct_change": 0.4647875270170792,
+            "volume": 2288900
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.319999694824219,
+            "open_price": 12.84000015258789,
+            "pct_change": 3.7383141474463666,
+            "volume": 30400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.459999084472656,
+            "open_price": 17.850000381469727,
+            "pct_change": -2.1848811689770873,
+            "volume": 6102100
+          },
+          "search_query": "Penn Entertainment PENN stock drops April 30, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down April 30, 2026",
+            "summary": "Penn Entertainment (PENN) stock fell 2.2% on April 30, 2026, to close at $17.46, despite the company maintaining positive year-to-date returns of 18.37%. The decline occurred amid broader market movements, though the stock had previously shown resilience compared to competitors when proposed Senate betting legislation negatively impacted other gaming stocks in late March.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.319999694824219,
+            "open_price": 12.84000015258789,
+            "pct_change": 3.7383141474463666,
+            "volume": 30400
+          },
+          "search_query": "Bally's Corporation BALY stock rises April 30, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up April 30, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 3.7% to close at $13.32 on April 30, 2026, though specific catalysts for the gain were not immediately apparent from available market data. The gaming and entertainment company saw modest positive revisions to certain financial metrics during the trading session, with one indicator rising from 2.8 to 3.5 and another from 3.0 to 3.2 according to financial data providers.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
