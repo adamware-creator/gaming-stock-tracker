@@ -15123,6 +15123,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-05",
+      "date_display": "May 05, 2026",
+      "benchmark": {
+        "current_price": 25326.130859375,
+        "open_price": 25258.880859375,
+        "pct_change": 0.2662429914231126,
+        "volume": 8090030000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.170000076293945,
+            "open_price": 23.579999923706055,
+            "pct_change": 2.502121096254697,
+            "volume": 9567800
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 103.33000183105469,
+            "open_price": 103.76000213623047,
+            "pct_change": -0.4144181730173997,
+            "volume": 3206700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.100000381469727,
+            "open_price": 27.450000762939453,
+            "pct_change": 2.36794025670063,
+            "volume": 3023600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.90999984741211,
+            "open_price": 38.20000076293945,
+            "pct_change": -0.7591646851711437,
+            "volume": 4095600
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.100000381469727,
+            "open_price": 16.780000686645508,
+            "pct_change": 1.9070302844438676,
+            "volume": 2687300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.170000076293945,
+            "open_price": 27.790000915527344,
+            "pct_change": 4.965811857874185,
+            "volume": 2232000
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.0,
+            "open_price": 12.890000343322754,
+            "pct_change": 0.8533720228659873,
+            "volume": 22300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.170000076293945,
+            "open_price": 23.579999923706055,
+            "pct_change": 2.502121096254697,
+            "volume": 9567800
+          },
+          "search_query": "DraftKings DKNG stock rises May 05, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up May 05, 2026",
+            "summary": "DraftKings (DKNG) stock rose 2.5% on May 5, 2026, closing at $24.17, as investors positioned ahead of the company's Q1 2026 earnings report scheduled for release after market close on Thursday, May 8. The fantasy sports and betting company had gained 5.5% year-to-date leading into the earnings announcement, with the stock trading in a range between $23.20 and its 52-week high prior to the close.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.100000381469727,
+            "open_price": 27.450000762939453,
+            "pct_change": 2.36794025670063,
+            "volume": 3023600
+          },
+          "search_query": "Caesars Entertainment CZR stock rises May 05, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up May 05, 2026",
+            "summary": "I don't have sufficient information from the provided search results to write an accurate news narrative explaining why Caesars Entertainment stock rose 2.4% on May 5, 2026. The search results only confirm that CZR reported Q1 2026 earnings and that the stock was trading on that date, but they do not provide specific details about analyst actions, earnings results, competitive developments, regulatory changes, or other catalysts that would explain the 2.4% price increase to $28.10.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.170000076293945,
+            "open_price": 27.790000915527344,
+            "pct_change": 4.965811857874185,
+            "volume": 2232000
+          },
+          "search_query": "Rush Street Interactive RSI stock rises May 05, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up May 05, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 5.0% to close at $29.17 on May 5, 2026, pushing above its previous 52-week high of $29.00. The gain followed continued momentum from the company's fourth quarter and full year 2025 results announced in February, which had initially sent the stock surging 15.7% to $27.78 on the day of the earnings release.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
