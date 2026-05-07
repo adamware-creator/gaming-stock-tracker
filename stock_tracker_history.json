@@ -15248,6 +15248,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-06",
+      "date_display": "May 06, 2026",
+      "benchmark": {
+        "current_price": 25838.939453125,
+        "open_price": 25495.169921875,
+        "pct_change": 1.348371210324995,
+        "volume": 8864150000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.920000076293945,
+            "open_price": 24.440000534057617,
+            "pct_change": -2.1276614009850006,
+            "volume": 19310200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 99.11000061035156,
+            "open_price": 105.7699966430664,
+            "pct_change": -6.296677927663931,
+            "volume": 6994300
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.760000228881836,
+            "open_price": 28.149999618530273,
+            "pct_change": -1.3854330193017586,
+            "volume": 2098700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 38.209999084472656,
+            "open_price": 38.619998931884766,
+            "pct_change": -1.061625734726814,
+            "volume": 4209400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.75,
+            "open_price": 17.290000915527344,
+            "pct_change": -3.1231977266258792,
+            "volume": 3331100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.860000610351562,
+            "open_price": 26.200000762939453,
+            "pct_change": 6.335877095699249,
+            "volume": 9694200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.170000076293945,
+            "open_price": 13.260000228881836,
+            "pct_change": -0.6787341706967677,
+            "volume": 45800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.920000076293945,
+            "open_price": 24.440000534057617,
+            "pct_change": -2.1276614009850006,
+            "volume": 19310200
+          },
+          "search_query": "DraftKings DKNG stock drops May 06, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down May 06, 2026",
+            "summary": "I apologize, but the web search results provided do not contain specific information about why DraftKings stock fell 2.1% on May 6, 2026 to close at $23.92. The search results show after-hours trading data from that date indicating a close of $24.30 (not $23.92), and reference earlier events from April and late 2025, but do not explain the specific catalyst for the May 6, 2026 decline. Without accurate information about the actual catalysts for that day's movement, I cannot write a factual news narrative as requested.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 99.11000061035156,
+            "open_price": 105.7699966430664,
+            "pct_change": -6.296677927663931,
+            "volume": 6994300
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops May 06, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down May 06, 2026",
+            "summary": "Flutter Entertainment plc (FLUT) stock fell 6.3% to close at $99.11 on May 6, 2026, despite reporting first-quarter 2026 sales that beat analyst estimates. The decline came as investors reacted negatively to the company's deteriorating operating margins, which had been trending downward over recent periods according to the earnings announcement. The drop added to Flutter's recent struggles, as the stock had already declined approximately 30% in the three months prior to the earnings report.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.75,
+            "open_price": 17.290000915527344,
+            "pct_change": -3.1231977266258792,
+            "volume": 3331100
+          },
+          "search_query": "Penn Entertainment PENN stock drops May 06, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down May 06, 2026",
+            "summary": "PENN Entertainment stock fell 3.1% on May 6, 2026, to close at $16.75, continuing broader weakness that saw shares decline 5.82% overall during the trading period. The gaming and entertainment company has faced headwinds since mutually agreeing with ESPN to terminate their U.S. online sports betting agreement in November 2025, which removed a key partnership for its digital wagering ambitions. The stock continued to trade under pressure despite the company's January 2026 announcement of a new corporate organizational structure intended to streamline operations.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.860000610351562,
+            "open_price": 26.200000762939453,
+            "pct_change": 6.335877095699249,
+            "volume": 9694200
+          },
+          "search_query": "Rush Street Interactive RSI stock rises May 06, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up May 06, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 6.3% on May 6, 2026, to close at $27.86, building on momentum from strong 2025 profit results announced in early March that had previously lifted shares 6.6%. The stock closed near its 52-week high of $29.00, reflecting continued investor optimism about the online casino and sports betting operator's profitability trajectory.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
