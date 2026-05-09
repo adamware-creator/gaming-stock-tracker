@@ -15482,6 +15482,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-08",
+      "date_display": "May 08, 2026",
+      "benchmark": {
+        "current_price": 26247.080078125,
+        "open_price": 25958.119140625,
+        "pct_change": 1.1131813361923055,
+        "volume": 9577150000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.520000457763672,
+            "open_price": 26.395000457763672,
+            "pct_change": -3.3150217269370517,
+            "volume": 28553700
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 101.19000244140625,
+            "open_price": 101.26000213623047,
+            "pct_change": -0.06912867207927217,
+            "volume": 2897100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.040000915527344,
+            "open_price": 28.079999923706055,
+            "pct_change": -0.14244661071007506,
+            "volume": 1601300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 38.790000915527344,
+            "open_price": 38.38999938964844,
+            "pct_change": 1.0419419959323144,
+            "volume": 3754700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.739999771118164,
+            "open_price": 16.8799991607666,
+            "pct_change": -0.8293803116639459,
+            "volume": 2200200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.739999771118164,
+            "open_price": 27.809999465942383,
+            "pct_change": -0.25170692617216384,
+            "volume": 1503800
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.84000015258789,
+            "open_price": 13.170000076293945,
+            "pct_change": -2.5056941670035062,
+            "volume": 25400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.520000457763672,
+            "open_price": 26.395000457763672,
+            "pct_change": -3.3150217269370517,
+            "volume": 28553700
+          },
+          "search_query": "DraftKings DKNG stock drops May 08, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down May 08, 2026",
+            "summary": "DraftKings stock fell 3.3% to close at $25.52 on May 8, 2026, despite beating revenue expectations when the company released its first quarter 2026 earnings results earlier that day. The decline suggested investors were disappointed with other aspects of the quarterly report or forward guidance discussed during the company's conference call held the same day.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.84000015258789,
+            "open_price": 13.170000076293945,
+            "pct_change": -2.5056941670035062,
+            "volume": 25400
+          },
+          "search_query": "Bally's Corporation BALY stock drops May 08, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down May 08, 2026",
+            "summary": "Based on the limited information provided in the search results, a specific catalyst for Bally's Corporation (BALY) stock falling 2.5% to close at $12.84 on May 8, 2026 cannot be determined. The search results show conflicting data, with one source indicating the stock was up 1.49% to $13.245 on the same date, and reference to a previously announced merger agreement with Standard General affiliates from July 2024, but no concrete news or events from May 8, 2026 that would explain the decline.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
