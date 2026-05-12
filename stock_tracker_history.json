@@ -15591,6 +15591,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-11",
+      "date_display": "May 11, 2026",
+      "benchmark": {
+        "current_price": 26274.130859375,
+        "open_price": 26135.630859375,
+        "pct_change": 0.5299279008997759,
+        "volume": 11989910000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.510000228881836,
+            "open_price": 25.18000030517578,
+            "pct_change": -2.6608422087914985,
+            "volume": 13583100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 93.95999908447266,
+            "open_price": 97.94000244140625,
+            "pct_change": -4.063715803269126,
+            "volume": 4551200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.770000457763672,
+            "open_price": 27.959999084472656,
+            "pct_change": -0.6795373137708666,
+            "volume": 3577700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.29999923706055,
+            "open_price": 38.709999084472656,
+            "pct_change": -3.642469338051956,
+            "volume": 4711000
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.9399995803833,
+            "open_price": 16.59000015258789,
+            "pct_change": -3.918026318421677,
+            "volume": 2782800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 28.1299991607666,
+            "open_price": 27.690000534057617,
+            "pct_change": 1.5890163171640364,
+            "volume": 2508400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.90999984741211,
+            "open_price": 12.850000381469727,
+            "pct_change": -7.315179036205633,
+            "volume": 31400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.510000228881836,
+            "open_price": 25.18000030517578,
+            "pct_change": -2.6608422087914985,
+            "volume": 13583100
+          },
+          "search_query": "DraftKings DKNG stock drops May 11, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down May 11, 2026",
+            "summary": "DraftKings (DKNG) shares fell 2.7% to close at $24.51 on May 11, 2026, despite the company beating revenue expectations in its latest earnings report released on May 8. The decline suggested investors remained cautious about the stock's valuation or forward guidance even as the sports betting company exceeded top-line projections. The after-hours trading saw shares stabilize at $24.50 as of 8:00 PM ET.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 93.95999908447266,
+            "open_price": 97.94000244140625,
+            "pct_change": -4.063715803269126,
+            "volume": 4551200
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops May 11, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down May 11, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock fell 4.1% on May 11, 2026, to close at $93.96, pressured by a combination of disappointing Q1 earnings results, the announcement of a CEO exit, and an analyst downgrade. The decline occurred despite the company announcing a major share buyback program, as investors focused on the leadership transition and weaker-than-expected quarterly performance. The stock's drop was part of broader intraday volatility that saw shares fall as much as 7.1% during the trading session.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.29999923706055,
+            "open_price": 38.709999084472656,
+            "pct_change": -3.642469338051956,
+            "volume": 4711000
+          },
+          "search_query": "MGM Resorts MGM stock drops May 11, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down May 11, 2026",
+            "summary": "MGM Resorts International stock fell 3.6% on May 11, 2026, closing at $37.30 amid broader market pressures facing the casino operator. The NYSE-listed company experienced the decline without any specific catalyst disclosed in available reports, suggesting the drop was driven by general market conditions affecting the gaming and hospitality sector.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.9399995803833,
+            "open_price": 16.59000015258789,
+            "pct_change": -3.918026318421677,
+            "volume": 2782800
+          },
+          "search_query": "Penn Entertainment PENN stock drops May 11, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down May 11, 2026",
+            "summary": "Penn Entertainment stock fell 3.9% on May 11, 2026, closing at $15.94, though specific catalysts for the decline were not immediately clear from available reports. The drop came despite the stock having climbed 16% in late April following its Q1 earnings release, even though the company had turned to a loss during that quarter. The gaming and entertainment company operates 42 destinations across North America and had previously shown resilience to regulatory concerns that affected competitors like DraftKings earlier in the year.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.90999984741211,
+            "open_price": 12.850000381469727,
+            "pct_change": -7.315179036205633,
+            "volume": 31400
+          },
+          "search_query": "Bally's Corporation BALY stock drops May 11, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down May 11, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 7.3% to close at $11.91 on May 11, 2026, as the company reported its Q1 2026 earnings, which analysts had anticipated would show negative earnings per share. The decline came amid a consensus \"Reduce\" rating from analysts and represented a sharp reversal from the stock's $13.245 price just three days earlier on May 8.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
