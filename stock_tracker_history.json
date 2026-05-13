@@ -15748,6 +15748,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-12",
+      "date_display": "May 12, 2026",
+      "benchmark": {
+        "current_price": 26088.19921875,
+        "open_price": 26087.009765625,
+        "pct_change": 0.004559561006364742,
+        "volume": 9631840000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.610000610351562,
+            "open_price": 24.492000579833984,
+            "pct_change": 0.48179008543195934,
+            "volume": 11724400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 95.95999908447266,
+            "open_price": 93.55999755859375,
+            "pct_change": 2.5652005007544587,
+            "volume": 3628700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.40999984741211,
+            "open_price": 27.700000762939453,
+            "pct_change": -8.267151091891648,
+            "volume": 6553700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.900001525878906,
+            "open_price": 37.310001373291016,
+            "pct_change": -1.0989006494800468,
+            "volume": 6011400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.710000038146973,
+            "open_price": 15.9399995803833,
+            "pct_change": -1.4429080821267968,
+            "volume": 2795600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.510000228881836,
+            "open_price": 28.06999969482422,
+            "pct_change": -1.9950105879254432,
+            "volume": 1499400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.699999809265137,
+            "open_price": 12.020000457763672,
+            "pct_change": -2.662234911079791,
+            "volume": 22300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 95.95999908447266,
+            "open_price": 93.55999755859375,
+            "pct_change": 2.5652005007544587,
+            "volume": 3628700
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises May 12, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up May 12, 2026",
+            "summary": "Flutter Entertainment plc (FLUT) stock rose 2.6% on May 12, 2026, to close at $95.96, though it had climbed as high as $98.27 earlier in the trading session with gains exceeding 5%. The stock's advance followed the company's first quarter 2026 earnings update released on May 6, which highlighted initiatives that were beginning to foster improved U.S. performance in its core betting and gaming business.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 25.40999984741211,
+            "open_price": 27.700000762939453,
+            "pct_change": -8.267151091891648,
+            "volume": 6553700
+          },
+          "search_query": "Caesars Entertainment CZR stock drops May 12, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock down May 12, 2026",
+            "summary": "Caesars Entertainment (CZR) stock fell 8.3% on May 12, 2026, to close at $25.41 as investors awaited an update on potential merger and acquisition activity from the casino and entertainment company. The decline came amid uncertainty over the company's M&A strategy, with market participants seeking clarity on future deal prospects. The stock had previously declined 3.9% to $24.36 in January 2026 following earlier market reactions.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.699999809265137,
+            "open_price": 12.020000457763672,
+            "pct_change": -2.662234911079791,
+            "volume": 22300
+          },
+          "search_query": "Bally's Corporation BALY stock drops May 12, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down May 12, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.7% on May 12, 2026, to close at $11.70, amid ongoing analyst concerns following a downgrade earlier in the month that contributed to the stock's broader decline. According to analyst data from early May 2026, one analyst had downgraded the stock with uncertainty around the company's earnings power cited as a key concern, while the consensus rating remained at Hold among five analysts covering the company.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
