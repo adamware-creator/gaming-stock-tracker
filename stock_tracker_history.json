@@ -15873,6 +15873,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-13",
+      "date_display": "May 13, 2026",
+      "benchmark": {
+        "current_price": 26402.33984375,
+        "open_price": 26147.650390625,
+        "pct_change": 0.9740433626736748,
+        "volume": 9734720000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.030000686645508,
+            "open_price": 24.459999084472656,
+            "pct_change": 2.3303418786090297,
+            "volume": 10025000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 95.01000213623047,
+            "open_price": 94.52999877929688,
+            "pct_change": 0.5077788671660491,
+            "volume": 2386600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.790000915527344,
+            "open_price": 25.7189998626709,
+            "pct_change": 4.164240672557875,
+            "volume": 4796300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.40999984741211,
+            "open_price": 37.08000183105469,
+            "pct_change": 0.8899622439636637,
+            "volume": 3945400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.829999923706055,
+            "open_price": 15.640000343322754,
+            "pct_change": 1.2148310499521058,
+            "volume": 2851700
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.010000228881836,
+            "open_price": 27.469999313354492,
+            "pct_change": -1.6745507680046738,
+            "volume": 1909300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.3100004196167,
+            "open_price": 11.920000076293945,
+            "pct_change": 3.2718149398201106,
+            "volume": 33100
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.030000686645508,
+            "open_price": 24.459999084472656,
+            "pct_change": 2.3303418786090297,
+            "volume": 10025000
+          },
+          "search_query": "DraftKings DKNG stock rises May 13, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up May 13, 2026",
+            "summary": "DraftKings (DKNG) stock rose 2.3% to close at $25.03 on May 13, 2026, as the broader market showed mixed performance with the S&P 500 declining amid rising inflation concerns. The gains came after the company reported Q1 2026 revenue of $1.65 billion, demonstrating continued growth in the sports betting sector. The stock's market capitalization stood at $12.21 billion as of the close.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 26.790000915527344,
+            "open_price": 25.7189998626709,
+            "pct_change": 4.164240672557875,
+            "volume": 4796300
+          },
+          "search_query": "Caesars Entertainment CZR stock rises May 13, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up May 13, 2026",
+            "summary": "Caesars Entertainment (CZR) stock rose 4.2% on May 13, 2026, to close at $26.79, though the company's investor relations page showed an intraday gain of 5.43% with volume of 3.9 million shares. The stock remained approximately 15% below its 52-week high of $31.58 but was up 14.54% year-to-date, outpacing earlier momentum from earnings reported in mid-March that had driven shares up 28.1% in the following 30-day period.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.3100004196167,
+            "open_price": 11.920000076293945,
+            "pct_change": 3.2718149398201106,
+            "volume": 33100
+          },
+          "search_query": "Bally's Corporation BALY stock rises May 13, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up May 13, 2026",
+            "summary": "I don't have sufficient information from the provided search results to write an accurate news narrative explaining why Bally's Corporation stock rose 3.3% on May 13, 2026. While the search results confirm the stock price of $12.31 and mention a February 2026 financing announcement involving a $1.1B loan and $700M sale-leaseback transaction, none of the excerpts provide specific catalysts, news events, or developments that occurred on or immediately before May 13, 2026 that would explain that day's price movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
