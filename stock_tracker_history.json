@@ -16123,6 +16123,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-15",
+      "date_display": "May 15, 2026",
+      "benchmark": {
+        "current_price": 26225.140625,
+        "open_price": 26288.919921875,
+        "pct_change": -0.2426090423818792,
+        "volume": 9584430000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.0,
+            "open_price": 25.0,
+            "pct_change": 0.0,
+            "volume": 12983100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 92.37999725341797,
+            "open_price": 94.19999694824219,
+            "pct_change": -1.9320591866093269,
+            "volume": 2491200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.799999237060547,
+            "open_price": 27.0,
+            "pct_change": 2.962960137261285,
+            "volume": 6279400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.970001220703125,
+            "open_price": 36.86000061035156,
+            "pct_change": 0.29842812949023806,
+            "volume": 4859500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.200000762939453,
+            "open_price": 15.609999656677246,
+            "pct_change": 3.779635613315542,
+            "volume": 2999400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.770000457763672,
+            "open_price": 26.969999313354492,
+            "pct_change": -0.7415604771327846,
+            "volume": 1520500
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.640000343322754,
+            "open_price": 11.819999694824219,
+            "pct_change": -1.5228371924601958,
+            "volume": 19600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.799999237060547,
+            "open_price": 27.0,
+            "pct_change": 2.962960137261285,
+            "volume": 6279400
+          },
+          "search_query": "Caesars Entertainment CZR stock rises May 15, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up May 15, 2026",
+            "summary": "Caesars Entertainment stock rose 3.0% on May 15, 2026, to close at $27.80, driven by speculation about a potential sale of the company following a Seeking Alpha article published that afternoon discussing acquisition possibilities. The gain brought the stock closer to its 52-week high of $31.58, though shares remained well above their 52-week low of $17.86. The rally came amid recent positive momentum for the casino operator, which had opened its OMNIA Dayclub & Skybar at Caesars Palace earlier in the month.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.200000762939453,
+            "open_price": 15.609999656677246,
+            "pct_change": 3.779635613315542,
+            "volume": 2999400
+          },
+          "search_query": "Penn Entertainment PENN stock rises May 15, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up May 15, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 3.8% to close at $16.20 on May 15, 2026, supported by a Buy consensus rating from 13 analysts tracking the company. The gaming and entertainment company's shares gained amid positive analyst sentiment, though the stock remained well below its 52-week highs as it continued to navigate the competitive North American gaming landscape across its 42 entertainment destinations.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
