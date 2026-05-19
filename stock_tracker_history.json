@@ -16232,6 +16232,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-18",
+      "date_display": "May 18, 2026",
+      "benchmark": {
+        "current_price": 25948.087890625,
+        "open_price": 25923.486328125,
+        "pct_change": 0.09490067110807232,
+        "volume": 2564396000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.040000915527344,
+            "open_price": 25.969999313354492,
+            "pct_change": 0.26954795542429916,
+            "volume": 687980
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 99.32499694824219,
+            "open_price": 98.51000213623047,
+            "pct_change": 0.8273218905067672,
+            "volume": 166452
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.43000030517578,
+            "open_price": 27.56999969482422,
+            "pct_change": -0.5077961233155904,
+            "volume": 208536
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.875,
+            "open_price": 37.0,
+            "pct_change": -0.33783783783783783,
+            "volume": 322915
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.19499969482422,
+            "open_price": 16.510000228881836,
+            "pct_change": -1.9079377934021449,
+            "volume": 151936
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.780000686645508,
+            "open_price": 27.700000762939453,
+            "pct_change": 0.2888083808758903,
+            "volume": 60606
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.010000228881836,
+            "open_price": 11.199999809265137,
+            "pct_change": -10.624996434364938,
+            "volume": 11383
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.010000228881836,
+            "open_price": 11.199999809265137,
+            "pct_change": -10.624996434364938,
+            "volume": 11383
+          },
+          "search_query": "Bally's Corporation BALY stock drops May 18, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down May 18, 2026",
+            "summary": "I apologize, but I cannot write a factual narrative explaining why Bally's Corporation stock fell 10.6% on May 18, 2026, because the web search results provided do not contain any specific information about catalysts or reasons for a stock decline on that date. The search results show stock price information and general company news about their Chicago casino project, but do not mention any analyst downgrades, negative earnings reports, regulatory issues, or other specific events that would explain the reported 10.6% drop. Without credible information about the actual cause of the decline, I cannot create a factual news narrative.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
