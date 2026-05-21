@@ -16450,6 +16450,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-20",
+      "date_display": "May 20, 2026",
+      "benchmark": {
+        "current_price": 26158.0546875,
+        "open_price": 26143.615234375,
+        "pct_change": 0.05523127920737698,
+        "volume": 2148444000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.280000686645508,
+            "open_price": 25.010000228881836,
+            "pct_change": 1.0795699931736595,
+            "volume": 1244719
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 96.1449966430664,
+            "open_price": 94.94999694824219,
+            "pct_change": 1.258556854378437,
+            "volume": 353650
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 27.780000686645508,
+            "open_price": 27.43000030517578,
+            "pct_change": 1.2759765861310792,
+            "volume": 330636
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 36.680198669433594,
+            "open_price": 36.18000030517578,
+            "pct_change": 1.3825272527326538,
+            "volume": 571604
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.4950008392334,
+            "open_price": 15.989999771118164,
+            "pct_change": 3.1582306150334625,
+            "volume": 245860
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.5,
+            "open_price": 27.440000534057617,
+            "pct_change": 0.2186569415985013,
+            "volume": 47809
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.755000114440918,
+            "open_price": 11.199999809265137,
+            "pct_change": 4.955359952030181,
+            "volume": 64340
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.4950008392334,
+            "open_price": 15.989999771118164,
+            "pct_change": 3.1582306150334625,
+            "volume": 245860
+          },
+          "search_query": "Penn Entertainment PENN stock rises May 20, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up May 20, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 3.2% to close at $16.50 on May 20, 2026, supported by a consensus \"Buy\" rating from 13 analysts covering the company. The gain came as investors appeared optimistic about the gaming and entertainment company's prospects heading into its upcoming earnings report, which was scheduled to be announced following the company's fourth quarter results presentation in late April.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.755000114440918,
+            "open_price": 11.199999809265137,
+            "pct_change": 4.955359952030181,
+            "volume": 64340
+          },
+          "search_query": "Bally's Corporation BALY stock rises May 20, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up May 20, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 5.0% on May 20, 2026, to close at $11.76, buoyed by the company's strong first quarter 2026 earnings report released three days earlier showing consolidated revenue of $755.7 million, up 28.3% year over year. The revenue growth was driven by the company's funding of a $4 billion Bronx resort project, online gaming expansion, and strategic debt management initiatives.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
