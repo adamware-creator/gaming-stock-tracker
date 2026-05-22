@@ -16559,6 +16559,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-21",
+      "date_display": "May 21, 2026",
+      "benchmark": {
+        "current_price": 26436.08203125,
+        "open_price": 26381.564453125,
+        "pct_change": 0.20665028498164814,
+        "volume": 947635490
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.05500030517578,
+            "open_price": 25.010000228881836,
+            "pct_change": 4.178328935347898,
+            "volume": 187357
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 97.875,
+            "open_price": 94.94999694824219,
+            "pct_change": 3.0805720334590942,
+            "volume": 62794
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.03499984741211,
+            "open_price": 27.43000030517578,
+            "pct_change": 2.2056125975404033,
+            "volume": 18305
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 38.11000061035156,
+            "open_price": 36.18000030517578,
+            "pct_change": 5.334439715025879,
+            "volume": 34324
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.834999084472656,
+            "open_price": 16.729999542236328,
+            "pct_change": 0.6276123437496081,
+            "volume": 20573
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.399999618530273,
+            "open_price": 27.440000534057617,
+            "pct_change": -0.14577592838489906,
+            "volume": 1416300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.149999618530273,
+            "open_price": 11.199999809265137,
+            "pct_change": 8.482141298603011,
+            "volume": 142800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.05500030517578,
+            "open_price": 25.010000228881836,
+            "pct_change": 4.178328935347898,
+            "volume": 187357
+          },
+          "search_query": "DraftKings DKNG stock rises May 21, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up May 21, 2026",
+            "summary": "I cannot write this narrative because the web search results provided do not contain sufficient information to explain why DraftKings stock rose 4.2% on May 21, 2026. The search results show conflicting price data (some indicating $25.40, others $26.06) and percentage gains (1.56% vs 4.2% vs 5.12%), and they do not provide specific catalysts such as analyst upgrades, earnings announcements, regulatory news, or competitive developments that would explain the stock movement on that particular date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 97.875,
+            "open_price": 94.94999694824219,
+            "pct_change": 3.0805720334590942,
+            "volume": 62794
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises May 21, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up May 21, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative explaining why Flutter Entertainment stock rose 3.1% on May 21, 2026, because the search results provided do not contain any specific information about catalysts or reasons for the stock movement on that date. The search results only show basic stock information, historical performance data, and references to Q1 2026 earnings reported on May 6 and a buyback program ending on May 21, but they lack the specific analyst actions, news events, or market developments that would explain the 3.1% increase. Without concrete evidence of what drove the stock price movement, I cannot create a factual narrative as requested.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.03499984741211,
+            "open_price": 27.43000030517578,
+            "pct_change": 2.2056125975404033,
+            "volume": 18305
+          },
+          "search_query": "Caesars Entertainment CZR stock rises May 21, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up May 21, 2026",
+            "summary": "Caesars Entertainment (CZR) stock rose 2.2% on May 21, 2026, to close at $28.03, amid anticipation surrounding the May 2026 debut of the Vanderpump Hotel on the Las Vegas Strip, which was expected to boost the company's hospitality portfolio. The gain came following the company's first quarter 2026 earnings report released on April 28, which appeared to maintain investor confidence in the gaming and entertainment operator. The stock had gained 62.30% year-to-date as of May 21, reflecting strong momentum in the casino and hospitality sector.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 38.11000061035156,
+            "open_price": 36.18000030517578,
+            "pct_change": 5.334439715025879,
+            "volume": 34324
+          },
+          "search_query": "MGM Resorts MGM stock rises May 21, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up May 21, 2026",
+            "summary": "MGM Resorts International (MGM) stock rose 5.3% on May 21, 2026, to close at $38.11, extending its year-to-date gains to 3.2% as shares traded within their 52-week range of $29.19 to an undisclosed high. The rally built on a 3.1% intraday gain reported earlier in the session, with analysts noting the stock remained undervalued despite the upward momentum.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.149999618530273,
+            "open_price": 11.199999809265137,
+            "pct_change": 8.482141298603011,
+            "volume": 142800
+          },
+          "search_query": "Bally's Corporation BALY stock rises May 21, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up May 21, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 8.5% on May 21, 2026, to close at $12.15, though specific catalysts for the surge were not disclosed in available reports. The gaming and casino-entertainment company, which owns and operates 19 casinos across 11 states, had a market capitalization of $526.92 million following the gain. The rally came three weeks after Bally's reported its first quarter 2026 results on May 1, 2026.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
