@@ -16716,6 +16716,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-22",
+      "date_display": "May 22, 2026",
+      "benchmark": {
+        "current_price": 26343.970703125,
+        "open_price": 26381.560546875,
+        "pct_change": -0.1424852926467713,
+        "volume": 9265090000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.1200008392334,
+            "open_price": 25.655000686645508,
+            "pct_change": -2.085362826322585,
+            "volume": 9806500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 97.37999725341797,
+            "open_price": 96.83000183105469,
+            "pct_change": 0.5680010450922973,
+            "volume": 1677300
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.469999313354492,
+            "open_price": 27.850000381469727,
+            "pct_change": 2.226207983455857,
+            "volume": 3589400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 38.400001525878906,
+            "open_price": 37.7400016784668,
+            "pct_change": 1.7488071490698518,
+            "volume": 4837100
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.8799991607666,
+            "open_price": 16.729999542236328,
+            "pct_change": 0.8965906911807526,
+            "volume": 3204100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.059999465942383,
+            "open_price": 27.649999618530273,
+            "pct_change": -2.1338161328309337,
+            "volume": 1558100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.199999809265137,
+            "open_price": 12.380000114440918,
+            "pct_change": 6.623583903425917,
+            "volume": 31700
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.1200008392334,
+            "open_price": 25.655000686645508,
+            "pct_change": -2.085362826322585,
+            "volume": 9806500
+          },
+          "search_query": "DraftKings DKNG stock drops May 22, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down May 22, 2026",
+            "summary": "I don't have sufficient information from the provided search results to write an accurate news narrative explaining why DraftKings stock fell 2.1% on May 22, 2026. While the search results confirm the closing price of $25.12 on that date, they do not contain specific catalysts such as analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the decline. The Yahoo Finance article reference from December 2025 appears incomplete and doesn't provide relevant information about May 22, 2026's price movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "CZR",
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.469999313354492,
+            "open_price": 27.850000381469727,
+            "pct_change": 2.226207983455857,
+            "volume": 3589400
+          },
+          "search_query": "Caesars Entertainment CZR stock rises May 22, 2026",
+          "news": {
+            "search_query": "Caesars Entertainment CZR stock up May 22, 2026",
+            "summary": "Caesars Entertainment (CZR) stock rose 2.2% on May 22, 2026, to close at $28.47, supported by a \"Buy\" consensus rating from 14 analysts covering the company. The gain brought the stock closer to its 52-week high of $31.58, rebounding from its 52-week low of $17.86, as positive analyst sentiment appeared to drive investor confidence in the gaming and entertainment company.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.059999465942383,
+            "open_price": 27.649999618530273,
+            "pct_change": -2.1338161328309337,
+            "volume": 1558100
+          },
+          "search_query": "Rush Street Interactive RSI stock drops May 22, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down May 22, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Rush Street Interactive (RSI) stock fell 2.1% on May 22, 2026. The search results contain only general stock information pages, headlines without details, and references to events from earlier dates (April and May 8, 2026), but no specific catalysts or news from May 22, 2026 that would explain the stock decline on that particular date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.199999809265137,
+            "open_price": 12.380000114440918,
+            "pct_change": 6.623583903425917,
+            "volume": 31700
+          },
+          "search_query": "Bally's Corporation BALY stock rises May 22, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up May 22, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Bally's Corporation stock rose 6.6% on May 22, 2026. The search results only contain general stock quote pages and a casino entertainment listing, but do not include any specific catalysts such as analyst upgrades, earnings announcements, regulatory decisions, or other material news that would explain the price movement on that particular date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
