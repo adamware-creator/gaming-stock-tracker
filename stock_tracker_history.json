@@ -16950,6 +16950,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-26",
+      "date_display": "May 26, 2026",
+      "benchmark": {
+        "current_price": 26569.9453125,
+        "open_price": 26695.44140625,
+        "pct_change": -0.4701030855426071,
+        "volume": 2681204000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.84000015258789,
+            "open_price": 23.850000381469727,
+            "pct_change": 4.150942370161742,
+            "volume": 1970578
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 95.9800033569336,
+            "open_price": 94.5199966430664,
+            "pct_change": 1.5446537936100186,
+            "volume": 549828
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.766000747680664,
+            "open_price": 28.735000610351562,
+            "pct_change": 0.10788284903649524,
+            "volume": 744519
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 41.66999816894531,
+            "open_price": 40.31999969482422,
+            "pct_change": 3.3482105266344777,
+            "volume": 2560712
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.959999084472656,
+            "open_price": 17.18000030517578,
+            "pct_change": 4.540155794187538,
+            "volume": 952261
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.719999313354492,
+            "open_price": 26.350000381469727,
+            "pct_change": 1.4041704991585588,
+            "volume": 113411
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.699999809265137,
+            "open_price": 13.34000015258789,
+            "pct_change": 2.698648070160689,
+            "volume": 9618
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.84000015258789,
+            "open_price": 23.850000381469727,
+            "pct_change": 4.150942370161742,
+            "volume": 1970578
+          },
+          "search_query": "DraftKings DKNG stock rises May 26, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up May 26, 2026",
+            "summary": "DraftKings (DKNG) stock rose 4.2% on May 26, 2026, to close at $24.84, following the company's report of Q1 2026 revenue of $1.65 billion, which represented a 17% year-over-year increase. The positive earnings results helped the stock recover from earlier concerns about its Q4 2025 performance, which had been described as \"ugly\" in February, with shares trading near their recent low of $23.33.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 41.66999816894531,
+            "open_price": 40.31999969482422,
+            "pct_change": 3.3482105266344777,
+            "volume": 2560712
+          },
+          "search_query": "MGM Resorts MGM stock rises May 26, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up May 26, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information to explain why MGM Resorts stock rose 3.3% on May 26, 2026. The search results show only basic stock price data and general MGM promotional information, but lack specific catalysts such as analyst upgrades, earnings announcements, competitive developments, regulatory changes, or market events that would have driven the stock movement on that date. Without credible sources detailing the actual reasons for the price increase, I cannot provide a factual news narrative meeting your requirements.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.959999084472656,
+            "open_price": 17.18000030517578,
+            "pct_change": 4.540155794187538,
+            "volume": 952261
+          },
+          "search_query": "Penn Entertainment PENN stock rises May 26, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up May 26, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative about Penn Entertainment's stock performance on May 26, 2026, as the search results provided do not contain specific information about catalysts or reasons for the 4.5% price increase on that date. The search results only show general investor relations pages and a YTD return figure of 15.66%, but no news about analyst actions, earnings announcements, regulatory changes, or other specific events that occurred on May 26, 2026 to explain the stock movement. Without verified information about actual catalysts, I cannot create a factual narrative that meets your requirements.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.699999809265137,
+            "open_price": 13.34000015258789,
+            "pct_change": 2.698648070160689,
+            "volume": 9618
+          },
+          "search_query": "Bally's Corporation BALY stock rises May 26, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up May 26, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative about why Bally's Corporation stock rose 2.7% on May 26, 2026, because the web search results provided do not contain any specific information about catalysts or reasons for the stock movement on that date. The search results only show performance data and a May 19 press release about MBE certification, but no analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the May 26 price increase. Writing a narrative without this factual basis would require speculation, which would violate the requirement to keep it factual and concise.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
