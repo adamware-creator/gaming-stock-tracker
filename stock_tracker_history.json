@@ -17091,6 +17091,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-27",
+      "date_display": "May 27, 2026",
+      "benchmark": {
+        "current_price": 26732.009765625,
+        "open_price": 26686.53515625,
+        "pct_change": 0.17040282340418336,
+        "volume": 2515318000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.280000686645508,
+            "open_price": 25.030000686645508,
+            "pct_change": 0.9988014108740512,
+            "volume": 1756347
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 95.73500061035156,
+            "open_price": 94.62999725341797,
+            "pct_change": 1.167709382865571,
+            "volume": 225990
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.155000686645508,
+            "open_price": 29.2549991607666,
+            "pct_change": -0.3418167048016876,
+            "volume": 56502014
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 42.44599914550781,
+            "open_price": 41.93000030517578,
+            "pct_change": 1.2306196913343141,
+            "volume": 1563204
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.635000228881836,
+            "open_price": 19.049999237060547,
+            "pct_change": 3.070871471129549,
+            "volume": 1385893
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.010000228881836,
+            "open_price": 27.15999984741211,
+            "pct_change": -0.5522813673526802,
+            "volume": 130023
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.949999809265137,
+            "open_price": 13.640000343322754,
+            "pct_change": 2.2727233001437432,
+            "volume": 5107
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.635000228881836,
+            "open_price": 19.049999237060547,
+            "pct_change": 3.070871471129549,
+            "volume": 1385893
+          },
+          "search_query": "Penn Entertainment PENN stock rises May 27, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up May 27, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why PENN stock rose 3.1% on May 27, 2026. While the search results confirm the stock closed at $19.64 with a year-to-date return of 29.42%, none of the sources provide specific catalysts, news events, analyst actions, or developments that occurred on or around May 27, 2026 that would explain that particular day's price movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.949999809265137,
+            "open_price": 13.640000343322754,
+            "pct_change": 2.2727233001437432,
+            "volume": 5107
+          },
+          "search_query": "Bally's Corporation BALY stock rises May 27, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up May 27, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 2.3% on May 27, 2026, to close at $13.95, despite one analyst downgrading the stock during the month with no offsetting upgrades. The gain contributed to the company's year-to-date return of 17.19%, significantly outperforming broader market benchmarks through late May.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
