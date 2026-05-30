@@ -17293,6 +17293,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-05-29",
+      "date_display": "May 29, 2026",
+      "benchmark": {
+        "current_price": 26972.619140625,
+        "open_price": 26960.83984375,
+        "pct_change": 0.043690392967230395,
+        "volume": 11906000000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.489999771118164,
+            "open_price": 24.489999771118164,
+            "pct_change": 0.0,
+            "volume": 34297500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 96.9800033569336,
+            "open_price": 95.66000366210938,
+            "pct_change": 1.3798867282994538,
+            "volume": 5623000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.049999237060547,
+            "open_price": 29.014999389648438,
+            "pct_change": 0.12062673840550252,
+            "volume": 17194600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 43.66999816894531,
+            "open_price": 43.0,
+            "pct_change": 1.5581352766170058,
+            "volume": 6897300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.829999923706055,
+            "open_price": 19.479999542236328,
+            "pct_change": -3.336753766964682,
+            "volume": 4056800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 25.34000015258789,
+            "open_price": 26.020000457763672,
+            "pct_change": -2.6133754543147494,
+            "volume": 1916100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.180000305175781,
+            "open_price": 13.869999885559082,
+            "pct_change": 2.235042697725325,
+            "volume": 51300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.829999923706055,
+            "open_price": 19.479999542236328,
+            "pct_change": -3.336753766964682,
+            "volume": 4056800
+          },
+          "search_query": "Penn Entertainment PENN stock drops May 29, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down May 29, 2026",
+            "summary": "Based on the limited information provided in the search results, a specific catalyst for Penn Entertainment's 3.3% decline to $18.83 on May 29, 2026 could not be determined. Despite the stock maintaining a positive year-to-date return of 27.66% and holding a consensus \"Buy\" rating from 14 analysts, no particular news event, earnings report, analyst action, or competitive development was identified in the search results to explain the single-day decline. The drop appeared to occur amid otherwise favorable sentiment toward the gaming and entertainment company's outlook.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 25.34000015258789,
+            "open_price": 26.020000457763672,
+            "pct_change": -2.6133754543147494,
+            "volume": 1916100
+          },
+          "search_query": "Rush Street Interactive RSI stock drops May 29, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down May 29, 2026",
+            "summary": "Rush Street Interactive Inc. (RSI) stock fell 3.9% on May 29, 2026, to close at $25.34, though the shares remained up 30.42% year-to-date despite concerns about overvaluation. The decline occurred against the backdrop of the company's recent $260 million equity raise and buyback plan announced approximately 11 days earlier, which may have weighed on investor sentiment regarding share dilution.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.180000305175781,
+            "open_price": 13.869999885559082,
+            "pct_change": 2.235042697725325,
+            "volume": 51300
+          },
+          "search_query": "Bally's Corporation BALY stock rises May 29, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up May 29, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 2.2% to close at $14.18 on May 29, 2026, amid positive investor sentiment following the company's first quarter 2026 earnings report released on May 1 and completion of its $1.1 billion loan facility and $700 million casino sale-leaseback transaction earlier in the year. The gain contributed to the stock's strong year-to-date performance of 14.16%, outpacing broader market returns.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
