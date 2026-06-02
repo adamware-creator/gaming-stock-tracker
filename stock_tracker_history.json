@@ -17418,6 +17418,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-01",
+      "date_display": "June 01, 2026",
+      "benchmark": {
+        "current_price": 27128.4609375,
+        "open_price": 27030.072265625,
+        "pct_change": 0.3639970729938595,
+        "volume": 3169053000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.489999771118164,
+            "open_price": 25.85300064086914,
+            "pct_change": -1.4040956978012629,
+            "volume": 2352344
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 101.04000091552734,
+            "open_price": 102.37999725341797,
+            "pct_change": -1.3088458427809628,
+            "volume": 345899
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.184999465942383,
+            "open_price": 29.1299991607666,
+            "pct_change": 0.1888098412644576,
+            "volume": 2610262
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 49.08000183105469,
+            "open_price": 50.5,
+            "pct_change": -2.8118775622679455,
+            "volume": 2911728
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.927000045776367,
+            "open_price": 20.139999389648438,
+            "pct_change": -1.0575935964603245,
+            "volume": 553420
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 25.270000457763672,
+            "open_price": 25.149999618530273,
+            "pct_change": 0.47714052108765437,
+            "volume": 412398
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.649999618530273,
+            "open_price": 13.859999656677246,
+            "pct_change": -1.5151518279136627,
+            "volume": 1515
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 49.08000183105469,
+            "open_price": 50.5,
+            "pct_change": -2.8118775622679455,
+            "volume": 2911728
+          },
+          "search_query": "MGM Resorts MGM stock drops June 01, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down June 01, 2026",
+            "summary": "MGM Resorts stock fell 2.8% to close at $49.08 on June 1, 2026, pulling back from intraday highs after initially surging 16% on news that Barry Diller offered to buy the casino entertainment company. Despite the late-session decline, the stock remained well above its opening price and contributed to a strong 38.91% year-to-date return, with the volatility reflecting investor uncertainty about the potential takeover deal.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
