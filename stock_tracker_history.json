@@ -17511,6 +17511,94 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-02",
+      "date_display": "June 02, 2026",
+      "benchmark": null,
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.889999389648438,
+            "open_price": 25.0,
+            "pct_change": -0.44000244140625,
+            "volume": 1762284
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 101.19000244140625,
+            "open_price": 99.9800033569336,
+            "pct_change": 1.2102410920640791,
+            "volume": 1763553
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.25,
+            "open_price": 29.200000762939453,
+            "pct_change": 0.17123025943206735,
+            "volume": 2793449
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 48.130001068115234,
+            "open_price": 48.08000183105469,
+            "pct_change": 0.10399175365308026,
+            "volume": 2173418
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.78499984741211,
+            "open_price": 20.100000381469727,
+            "pct_change": -1.5671668063649267,
+            "volume": 459723
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.905000686645508,
+            "open_price": 25.440000534057617,
+            "pct_change": -2.1029867774408344,
+            "volume": 301232
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.079999923706055,
+            "open_price": 13.229999542236328,
+            "pct_change": -1.1337840039329155,
+            "volume": 14865
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.905000686645508,
+            "open_price": 25.440000534057617,
+            "pct_change": -2.1029867774408344,
+            "volume": 301232
+          },
+          "search_query": "Rush Street Interactive RSI stock drops June 02, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down June 02, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative about why Rush Street Interactive stock fell 2.1% on June 02, 2026. The search results only confirm the stock price and date, and show a positive YTD return of 30.88%, but they do not contain any specific catalysts, news events, analyst actions, or market developments that would explain the decline on that particular day.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
