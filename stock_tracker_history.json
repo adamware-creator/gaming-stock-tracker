@@ -17768,6 +17768,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-05",
+      "date_display": "June 05, 2026",
+      "benchmark": {
+        "current_price": 25709.4296875,
+        "open_price": 26536.58984375,
+        "pct_change": -3.1170552098834055,
+        "volume": 11550140000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.93000030517578,
+            "open_price": 25.780000686645508,
+            "pct_change": -3.297130949690167,
+            "volume": 9402300
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 100.48999786376953,
+            "open_price": 102.33999633789062,
+            "pct_change": -1.807698397812181,
+            "volume": 2144800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.200000762939453,
+            "open_price": 29.260000228881836,
+            "pct_change": -0.20505627297691814,
+            "volume": 7623100
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 47.5099983215332,
+            "open_price": 48.119998931884766,
+            "pct_change": -1.2676654694341034,
+            "volume": 3268800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.229999542236328,
+            "open_price": 19.829999923706055,
+            "pct_change": -3.0257205435106815,
+            "volume": 2982200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.139999389648438,
+            "open_price": 26.420000076293945,
+            "pct_change": -1.0598057753101444,
+            "volume": 1338900
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.510000228881836,
+            "open_price": 13.630000114440918,
+            "pct_change": -0.880410011383219,
+            "volume": 23900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.93000030517578,
+            "open_price": 25.780000686645508,
+            "pct_change": -3.297130949690167,
+            "volume": 9402300
+          },
+          "search_query": "DraftKings DKNG stock drops June 05, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down June 05, 2026",
+            "summary": "DraftKings stock fell 3.3% to close at $24.93 on June 5, 2026, as investors weighed modest analyst price targets amid lingering concerns about the company's performance. The decline came despite analysts maintaining a \"buy\" recommendation with a consensus price target of $26.64, representing only 5.3% upside from the prior day's close of $25.30, suggesting limited near-term momentum for the sports betting platform.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.229999542236328,
+            "open_price": 19.829999923706055,
+            "pct_change": -3.0257205435106815,
+            "volume": 2982200
+          },
+          "search_query": "Penn Entertainment PENN stock drops June 05, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down June 05, 2026",
+            "summary": "Penn Entertainment stock fell 3.0% to close at $19.23 on June 5, 2026, amid ongoing pressure from activist investor HG Vora's campaign that had targeted the company's stock price performance and strategic direction. The decline came as analysts compared PENN unfavorably to competitor Rush Street Interactive in investment analysis published that day, adding to investor concerns about the company's competitive positioning in the gaming sector.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
