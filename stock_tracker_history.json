@@ -17877,6 +17877,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-08",
+      "date_display": "June 08, 2026",
+      "benchmark": {
+        "current_price": 26182.38671875,
+        "open_price": 26110.3125,
+        "pct_change": 0.27603736550453006,
+        "volume": 2723792000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 27.178600311279297,
+            "open_price": 25.149999618530273,
+            "pct_change": 8.066006852955855,
+            "volume": 2771954
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 111.07499694824219,
+            "open_price": 98.9800033569336,
+            "pct_change": 12.2196334422142,
+            "volume": 461548
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.395000457763672,
+            "open_price": 29.389999389648438,
+            "pct_change": 0.01701622395064023,
+            "volume": 574470
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 47.849998474121094,
+            "open_price": 47.47999954223633,
+            "pct_change": 0.7792732423167553,
+            "volume": 103191
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.829999923706055,
+            "open_price": 19.18000030517578,
+            "pct_change": 3.3889447767885024,
+            "volume": 61660
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.354999542236328,
+            "open_price": 26.90999984741211,
+            "pct_change": 1.6536592246284003,
+            "volume": 59889
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.579999923706055,
+            "open_price": 13.649999618530273,
+            "pct_change": 6.813189239311616,
+            "volume": 16936
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 27.178600311279297,
+            "open_price": 25.149999618530273,
+            "pct_change": 8.066006852955855,
+            "volume": 2771954
+          },
+          "search_query": "DraftKings DKNG stock rises June 08, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up June 08, 2026",
+            "summary": "I cannot write a factual news narrative explaining why DraftKings stock rose 8.1% on June 08, 2026, because the web search results provided show conflicting information and contain no specific catalysts for such a price movement. The sources indicate a closing price of $24.78 on that date, not $27.18 as stated in your query, and none of the search results mention analyst upgrades, earnings surprises, regulatory changes, or other news events that would explain an 8.1% gain. Without access to actual news reports detailing the specific catalysts for this stock movement, I cannot create a factual narrative as requested.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 111.07499694824219,
+            "open_price": 98.9800033569336,
+            "pct_change": 12.2196334422142,
+            "volume": 461548
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises June 08, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up June 08, 2026",
+            "summary": "Flutter Entertainment plc (FLUT) stock rose 12.2% on June 8, 2026, to close at $111.07, as part of a broader rally in the consumer discretionary sector that lifted multiple gaming and entertainment stocks during the morning session. The surge contributed to the company's strong year-to-date performance of 51.20%, significantly outpacing the S&P 500 benchmark. The rally followed a period during which the stock had given up three years' worth of gains, suggesting investors viewed the consumer discretionary sector momentum as an opportunity to re-enter the gaming operator's shares.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.829999923706055,
+            "open_price": 19.18000030517578,
+            "pct_change": 3.3889447767885024,
+            "volume": 61660
+          },
+          "search_query": "Penn Entertainment PENN stock rises June 08, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up June 08, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Penn Entertainment (PENN) stock rose 3.4% on June 08, 2026. The search results include general company information and historical earnings reports from 2025, but they do not contain specific catalysts, analyst actions, news events, or market developments from June 8, 2026 that would explain the stock movement on that particular date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.579999923706055,
+            "open_price": 13.649999618530273,
+            "pct_change": 6.813189239311616,
+            "volume": 16936
+          },
+          "search_query": "Bally's Corporation BALY stock rises June 08, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up June 08, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Bally's Corporation (BALY) stock rose 6.8% on June 08, 2026. The search results only show general investor relations pages, stock performance data confirming a 15.68% YTD return, and casino promotions, but they do not contain any specific catalysts, news events, analyst actions, earnings announcements, or other developments that would explain the particular price movement on that date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
