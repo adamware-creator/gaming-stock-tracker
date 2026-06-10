@@ -18018,6 +18018,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-09",
+      "date_display": "June 09, 2026",
+      "benchmark": {
+        "current_price": 25629.14453125,
+        "open_price": 25512.0703125,
+        "pct_change": 0.45889736628954736,
+        "volume": 2497915000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.6200008392334,
+            "open_price": 28.020000457763672,
+            "pct_change": 5.7102082631351445,
+            "volume": 8908487
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 118.03500366210938,
+            "open_price": 111.80999755859375,
+            "pct_change": 5.5674861277529555,
+            "volume": 1331340
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.462299346923828,
+            "open_price": 29.399999618530273,
+            "pct_change": 0.21190384082280167,
+            "volume": 873256
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 47.23500061035156,
+            "open_price": 46.68000030517578,
+            "pct_change": 1.188946661412605,
+            "volume": 240234
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.3799991607666,
+            "open_price": 20.440000534057617,
+            "pct_change": 4.598818992899419,
+            "volume": 863711
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.060400009155273,
+            "open_price": 27.540000915527344,
+            "pct_change": 5.520693693117173,
+            "volume": 494581
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.09000015258789,
+            "open_price": 14.8100004196167,
+            "pct_change": 1.8906125930983473,
+            "volume": 12688
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.6200008392334,
+            "open_price": 28.020000457763672,
+            "pct_change": 5.7102082631351445,
+            "volume": 8908487
+          },
+          "search_query": "DraftKings DKNG stock rises June 09, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up June 09, 2026",
+            "summary": "DraftKings (DKNG) stock rose 5.7% on June 9, 2026, to close at $29.62, driven by the company's announcement that its total annualized predictive volume reached $3.1 billion in May, representing a 34% increase from April. The strong growth in prediction-markets volume signaled accelerating momentum in DraftKings' expanding business segment, prompting investor enthusiasm for the sports betting and gaming platform.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 118.03500366210938,
+            "open_price": 111.80999755859375,
+            "pct_change": 5.5674861277529555,
+            "volume": 1331340
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises June 09, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up June 09, 2026",
+            "summary": "Flutter Entertainment plc (FLUT) stock rose 5.6% to close at $118.04 on June 09, 2026, though the specific catalyst for the day's gain was not disclosed in available reports. The rally came approximately one month after the company released its Q1 2026 earnings results on May 6, 2026, which may have continued to influence investor sentiment. The stock showed strong momentum with gains exceeding 6% from its previous close according to intraday trading data.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.3799991607666,
+            "open_price": 20.440000534057617,
+            "pct_change": 4.598818992899419,
+            "volume": 863711
+          },
+          "search_query": "Penn Entertainment PENN stock rises June 09, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up June 09, 2026",
+            "summary": "Penn Entertainment (PENN) stock rose 4.6% on June 9, 2026, to close at $21.38, likely driven by investor anticipation ahead of the company's announcement that it would close its Hollywood Casino location prior to opening a new land-based casino on June 24th. The stock movement came one week after the company disclosed its strategic facility transition plans on June 2, 2026, signaling expansion of its entertainment destination portfolio across North America.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.060400009155273,
+            "open_price": 27.540000915527344,
+            "pct_change": 5.520693693117173,
+            "volume": 494581
+          },
+          "search_query": "Rush Street Interactive RSI stock rises June 09, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up June 09, 2026",
+            "summary": "Rush Street Interactive stock rose 5.5% to close at $29.06 on June 9, 2026, building on momentum from recent strong earnings results that had initially sent shares up 15.7% to $27.78. The gain extended RSI's impressive recovery from its 52-week low of $13.20, more than doubling the stock's value as investors responded positively to the company's improved profitability outlook.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
