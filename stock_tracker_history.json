@@ -18159,6 +18159,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-10",
+      "date_display": "June 10, 2026",
+      "benchmark": {
+        "current_price": 25309.9765625,
+        "open_price": 25309.77734375,
+        "pct_change": 0.0007871217012076762,
+        "volume": 2721084000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.600000381469727,
+            "open_price": 28.979999542236328,
+            "pct_change": 2.1394094169318065,
+            "volume": 5777625
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 112.5999984741211,
+            "open_price": 111.51000213623047,
+            "pct_change": 0.9774875051647737,
+            "volume": 592726
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.479999542236328,
+            "open_price": 29.476999282836914,
+            "pct_change": 0.010178306721881879,
+            "volume": 1389061
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 46.75,
+            "open_price": 46.84000015258789,
+            "pct_change": -0.1921437922602529,
+            "volume": 199891
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.540000915527344,
+            "open_price": 21.40999984741211,
+            "pct_change": 0.6071978937026848,
+            "volume": 523097
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.3700008392334,
+            "open_price": 28.8799991607666,
+            "pct_change": 1.6966817614470806,
+            "volume": 257260
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.15999984741211,
+            "open_price": 15.5,
+            "pct_change": -2.193549371534778,
+            "volume": 10986
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.600000381469727,
+            "open_price": 28.979999542236328,
+            "pct_change": 2.1394094169318065,
+            "volume": 5777625
+          },
+          "search_query": "DraftKings DKNG stock rises June 10, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up June 10, 2026",
+            "summary": "DraftKings stock rose 2.1% to close at $29.60 on June 10, 2026, after Jefferies expressed an \"incrementally more constructive\" view on the company following a fireside chat at the Nasdaq Investor Conference. The analyst's upgraded sentiment, shared after DraftKings' 6:00 AM EDT presentation, provided a catalyst for the day's gains in the fantasy sports and betting company's shares.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 15.15999984741211,
+            "open_price": 15.5,
+            "pct_change": -2.193549371534778,
+            "volume": 10986
+          },
+          "search_query": "Bally's Corporation BALY stock drops June 10, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down June 10, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.2% on June 10, 2026, closing at $15.16, as the gaming company was identified as one of the stocks \"facing challenges\" in a StockStory analysis published that day comparing growth stocks. The decline came despite the stock having gained 7.08% year-to-date and rising 11.10% just two days earlier on June 9th when shares traded at $14.915.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
