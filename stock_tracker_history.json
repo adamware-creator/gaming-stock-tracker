@@ -18268,6 +18268,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-11",
+      "date_display": "June 11, 2026",
+      "benchmark": {
+        "current_price": 25807.978515625,
+        "open_price": 25783.359375,
+        "pct_change": 0.09548461186508982,
+        "volume": 2706034000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 28.870100021362305,
+            "open_price": 29.899999618530273,
+            "pct_change": -3.4444803020321686,
+            "volume": 2994977
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 108.9000015258789,
+            "open_price": 111.30000305175781,
+            "pct_change": -2.1563355436413008,
+            "volume": 277751
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.47439956665039,
+            "open_price": 29.549999237060547,
+            "pct_change": -0.2558364546938528,
+            "volume": 551772
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 48.290000915527344,
+            "open_price": 48.150001525878906,
+            "pct_change": 0.29075677094878766,
+            "volume": 668966
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.690000534057617,
+            "open_price": 21.1200008392334,
+            "pct_change": 2.698862084159407,
+            "volume": 362034
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.395000457763672,
+            "open_price": 29.440000534057617,
+            "pct_change": -0.1528535172473487,
+            "volume": 184017
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.899999618530273,
+            "open_price": 14.729999542236328,
+            "pct_change": 1.154107817902455,
+            "volume": 3247
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 28.870100021362305,
+            "open_price": 29.899999618530273,
+            "pct_change": -3.4444803020321686,
+            "volume": 2994977
+          },
+          "search_query": "DraftKings DKNG stock drops June 11, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down June 11, 2026",
+            "summary": "DraftKings (DKNG) stock fell 3.4% to close at $28.87 on June 11, 2026, amid reports of unusually active options trading and analyst commentary from Bernstein, according to market sources. The decline extended the stock's year-to-date losses to approximately 21%, reflecting ongoing pressure in the online sports betting sector.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 108.9000015258789,
+            "open_price": 111.30000305175781,
+            "pct_change": -2.1563355436413008,
+            "volume": 277751
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops June 11, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down June 11, 2026",
+            "summary": "Flutter Entertainment (FLUT) shares fell 2.2% to close at $108.90 on June 11, 2026, continuing a volatile period for the stock that included a 14.7% plunge in late February following disappointing Q4 results and 2026 guidance, as well as a 7.1% drop in May that pushed shares below $94. The decline reflected ongoing pressure from the company's guidance reset in early 2026, which prompted multiple analyst target cuts and raised questions about whether the stock represented a contrarian opportunity or a value trap.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.690000534057617,
+            "open_price": 21.1200008392334,
+            "pct_change": 2.698862084159407,
+            "volume": 362034
+          },
+          "search_query": "Penn Entertainment PENN stock rises June 11, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up June 11, 2026",
+            "summary": "I apologize, but I cannot write a news narrative about Penn Entertainment stock rising 2.7% to close at $21.69 on June 11, 2026, as the web search results provided do not contain any specific information about catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date to explain the stock movement. The search results only show general company information, historical data from 2025, and event listings, but no concrete news from June 11, 2026, that would account for the price increase.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
