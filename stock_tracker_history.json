@@ -18393,6 +18393,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-12",
+      "date_display": "June 12, 2026",
+      "benchmark": {
+        "current_price": 25888.83984375,
+        "open_price": 25783.359375,
+        "pct_change": 0.40910289158159785,
+        "volume": 10337400000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.0,
+            "open_price": 29.899999618530273,
+            "pct_change": -3.0100322074001173,
+            "volume": 14361600
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 110.6500015258789,
+            "open_price": 111.30000305175781,
+            "pct_change": -0.5840085427281041,
+            "volume": 2188100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.489999771118164,
+            "open_price": 29.530000686645508,
+            "pct_change": -0.13545856619445848,
+            "volume": 3687200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 48.970001220703125,
+            "open_price": 48.150001525878906,
+            "pct_change": 1.7030107348667438,
+            "volume": 4810200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.68000030517578,
+            "open_price": 21.1200008392334,
+            "pct_change": 2.6515125174716108,
+            "volume": 2666400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.600000381469727,
+            "open_price": 29.440000534057617,
+            "pct_change": 0.5434777327093245,
+            "volume": 2333200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.949999809265137,
+            "open_price": 14.729999542236328,
+            "pct_change": 1.4935524362915755,
+            "volume": 52900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 29.0,
+            "open_price": 29.899999618530273,
+            "pct_change": -3.0100322074001173,
+            "volume": 14361600
+          },
+          "search_query": "DraftKings DKNG stock drops June 12, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down June 12, 2026",
+            "summary": "DraftKings Inc. stock fell 3.0% to close at $29.00 on June 12, 2026, amid broader market weakness and continued pressure from competitive threats in the prediction markets space. The decline came despite the stock trading above the average analyst price target of $26.64 set in early June, though concerns persisted following MoffettNathanson's April downgrade over emerging competition from prediction market platforms.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.68000030517578,
+            "open_price": 21.1200008392334,
+            "pct_change": 2.6515125174716108,
+            "volume": 2666400
+          },
+          "search_query": "Penn Entertainment PENN stock rises June 12, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up June 12, 2026",
+            "summary": "Penn Entertainment stock rose 2.7% on June 12, 2026, to close at $21.68, coinciding with the company's grand opening of its new 203-room hotel at Hollywood Casino Columbus. The expansion, which had been announced in March 2026 and received customary regulatory approvals, represented a major development for the property and appeared to boost investor sentiment about the company's growth prospects.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
