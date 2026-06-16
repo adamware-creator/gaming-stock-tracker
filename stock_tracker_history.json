@@ -18502,6 +18502,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-15",
+      "date_display": "June 15, 2026",
+      "benchmark": {
+        "current_price": 26511.583984375,
+        "open_price": 26649.96875,
+        "pct_change": -0.5192680221247914,
+        "volume": 5359909000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 28.71500015258789,
+            "open_price": 28.950000762939453,
+            "pct_change": -0.8117464737769546,
+            "volume": 4251169
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 110.30999755859375,
+            "open_price": 110.83000183105469,
+            "pct_change": -0.4691908904356183,
+            "volume": 699339
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.40999984741211,
+            "open_price": 29.469999313354492,
+            "pct_change": -0.20359507071720126,
+            "volume": 1021535
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 48.20500183105469,
+            "open_price": 49.349998474121094,
+            "pct_change": -2.3201553768372194,
+            "volume": 776614
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.799999237060547,
+            "open_price": 21.829999923706055,
+            "pct_change": -0.13742870705615023,
+            "volume": 725901
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.280000686645508,
+            "open_price": 30.239999771118164,
+            "pct_change": -3.174600171093715,
+            "volume": 1285012
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.829999923706055,
+            "open_price": 14.930000305175781,
+            "pct_change": -0.6697949057312439,
+            "volume": 21434
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 48.20500183105469,
+            "open_price": 49.349998474121094,
+            "pct_change": -2.3201553768372194,
+            "volume": 776614
+          },
+          "search_query": "MGM Resorts MGM stock drops June 15, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down June 15, 2026",
+            "summary": "I apologize, but the web search results provided do not contain specific information about catalysts that caused MGM Resorts stock to fall 2.3% on June 15, 2026. The search results only show that MGM had a year-to-date return of 33.24% as of that date, but do not include details about analyst downgrades, earnings reports, competitive developments, regulatory changes, or market events that would have driven the specific decline on that day. Without concrete information about the actual catalysts, I cannot write a factual news narrative explaining the stock's movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.280000686645508,
+            "open_price": 30.239999771118164,
+            "pct_change": -3.174600171093715,
+            "volume": 1285012
+          },
+          "search_query": "Rush Street Interactive RSI stock drops June 15, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down June 15, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Rush Street Interactive stock fell 3.2% on June 15, 2026. The search results only contain basic stock information pages and SEC filings listings, but no news articles, analyst reports, earnings announcements, or other specific catalysts that would explain the stock's decline on that particular date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
