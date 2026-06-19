@@ -18797,6 +18797,82 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-18",
+      "date_display": "June 18, 2026",
+      "benchmark": {
+        "current_price": NaN,
+        "open_price": NaN,
+        "pct_change": NaN,
+        "volume": 18110701000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": NaN,
+            "open_price": NaN,
+            "pct_change": NaN,
+            "volume": 14641759
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": NaN,
+            "open_price": NaN,
+            "pct_change": NaN,
+            "volume": 2191118
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": NaN,
+            "open_price": NaN,
+            "pct_change": NaN,
+            "volume": 3736340
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": NaN,
+            "open_price": NaN,
+            "pct_change": NaN,
+            "volume": 2635457
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": NaN,
+            "open_price": NaN,
+            "pct_change": NaN,
+            "volume": 4113036
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": NaN,
+            "open_price": NaN,
+            "pct_change": NaN,
+            "volume": 18867353
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": NaN,
+            "open_price": NaN,
+            "pct_change": NaN,
+            "volume": 59729
+          }
+        }
+      },
+      "material_changes": []
     }
   ]
 }
