@@ -18873,6 +18873,115 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2026-06-19",
+      "date_display": "June 19, 2026",
+      "benchmark": {
+        "current_price": 26517.9296875,
+        "open_price": 26410.619140625,
+        "pct_change": 0.4063159076416129,
+        "volume": 18286150000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.389999389648438,
+            "open_price": 26.139999389648438,
+            "pct_change": 0.95638869868911,
+            "volume": 14981000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 101.83000183105469,
+            "open_price": 100.20999908447266,
+            "pct_change": 1.6166078848243872,
+            "volume": 3821000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.219999313354492,
+            "open_price": 29.280000686645508,
+            "pct_change": -0.2049227181827971,
+            "volume": 4469900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 46.84000015258789,
+            "open_price": 47.599998474121094,
+            "pct_change": -1.5966351804536187,
+            "volume": 5357000
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.299999237060547,
+            "open_price": 21.43000030517578,
+            "pct_change": -0.6066312004850344,
+            "volume": 4689700
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.09000015258789,
+            "open_price": 28.219999313354492,
+            "pct_change": 3.082922963863042,
+            "volume": 18868400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.859999656677246,
+            "open_price": 13.0,
+            "pct_change": 6.615381974440354,
+            "volume": 74800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.09000015258789,
+            "open_price": 28.219999313354492,
+            "pct_change": 3.082922963863042,
+            "volume": 18868400
+          },
+          "search_query": "Rush Street Interactive RSI stock rises June 19, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up June 19, 2026",
+            "summary": "Rush Street Interactive stock rose 3.1% to close at $29.09 on June 19, 2026, following a shareholder/analyst call held that day. The gain brought shares near their 52-week high of $30.96, as investors responded positively to management commentary during the conference call.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.859999656677246,
+            "open_price": 13.0,
+            "pct_change": 6.615381974440354,
+            "volume": 74800
+          },
+          "search_query": "Bally's Corporation BALY stock rises June 19, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up June 19, 2026",
+            "summary": "I apologize, but I cannot write the requested narrative. The web search results provided do not contain any information about specific catalysts that caused Bally's Corporation (BALY) stock to rise 6.6% on June 19, 2026. The search results only include general company information, promotional content, and a stock price reference, but no actual news about analyst actions, earnings announcements, competitive developments, regulatory changes, or market events that would explain the stock movement on that particular date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
