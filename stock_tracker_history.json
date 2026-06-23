@@ -18982,6 +18982,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-22",
+      "date_display": "June 22, 2026",
+      "benchmark": {
+        "current_price": 25666.798828125,
+        "open_price": 25549.755859375,
+        "pct_change": 0.458098188468808,
+        "volume": 2476067000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.709999084472656,
+            "open_price": 25.43000030517578,
+            "pct_change": 1.1010569246430042,
+            "volume": 447208
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 98.37000274658203,
+            "open_price": 99.30000305175781,
+            "pct_change": -0.9365561697828351,
+            "volume": 93289
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.34000015258789,
+            "open_price": 29.25,
+            "pct_change": 0.30769282936030984,
+            "volume": 199221
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 46.70000076293945,
+            "open_price": 46.82500076293945,
+            "pct_change": -0.26695141049294685,
+            "volume": 71012
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.860000610351562,
+            "open_price": 20.700000762939453,
+            "pct_change": 0.7729460942753559,
+            "volume": 68751
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 30.225000381469727,
+            "open_price": 28.729999542236328,
+            "pct_change": 5.203622913517904,
+            "volume": 46687
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.914999961853027,
+            "open_price": 14.0,
+            "pct_change": -0.6071431296212333,
+            "volume": 3058
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 30.225000381469727,
+            "open_price": 28.729999542236328,
+            "pct_change": 5.203622913517904,
+            "volume": 46687
+          },
+          "search_query": "Rush Street Interactive RSI stock rises June 22, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up June 22, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 5.2% to close at $30.23 on June 22, 2026, as the company joined the S&P SmallCap 600 index during the quarterly rebalance that took effect before the market open that Monday. The inclusion in the index, which had been announced on June 10, 2026, ensured RSI would be more representative of its market segment and likely benefited from index-tracking fund purchases. The stock traded well above its 52-week low of $14.25, continuing momentum from a previous 15.7% surge following strong quarterly results.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
