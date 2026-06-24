@@ -19075,6 +19075,82 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-23",
+      "date_display": "June 23, 2026",
+      "benchmark": {
+        "current_price": 25587.0390625,
+        "open_price": 25549.759765625,
+        "pct_change": 0.14590860038205167,
+        "volume": 14631520000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.149999618530273,
+            "open_price": 25.43000030517578,
+            "pct_change": -1.1010644250307742,
+            "volume": 14775400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 97.8499984741211,
+            "open_price": 97.63999938964844,
+            "pct_change": 0.2150748522996405,
+            "volume": 2932800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.43000030517578,
+            "open_price": 29.25,
+            "pct_change": 0.6153856587206197,
+            "volume": 4260500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 46.91999816894531,
+            "open_price": 46.2599983215332,
+            "pct_change": 1.4267182692587588,
+            "volume": 2154200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.5,
+            "open_price": 20.700000762939453,
+            "pct_change": -0.9661872249663266,
+            "volume": 2823100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 29.510000228881836,
+            "open_price": 29.920000076293945,
+            "pct_change": -1.370320342134485,
+            "volume": 2202000
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.5,
+            "open_price": 14.4399995803833,
+            "pct_change": 0.4155153833813792,
+            "volume": 64200
+          }
+        }
+      },
+      "material_changes": []
     }
   ]
 }
