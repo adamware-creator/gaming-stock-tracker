@@ -19227,6 +19227,115 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2026-06-25",
+      "date_display": "June 25, 2026",
+      "benchmark": {
+        "current_price": 25358.599609375,
+        "open_price": 25724.779296875,
+        "pct_change": -1.4234512307146707,
+        "volume": 9870860000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.100000381469727,
+            "open_price": 24.774999618530273,
+            "pct_change": -6.760844653284047,
+            "volume": 12556700
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 96.19000244140625,
+            "open_price": 98.69000244140625,
+            "pct_change": -2.5331846571635133,
+            "volume": 4198700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.40999984741211,
+            "open_price": 30.81999969482422,
+            "pct_change": -1.3303045148341226,
+            "volume": 11945300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 47.20000076293945,
+            "open_price": 47.45000076293945,
+            "pct_change": -0.5268703814126406,
+            "volume": 3278700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.09000015258789,
+            "open_price": 20.790000915527344,
+            "pct_change": 1.4429977097138444,
+            "volume": 3941500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 30.360000610351562,
+            "open_price": 30.219999313354492,
+            "pct_change": 0.4632736604173332,
+            "volume": 1989100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.460000038146973,
+            "open_price": 14.4399995803833,
+            "pct_change": 0.13850732925811468,
+            "volume": 34900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.100000381469727,
+            "open_price": 24.774999618530273,
+            "pct_change": -6.760844653284047,
+            "volume": 12556700
+          },
+          "search_query": "DraftKings DKNG stock drops June 25, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down June 25, 2026",
+            "summary": "DraftKings Inc. (DKNG) stock fell 6.8% to close at $23.10 on June 25, 2026, underperforming the broader market decline. The sports betting company's shares dropped despite Citizens maintaining coverage and raising its price target to $36.00, suggesting the weakness stemmed from broader market pressures rather than company-specific catalysts.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 96.19000244140625,
+            "open_price": 98.69000244140625,
+            "pct_change": -2.5331846571635133,
+            "volume": 4198700
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops June 25, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down June 25, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock fell 2.5% on June 25, 2026, closing at $96.19, as investors reacted to weaker-than-expected economic data released that morning, with a key indicator rising from 3.8 to 4.1. The decline continued the stock's troubled 2026 performance, as shares had already fallen approximately 65% over the prior year amid ongoing guidance resets and analyst estimate cuts that had pressured the gambling and sports betting company throughout the spring.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
