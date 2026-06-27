@@ -19336,6 +19336,163 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-26",
+      "date_display": "June 26, 2026",
+      "benchmark": {
+        "current_price": 25297.619140625,
+        "open_price": 25105.41015625,
+        "pct_change": 0.7656078238863168,
+        "volume": 16594580000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.700000762939453,
+            "open_price": 23.700000762939453,
+            "pct_change": 8.438818293742303,
+            "volume": 16713600
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 104.19000244140625,
+            "open_price": 96.44999694824219,
+            "pct_change": 8.024889308516588,
+            "volume": 6964500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.190000534057617,
+            "open_price": 30.399999618530273,
+            "pct_change": -0.6907864707493339,
+            "volume": 5007700
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 49.189998626708984,
+            "open_price": 47.54999923706055,
+            "pct_change": 3.448999823264391,
+            "volume": 5227300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.8799991607666,
+            "open_price": 21.56999969482422,
+            "pct_change": 1.437178814688477,
+            "volume": 19777000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.559999465942383,
+            "open_price": 30.190000534057617,
+            "pct_change": 4.537922847464866,
+            "volume": 5107700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.979999542236328,
+            "open_price": 14.579999923706055,
+            "pct_change": 2.7434816229313017,
+            "volume": 432000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.700000762939453,
+            "open_price": 23.700000762939453,
+            "pct_change": 8.438818293742303,
+            "volume": 16713600
+          },
+          "search_query": "DraftKings DKNG stock rises June 26, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up June 26, 2026",
+            "summary": "DraftKings (DKNG) stock rose 8.4% on June 26, 2026, to close at $25.70 after the company announced the launch of a prediction markets exchange. The shares gained momentum as investors responded positively to the sports betting and daily fantasy operator's expansion into the emerging prediction markets sector.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 104.19000244140625,
+            "open_price": 96.44999694824219,
+            "pct_change": 8.024889308516588,
+            "volume": 6964500
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises June 26, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up June 26, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 8.0% on June 26, 2026, to close at $104.19 as investors reassessed the company's growth catalysts following its recent quarterly earnings release. The gaming and betting platform operator had reported its Q1 2026 earnings on May 6, 2026, which appeared to gain renewed attention from the market. The rally reflected strengthening investor confidence in the company's competitive positioning in the online sports betting and gaming sector.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 49.189998626708984,
+            "open_price": 47.54999923706055,
+            "pct_change": 3.448999823264391,
+            "volume": 5227300
+          },
+          "search_query": "MGM Resorts MGM stock rises June 26, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up June 26, 2026",
+            "summary": "MGM Resorts International stock rose 3.4% on June 26, 2026, closing at $49.19, as the company announced its second quarter earnings results. The stock traded alongside positive momentum in Carter's and Malibu Boats, which also posted gains on the same day. Shares climbed from a prior close of $48.90 to reach $49.50 during intraday trading before settling at $49.19.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.559999465942383,
+            "open_price": 30.190000534057617,
+            "pct_change": 4.537922847464866,
+            "volume": 5107700
+          },
+          "search_query": "Rush Street Interactive RSI stock rises June 26, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up June 26, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 4.5% on June 26, 2026, closing at $31.56, up from the previous day's close of $30.36. The gain appeared to build on momentum from strong 2025 profit results announced in early March, which had previously driven the stock up 6.6% following that earnings release. The online casino and sports betting company continued to benefit from positive investor sentiment in the regulated U.S., Canadian, and Latin American gaming markets where it operates.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.979999542236328,
+            "open_price": 14.579999923706055,
+            "pct_change": 2.7434816229313017,
+            "volume": 432000
+          },
+          "search_query": "Bally's Corporation BALY stock rises June 26, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up June 26, 2026",
+            "summary": "I cannot write a factual news narrative explaining why Bally's Corporation (BALY) stock rose 2.7% on June 26, 2026, as the web search results provided do not contain any specific information about catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date. The search results only show basic stock price information and general company website pages without news content that would explain the price movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
