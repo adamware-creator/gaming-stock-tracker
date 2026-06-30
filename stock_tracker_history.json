@@ -19493,6 +19493,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-29",
+      "date_display": "June 29, 2026",
+      "benchmark": {
+        "current_price": 25820.140625,
+        "open_price": 25502.08984375,
+        "pct_change": 1.247155755464281,
+        "volume": 9776230000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.799999237060547,
+            "open_price": 25.940000534057617,
+            "pct_change": -0.5397120050682237,
+            "volume": 11258100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 104.12000274658203,
+            "open_price": 106.25,
+            "pct_change": -2.004703297334559,
+            "volume": 2334100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.81999969482422,
+            "open_price": 30.149999618530273,
+            "pct_change": -1.0945271239845582,
+            "volume": 4309900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 49.689998626708984,
+            "open_price": 48.900001525878906,
+            "pct_change": 1.6155359431062493,
+            "volume": 4301200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 22.059999465942383,
+            "open_price": 21.8799991607666,
+            "pct_change": 0.8226705305297399,
+            "volume": 3209400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.31999969482422,
+            "open_price": 31.510000228881836,
+            "pct_change": -0.6029848704458722,
+            "volume": 2806700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.390000343322754,
+            "open_price": 14.800000190734863,
+            "pct_change": -9.52702587324831,
+            "volume": 72900
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 104.12000274658203,
+            "open_price": 106.25,
+            "pct_change": -2.004703297334559,
+            "volume": 2334100
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops June 29, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down June 29, 2026",
+            "summary": "Flutter Entertainment stock fell 2.0% on June 29, 2026, to close at $104.12, despite maintaining strong year-to-date returns of 51.58%. The decline came amid continued volatility following the company's May quarterly earnings report, when shares hit a new 52-week low even after Flutter beat Q1 2026 revenue and adjusted EPS expectations.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.390000343322754,
+            "open_price": 14.800000190734863,
+            "pct_change": -9.52702587324831,
+            "volume": 72900
+          },
+          "search_query": "Bally's Corporation BALY stock drops June 29, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down June 29, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative about why Bally's Corporation (BALY) stock fell 9.5% on June 29, 2026. The search results only contain promotional materials for Bally's casinos and unrelated sports content, with no analyst reports, earnings announcements, regulatory news, or other specific catalysts that would explain the stock decline on that date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
