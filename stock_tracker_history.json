@@ -19602,6 +19602,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-06-30",
+      "date_display": "June 30, 2026",
+      "benchmark": {
+        "current_price": 26002.3125,
+        "open_price": 26039.5078125,
+        "pct_change": -0.1428418415886677,
+        "volume": 918507342
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.809999465942383,
+            "open_price": 25.264999389648438,
+            "pct_change": 2.157134729705327,
+            "volume": 212106
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 103.94999694824219,
+            "open_price": 103.0199966430664,
+            "pct_change": 0.9027376582023733,
+            "volume": 35791
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.219999313354492,
+            "open_price": 30.049999237060547,
+            "pct_change": 0.565724061930374,
+            "volume": 24867
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 48.04999923706055,
+            "open_price": 49.25,
+            "pct_change": -2.4365497724658947,
+            "volume": 62683
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.735000610351562,
+            "open_price": 21.530000686645508,
+            "pct_change": 0.9521593923274267,
+            "volume": 39192
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 30.395000457763672,
+            "open_price": 31.329999923706055,
+            "pct_change": -2.984358340948827,
+            "volume": 37133
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.710000038146973,
+            "open_price": 13.460000038146973,
+            "pct_change": 1.8573551210362205,
+            "volume": 64800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.809999465942383,
+            "open_price": 25.264999389648438,
+            "pct_change": 2.157134729705327,
+            "volume": 212106
+          },
+          "search_query": "DraftKings DKNG stock rises June 30, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up June 30, 2026",
+            "summary": "There appears to be a discrepancy in the provided information, as the search results show conflicting data about DraftKings' stock performance on June 30, 2026. Results indicate the stock closed at $25.26 and dropped 2.09% that day according to multiple sources, contradicting the premise that DKNG rose 2.2% to $25.81. Without accurate web search results confirming the stated price movement and identifying specific catalysts for a gain on that date, a factual news narrative cannot be constructed.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 48.04999923706055,
+            "open_price": 49.25,
+            "pct_change": -2.4365497724658947,
+            "volume": 62683
+          },
+          "search_query": "MGM Resorts MGM stock drops June 30, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down June 30, 2026",
+            "summary": "MGM Resorts International stock fell 2.4% on June 30, 2026, to close at $48.05, though some sources reported the closing price as low as $47.81, representing a decline of up to 3.8% for the day. No specific catalyst was identified in the available search results for the decline, which occurred amid broader market conditions. The stock traded within its 52-week range during the session as investors assessed the company's performance heading into the second half of 2026.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 30.395000457763672,
+            "open_price": 31.329999923706055,
+            "pct_change": -2.984358340948827,
+            "volume": 37133
+          },
+          "search_query": "Rush Street Interactive RSI stock drops June 30, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down June 30, 2026",
+            "summary": "Rush Street Interactive stock fell 3.0% to close at $30.40 on June 30, 2026, despite the company being added to the Russell 2000 index that day, suggesting investors may have engaged in profit-taking following the recent announcement. The decline came after RSI had reported record first-quarter revenue of $370.4 million in Q1 2026, up 41% year-over-year, and raised its full-year guidance.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
