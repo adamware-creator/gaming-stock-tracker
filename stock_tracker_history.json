@@ -19727,6 +19727,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-01",
+      "date_display": "July 01, 2026",
+      "benchmark": {
+        "current_price": 26040.029296875,
+        "open_price": 26039.509765625,
+        "pct_change": 0.001995165249561795,
+        "volume": 9094410000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.770000457763672,
+            "open_price": 25.264999389648438,
+            "pct_change": 1.998816862517492,
+            "volume": 9374100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 105.38999938964844,
+            "open_price": 104.1500015258789,
+            "pct_change": 1.1905884259266382,
+            "volume": 1735000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.40999984741211,
+            "open_price": 30.084999084472656,
+            "pct_change": 1.0802751298975148,
+            "volume": 6301600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 47.52000045776367,
+            "open_price": 47.79999923706055,
+            "pct_change": -0.5857715141547217,
+            "volume": 3557900
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.489999771118164,
+            "open_price": 21.530000686645508,
+            "pct_change": -0.18579151997963134,
+            "volume": 2559500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.260000228881836,
+            "open_price": 29.950000762939453,
+            "pct_change": 4.3739546997387535,
+            "volume": 2905900
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.260000228881836,
+            "open_price": 13.609999656677246,
+            "pct_change": 4.775904398246557,
+            "volume": 45400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.260000228881836,
+            "open_price": 29.950000762939453,
+            "pct_change": 4.3739546997387535,
+            "volume": 2905900
+          },
+          "search_query": "Rush Street Interactive RSI stock rises July 01, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up July 01, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 4.4% on July 1, 2026, to close at $31.26, building on momentum from the company's first quarter 2026 earnings report released in late April that resulted in raised full-year guidance. The gaming stock's performance represented a significant recovery from its 52-week low of $14.38, more than doubling from that level as the company demonstrated improving financial performance in the competitive online gaming and sports betting market.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.260000228881836,
+            "open_price": 13.609999656677246,
+            "pct_change": 4.775904398246557,
+            "volume": 45400
+          },
+          "search_query": "Bally's Corporation BALY stock rises July 01, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up July 01, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to explain why Bally's Corporation (BALY) stock rose 4.8% on July 01, 2026 to close at $14.26. The search results contain only general company information, historical stock performance data showing a 13.32% YTD return as of January 2026, and a 2024 press release about a sale-leaseback transaction, but none specifically address catalysts or events from July 1, 2026 that would explain that day's price movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
