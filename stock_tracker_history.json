@@ -19945,6 +19945,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-03",
+      "date_display": "July 03, 2026",
+      "benchmark": {
+        "current_price": 25832.669921875,
+        "open_price": 26047.380859375,
+        "pct_change": -0.824309125970034,
+        "volume": 9529580000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.889999389648438,
+            "open_price": 25.66200065612793,
+            "pct_change": 0.8884682709493389,
+            "volume": 7363300
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 106.02999877929688,
+            "open_price": 106.44000244140625,
+            "pct_change": -0.38519696796801217,
+            "volume": 2357100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.389999389648438,
+            "open_price": 30.489999771118164,
+            "pct_change": -0.3279776392929085,
+            "volume": 2215100
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 47.099998474121094,
+            "open_price": 47.599998474121094,
+            "pct_change": -1.0504202017397906,
+            "volume": 3140700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 22.020000457763672,
+            "open_price": 21.489999771118164,
+            "pct_change": 2.466266599768935,
+            "volume": 2352400
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.68000030517578,
+            "open_price": 31.399999618530273,
+            "pct_change": 0.8917219428253411,
+            "volume": 2424300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.699999809265137,
+            "open_price": 14.239999771118164,
+            "pct_change": 3.230337398459468,
+            "volume": 73600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 22.020000457763672,
+            "open_price": 21.489999771118164,
+            "pct_change": 2.466266599768935,
+            "volume": 2352400
+          },
+          "search_query": "Penn Entertainment PENN stock rises July 03, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up July 03, 2026",
+            "summary": "Based on the limited information provided in the search results, a specific catalyst for Penn Entertainment's 2.5% rise to $22.02 on July 3, 2026 cannot be definitively identified. The company reported first quarter 2026 results earlier in the year, but no analyst actions, earnings announcements, regulatory changes, or material competitive developments were evident in the search results for the July 3rd trading session. The stock's movement may have been driven by broader market sentiment or sector rotation into gaming stocks ahead of the July 4th holiday weekend.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.699999809265137,
+            "open_price": 14.239999771118164,
+            "pct_change": 3.230337398459468,
+            "volume": 73600
+          },
+          "search_query": "Bally's Corporation BALY stock rises July 03, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up July 03, 2026",
+            "summary": "I cannot provide a factual news narrative explaining why Bally's Corporation stock rose 3.2% on July 03, 2026, as the web search results provided do not contain any specific information about catalysts, news events, or developments occurring on or around that date. The search results only include generic website pages, a 2024 merger announcement, and a 2024 credit rating downgrade, none of which explain the stock movement on the specified July 2026 date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
