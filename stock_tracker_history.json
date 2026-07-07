@@ -20054,6 +20054,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-06",
+      "date_display": "July 06, 2026",
+      "benchmark": {
+        "current_price": 26121.16015625,
+        "open_price": 25999.609375,
+        "pct_change": 0.46751002869634456,
+        "volume": 7827050000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.209999084472656,
+            "open_price": 25.81399917602539,
+            "pct_change": 1.5340509843009849,
+            "volume": 9556200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 107.43000030517578,
+            "open_price": 106.23999786376953,
+            "pct_change": 1.1201077422198165,
+            "volume": 1442300
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.139999389648438,
+            "open_price": 30.290000915527344,
+            "pct_change": -0.4952179641632564,
+            "volume": 2821800
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 46.880001068115234,
+            "open_price": 47.0,
+            "pct_change": -0.25531687635056516,
+            "volume": 2432700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.149999618530273,
+            "open_price": 21.8700008392334,
+            "pct_change": -3.2921865252583267,
+            "volume": 3495200
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 32.220001220703125,
+            "open_price": 32.29999923706055,
+            "pct_change": -0.247671883117673,
+            "volume": 1869100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.0600004196167,
+            "open_price": 14.59000015258789,
+            "pct_change": -10.486632741397257,
+            "volume": 67800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.149999618530273,
+            "open_price": 21.8700008392334,
+            "pct_change": -3.2921865252583267,
+            "volume": 3495200
+          },
+          "search_query": "Penn Entertainment PENN stock drops July 06, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down July 06, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Penn Entertainment (PENN) stock fell 3.3% on July 06, 2026. The search results include information about Penn Entertainment's termination of its ESPN partnership in November 2025, a Senate betting bill impact in March 2026, and a corporate restructuring announcement in January 2026, but none of these results contain specific catalysts or news from July 6, 2026 that would explain that day's stock decline.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.0600004196167,
+            "open_price": 14.59000015258789,
+            "pct_change": -10.486632741397257,
+            "volume": 67800
+          },
+          "search_query": "Bally's Corporation BALY stock drops July 06, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down July 06, 2026",
+            "summary": "Unfortunately, the web search results provided do not contain sufficient information to explain why Bally's Corporation (BALY) stock fell 10.5% on July 6, 2026. While the search results confirm the stock closed at $13.06 on that date and reference falling shares alongside Planet Fitness and Choice Hotels in early June 2026, they do not specify the catalyst for the July 6th decline or provide details about analyst actions, earnings news, regulatory changes, or other market events that would have driven the 10.5% drop.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
