@@ -20163,6 +20163,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-07",
+      "date_display": "July 07, 2026",
+      "benchmark": {
+        "current_price": 25818.689453125,
+        "open_price": 25960.130859375,
+        "pct_change": -0.5448408831842277,
+        "volume": 8244680000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.90999984741211,
+            "open_price": 26.3799991607666,
+            "pct_change": 2.0091004681825244,
+            "volume": 8831500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 108.3499984741211,
+            "open_price": 108.05500030517578,
+            "pct_change": 0.273007420399019,
+            "volume": 1488600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.350000381469727,
+            "open_price": 30.139999389648438,
+            "pct_change": 0.6967518117913889,
+            "volume": 5825600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 46.63999938964844,
+            "open_price": 46.900001525878906,
+            "pct_change": -0.5543755389581436,
+            "volume": 3255200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.780000686645508,
+            "open_price": 21.0,
+            "pct_change": -1.0476157778785342,
+            "volume": 3195100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 32.310001373291016,
+            "open_price": 32.220001220703125,
+            "pct_change": 0.2793300719369948,
+            "volume": 1580700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.329999923706055,
+            "open_price": 13.0,
+            "pct_change": -5.153846740722656,
+            "volume": 75500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.90999984741211,
+            "open_price": 26.3799991607666,
+            "pct_change": 2.0091004681825244,
+            "volume": 8831500
+          },
+          "search_query": "DraftKings DKNG stock rises July 07, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up July 07, 2026",
+            "summary": "DraftKings (DKNG) stock rose 2.0% to close at $26.91 on July 7, 2026, as the company continued to benefit from strong momentum following its Q1 2026 revenue of $1.646 billion and investor optimism around its 'super app' strategy. The stock's year-to-date return of 21.91% significantly outpaced the S&P 500's 9.62% gain over the same period, reflecting sustained investor confidence in the sports betting platform's growth trajectory.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.329999923706055,
+            "open_price": 13.0,
+            "pct_change": -5.153846740722656,
+            "volume": 75500
+          },
+          "search_query": "Bally's Corporation BALY stock drops July 07, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down July 07, 2026",
+            "summary": "I cannot provide a factual news narrative for why Bally's Corporation (BALY) stock fell 5.2% on July 07, 2026, as the web search results provided do not contain any specific information about catalysts, news events, or developments that occurred on or around that date. The search results only show general company information, a 2024 merger announcement, and stock performance data without explaining the cause of the July 7, 2026 price decline.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
