@@ -20458,6 +20458,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-10",
+      "date_display": "July 10, 2026",
+      "benchmark": {
+        "current_price": 26281.609375,
+        "open_price": 26175.5390625,
+        "pct_change": 0.4052268503305059,
+        "volume": 7094480000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.475000381469727,
+            "open_price": 26.729999542236328,
+            "pct_change": -0.9539811639864602,
+            "volume": 7711300
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 110.66000366210938,
+            "open_price": 113.45999908447266,
+            "pct_change": -2.467826057603476,
+            "volume": 1277200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.84000015258789,
+            "open_price": 29.739999771118164,
+            "pct_change": 0.33624876341405147,
+            "volume": 3196500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 46.880001068115234,
+            "open_price": 46.79999923706055,
+            "pct_change": 0.17094408623693882,
+            "volume": 1620300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.360000610351562,
+            "open_price": 20.700000762939453,
+            "pct_change": -1.642512753896197,
+            "volume": 1899600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 33.400001525878906,
+            "open_price": 32.790000915527344,
+            "pct_change": 1.8603250787428416,
+            "volume": 1364700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.890000343322754,
+            "open_price": 12.399999618530273,
+            "pct_change": 3.9516188698928243,
+            "volume": 75100
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 110.66000366210938,
+            "open_price": 113.45999908447266,
+            "pct_change": -2.467826057603476,
+            "volume": 1277200
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops July 10, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down July 10, 2026",
+            "summary": "I cannot write a news narrative about Flutter Entertainment stock falling 2.5% on July 10, 2026, to close at $110.66 based on the provided search results. The search results do not contain information about a specific 2.5% decline on July 10, 2026, or a closing price of $110.66 on that date. In fact, one result indicates the stock traded at $101.00 on July 10, 2026. Without accurate information about the specific catalysts or circumstances surrounding the described stock movement, I cannot create a factual news narrative.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.890000343322754,
+            "open_price": 12.399999618530273,
+            "pct_change": 3.9516188698928243,
+            "volume": 75100
+          },
+          "search_query": "Bally's Corporation BALY stock rises July 10, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up July 10, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 4.0% on July 10, 2026, to close at $12.89, though the specific catalyst for the day's gain was not immediately clear from available sources. The move came approximately one month after Fitch Ratings affirmed Bally's Intralot's Long-Term Issuer Default Rating at 'B+' in early June, though the rating agency placed the company's senior secured debt on Rating Watch Negative.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
