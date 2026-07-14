@@ -20567,6 +20567,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "date_display": "July 13, 2026",
+      "benchmark": {
+        "current_price": 25873.1796875,
+        "open_price": 26088.310546875,
+        "pct_change": -0.8246254926644514,
+        "volume": 7231310000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.450000762939453,
+            "open_price": 26.809999465942383,
+            "pct_change": -1.342777732839002,
+            "volume": 13612400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 112.4000015258789,
+            "open_price": 112.8499984741211,
+            "pct_change": -0.39875671628421105,
+            "volume": 2928500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.65999984741211,
+            "open_price": 29.780000686645508,
+            "pct_change": -0.4029578121776586,
+            "volume": 5163900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 47.2400016784668,
+            "open_price": 48.13999938964844,
+            "pct_change": -1.869542423332825,
+            "volume": 2805700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.479999542236328,
+            "open_price": 20.360000610351562,
+            "pct_change": 0.5893856988577643,
+            "volume": 2614600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 34.18000030517578,
+            "open_price": 33.779998779296875,
+            "pct_change": 1.1841371827522376,
+            "volume": 3500100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.199999809265137,
+            "open_price": 12.819999694824219,
+            "pct_change": 2.964119527977324,
+            "volume": 50200
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.199999809265137,
+            "open_price": 12.819999694824219,
+            "pct_change": 2.964119527977324,
+            "volume": 50200
+          },
+          "search_query": "Bally's Corporation BALY stock rises July 13, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up July 13, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 3.0% on July 13, 2026 to close at $13.20, contributing to its strong year-to-date return of 20.10%. The gain appeared to reflect continued positive momentum following the company's March 13, 2026 official opening of its Marquette landside destination and favorable first quarter 2026 results reported in May. The stock's performance outpaced the broader S&P 500 benchmark on a year-to-date basis.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
