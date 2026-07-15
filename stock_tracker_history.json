@@ -20660,6 +20660,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-14",
+      "date_display": "July 14, 2026",
+      "benchmark": {
+        "current_price": NaN,
+        "open_price": NaN,
+        "pct_change": NaN,
+        "volume": 6185344000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.209999084472656,
+            "open_price": 25.8799991607666,
+            "pct_change": -2.5888720943609913,
+            "volume": 12362000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 108.47000122070312,
+            "open_price": 109.29000091552734,
+            "pct_change": -0.7502970884390555,
+            "volume": 2657300
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.850000381469727,
+            "open_price": 29.709999084472656,
+            "pct_change": 0.4712261908827834,
+            "volume": 2807900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": NaN,
+            "open_price": NaN,
+            "pct_change": NaN,
+            "volume": 2017370
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": NaN,
+            "open_price": NaN,
+            "pct_change": NaN,
+            "volume": 2763503
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 33.5099983215332,
+            "open_price": 34.25,
+            "pct_change": -2.160588842238823,
+            "volume": 2090000
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.0600004196167,
+            "open_price": 13.34000015258789,
+            "pct_change": -2.0989484990138694,
+            "volume": 66600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.209999084472656,
+            "open_price": 25.8799991607666,
+            "pct_change": -2.5888720943609913,
+            "volume": 12362000
+          },
+          "search_query": "DraftKings DKNG stock drops July 14, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down July 14, 2026",
+            "summary": "DraftKings (DKNG) stock fell 2.6% on July 14, 2026, closing at $25.21, as the S&P 500 futures dropped amid escalating Middle East tensions that weighed on broader market sentiment. The sports betting company had been under pressure in recent months from tax headwinds, rising scrutiny of prediction markets, and analyst downgrades including one from MoffettNathanson in April. The stock was down 6% year-to-date as investors continued to weigh regulatory challenges and increased competition in the sports betting sector.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 33.5099983215332,
+            "open_price": 34.25,
+            "pct_change": -2.160588842238823,
+            "volume": 2090000
+          },
+          "search_query": "Rush Street Interactive RSI stock drops July 14, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down July 14, 2026",
+            "summary": "Rush Street Interactive (NYSE:RSI) stock fell 2.2% to close at $33.51 on July 14, 2026, though no specific catalyst was identified in available reports for the decline. The drop came roughly two and a half months after the company reported record first-quarter 2026 results featuring accelerating player growth in late April.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.0600004196167,
+            "open_price": 13.34000015258789,
+            "pct_change": -2.0989484990138694,
+            "volume": 66600
+          },
+          "search_query": "Bally's Corporation BALY stock drops July 14, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down July 14, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.1% to close at $13.06 on July 14, 2026, amid broader market weakness as new Consumer Price Index data showed inflation ticked down to 333.95 from 335.12 the prior month. The decline came despite no company-specific news, as the casino-entertainment and gaming company had previously reported Q1 earnings in April and announced a merger agreement with Standard General affiliates in July 2024.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
