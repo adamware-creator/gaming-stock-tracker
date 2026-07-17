@@ -20910,6 +20910,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-16",
+      "date_display": "July 16, 2026",
+      "benchmark": {
+        "current_price": 25881.94921875,
+        "open_price": 26155.400390625,
+        "pct_change": -1.0454864685344842,
+        "volume": 8294880000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.84000015258789,
+            "open_price": 25.549999237060547,
+            "pct_change": -2.7788614703471106,
+            "volume": 8838500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 108.30000305175781,
+            "open_price": 110.93000030517578,
+            "pct_change": -2.3708620266678735,
+            "volume": 1746500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.90999984741211,
+            "open_price": 30.1200008392334,
+            "pct_change": -0.6972144288513702,
+            "volume": 2185900
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 46.900001525878906,
+            "open_price": 46.650001525878906,
+            "pct_change": 0.5359056630712294,
+            "volume": 1770300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.270000457763672,
+            "open_price": 21.209999084472656,
+            "pct_change": 0.2828919183449717,
+            "volume": 3131600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 32.79999923706055,
+            "open_price": 32.790000915527344,
+            "pct_change": 0.03049198308643087,
+            "volume": 1658100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.65999984741211,
+            "open_price": 13.539999961853027,
+            "pct_change": 8.271786474996441,
+            "volume": 55200
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.84000015258789,
+            "open_price": 25.549999237060547,
+            "pct_change": -2.7788614703471106,
+            "volume": 8838500
+          },
+          "search_query": "DraftKings DKNG stock drops July 16, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down July 16, 2026",
+            "summary": "DraftKings (DKNG) stock fell 2.8% on July 16, 2026, to close at $24.84, continuing its decline following earlier setbacks from adverse Senate betting legislation in March that had initially sent shares down 6% and concerns about high costs associated with its predictions product in April. The stock remained under pressure as investors continued to digest the regulatory headwinds and margin pressures that had weighed on shares throughout the second quarter of 2026.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 108.30000305175781,
+            "open_price": 110.93000030517578,
+            "pct_change": -2.3708620266678735,
+            "volume": 1746500
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops July 16, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down July 16, 2026",
+            "summary": "Flutter Entertainment stock fell 2.4% on July 16, 2026, closing at $108.30, as the online gambling company continued its difficult year with shares down 49.6% year-to-date amid ongoing investor concerns about its risk profile and competitive positioning against rivals like DraftKings. The decline extended a broader selloff that had seen the stock lose more than half its value in 2026, with analysts highlighting multiple risk factors weighing on the company's valuation.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.65999984741211,
+            "open_price": 13.539999961853027,
+            "pct_change": 8.271786474996441,
+            "volume": 55200
+          },
+          "search_query": "Bally's Corporation BALY stock rises July 16, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up July 16, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any information about specific catalysts that caused Bally's Corporation (BALY) stock to rise 8.3% on July 16, 2026. The search results only include general company information, stock quote pages without details, generic news links, casino promotions, and an unrelated charity event article. Without access to actual news about analyst upgrades, earnings reports, regulatory developments, or other concrete catalysts from that date, I cannot write a factual news narrative explaining the stock movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
