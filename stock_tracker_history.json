@@ -21362,6 +21362,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-22",
+      "date_display": "July 22, 2026",
+      "benchmark": {
+        "current_price": 25690.900390625,
+        "open_price": 25693.720703125,
+        "pct_change": -0.010976660533470264,
+        "volume": 7473050000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.829999923706055,
+            "open_price": 23.809999465942383,
+            "pct_change": -4.115915851397271,
+            "volume": 18907900
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 99.80000305175781,
+            "open_price": 101.06999969482422,
+            "pct_change": -1.2565515453656844,
+            "volume": 2775400
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.940000534057617,
+            "open_price": 30.148000717163086,
+            "pct_change": -0.6899302711872878,
+            "volume": 2410400
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 45.4900016784668,
+            "open_price": 45.720001220703125,
+            "pct_change": -0.5030611025709657,
+            "volume": 1530400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.93000030517578,
+            "open_price": 21.229999542236328,
+            "pct_change": -1.413091114127012,
+            "volume": 1961500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.209999084472656,
+            "open_price": 33.33000183105469,
+            "pct_change": -6.360643954740961,
+            "volume": 3163700
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.130000114440918,
+            "open_price": 14.289999961853027,
+            "pct_change": -1.1196630359637993,
+            "volume": 28700
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.829999923706055,
+            "open_price": 23.809999465942383,
+            "pct_change": -4.115915851397271,
+            "volume": 18907900
+          },
+          "search_query": "DraftKings DKNG stock drops July 22, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down July 22, 2026",
+            "summary": "DraftKings (DKNG) stock fell 4.1% on July 22, 2026, closing at $22.83, though the specific catalyst for Wednesday's decline was not immediately disclosed in available reports. The drop extended the stock's struggles for the year, as shares remained down nearly 30% year-to-date following a disappointing fourth-quarter earnings report in June that missed both revenue and profit estimates.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.209999084472656,
+            "open_price": 33.33000183105469,
+            "pct_change": -6.360643954740961,
+            "volume": 3163700
+          },
+          "search_query": "Rush Street Interactive RSI stock drops July 22, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down July 22, 2026",
+            "summary": "Rush Street Interactive stock fell 6.4% on July 22, 2026, to close at $31.21, as investors appeared to take profits ahead of the company's quarterly earnings release scheduled for the following Wednesday. The decline came despite positive analyst sentiment, with the stock having recently hit all-time highs earlier in July after rallying from its 52-week low of $14.62.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
