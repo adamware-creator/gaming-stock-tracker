@@ -21471,6 +21471,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-23",
+      "date_display": "July 23, 2026",
+      "benchmark": {
+        "current_price": 25137.689453125,
+        "open_price": 25245.5390625,
+        "pct_change": -0.4272026400703837,
+        "volume": 7655810000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.809999465942383,
+            "open_price": 22.895000457763672,
+            "pct_change": -0.37126442507873075,
+            "volume": 12293500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 100.81999969482422,
+            "open_price": 100.30999755859375,
+            "pct_change": 0.5084260279565483,
+            "volume": 2199700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.899999618530273,
+            "open_price": 29.850000381469727,
+            "pct_change": 0.16750162955302803,
+            "volume": 3499800
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 44.9900016784668,
+            "open_price": 45.369998931884766,
+            "pct_change": -0.8375518235926546,
+            "volume": 2141300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.270000457763672,
+            "open_price": 21.309999465942383,
+            "pct_change": -4.880333337599732,
+            "volume": 3667500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.31999969482422,
+            "open_price": 31.420000076293945,
+            "pct_change": -0.3182698320398025,
+            "volume": 2356100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.180000305175781,
+            "open_price": 13.890000343322754,
+            "pct_change": 2.0878326471203947,
+            "volume": 55300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.270000457763672,
+            "open_price": 21.309999465942383,
+            "pct_change": -4.880333337599732,
+            "volume": 3667500
+          },
+          "search_query": "Penn Entertainment PENN stock drops July 23, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down July 23, 2026",
+            "summary": "Penn Entertainment stock fell 4.9% on July 23, 2026, to close at $20.27, though the provided search results did not contain specific catalysts for that day's decline. The stock had experienced significant volatility earlier in 2026, including losses following its March earnings report despite guidance calling for $6.5 billion to $6.9 billion in revenue and $700 million to $900 million in adjusted EBITDA for the year.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.180000305175781,
+            "open_price": 13.890000343322754,
+            "pct_change": 2.0878326471203947,
+            "volume": 55300
+          },
+          "search_query": "Bally's Corporation BALY stock rises July 23, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up July 23, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information to write an accurate news narrative explaining why Bally's Corporation (BALY) stock rose 2.1% on July 23, 2026 to close at $14.18. While the search results confirm the stock price of approximately $14.13-$14.18 on that date and reference that the stock was \"up,\" they do not provide specific catalysts such as analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the price movement. Without access to the actual content of the news articles or detailed information about what drove the stock price increase, I cannot produce a factual narrative that meets the requirements.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
