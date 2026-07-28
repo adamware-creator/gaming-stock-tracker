@@ -21656,6 +21656,115 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2026-07-27",
+      "date_display": "July 27, 2026",
+      "benchmark": {
+        "current_price": 24932.080078125,
+        "open_price": 25236.189453125,
+        "pct_change": -1.2050526707483649,
+        "volume": 7797890000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.110000610351562,
+            "open_price": 23.600000381469727,
+            "pct_change": 2.161017884060199,
+            "volume": 10275900
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 105.83999633789062,
+            "open_price": 105.94000244140625,
+            "pct_change": -0.0943988117906046,
+            "volume": 2621700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.969999313354492,
+            "open_price": 29.979999542236328,
+            "pct_change": -0.033356334337989055,
+            "volume": 2572300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 46.29999923706055,
+            "open_price": 45.650001525878906,
+            "pct_change": 1.4238722660571173,
+            "volume": 2246900
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.18000030517578,
+            "open_price": 20.6299991607666,
+            "pct_change": 2.6660260144612717,
+            "volume": 2121100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 31.6200008392334,
+            "open_price": 31.93000030517578,
+            "pct_change": -0.970872104539669,
+            "volume": 1884200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.010000228881836,
+            "open_price": 13.90999984741211,
+            "pct_change": 0.7189100112630926,
+            "volume": 40700
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.110000610351562,
+            "open_price": 23.600000381469727,
+            "pct_change": 2.161017884060199,
+            "volume": 10275900
+          },
+          "search_query": "DraftKings DKNG stock rises July 27, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up July 27, 2026",
+            "summary": "DraftKings (DKNG) stock rose 2.2% to close at $24.11 on July 27, 2026, as shares rallied amid broader market strength and continued investor interest in World Cup-related stocks, according to Argus Research's weekly stock list. The gain came as the stock remained trapped below key moving averages despite the intraday rally reaching as high as $24.20, up 5.17% during trading hours. The stock was still trading below its recent June high of $25.70, which had been driven by the company's DKeX launch announcement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 21.18000030517578,
+            "open_price": 20.6299991607666,
+            "pct_change": 2.6660260144612717,
+            "volume": 2121100
+          },
+          "search_query": "Penn Entertainment PENN stock rises July 27, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up July 27, 2026",
+            "summary": "Penn Entertainment stock rose 2.7% to close at $21.18 on July 27, 2026, following positive coverage from Zacks.com, which featured the gaming and entertainment company in its weekly stock highlights. The gain came approximately one month after the successful June 24 opening of the new Hollywood Casino Aurora near Chicago Premium Outlets, which appeared to boost investor sentiment in the company's expansion efforts.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
