@@ -21950,6 +21950,147 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2026-07-30",
+      "date_display": "July 30, 2026",
+      "benchmark": {
+        "current_price": 25122.1796875,
+        "open_price": 24852.05078125,
+        "pct_change": 1.086948150185669,
+        "volume": 9048570000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.719999313354492,
+            "open_price": 24.030000686645508,
+            "pct_change": -1.290059777082306,
+            "volume": 10744100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 102.12999725341797,
+            "open_price": 104.80000305175781,
+            "pct_change": -2.547715382242119,
+            "volume": 2212900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.610000610351562,
+            "open_price": 29.739999771118164,
+            "pct_change": -0.4371189030500583,
+            "volume": 2856000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 45.65999984741211,
+            "open_price": 45.970001220703125,
+            "pct_change": -0.674355808264375,
+            "volume": 3510300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.520000457763672,
+            "open_price": 21.06999969482422,
+            "pct_change": -2.6103428809999105,
+            "volume": 2959900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.760000228881836,
+            "open_price": 28.384000778198242,
+            "pct_change": -5.721535036610489,
+            "volume": 6590000
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.3100004196167,
+            "open_price": 14.680000305175781,
+            "pct_change": -2.5204351353359975,
+            "volume": 46100
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 102.12999725341797,
+            "open_price": 104.80000305175781,
+            "pct_change": -2.547715382242119,
+            "volume": 2212900
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops July 30, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down July 30, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock fell 2.5% on July 30, 2026, to close at $102.13, amid a challenging year for the gaming company that has been weighed down by weaker 2026 guidance and ongoing U.S. betting market pressures. The decline extended the company's difficult 2026 performance, which included a sharp 14.7% drop in late February following disappointing Q4 results and guidance, as well as a 6.2% slide in mid-June as investors continued to digest the company's weakened outlook for the year.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.520000457763672,
+            "open_price": 21.06999969482422,
+            "pct_change": -2.6103428809999105,
+            "volume": 2959900
+          },
+          "search_query": "Penn Entertainment PENN stock drops July 30, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down July 30, 2026",
+            "summary": "I apologize, but the web search results provided do not contain sufficient information to explain why Penn Entertainment (PENN) stock fell 2.6% on July 30, 2026 to close at $20.52. The search results include a Zacks.com mention dated July 30, 2026, but do not provide specific catalysts such as analyst downgrades, earnings reports, competitive developments, or regulatory changes that would explain the stock's decline on that specific date. Without concrete information about the actual cause of the stock movement, I cannot write a factual news narrative as requested.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.760000228881836,
+            "open_price": 28.384000778198242,
+            "pct_change": -5.721535036610489,
+            "volume": 6590000
+          },
+          "search_query": "Rush Street Interactive RSI stock drops July 30, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down July 30, 2026",
+            "summary": "Rush Street Interactive shares fell 5.7% to close at $26.76 on July 30, 2026, though the specific catalyst for the decline was not immediately clear from available reports. Despite the day's losses, Macquarie maintained its Outperform rating on the online casino and sports betting operator's stock.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.3100004196167,
+            "open_price": 14.680000305175781,
+            "pct_change": -2.5204351353359975,
+            "volume": 46100
+          },
+          "search_query": "Bally's Corporation BALY stock drops July 30, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down July 30, 2026",
+            "summary": "Based on the limited information provided in the search results, no specific catalyst for Bally's Corporation's 2.5% decline to $14.31 on July 30, 2026 could be identified. The stock had experienced significant volatility earlier in the period, including a 24% plunge in March 2025 when the company canceled an earnings call, and had previously been subject to a $18.25 per share buyout agreement announced in July 2024. The July 30, 2026 decline appeared to be part of broader market movement, as the stock closed at $14.32 according to Yahoo Finance data showing a modest 0.07% gain that day, suggesting conflicting or unclear information about the actual direction of movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
