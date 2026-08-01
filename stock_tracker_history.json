@@ -22091,6 +22091,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-07-31",
+      "date_display": "July 31, 2026",
+      "benchmark": {
+        "current_price": 25373.849609375,
+        "open_price": 25340.7109375,
+        "pct_change": 0.13077246315911495,
+        "volume": 11942500000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.479999542236328,
+            "open_price": 23.790000915527344,
+            "pct_change": -1.303074238591907,
+            "volume": 8436900
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 104.47000122070312,
+            "open_price": 101.70999908447266,
+            "pct_change": 2.7135996077811573,
+            "volume": 2089100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.75,
+            "open_price": 29.75,
+            "pct_change": 0.0,
+            "volume": 3091000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 44.56999969482422,
+            "open_price": 45.38999938964844,
+            "pct_change": -1.806564674709439,
+            "volume": 3656300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.530000686645508,
+            "open_price": 20.600000381469727,
+            "pct_change": -0.3398043375144081,
+            "volume": 2677000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.90999984741211,
+            "open_price": 26.709999084472656,
+            "pct_change": 0.748786109302863,
+            "volume": 4718500
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.930000305175781,
+            "open_price": 14.390000343322754,
+            "pct_change": -3.1966645390694644,
+            "volume": 44800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 104.47000122070312,
+            "open_price": 101.70999908447266,
+            "pct_change": 2.7135996077811573,
+            "volume": 2089100
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises July 31, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up July 31, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 2.7% to close at $104.47 on July 31, 2026, marking the final trading day for the company's ordinary shares on the London Stock Exchange as it completed its transition to a primary U.S. listing on the NYSE. The delisting from the LSE, announced in June 2026, represented a strategic shift for the world's leading online sports betting and iGaming operator to consolidate its market presence in the United States.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.930000305175781,
+            "open_price": 14.390000343322754,
+            "pct_change": -3.1966645390694644,
+            "volume": 44800
+          },
+          "search_query": "Bally's Corporation BALY stock drops July 31, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down July 31, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to explain why Bally's Corporation stock fell 3.2% on July 31, 2026. The search results contain quarterly financial filings from early 2026, a 2023 CEO announcement, and a 2024 merger agreement, but none provide specific catalysts, news events, analyst actions, or market developments that occurred on or around July 31, 2026 that would account for the stock decline on that particular date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
