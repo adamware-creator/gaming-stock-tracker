@@ -22309,6 +22309,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-04",
+      "date_display": "August 04, 2026",
+      "benchmark": {
+        "current_price": 26584.990234375,
+        "open_price": 26088.0390625,
+        "pct_change": 1.9049004437797616,
+        "volume": 9717920000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.610000610351562,
+            "open_price": 23.290000915527344,
+            "pct_change": 1.373978884693286,
+            "volume": 12832000
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 104.95999908447266,
+            "open_price": 105.0,
+            "pct_change": -0.038096110026041664,
+            "volume": 3788700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.1200008392334,
+            "open_price": 29.7450008392334,
+            "pct_change": 1.2607160511670863,
+            "volume": 5166500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 45.720001220703125,
+            "open_price": 44.66999816894531,
+            "pct_change": 2.350577781057034,
+            "volume": 4277400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.040000915527344,
+            "open_price": 20.010000228881836,
+            "pct_change": 0.14992846727810485,
+            "volume": 2101900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 28.389999389648438,
+            "open_price": 28.25,
+            "pct_change": 0.4955730607024336,
+            "volume": 2309100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.5600004196167,
+            "open_price": 14.260000228881836,
+            "pct_change": -4.9088344882868595,
+            "volume": 50500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 45.720001220703125,
+            "open_price": 44.66999816894531,
+            "pct_change": 2.350577781057034,
+            "volume": 4277400
+          },
+          "search_query": "MGM Resorts MGM stock rises August 04, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up August 04, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative explaining why MGM Resorts stock rose 2.4% on August 04, 2026, as the web search results provided do not contain any information about specific catalysts, analyst actions, earnings announcements, or market events from that date that would explain the stock movement. The search results only include general promotional materials about summer travel deals from June 2026, a BetMGM business update from February 2026, and historical stock price data confirming the closing price of $45.72, but no actual news or catalysts from August 4, 2026 that would have driven the stock increase.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.5600004196167,
+            "open_price": 14.260000228881836,
+            "pct_change": -4.9088344882868595,
+            "volume": 50500
+          },
+          "search_query": "Bally's Corporation BALY stock drops August 04, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down August 04, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any information about specific catalysts or events that occurred on August 4, 2026 that would explain why Bally's Corporation (BALY) stock fell 4.9% to close at $13.56 on that date. The search results include general stock price information, a prior news item from July 20, 2026, a 2024 merger announcement, and promotional casino content, but none directly address the stock decline on August 4, 2026. Without specific information about analyst actions, earnings reports, competitive developments, regulatory changes, or market events from that date, I cannot provide a factual narrative explaining the stock's movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
