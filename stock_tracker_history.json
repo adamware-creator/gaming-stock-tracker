@@ -22700,6 +22700,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-07",
+      "date_display": "August 07, 2026",
+      "benchmark": {
+        "current_price": 26690.619140625,
+        "open_price": 26534.66015625,
+        "pct_change": 0.5877557257437317,
+        "volume": 8183970000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.030000686645508,
+            "open_price": 22.895000457763672,
+            "pct_change": 4.957415183177943,
+            "volume": 37756100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 94.73999786376953,
+            "open_price": 94.41000366210938,
+            "pct_change": 0.34953308850743803,
+            "volume": 6311200
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.149999618530273,
+            "open_price": 30.0,
+            "pct_change": 0.4999987284342448,
+            "volume": 4149000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 44.470001220703125,
+            "open_price": 44.540000915527344,
+            "pct_change": -0.1571614130789471,
+            "volume": 2842500
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 20.18000030517578,
+            "open_price": 20.18000030517578,
+            "pct_change": 0.0,
+            "volume": 2492800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.8799991607666,
+            "open_price": 25.440000534057617,
+            "pct_change": -2.2012632135809818,
+            "volume": 2409100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.449999809265137,
+            "open_price": 12.989999771118164,
+            "pct_change": 3.5411858833880214,
+            "volume": 36300
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.030000686645508,
+            "open_price": 22.895000457763672,
+            "pct_change": 4.957415183177943,
+            "volume": 37756100
+          },
+          "search_query": "DraftKings DKNG stock rises August 07, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up August 07, 2026",
+            "summary": "DraftKings (DKNG) stock rose 5.0% to close at $24.03 on August 7, 2026, following the company's Q2 2026 earnings conference call held that morning. The gains came despite what some analysts characterized as disappointing financial results, with investor enthusiasm apparently driven by the company's presentation highlighting that its Sports Predictions product had grown 5x from April to July 2026. The stock showed unusual strength as it climbed even as the broader market digested the mixed quarterly performance.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.8799991607666,
+            "open_price": 25.440000534057617,
+            "pct_change": -2.2012632135809818,
+            "volume": 2409100
+          },
+          "search_query": "Rush Street Interactive RSI stock drops August 07, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down August 07, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why RSI stock fell 2.2% on August 07, 2026. The search results show basic stock data and mention an article titled \"Why Rush Street Interactive (RSI) Stock Is Down Today\" from August 7, 2026, but the actual content explaining the specific catalyst for the decline is not included in the excerpts provided.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.449999809265137,
+            "open_price": 12.989999771118164,
+            "pct_change": 3.5411858833880214,
+            "volume": 36300
+          },
+          "search_query": "Bally's Corporation BALY stock rises August 07, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up August 07, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Bally's Corporation stock rose 3.5% on August 07, 2026. The search results contain only general company information, historical stock data showing YTD performance of 18.58%, and unrelated content about the Cleveland Browns, but no specific catalysts, news events, analyst actions, or developments from that particular date that would explain the stock movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
