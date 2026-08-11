@@ -22825,6 +22825,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-10",
+      "date_display": "August 10, 2026",
+      "benchmark": {
+        "current_price": 26605.359375,
+        "open_price": 26680.439453125,
+        "pct_change": -0.28140495308148344,
+        "volume": 7675200000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.270000457763672,
+            "open_price": 23.69499969482422,
+            "pct_change": 2.426675544819916,
+            "volume": 18747300
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 94.2699966430664,
+            "open_price": 93.01000213623047,
+            "pct_change": 1.354687106651649,
+            "volume": 4311900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 30.06999969482422,
+            "open_price": 30.149999618530273,
+            "pct_change": -0.26533971714177573,
+            "volume": 2116800
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 43.36000061035156,
+            "open_price": 44.09000015258789,
+            "pct_change": -1.6557031973461682,
+            "volume": 2462000
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.850000381469727,
+            "open_price": 20.020000457763672,
+            "pct_change": -5.844156091615993,
+            "volume": 3194100
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.719999313354492,
+            "open_price": 24.780000686645508,
+            "pct_change": -0.24213628582888497,
+            "volume": 1721400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.020000457763672,
+            "open_price": 13.25,
+            "pct_change": -1.7358456017836084,
+            "volume": 36500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.270000457763672,
+            "open_price": 23.69499969482422,
+            "pct_change": 2.426675544819916,
+            "volume": 18747300
+          },
+          "search_query": "DraftKings DKNG stock rises August 10, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up August 10, 2026",
+            "summary": "DraftKings stock rose 2.4% to close at $24.27 on August 10, 2026, continuing momentum from the previous week when shares had surged 6% despite disappointing financial results reported on August 7. The gains appeared to reflect investor optimism about the company's 17% year-over-year revenue growth to $1.65 billion in Q1 2026, as market participants looked past near-term profitability concerns to focus on top-line expansion in the sports betting sector.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.850000381469727,
+            "open_price": 20.020000457763672,
+            "pct_change": -5.844156091615993,
+            "volume": 3194100
+          },
+          "search_query": "Penn Entertainment PENN stock drops August 10, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down August 10, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why PENN Entertainment stock fell 5.8% on August 10, 2026. The search results mention PENN's termination of its ESPN agreement in November 2025, a Senate betting bill from March 2026, and a corporate restructuring announcement from January 2026, but none of these results contain specific information about catalysts or events that occurred on or around August 10, 2026 that would explain the stock decline on that particular date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
