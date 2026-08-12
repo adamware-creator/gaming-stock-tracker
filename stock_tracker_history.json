@@ -22934,6 +22934,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-11",
+      "date_display": "August 11, 2026",
+      "benchmark": {
+        "current_price": 26445.44921875,
+        "open_price": 26672.1796875,
+        "pct_change": -0.8500635171420128,
+        "volume": 7684920000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.34000015258789,
+            "open_price": 24.399999618530273,
+            "pct_change": 3.852461265383568,
+            "volume": 11391700
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 99.0199966430664,
+            "open_price": 94.2699966430664,
+            "pct_change": 5.038718753735486,
+            "volume": 3332700
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.739999771118164,
+            "open_price": 30.079999923706055,
+            "pct_change": -1.1303196590766493,
+            "volume": 4718500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 44.130001068115234,
+            "open_price": 43.349998474121094,
+            "pct_change": 1.7993140056505041,
+            "volume": 1842300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.1299991607666,
+            "open_price": 19.010000228881836,
+            "pct_change": 0.6312410859545998,
+            "volume": 3171800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 25.149999618530273,
+            "open_price": 25.09000015258789,
+            "pct_change": 0.23913696922076028,
+            "volume": 1266100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.970000267028809,
+            "open_price": 13.140000343322754,
+            "pct_change": -1.2937600597577825,
+            "volume": 30200
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.34000015258789,
+            "open_price": 24.399999618530273,
+            "pct_change": 3.852461265383568,
+            "volume": 11391700
+          },
+          "search_query": "DraftKings DKNG stock rises August 11, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up August 11, 2026",
+            "summary": "Based on the limited information provided in the search results, a specific catalyst for DraftKings' 3.9% rise to $25.34 on August 11, 2026 cannot be definitively determined. However, the stock's movement came days after DraftKings reported what TipRanks described as \"terrible financial results\" on August 7, 2026, yet the stock rose 6% that day, suggesting investors may have been responding positively to forward-looking guidance or other factors beyond the headline numbers. The August 11th gain appeared to extend the positive momentum from the post-earnings rally earlier in the week.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 99.0199966430664,
+            "open_price": 94.2699966430664,
+            "pct_change": 5.038718753735486,
+            "volume": 3332700
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises August 11, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up August 11, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 5.0% on August 11, 2026, to close at $99.02, rebounding from an initial 7.1% post-earnings decline to $97.55 following disappointing Q2 2026 results that showed a $296 million net loss. The recovery coincided with a scheduled fireside chat between CEO Peter Jackson, CFO Rob Coldrake, and Oppenheimer analysts, suggesting investors gained confidence from management's commentary on the company's outlook despite the weak quarterly performance.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
