@@ -23043,6 +23043,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "date_display": "August 12, 2026",
+      "benchmark": {
+        "current_price": 26588.490234375,
+        "open_price": 26680.470703125,
+        "pct_change": -0.3447482983845057,
+        "volume": 7873190000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.510000228881836,
+            "open_price": 25.15999984741211,
+            "pct_change": 1.3910985039442545,
+            "volume": 8716600
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 98.08000183105469,
+            "open_price": 97.04000091552734,
+            "pct_change": 1.071723934166754,
+            "volume": 3405900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.6299991607666,
+            "open_price": 29.6200008392334,
+            "pct_change": 0.03375530469249607,
+            "volume": 17473200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 43.97999954223633,
+            "open_price": 43.95000076293945,
+            "pct_change": 0.06825660699913177,
+            "volume": 1537700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 19.170000076293945,
+            "open_price": 19.040000915527344,
+            "pct_change": 0.6827686686747253,
+            "volume": 3187000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.280000686645508,
+            "open_price": 25.260000228881836,
+            "pct_change": -3.8796497757581734,
+            "volume": 1388900
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.699999809265137,
+            "open_price": 12.899999618530273,
+            "pct_change": 6.201552049549666,
+            "volume": 34400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.280000686645508,
+            "open_price": 25.260000228881836,
+            "pct_change": -3.8796497757581734,
+            "volume": 1388900
+          },
+          "search_query": "Rush Street Interactive RSI stock drops August 12, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down August 12, 2026",
+            "summary": "Rush Street Interactive (RSI) stock fell 3.9% on August 12, 2026, closing at $24.28, though no specific catalyst was identified in available reports for the decline. The drop occurred as the company was scheduled to participate in the Oppenheimer 29th Annual Technology, Internet & Communications Conference at 2:05 p.m. Eastern Time that day. Despite the single-day decline, RSI shares remained up 26.45% year-to-date and well above their 52-week low of $15.51.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.699999809265137,
+            "open_price": 12.899999618530273,
+            "pct_change": 6.201552049549666,
+            "volume": 34400
+          },
+          "search_query": "Bally's Corporation BALY stock rises August 12, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up August 12, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any information about specific catalysts that caused Bally's Corporation (BALY) stock to rise 6.2% on August 12, 2026. While the first result confirms the stock price of $13.70 on that date and mentions first quarter 2026 earnings results, there are no details about analyst actions, earnings surprises, competitive developments, regulatory changes, or other market events that would explain the stock's movement. Without concrete information about the actual drivers of the price increase, I cannot write a factual news narrative that meets the requirements.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
