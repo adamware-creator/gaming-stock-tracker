@@ -23152,6 +23152,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-13",
+      "date_display": "August 13, 2026",
+      "benchmark": {
+        "current_price": 26803.029296875,
+        "open_price": 26631.33984375,
+        "pct_change": 0.6446895054185308,
+        "volume": 8380820000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.420000076293945,
+            "open_price": 25.440000534057617,
+            "pct_change": -0.07861814993634299,
+            "volume": 8294400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 98.31999969482422,
+            "open_price": 98.08000183105469,
+            "pct_change": 0.24469602292925496,
+            "volume": 3157000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.65999984741211,
+            "open_price": 29.670000076293945,
+            "pct_change": -0.03370484953192173,
+            "volume": 6015200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 44.06999969482422,
+            "open_price": 44.029998779296875,
+            "pct_change": 0.09084923151565559,
+            "volume": 1584300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.850000381469727,
+            "open_price": 19.149999618530273,
+            "pct_change": -1.566575681653049,
+            "volume": 2778300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.610000610351562,
+            "open_price": 24.43000030517578,
+            "pct_change": 0.7368002575818474,
+            "volume": 1909800
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.489999771118164,
+            "open_price": 13.800000190734863,
+            "pct_change": -2.246379821246882,
+            "volume": 32200
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.489999771118164,
+            "open_price": 13.800000190734863,
+            "pct_change": -2.246379821246882,
+            "volume": 32200
+          },
+          "search_query": "Bally's Corporation BALY stock drops August 13, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down August 13, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.2% to close at $13.49 on August 13, 2026, as investors appeared to take profits ahead of the company's second quarter earnings report scheduled for release after market close on August 14. The decline came despite no immediate negative catalysts, with the stock retreating from gains earlier in the month when shares had risen on July 20 following positive business developments.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
