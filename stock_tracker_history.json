@@ -23245,6 +23245,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-14",
+      "date_display": "August 14, 2026",
+      "benchmark": {
+        "current_price": 26729.16015625,
+        "open_price": 26851.150390625,
+        "pct_change": -0.45432032743592443,
+        "volume": 7212180000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.139999389648438,
+            "open_price": 25.690000534057617,
+            "pct_change": 1.7516498491086059,
+            "volume": 8887700
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 101.41000366210938,
+            "open_price": 99.69999694824219,
+            "pct_change": 1.715152222878114,
+            "volume": 1866800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.75,
+            "open_price": 29.790000915527344,
+            "pct_change": -0.1342763151997562,
+            "volume": 3486000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 44.099998474121094,
+            "open_price": 44.06999969482422,
+            "pct_change": 0.0680707499537337,
+            "volume": 1707300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.790000915527344,
+            "open_price": 18.829999923706055,
+            "pct_change": -0.2124217118469243,
+            "volume": 1826300
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 25.579999923706055,
+            "open_price": 24.719999313354492,
+            "pct_change": 3.478966966989211,
+            "volume": 1567100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.989999771118164,
+            "open_price": 13.510000228881836,
+            "pct_change": 3.552920311653138,
+            "volume": 46500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 25.579999923706055,
+            "open_price": 24.719999313354492,
+            "pct_change": 3.478966966989211,
+            "volume": 1567100
+          },
+          "search_query": "Rush Street Interactive RSI stock rises August 14, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up August 14, 2026",
+            "summary": "Rush Street Interactive stock rose 3.5% to close at $25.58 on August 14, 2026, following positive momentum from the company's late July earnings report where it beat Q2 estimates with revenue of $393.8 million (up 46.3% year-over-year) and raised its full-year 2026 revenue guidance to $1.56-$1.60 billion. The stock's gain also came after RSI's participation in the Oppenheimer conference on August 12, which likely reinforced investor confidence in the company's improved outlook. Despite the recent uptick, shares remained well below their 52-week high of $34.53.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.989999771118164,
+            "open_price": 13.510000228881836,
+            "pct_change": 3.552920311653138,
+            "volume": 46500
+          },
+          "search_query": "Bally's Corporation BALY stock rises August 14, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up August 14, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 3.6% on August 14, 2026, closing at $13.99 after the company released its second quarter 2026 financial results following the market close. The earnings report, which covered the quarter ended June 30, 2026, appeared to contain positive news that drove investor enthusiasm for the gaming and entertainment company's shares.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
