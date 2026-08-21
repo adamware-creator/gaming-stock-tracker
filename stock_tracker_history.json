@@ -23712,6 +23712,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-20",
+      "date_display": "August 20, 2026",
+      "benchmark": {
+        "current_price": 26067.169921875,
+        "open_price": 26211.51953125,
+        "pct_change": -0.5507105728948791,
+        "volume": 8244680000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.030000686645508,
+            "open_price": 25.309999465942383,
+            "pct_change": -1.1062773022719605,
+            "volume": 8262500
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 99.56999969482422,
+            "open_price": 100.0,
+            "pct_change": -0.43000030517578125,
+            "volume": 2507800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.639999389648438,
+            "open_price": 29.610000610351562,
+            "pct_change": 0.10131299790107914,
+            "volume": 1799300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 43.16999816894531,
+            "open_price": 43.0,
+            "pct_change": 0.3953445789425872,
+            "volume": 1445600
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.440000534057617,
+            "open_price": 18.450000762939453,
+            "pct_change": -0.05420178031603887,
+            "volume": 2058800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 25.610000610351562,
+            "open_price": 25.860000610351562,
+            "pct_change": -0.9667439833699266,
+            "volume": 1631200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.819999694824219,
+            "open_price": 8.630000114440918,
+            "pct_change": 13.789102718457997,
+            "volume": 194800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.819999694824219,
+            "open_price": 8.630000114440918,
+            "pct_change": 13.789102718457997,
+            "volume": 194800
+          },
+          "search_query": "Bally's Corporation BALY stock rises August 20, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up August 20, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 13.8% on August 20, 2026, to close at $9.82, though the specific catalyst for the surge was not clearly disclosed in available reports. The rally came just weeks after Bally's completed its acquisition of Sam's Town Shreveport in early August 2026, expanding its casino portfolio to 20 properties across 11 U.S. states.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
