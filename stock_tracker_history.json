@@ -23805,6 +23805,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-21",
+      "date_display": "August 21, 2026",
+      "benchmark": {
+        "current_price": 26180.4609375,
+        "open_price": 26198.83984375,
+        "pct_change": -0.07015160350462799,
+        "volume": 7410100000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.170000076293945,
+            "open_price": 25.649999618530273,
+            "pct_change": 2.0272922631468933,
+            "volume": 8512200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 102.61000061035156,
+            "open_price": 99.5999984741211,
+            "pct_change": 3.022090544521999,
+            "volume": 1159300
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.760000228881836,
+            "open_price": 29.690000534057617,
+            "pct_change": 0.23576858728554614,
+            "volume": 1355300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 43.7400016784668,
+            "open_price": 43.22999954223633,
+            "pct_change": 1.1797412482787313,
+            "volume": 1951300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.649999618530273,
+            "open_price": 18.540000915527344,
+            "pct_change": 0.5933047333930023,
+            "volume": 1902900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 25.799999237060547,
+            "open_price": 25.549999237060547,
+            "pct_change": 0.9784736104311593,
+            "volume": 2511600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.229999542236328,
+            "open_price": 9.859999656677246,
+            "pct_change": 3.7525344669613254,
+            "volume": 118000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 26.170000076293945,
+            "open_price": 25.649999618530273,
+            "pct_change": 2.0272922631468933,
+            "volume": 8512200
+          },
+          "search_query": "DraftKings DKNG stock rises August 21, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up August 21, 2026",
+            "summary": "DraftKings (DKNG) stock rose 4.6% on August 21, 2026 to close at $26.17, driven by surging investor interest as the company's prediction market platform gained momentum, according to reports. The stock climbed from the previous day's close of $25.03, continuing a rally that saw shares gain ground over three consecutive trading sessions from $24.27 on August 19.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 102.61000061035156,
+            "open_price": 99.5999984741211,
+            "pct_change": 3.022090544521999,
+            "volume": 1159300
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises August 21, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up August 21, 2026",
+            "summary": "Flutter Entertainment stock rose 3.0% on August 21, 2026, to close at $102.61, despite a bearish analyst article published that morning stating there were \"no catalysts in sight\" for the gaming company. The gain came two weeks after Flutter reported second-quarter 2026 revenue of $4,326 million, representing a 3% increase year-over-year, suggesting investors remained optimistic about the company's growth trajectory despite analyst skepticism.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.229999542236328,
+            "open_price": 9.859999656677246,
+            "pct_change": 3.7525344669613254,
+            "volume": 118000
+          },
+          "search_query": "Bally's Corporation BALY stock rises August 21, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up August 21, 2026",
+            "summary": "I was unable to find any specific catalysts in the provided web search results that would explain why Bally's Corporation (BALY) stock rose 3.8% on August 21, 2026 to close at $10.23. The search results only contained general information about Bally's properties, entertainment events, and basic market cap data ($495.62M), but did not include any analyst actions, earnings announcements, competitive developments, regulatory changes, or material market events from that date that could account for the stock movement.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
