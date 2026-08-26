@@ -24055,6 +24055,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-25",
+      "date_display": "August 25, 2026",
+      "benchmark": {
+        "current_price": 26151.30078125,
+        "open_price": 26148.7109375,
+        "pct_change": 0.009904288422439563,
+        "volume": 7483990000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.790000915527344,
+            "open_price": 25.860000610351562,
+            "pct_change": -0.2706871352361779,
+            "volume": 6506200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 102.05999755859375,
+            "open_price": 101.04000091552734,
+            "pct_change": 1.009497856120524,
+            "volume": 1592900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.65999984741211,
+            "open_price": 29.65999984741211,
+            "pct_change": 0.0,
+            "volume": 2375000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 43.34000015258789,
+            "open_price": 43.65999984741211,
+            "pct_change": -0.7329356297356614,
+            "volume": 2107400
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.75,
+            "open_price": 18.399999618530273,
+            "pct_change": -3.532606695685318,
+            "volume": 1885500
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.049999237060547,
+            "open_price": 26.450000762939453,
+            "pct_change": -1.512293059890457,
+            "volume": 1332600
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.489999771118164,
+            "open_price": 9.430000305175781,
+            "pct_change": 0.6362615482573347,
+            "volume": 75600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.75,
+            "open_price": 18.399999618530273,
+            "pct_change": -3.532606695685318,
+            "volume": 1885500
+          },
+          "search_query": "Penn Entertainment PENN stock drops August 25, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down August 25, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative about why Penn Entertainment (PENN) stock fell 3.5% on August 25, 2026 to close at $17.75. The search results do not contain any specific news, analyst actions, earnings announcements, competitive developments, or regulatory changes that occurred on that date to explain the stock decline.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
