@@ -24414,6 +24414,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-28",
+      "date_display": "August 28, 2026",
+      "benchmark": {
+        "current_price": 26402.419921875,
+        "open_price": 26515.990234375,
+        "pct_change": -0.42830877329547684,
+        "volume": 8457870000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.260000228881836,
+            "open_price": 24.280000686645508,
+            "pct_change": 4.036241822576833,
+            "volume": 19896400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 101.77999877929688,
+            "open_price": 95.80000305175781,
+            "pct_change": 6.242166531360394,
+            "volume": 3016500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.729999542236328,
+            "open_price": 29.639999389648438,
+            "pct_change": 0.30364424575299603,
+            "volume": 2735600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 42.279998779296875,
+            "open_price": 43.22999954223633,
+            "pct_change": -2.1975497871825995,
+            "volume": 1668300
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.360000610351562,
+            "open_price": 17.40999984741211,
+            "pct_change": -0.28718688971142614,
+            "volume": 2246800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.40999984741211,
+            "open_price": 26.450000762939453,
+            "pct_change": -0.15123219044814254,
+            "volume": 2530300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.430000305175781,
+            "open_price": 9.010000228881836,
+            "pct_change": 4.661487964757447,
+            "volume": 100400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 25.260000228881836,
+            "open_price": 24.280000686645508,
+            "pct_change": 4.036241822576833,
+            "volume": 19896400
+          },
+          "search_query": "DraftKings DKNG stock rises August 28, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up August 28, 2026",
+            "summary": "DraftKings (DKNG) stock rose 4.0% to close at $25.26 on August 28, 2026, though the available search results did not specify the exact catalysts driving the day's gains. The company reported Q1 2026 revenue of $1,646 million that showed growth, though its full-year 2026 revenue projection of $6.7 billion came in below the consensus estimate of approximately $7.3 billion.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 101.77999877929688,
+            "open_price": 95.80000305175781,
+            "pct_change": 6.242166531360394,
+            "volume": 3016500
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises August 28, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up August 28, 2026",
+            "summary": "Flutter Entertainment stock rose 6.2% on August 28, 2026, to close at $101.78, though specific catalysts for the rally were not disclosed in available market reports. The gain came after the company reported Q2 2026 revenue of $4.326 billion, representing 3% growth year-over-year. The stock appeared among the day's top market gainers with a 7.13% increase according to some sources.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 42.279998779296875,
+            "open_price": 43.22999954223633,
+            "pct_change": -2.1975497871825995,
+            "volume": 1668300
+          },
+          "search_query": "MGM Resorts MGM stock drops August 28, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down August 28, 2026",
+            "summary": "MGM Resorts International stock fell 2.2% on August 28, 2026, to close at $42.28, continuing a decline that brought shares down 5.9% since the company reported its second-quarter 2026 earnings results. The gaming and hospitality company's underperformance followed its latest quarterly report, which appeared to disappoint investors amid broader weakness in the bond market, where AGG bonds were down 3% year-to-date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.430000305175781,
+            "open_price": 9.010000228881836,
+            "pct_change": 4.661487964757447,
+            "volume": 100400
+          },
+          "search_query": "Bally's Corporation BALY stock rises August 28, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up August 28, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why Bally's Corporation stock rose 4.7% on August 28, 2026. The search results contain only general corporate website pages and event listings, with no specific catalysts such as analyst actions, earnings news, competitive developments, regulatory changes, or market events that would explain the stock movement on that date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
