@@ -24555,6 +24555,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "date_display": "August 31, 2026",
+      "benchmark": {
+        "current_price": 26166.224609375,
+        "open_price": 26031.669921875,
+        "pct_change": 0.5168884205424358,
+        "volume": 2388060000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.709999084472656,
+            "open_price": 23.8799991607666,
+            "pct_change": -0.7118931418274301,
+            "volume": 2298286
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 97.55000305175781,
+            "open_price": 98.1500015258789,
+            "pct_change": -0.6113076564373705,
+            "volume": 529270
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.684999465942383,
+            "open_price": 29.68000030517578,
+            "pct_change": 0.016843533407005316,
+            "volume": 658304
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 41.45000076293945,
+            "open_price": 40.650001525878906,
+            "pct_change": 1.9680177294735042,
+            "volume": 416540
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.395000457763672,
+            "open_price": 16.770000457763672,
+            "pct_change": -2.236135896027324,
+            "volume": 747699
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 25.8700008392334,
+            "open_price": 25.559999465942383,
+            "pct_change": 1.2128379490151373,
+            "volume": 595069
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 8.970000267028809,
+            "open_price": 8.899999618530273,
+            "pct_change": 0.7865241741447951,
+            "volume": 22290
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.395000457763672,
+            "open_price": 16.770000457763672,
+            "pct_change": -2.236135896027324,
+            "volume": 747699
+          },
+          "search_query": "Penn Entertainment PENN stock drops August 31, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down August 31, 2026",
+            "summary": "Penn Entertainment (PENN) shares fell 2.2% to close at $16.40 on August 31, 2026, contributing to a broader decline during the trading session as the stock continued to face pressure in the gaming and entertainment sector. Despite the daily decline, the stock maintained a positive year-to-date return of 13.29% through August 31, outperforming some industry peers amid ongoing transitions in its interactive gaming business following earlier leadership changes at PENN Interactive.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
