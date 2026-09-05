@@ -24973,6 +24973,99 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2026-09-04",
+      "date_display": "September 04, 2026",
+      "benchmark": {
+        "current_price": 26506.990234375,
+        "open_price": 26587.900390625,
+        "pct_change": -0.30431194288109054,
+        "volume": 6529110000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.010000228881836,
+            "open_price": 24.0,
+            "pct_change": 0.04166762034098308,
+            "volume": 8311100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 100.11000061035156,
+            "open_price": 100.98999786376953,
+            "pct_change": -0.8713707020818449,
+            "volume": 2491800
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.68000030517578,
+            "open_price": 29.700000762939453,
+            "pct_change": -0.06734160690200737,
+            "volume": 2035000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 41.220001220703125,
+            "open_price": 41.040000915527344,
+            "pct_change": 0.438597225049473,
+            "volume": 1472600
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.06999969482422,
+            "open_price": 17.139999389648438,
+            "pct_change": -0.40839963428758635,
+            "volume": 2210900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.68000030517578,
+            "open_price": 26.420000076293945,
+            "pct_change": 0.9841038157873744,
+            "volume": 1121300
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.140000343322754,
+            "open_price": 9.510000228881836,
+            "pct_change": -3.8906401330611304,
+            "volume": 178500
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.140000343322754,
+            "open_price": 9.510000228881836,
+            "pct_change": -3.8906401330611304,
+            "volume": 178500
+          },
+          "search_query": "Bally's Corporation BALY stock drops September 04, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down September 04, 2026",
+            "summary": "Bally's Corporation stock fell 3.9% to close at $9.14 on September 4, 2026, following the announcement that CFO Mircheva stepped down for personal reasons effective immediately, departing amid ongoing financial uncertainty at the gaming and entertainment company. The CFO transition prompted the company to commence a search for a permanent successor, adding to investor concerns as the stock had already declined 35% year-to-date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
