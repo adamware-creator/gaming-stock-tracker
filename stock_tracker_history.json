@@ -25066,6 +25066,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-07",
+      "date_display": "September 07, 2026",
+      "benchmark": {
+        "current_price": 26426.041015625,
+        "open_price": 26528.5703125,
+        "pct_change": -0.3864863265047088,
+        "volume": 2468948000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.625,
+            "open_price": 24.010000228881836,
+            "pct_change": -1.6034994802653764,
+            "volume": 1681174
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 98.26000213623047,
+            "open_price": 100.97000122070312,
+            "pct_change": -2.6839645951365916,
+            "volume": 519961
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.690000534057617,
+            "open_price": 29.68000030517578,
+            "pct_change": 0.03369349319073974,
+            "volume": 343500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 40.834999084472656,
+            "open_price": 41.06999969482422,
+            "pct_change": -0.5721953058138884,
+            "volume": 458059
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.950000762939453,
+            "open_price": 16.940000534057617,
+            "pct_change": 0.05903322648503243,
+            "volume": 312142
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.453800201416016,
+            "open_price": 26.610000610351562,
+            "pct_change": -0.5869988927199923,
+            "volume": 230181
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 8.975000381469727,
+            "open_price": 9.210000038146973,
+            "pct_change": -2.551570637393042,
+            "volume": 37956
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 98.26000213623047,
+            "open_price": 100.97000122070312,
+            "pct_change": -2.6839645951365916,
+            "volume": 519961
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops September 07, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down September 07, 2026",
+            "summary": "Flutter Entertainment (FLUT) shares fell 2.7% to close at $98.26 on September 7, 2026, as Global Growth Fund announced it was re-evaluating its position in the stock, adding to ongoing investor concerns about the company's weaker 2026 outlook and U.S. betting market pressures. The decline came after the stock had already plummeted 65% from earlier highs, with shares trading down as much as 7.1% to $97.55 during intraday trading following recent results.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 8.975000381469727,
+            "open_price": 9.210000038146973,
+            "pct_change": -2.551570637393042,
+            "volume": 37956
+          },
+          "search_query": "Bally's Corporation BALY stock drops September 07, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down September 07, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.6% to close at $8.98 on September 7, 2026, amid continued pressure following the departure of a key executive for personal reasons. The gaming and entertainment company had announced on September 4, 2026, that a senior officer, Mircheva, was leaving the organization effective immediately. The stock decline reflected investor concerns about leadership stability during a period when the company had recently amended its revolving credit facility in connection with asset sales.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
