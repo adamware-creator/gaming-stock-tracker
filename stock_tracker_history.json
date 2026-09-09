@@ -25175,6 +25175,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-08",
+      "date_display": "September 08, 2026",
+      "benchmark": {
+        "current_price": 26322.775390625,
+        "open_price": 26325.060546875,
+        "pct_change": -0.008680535590529788,
+        "volume": 2503026000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.840099334716797,
+            "open_price": 23.940000534057617,
+            "pct_change": -0.417298233551409,
+            "volume": 2856853
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 100.33999633789062,
+            "open_price": 100.55999755859375,
+            "pct_change": -0.21877607999635829,
+            "volume": 617616
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.684999465942383,
+            "open_price": 29.670000076293945,
+            "pct_change": 0.05055406002651774,
+            "volume": 313317
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 40.349998474121094,
+            "open_price": 40.70000076293945,
+            "pct_change": -0.8599564674629292,
+            "volume": 767347
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.19499969482422,
+            "open_price": 16.93000030517578,
+            "pct_change": 1.5652651203285732,
+            "volume": 601660
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 27.149999618530273,
+            "open_price": 26.809999465942383,
+            "pct_change": 1.268184108022098,
+            "volume": 337779
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.005000114440918,
+            "open_price": 9.199999809265137,
+            "pct_change": -2.1195619442061124,
+            "volume": 23078
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.005000114440918,
+            "open_price": 9.199999809265137,
+            "pct_change": -2.1195619442061124,
+            "volume": 23078
+          },
+          "search_query": "Bally's Corporation BALY stock drops September 08, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down September 08, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.1% to close at $9.01 on September 8, 2026, amid ongoing financial uncertainty following the departure of the company's Chief Financial Officer just days earlier. The leadership change came as the stock had already declined 35% year-to-date, with Bally's announcing George Papanier as interim CFO on September 3rd. The continued investor concern over the company's financial stability and executive turnover weighed on shares despite Bally's employing approximately 1,800 people in Rhode Island alone.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
