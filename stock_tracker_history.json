@@ -25420,6 +25420,131 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2026-09-11",
+      "date_display": "September 11, 2026",
+      "benchmark": {
+        "current_price": 26333.0390625,
+        "open_price": 26289.41015625,
+        "pct_change": 0.1659562005792197,
+        "volume": 6587900000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.739999771118164,
+            "open_price": 23.78499984741211,
+            "pct_change": 4.015135294650683,
+            "volume": 11718200
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 100.55999755859375,
+            "open_price": 99.45999908447266,
+            "pct_change": 1.1059707261678646,
+            "volume": 1685900
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.670000076293945,
+            "open_price": 29.690000534057617,
+            "pct_change": -0.06736428899935251,
+            "volume": 1997100
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 39.88999938964844,
+            "open_price": 40.83000183105469,
+            "pct_change": -2.3022346295642295,
+            "volume": 2243700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.81999969482422,
+            "open_price": 17.389999389648438,
+            "pct_change": 2.4726872930872155,
+            "volume": 3772800
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.43000030517578,
+            "open_price": 26.850000381469727,
+            "pct_change": -1.5642460719807079,
+            "volume": 2180000
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.170000076293945,
+            "open_price": 9.130000114440918,
+            "pct_change": 0.43811567745502455,
+            "volume": 91600
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.739999771118164,
+            "open_price": 23.78499984741211,
+            "pct_change": 4.015135294650683,
+            "volume": 11718200
+          },
+          "search_query": "DraftKings DKNG stock rises September 11, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up September 11, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate narrative explaining why DraftKings stock rose 4.0% on September 11, 2026. While the search results confirm DKNG's stock price and year-to-date performance of 28.21%, they do not contain specific catalysts, analyst actions, competitive developments, regulatory changes, or market events that occurred on September 11, 2026 to explain the 4.0% gain that day.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 39.88999938964844,
+            "open_price": 40.83000183105469,
+            "pct_change": -2.3022346295642295,
+            "volume": 2243700
+          },
+          "search_query": "MGM Resorts MGM stock drops September 11, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down September 11, 2026",
+            "summary": "MGM Resorts International stock fell 2.3% to close at $39.89 on September 11, 2026, amid broader market concerns as the Consumer Price Index rose to 334.98 from 333.92, signaling persistent inflation pressures. The decline occurred on a day when investors appeared cautious about economic data that could influence Federal Reserve policy and consumer discretionary spending at casino resorts.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.81999969482422,
+            "open_price": 17.389999389648438,
+            "pct_change": 2.4726872930872155,
+            "volume": 3772800
+          },
+          "search_query": "Penn Entertainment PENN stock rises September 11, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up September 11, 2026",
+            "summary": "I cannot write a factual news narrative explaining why Penn Entertainment (PENN) stock rose 2.5% on September 11, 2026 to close at $17.82, as none of the provided web search results contain relevant information about PENN stock performance, analyst actions, earnings reports, or market catalysts from that date. The search results only include general company information and entertainment venue schedules that do not explain the specific stock movement referenced.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
