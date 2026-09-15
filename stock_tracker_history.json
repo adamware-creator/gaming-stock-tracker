@@ -25545,6 +25545,82 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-14",
+      "date_display": "September 14, 2026",
+      "benchmark": {
+        "current_price": 26009.853515625,
+        "open_price": 26140.2265625,
+        "pct_change": -0.4987449001763028,
+        "volume": 2690539000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.719999313354492,
+            "open_price": 24.850000381469727,
+            "pct_change": -0.5231431232177133,
+            "volume": 1767911
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 100.75,
+            "open_price": 99.5,
+            "pct_change": 1.256281407035176,
+            "volume": 425039
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.700000762939453,
+            "open_price": 29.719999313354492,
+            "pct_change": -0.0672898750911237,
+            "volume": 940617
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 39.58000183105469,
+            "open_price": 39.599998474121094,
+            "pct_change": -0.05049657534576475,
+            "volume": 346600
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.93000030517578,
+            "open_price": 17.959999084472656,
+            "pct_change": -0.16703107364192735,
+            "volume": 470540
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.56999969482422,
+            "open_price": 26.209999084472656,
+            "pct_change": 1.373523933332887,
+            "volume": 389319
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.738200187683105,
+            "open_price": 9.710000038146973,
+            "pct_change": 0.2904237839891342,
+            "volume": 5106
+          }
+        }
+      },
+      "material_changes": []
     }
   ]
 }
