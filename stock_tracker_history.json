@@ -25621,6 +25621,99 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2026-09-15",
+      "date_display": "September 15, 2026",
+      "benchmark": {
+        "current_price": 26197.78515625,
+        "open_price": 26108.462890625,
+        "pct_change": 0.3421199708278259,
+        "volume": 3424985000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 24.440000534057617,
+            "open_price": 24.469999313354492,
+            "pct_change": -0.12259411580981605,
+            "volume": 1664024
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 97.5999984741211,
+            "open_price": 99.0,
+            "pct_change": -1.4141429554332385,
+            "volume": 1430269
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.674999237060547,
+            "open_price": 29.670000076293945,
+            "pct_change": 0.016849210494596006,
+            "volume": 595646
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 38.75,
+            "open_price": 39.220001220703125,
+            "pct_change": -1.1983712546521408,
+            "volume": 616721
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.56999969482422,
+            "open_price": 17.709999084472656,
+            "pct_change": -0.7905104284911159,
+            "volume": 355823
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 26.2549991607666,
+            "open_price": 26.100000381469727,
+            "pct_change": 0.5938650460975464,
+            "volume": 286295
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.180000305175781,
+            "open_price": 9.710000038146973,
+            "pct_change": 4.8403734828254645,
+            "volume": 5939
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.180000305175781,
+            "open_price": 9.710000038146973,
+            "pct_change": 4.8403734828254645,
+            "volume": 5939
+          },
+          "search_query": "Bally's Corporation BALY stock rises September 15, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up September 15, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 4.8% to close at $10.18 on September 15, 2026, following a conference call held the previous day regarding updates on its Chicago casino project. The stock gained momentum as investors digested developments from the September 14 presentation, though the company had recently announced a CFO transition with the naming of an interim chief financial officer earlier in the month.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
