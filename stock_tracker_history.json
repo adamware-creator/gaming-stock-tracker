@@ -25807,6 +25807,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-17",
+      "date_display": "September 17, 2026",
+      "benchmark": {
+        "current_price": 26389.705078125,
+        "open_price": 26522.08984375,
+        "pct_change": -0.49914907311196227,
+        "volume": 3149077000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.594999313354492,
+            "open_price": 22.351999282836914,
+            "pct_change": 1.0871512093514015,
+            "volume": 4053194
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 91.51000213623047,
+            "open_price": 92.0,
+            "pct_change": -0.5326063736625339,
+            "volume": 439573
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.690000534057617,
+            "open_price": 29.670000076293945,
+            "pct_change": 0.06740969906384346,
+            "volume": 831178
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 37.82979965209961,
+            "open_price": 38.33000183105469,
+            "pct_change": -1.304988664388265,
+            "volume": 710953
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.975000381469727,
+            "open_price": 17.219999313354492,
+            "pct_change": -1.4227580816148089,
+            "volume": 410412
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 24.81999969482422,
+            "open_price": 25.170000076293945,
+            "pct_change": -1.3905458101264374,
+            "volume": 322244
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.84000015258789,
+            "open_price": 10.5600004196167,
+            "pct_change": 2.6515125174716108,
+            "volume": 28952
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.84000015258789,
+            "open_price": 10.5600004196167,
+            "pct_change": 2.6515125174716108,
+            "volume": 28952
+          },
+          "search_query": "Bally's Corporation BALY stock rises September 17, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up September 17, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative about why Bally's Corporation stock rose 2.7% on September 17, 2026, as the web search results provided do not contain any specific information about catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date. The search results only show stock price data and generic headlines without substantive details about what drove the stock movement on that particular day.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
