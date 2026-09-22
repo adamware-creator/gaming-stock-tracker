@@ -26041,6 +26041,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "date_display": "September 21, 2026",
+      "benchmark": {
+        "current_price": 27224.658203125,
+        "open_price": 27161.197265625,
+        "pct_change": 0.23364558225979115,
+        "volume": 3483014000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.049999237060547,
+            "open_price": 22.270000457763672,
+            "pct_change": 3.502464136793294,
+            "volume": 5066734
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 90.45500183105469,
+            "open_price": 88.16000366210938,
+            "pct_change": 2.6032192305042843,
+            "volume": 552782
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.65999984741211,
+            "open_price": 29.65999984741211,
+            "pct_change": 0.0,
+            "volume": 1781677
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 38.54999923706055,
+            "open_price": 38.970001220703125,
+            "pct_change": -1.0777571734317748,
+            "volume": 813774
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.170000076293945,
+            "open_price": 16.399999618530273,
+            "pct_change": -1.4024362657694995,
+            "volume": 787013
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.040000915527344,
+            "open_price": 22.520000457763672,
+            "pct_change": -2.131436645112724,
+            "volume": 853974
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.549599647521973,
+            "open_price": 10.640000343322754,
+            "pct_change": 8.548865365122357,
+            "volume": 23061
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.049999237060547,
+            "open_price": 22.270000457763672,
+            "pct_change": 3.502464136793294,
+            "volume": 5066734
+          },
+          "search_query": "DraftKings DKNG stock rises September 21, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up September 21, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative explaining why DraftKings stock rose 3.5% on September 21, 2026 to close at $23.05 because the web search results provided do not contain sufficient information about specific catalysts for that price movement on that date. The search results show the stock price at close was $21.97 (not $23.05) according to CNN, and while there is a mention of Jason Robins' participation in an upcoming event on September 21, 2026, there are no details about analyst upgrades, earnings news, competitive developments, regulatory changes, or other concrete catalysts that would explain a 3.5% gain on that specific day.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 90.45500183105469,
+            "open_price": 88.16000366210938,
+            "pct_change": 2.6032192305042843,
+            "volume": 552782
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises September 21, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up September 21, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 2.6% to close at $90.46 on September 21, 2026, following the company's second-quarter 2026 earnings call that provided investors with updated financial results. The gains came as investors weighed the company's recent strategic developments, including a $250 million share buyback program announced in March 2026 and adjusted EBITDA guidance that showed potential upside of up to $300 million for 2026.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 22.040000915527344,
+            "open_price": 22.520000457763672,
+            "pct_change": -2.131436645112724,
+            "volume": 853974
+          },
+          "search_query": "Rush Street Interactive RSI stock drops September 21, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down September 21, 2026",
+            "summary": "Rush Street Interactive stock fell 2.1% on September 21, 2026, to close at $22.04, following a sharp 7.42% decline earlier in the week that prompted analysts at Stifel to highlight the online gaming operator's \"scarcity value\" in the iGaming sector. The decline came amid broader yield pressure affecting growth stocks, though RSI maintained an 11.01% year-to-date gain after posting record second-quarter revenue of $393.8 million and raising its full-year guidance.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.549599647521973,
+            "open_price": 10.640000343322754,
+            "pct_change": 8.548865365122357,
+            "volume": 23061
+          },
+          "search_query": "Bally's Corporation BALY stock rises September 21, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up September 21, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 8.5% to close at $11.55 on September 21, 2026, following positive developments from the company's September 14th conference call regarding its Chicago casino project and the announcement that it had secured $400 million in financing for its Bronx development project, with WhiteHawk Capital Partners leading the deal. The financing news, which included an additional $160 million available for pre-construction with closing expected in Q3 2026, appeared to boost investor confidence in the company's expansion strategy across major metropolitan markets.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
