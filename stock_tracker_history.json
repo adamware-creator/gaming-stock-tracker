@@ -26307,6 +26307,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-23",
+      "date_display": "September 23, 2026",
+      "benchmark": {
+        "current_price": 26718.59765625,
+        "open_price": 26734.5078125,
+        "pct_change": -0.059511685652058416,
+        "volume": 3305848000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.69499969482422,
+            "open_price": 21.059999465942383,
+            "pct_change": -1.7331423569522453,
+            "volume": 5970780
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 81.06500244140625,
+            "open_price": 85.47000122070312,
+            "pct_change": -5.15385365202249,
+            "volume": 1008704
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.614999771118164,
+            "open_price": 29.59000015258789,
+            "pct_change": 0.08448671308332864,
+            "volume": 2375894
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.790000915527344,
+            "open_price": 33.869998931884766,
+            "pct_change": -0.2361913754951814,
+            "volume": 8851468
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.0,
+            "open_price": 15.430000305175781,
+            "pct_change": -2.7867809246351314,
+            "volume": 1625312
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.139999389648438,
+            "open_price": 20.649999618530273,
+            "pct_change": -7.312349911749333,
+            "volume": 1069681
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.579999923706055,
+            "open_price": 12.199999809265137,
+            "pct_change": 3.1147550850970642,
+            "volume": 29345
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 81.06500244140625,
+            "open_price": 85.47000122070312,
+            "pct_change": -5.15385365202249,
+            "volume": 1008704
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops September 23, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down September 23, 2026",
+            "summary": "I apologize, but I cannot write the requested narrative. The web search results provided do not contain specific information about why Flutter Entertainment stock fell 5.2% on September 23, 2026. While the results confirm trading activity and price movements on that date, they do not include the actual catalysts, analyst actions, earnings news, competitive developments, regulatory changes, or market events that caused the decline. The search result from Yahoo Finance (result #3) appears to show economic data (227.3 vs prior 230.8) but doesn't clearly explain what this data represents or how it specifically impacted FLUT stock. Without concrete information about the cause of the decline, I cannot provide a factual news narrative as requested.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.0,
+            "open_price": 15.430000305175781,
+            "pct_change": -2.7867809246351314,
+            "volume": 1625312
+          },
+          "search_query": "Penn Entertainment PENN stock drops September 23, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down September 23, 2026",
+            "summary": "Penn Entertainment stock fell 2.8% to close at $15.00 on September 23, 2026, declining from $16.13 on September 21, based on available historical price data. The search results provided do not reveal specific catalysts for the decline on that date, though the company had announced a groundbreaking ceremony for a new Hollywood Casino Hotel on September 10 and reported first quarter earnings on April 23.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.139999389648438,
+            "open_price": 20.649999618530273,
+            "pct_change": -7.312349911749333,
+            "volume": 1069681
+          },
+          "search_query": "Rush Street Interactive RSI stock drops September 23, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down September 23, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative explaining why RSI stock fell 7.3% on September 23, 2026. The search results show stock price information and references to Q2 2026 earnings (which occurred earlier, around September 1), but they do not contain any specific catalysts, news events, analyst actions, regulatory changes, or competitive developments that occurred on or immediately before September 23, 2026 that would explain the 7.3% decline on that specific date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.579999923706055,
+            "open_price": 12.199999809265137,
+            "pct_change": 3.1147550850970642,
+            "volume": 29345
+          },
+          "search_query": "Bally's Corporation BALY stock rises September 23, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up September 23, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 3.1% to close at $12.58 on September 23, 2026, continuing momentum following the company's September 14 announcement that it secured $400 million in new financing to support development of its Bronx casino project. The stock's year-to-date return reached 26.09%, significantly outperforming the broader market as the financing deal alleviated investor concerns about the company's ability to fund its major expansion initiatives.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
