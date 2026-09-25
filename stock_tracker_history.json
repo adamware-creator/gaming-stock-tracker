@@ -26448,6 +26448,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-24",
+      "date_display": "September 24, 2026",
+      "benchmark": {
+        "current_price": 26957.859375,
+        "open_price": 26970.951171875,
+        "pct_change": -0.0485403602993875,
+        "volume": 2844626000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 21.200000762939453,
+            "open_price": 20.780000686645508,
+            "pct_change": 2.0211745063312865,
+            "volume": 5918328
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 82.25499725341797,
+            "open_price": 80.41000366210938,
+            "pct_change": 2.2944826604677644,
+            "volume": 848278
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.590099334716797,
+            "open_price": 29.670000076293945,
+            "pct_change": -0.2692980834906987,
+            "volume": 1732077
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 32.619998931884766,
+            "open_price": 33.9900016784668,
+            "pct_change": -4.030605116003715,
+            "volume": 3962825
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.454999923706055,
+            "open_price": 15.420000076293945,
+            "pct_change": 0.2269769600450045,
+            "volume": 632496
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.860000610351562,
+            "open_price": 19.489999771118164,
+            "pct_change": 1.8984137690021692,
+            "volume": 694789
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.640000343322754,
+            "open_price": 14.0,
+            "pct_change": -2.571426119123186,
+            "volume": 35074
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 21.200000762939453,
+            "open_price": 20.780000686645508,
+            "pct_change": 2.0211745063312865,
+            "volume": 5918328
+          },
+          "search_query": "DraftKings DKNG stock rises September 24, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up September 24, 2026",
+            "summary": "DraftKings (DKNG) stock rose 2.0% to close at $21.20 on September 24, 2026, rebounding after a 4% decline two days earlier triggered by investor concerns over the company's prediction-market spending plans. The recovery came as the stock continued to experience significant volatility in 2026, with analysts still debating whether shares could achieve a 50% rebound from recent lows.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 82.25499725341797,
+            "open_price": 80.41000366210938,
+            "pct_change": 2.2944826604677644,
+            "volume": 848278
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises September 24, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up September 24, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 2.3% to close at $82.25 on September 24, 2026, driven by the company's Q2 earnings release that day, which highlighted its performance relative to other casino operator stocks in the consumer discretionary sector. The gains came despite some negative sentiment from guidance cuts and a recent downgrade, as the stock showed resilience with institutional investors adding positions, contributing to an overall 5.26% increase for the trading session.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 32.619998931884766,
+            "open_price": 33.9900016784668,
+            "pct_change": -4.030605116003715,
+            "volume": 3962825
+          },
+          "search_query": "MGM Resorts MGM stock drops September 24, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down September 24, 2026",
+            "summary": "MGM Resorts International stock fell 4.0% to close at $32.62 on September 24, 2026, after Barry Diller's IAC/InterActiveCorp withdrew its $18 billion takeover bid for the casino and resort operator. The withdrawal of the acquisition offer, which had previously buoyed investor expectations, triggered a sharp selloff that made MGM one of the day's worst performers in the S&P 500.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.640000343322754,
+            "open_price": 14.0,
+            "pct_change": -2.571426119123186,
+            "volume": 35074
+          },
+          "search_query": "Bally's Corporation BALY stock drops September 24, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down September 24, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.6% to close at $13.64 on September 24, 2026, amid ongoing investor concerns following the company's severe liquidity crisis disclosed in August when auditors issued a going concern warning against the company's $4.5 billion debt load, which had previously triggered a 27-31% stock crash. The decline occurred just ahead of September 24 earnings data, as the casino operator continued to struggle with market confidence after the auditor's warning about its ability to continue operations.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
