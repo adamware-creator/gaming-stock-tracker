@@ -26589,6 +26589,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-25",
+      "date_display": "September 25, 2026",
+      "benchmark": {
+        "current_price": 27068.720703125,
+        "open_price": 26970.94921875,
+        "pct_change": 0.36250664958810574,
+        "volume": 7275260000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.020000457763672,
+            "open_price": 20.829999923706055,
+            "pct_change": 5.712916651062058,
+            "volume": 20465800
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 83.2300033569336,
+            "open_price": 80.41000366210938,
+            "pct_change": 3.507025949997628,
+            "volume": 3001300
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.59000015258789,
+            "open_price": 29.670000076293945,
+            "pct_change": -0.26963236771264415,
+            "volume": 4724500
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 32.58000183105469,
+            "open_price": 33.9900016784668,
+            "pct_change": -4.148278251793576,
+            "volume": 11252700
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.649999618530273,
+            "open_price": 15.420000076293945,
+            "pct_change": 1.491566414386208,
+            "volume": 3032900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 19.8700008392334,
+            "open_price": 19.489999771118164,
+            "pct_change": 1.9497233072231754,
+            "volume": 2876400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.0,
+            "open_price": 14.0,
+            "pct_change": 0.0,
+            "volume": 169200
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 22.020000457763672,
+            "open_price": 20.829999923706055,
+            "pct_change": 5.712916651062058,
+            "volume": 20465800
+          },
+          "search_query": "DraftKings DKNG stock rises September 25, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up September 25, 2026",
+            "summary": "DraftKings stock rose 5.7% to close at $22.02 on September 25, 2026, driven by favorable regulatory shifts and bullish analyst targets that emerged during the trading session. The gains came as the stock drew increased attention as a trending equity, with analysts highlighting prediction-market tailwinds that were building momentum for the online sports betting platform.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 83.2300033569336,
+            "open_price": 80.41000366210938,
+            "pct_change": 3.507025949997628,
+            "volume": 3001300
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises September 25, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up September 25, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 3.5% on September 25, 2026, to close at $83.23, with the company announcing the fifth tranche of its multi-year $5 billion share buyback program on that date. The stock's strong performance contributed to a year-to-date return of 61.30%, significantly outpacing the S&P 500 benchmark. The buyback announcement provided a catalyst for the rally despite earlier headwinds from guidance resets and estimate cuts that had pressured shares in March.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 32.58000183105469,
+            "open_price": 33.9900016784668,
+            "pct_change": -4.148278251793576,
+            "volume": 11252700
+          },
+          "search_query": "MGM Resorts MGM stock drops September 25, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down September 25, 2026",
+            "summary": "MGM Resorts (MGM) stock fell 4.1% on September 25, 2026 to close at $32.58, continuing its steep decline after Barry Diller's takeover offer for the casino operator was rescinded the previous day. The withdrawal of the acquisition bid resulted in MGM experiencing a double-digit drop over the two-day period, with the stock posting a 13.82% decline for the week and trading 34.70% below its 52-week high.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
