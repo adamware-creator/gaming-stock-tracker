@@ -26714,6 +26714,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "date_display": "September 28, 2026",
+      "benchmark": {
+        "current_price": 26759.84375,
+        "open_price": 26908.7578125,
+        "pct_change": -0.5534037042424327,
+        "volume": 3314505000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.235000610351562,
+            "open_price": 21.260000228881836,
+            "pct_change": -4.821258737042747,
+            "volume": 7027836
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 75.23999786376953,
+            "open_price": 76.88999938964844,
+            "pct_change": -2.145924748311343,
+            "volume": 1585646
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.639999389648438,
+            "open_price": 29.610000610351562,
+            "pct_change": 0.10131299790107914,
+            "volume": 1162312
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 31.709999084472656,
+            "open_price": 32.099998474121094,
+            "pct_change": -1.2149514273742212,
+            "volume": 1683789
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.795000076293945,
+            "open_price": 15.329999923706055,
+            "pct_change": -3.489888128341048,
+            "volume": 1405358
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.309999465942383,
+            "open_price": 19.610000610351562,
+            "pct_change": 3.5696013962452957,
+            "volume": 857780
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.949899673461914,
+            "open_price": 14.0,
+            "pct_change": -0.3578594752720424,
+            "volume": 53492
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.235000610351562,
+            "open_price": 21.260000228881836,
+            "pct_change": -4.821258737042747,
+            "volume": 7027836
+          },
+          "search_query": "DraftKings DKNG stock drops September 28, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down September 28, 2026",
+            "summary": "DraftKings (DKNG) stock fell 4.8% on September 28, 2026, to close at $20.24, likely declining in sympathy with weakness in peer Flutter Entertainment as investors grew concerned about broader pressures facing the online sports betting industry. The drop came despite the company announcing a new exclusive partnership as an official sportsbook and online casino that same day, suggesting ongoing competitive headwinds outweighed positive business developments. The decline added to DKNG's struggles following weaker-than-expected quarterly results earlier in the summer, when the company reported a 5% revenue decline to $1.44 billion in its second quarter.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 75.23999786376953,
+            "open_price": 76.88999938964844,
+            "pct_change": -2.145924748311343,
+            "volume": 1585646
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops September 28, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down September 28, 2026",
+            "summary": "Flutter Entertainment stock fell 2.1% on September 28, 2026, to close at $75.24, as part of broader weakness that saw the online betting company's shares drop to a fresh 52-week low during the session. The decline occurred amid regulatory disclosures filed on September 28 and came nearly two months before incoming CEO Dan Taylor was set to take over leadership on October 1, 2026, following the company's August announcement of a CEO transition.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.795000076293945,
+            "open_price": 15.329999923706055,
+            "pct_change": -3.489888128341048,
+            "volume": 1405358
+          },
+          "search_query": "Penn Entertainment PENN stock drops September 28, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down September 28, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative about Penn Entertainment stock falling 3.5% on September 28, 2026, as the web search results provided do not contain any information about specific catalysts or reasons for stock movement on that date. The search results primarily discuss Penn State football content and general corporate announcements, but lack the necessary financial news, analyst actions, competitive developments, or market events that would explain the stock decline you've referenced. Without verified information about actual catalysts for the stock movement, I cannot produce an accurate news narrative.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.309999465942383,
+            "open_price": 19.610000610351562,
+            "pct_change": 3.5696013962452957,
+            "volume": 857780
+          },
+          "search_query": "Rush Street Interactive RSI stock rises September 28, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up September 28, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to explain why Rush Street Interactive (RSI) stock rose 3.6% on September 28, 2026 to close at $20.31. The search results show general stock information, mention of record Q2 2026 earnings results, and a reference to insider activity on September 25, 2026, but none specifically identify the catalyst that drove the 3.6% gain on September 28, 2026.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
