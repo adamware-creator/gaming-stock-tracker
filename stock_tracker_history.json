@@ -27040,6 +27040,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-01",
+      "date_display": "October 01, 2026",
+      "benchmark": {
+        "current_price": 27184.91015625,
+        "open_price": 27216.90625,
+        "pct_change": -0.11755962803450522,
+        "volume": 3739453000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.549999237060547,
+            "open_price": 19.469999313354492,
+            "pct_change": -4.725218843037742,
+            "volume": 9926883
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 73.75499725341797,
+            "open_price": 77.0,
+            "pct_change": -4.214289281275365,
+            "volume": 859932
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.645000457763672,
+            "open_price": 29.6200008392334,
+            "pct_change": 0.08440114051975313,
+            "volume": 1926956
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 30.344999313354492,
+            "open_price": 30.600000381469727,
+            "pct_change": -0.8333368135173422,
+            "volume": 1527794
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.739999771118164,
+            "open_price": 14.75,
+            "pct_change": -0.06779816191075211,
+            "volume": 2075197
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.059999465942383,
+            "open_price": 19.989999771118164,
+            "pct_change": 0.3501735649109676,
+            "volume": 473123
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.0,
+            "open_price": 14.140000343322754,
+            "pct_change": -0.9901014138862126,
+            "volume": 126349
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.549999237060547,
+            "open_price": 19.469999313354492,
+            "pct_change": -4.725218843037742,
+            "volume": 9926883
+          },
+          "search_query": "DraftKings DKNG stock drops October 01, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down October 01, 2026",
+            "summary": "DraftKings Inc. (DKNG) fell 4.7% to close at $18.55 on October 1, 2026, amid broader market weakness as the ISM Manufacturing data release loomed and summer trading concluded. BTIG maintained its Buy rating on the stock despite the decline, though no specific catalyst was cited for the day's underperformance. The stock continued to suffer losses that extended its recent decline, with shares trading down 9.5% over a 24-hour period according to trading data.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 73.75499725341797,
+            "open_price": 77.0,
+            "pct_change": -4.214289281275365,
+            "volume": 859932
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops October 01, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down October 01, 2026",
+            "summary": "Flutter Entertainment (FLUT) shares fell 4.2% to close at $73.75 on October 1, 2026, as Dan Taylor officially took over as CEO from Peter Jackson, completing a leadership transition that was announced in early August. The CEO handover, which had already triggered an 8.9% stock decline when initially announced alongside a guidance cut in August, continued to weigh on investor sentiment as the new leadership took effect. The stock remained under pressure from concerns stemming from the company's reduced guidance and executive turnover.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
