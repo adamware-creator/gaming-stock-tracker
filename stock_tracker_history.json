@@ -27149,6 +27149,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-02",
+      "date_display": "October 02, 2026",
+      "benchmark": {
+        "current_price": 27190.859375,
+        "open_price": 27216.91015625,
+        "pct_change": -0.09571542508111555,
+        "volume": 7954430000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.59000015258789,
+            "open_price": 19.469999313354492,
+            "pct_change": -4.519769860305075,
+            "volume": 17835100
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 74.80999755859375,
+            "open_price": 77.0,
+            "pct_change": -2.844159014813312,
+            "volume": 2464500
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.649999618530273,
+            "open_price": 29.649999618530273,
+            "pct_change": 0.0,
+            "volume": 4498000
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 30.479999542236328,
+            "open_price": 30.600000381469727,
+            "pct_change": -0.392159600449112,
+            "volume": 4084800
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.770000457763672,
+            "open_price": 14.75,
+            "pct_change": 0.13559632382150422,
+            "volume": 4201700
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.010000228881836,
+            "open_price": 19.989999771118164,
+            "pct_change": 0.100052316121428,
+            "volume": 1859100
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 14.09000015258789,
+            "open_price": 14.140000343322754,
+            "pct_change": -0.3536081295675114,
+            "volume": 253400
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.59000015258789,
+            "open_price": 19.469999313354492,
+            "pct_change": -4.519769860305075,
+            "volume": 17835100
+          },
+          "search_query": "DraftKings DKNG stock drops October 02, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down October 02, 2026",
+            "summary": "DraftKings stock fell 4.5% to close at $18.59 on October 2, 2026, as the company faced scrutiny over AI targeting allegations while rival prediction market platform Kalshi eyed a $40 billion valuation, pressuring both DraftKings and FanDuel's parent company to new multiyear lows. The decline extended DraftKings' year-to-date losses to 43.8%, significantly underperforming the S&P 500's 12.6% gain over the same period.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 74.80999755859375,
+            "open_price": 77.0,
+            "pct_change": -2.844159014813312,
+            "volume": 2464500
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops October 02, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down October 02, 2026",
+            "summary": "Flutter Entertainment plc (FLUT) stock fell 2.8% to close at $74.81 on October 02, 2026, amid uncertainty surrounding the CEO transition as Dan Taylor officially took over from Peter Jackson on October 1st. The decline came roughly two months after the company had posted mixed Q2 results with a revenue beat but subsequently cut guidance and swung to a net loss, which had triggered an 8.9% selloff in early August. The leadership change appeared to weigh on investor sentiment as the new CEO began his tenure following the company's recent financial challenges.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
