@@ -27351,6 +27351,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-06",
+      "date_display": "October 06, 2026",
+      "benchmark": {
+        "current_price": 27492.05078125,
+        "open_price": 27430.53515625,
+        "pct_change": 0.22425966044626647,
+        "volume": 3890161000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.000200271606445,
+            "open_price": 19.6200008392334,
+            "pct_change": -3.1590241647062554,
+            "volume": 6110075
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 75.13999938964844,
+            "open_price": 77.61000061035156,
+            "pct_change": -3.1825811123285552,
+            "volume": 973302
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.43000030517578,
+            "open_price": 29.649999618530273,
+            "pct_change": -0.7419875756659364,
+            "volume": 6562109
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 29.704999923706055,
+            "open_price": 30.200000762939453,
+            "pct_change": -1.6390755851928613,
+            "volume": 2319526
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.614999771118164,
+            "open_price": 15.819999694824219,
+            "pct_change": -1.2958276084741258,
+            "volume": 1037659
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.19499969482422,
+            "open_price": 20.655000686645508,
+            "pct_change": -2.2270683927824932,
+            "volume": 585799
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.925000190734863,
+            "open_price": 13.770000457763672,
+            "pct_change": 1.1256334627338442,
+            "volume": 89574
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.000200271606445,
+            "open_price": 19.6200008392334,
+            "pct_change": -3.1590241647062554,
+            "volume": 6110075
+          },
+          "search_query": "DraftKings DKNG stock drops October 06, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down October 06, 2026",
+            "summary": "Based on the limited information available in the search results, DraftKings stock fell 3.2% on October 6, 2026, to close at $19.00, amid a challenging year that saw the company down 44.1% year-to-date and trading 45% below its 52-week high. The decline occurred in a broader context of regulatory headwinds, following a Senate betting bill in March that had previously pressured sports betting stocks. Specific catalysts for the October 6th decline could not be determined from the available search results.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 75.13999938964844,
+            "open_price": 77.61000061035156,
+            "pct_change": -3.1825811123285552,
+            "volume": 973302
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops October 06, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down October 06, 2026",
+            "summary": "Flutter Entertainment stock fell 3.2% on October 6, 2026, to close at $75.14, as investors continued to digest the company's weak second-quarter earnings miss and the leadership transition that saw CEO Peter Jackson step down effective October 1st. The decline extended the stock's difficult year, with shares down 57% year-to-date following the company's 15.52% earnings miss in August and lowered outlook that initially triggered an 11% plunge.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 20.19499969482422,
+            "open_price": 20.655000686645508,
+            "pct_change": -2.2270683927824932,
+            "volume": 585799
+          },
+          "search_query": "Rush Street Interactive RSI stock drops October 06, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down October 06, 2026",
+            "summary": "Rush Street Interactive (RSI) stock fell 2.2% to close at $20.19 on October 6, 2026, amid apparent profit-taking following earlier share price gains that had pushed the stock to levels screening as expensive on market valuation metrics. The decline came ahead of the company's scheduled third-quarter earnings report on October 28, 2026, with the stock trading at a premium valuation of 68.53 times trailing twelve-month earnings despite the company having raised its full-year 2026 guidance earlier in the year.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
