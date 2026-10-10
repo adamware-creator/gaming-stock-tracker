@@ -27790,6 +27790,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-09",
+      "date_display": "October 09, 2026",
+      "benchmark": {
+        "current_price": 27366.169921875,
+        "open_price": 27342.26953125,
+        "pct_change": 0.0874118755858353,
+        "volume": 6845310000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.579999923706055,
+            "open_price": 19.8700008392334,
+            "pct_change": -1.4594912092541827,
+            "volume": 9580400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 79.77999877929688,
+            "open_price": 81.79000091552734,
+            "pct_change": -2.4575157277555206,
+            "volume": 2714100
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.5,
+            "open_price": 29.559999465942383,
+            "pct_change": -0.20297519291741303,
+            "volume": 4742100
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 29.270000457763672,
+            "open_price": 30.260000228881836,
+            "pct_change": -3.2716449558161367,
+            "volume": 5462200
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.479999542236328,
+            "open_price": 15.920000076293945,
+            "pct_change": -2.7638224368655027,
+            "volume": 2771000
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.899999618530273,
+            "open_price": 20.40999984741211,
+            "pct_change": -7.398335326657519,
+            "volume": 2672900
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.9399995803833,
+            "open_price": 13.819999694824219,
+            "pct_change": 0.8683059928288106,
+            "volume": 68000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 79.77999877929688,
+            "open_price": 81.79000091552734,
+            "pct_change": -2.4575157277555206,
+            "volume": 2714100
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops October 09, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down October 09, 2026",
+            "summary": "Flutter Entertainment plc (FLUT) fell 2.5% to close at $79.78 on October 9, 2026, as concerns about rival DraftKings, which declined 19% over the previous month according to Bank of America analysis, weighed on sentiment across the online betting sector. The decline came despite Flutter having traded up the previous day, with the stock still down over 65% year-to-date following the company's halt of Brazilian operations and previous guidance reductions. Flutter had recently reached a 52-week low of $73.50 amid ongoing regulatory and operational challenges in key markets.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 29.270000457763672,
+            "open_price": 30.260000228881836,
+            "pct_change": -3.2716449558161367,
+            "volume": 5462200
+          },
+          "search_query": "MGM Resorts MGM stock drops October 09, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down October 09, 2026",
+            "summary": "MGM Resorts stock fell 3.3% on October 9, 2026, to close at $29.27, as shares continued to decline in the aftermath of Barry Diller's withdrawal of his $18 billion acquisition bid for the company in late September. The stock remained under pressure following the collapsed deal, with MGM shares down approximately 17% year-to-date in 2026 as investor sentiment remained dampened by the failed transaction.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.479999542236328,
+            "open_price": 15.920000076293945,
+            "pct_change": -2.7638224368655027,
+            "volume": 2771000
+          },
+          "search_query": "Penn Entertainment PENN stock drops October 09, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down October 09, 2026",
+            "summary": "Penn Entertainment stock fell 2.8% to close at $15.48 on October 9, 2026, as investors digested news that the company planned to close its Hollywood Casino Aurora riverboat facility, which had shut down on June 10, 2026. The casino closure represented a reduction in the company's physical footprint and potential revenue streams, contributing to negative sentiment ahead of PENN's scheduled third-quarter earnings report on October 9th.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.899999618530273,
+            "open_price": 20.40999984741211,
+            "pct_change": -7.398335326657519,
+            "volume": 2672900
+          },
+          "search_query": "Rush Street Interactive RSI stock drops October 09, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down October 09, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to explain why Rush Street Interactive (RSI) stock fell 7.4% on October 09, 2026. The search results show stock price data and mentions of earnings reports from earlier in 2026, but none of the excerpts contain specific catalysts, news events, analyst actions, or developments that occurred on or immediately before October 9, 2026 that would explain the decline.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
