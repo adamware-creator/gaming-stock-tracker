@@ -28007,6 +28007,131 @@
         }
       },
       "material_changes": []
+    },
+    {
+      "date": "2026-10-13",
+      "date_display": "October 13, 2026",
+      "benchmark": {
+        "current_price": 26839.990234375,
+        "open_price": 27031.640625,
+        "pct_change": -0.7089854192858485,
+        "volume": 3084895000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.90999984741211,
+            "open_price": 19.770000457763672,
+            "pct_change": -4.350028277383477,
+            "volume": 3768286
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 73.92510223388672,
+            "open_price": 77.4800033569336,
+            "pct_change": -4.588153031783201,
+            "volume": 635228
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.405000686645508,
+            "open_price": 29.479999542236328,
+            "pct_change": -0.25440589130053615,
+            "volume": 2822784
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 28.850000381469727,
+            "open_price": 29.389999389648438,
+            "pct_change": -1.8373563096054573,
+            "volume": 1006152
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.766300201416016,
+            "open_price": 15.119999885559082,
+            "pct_change": -2.339283642990503,
+            "volume": 1494989
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.670000076293945,
+            "open_price": 18.81999969482422,
+            "pct_change": -0.7970224280690376,
+            "volume": 377051
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.470000267028809,
+            "open_price": 13.5600004196167,
+            "pct_change": -0.6637179188998481,
+            "volume": 18208
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.90999984741211,
+            "open_price": 19.770000457763672,
+            "pct_change": -4.350028277383477,
+            "volume": 3768286
+          },
+          "search_query": "DraftKings DKNG stock drops October 13, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down October 13, 2026",
+            "summary": "I apologize, but I cannot write a factual narrative about why DraftKings stock fell 4.4% on October 13, 2026, because the web search results provided do not contain information about specific catalysts or reasons for the stock movement on that date. The search results show historical price data and general information about the stock being down 48% year-to-date as of early October 2026, but they do not explain what caused the specific decline on October 13, 2026. Without concrete information about analyst actions, earnings news, competitive developments, regulatory changes, or market events that occurred on that date, I cannot provide a factual explanation for the stock's movement.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 73.92510223388672,
+            "open_price": 77.4800033569336,
+            "pct_change": -4.588153031783201,
+            "volume": 635228
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops October 13, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down October 13, 2026",
+            "summary": "Flutter Entertainment stock fell 4.6% on October 13, 2026, to close at $73.93 after Citizens JMP issued a pessimistic forecast for the online betting company. Despite the decline, the stock remained up 63.70% year-to-date, significantly outperforming the broader market.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.766300201416016,
+            "open_price": 15.119999885559082,
+            "pct_change": -2.339283642990503,
+            "volume": 1494989
+          },
+          "search_query": "Penn Entertainment PENN stock drops October 13, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down October 13, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any information about specific events, catalysts, or developments that occurred on October 13, 2026 that would explain why PENN stock fell 2.3% to close at $14.77 on that date. The search results only show general corporate information, a July product launch announcement, September earnings coverage, social media content, and a January organizational restructuring announcement. Without relevant news or data specific to October 13, 2026, I cannot write a factual narrative explaining the stock decline on that date.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
