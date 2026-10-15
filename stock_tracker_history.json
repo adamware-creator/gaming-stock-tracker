@@ -28132,6 +28132,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "date_display": "October 14, 2026",
+      "benchmark": {
+        "current_price": 26619.421875,
+        "open_price": 26380.7734375,
+        "pct_change": 0.9046301772212778,
+        "volume": 4936246000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.165000915527344,
+            "open_price": 18.860000610351562,
+            "pct_change": 1.6171807810460928,
+            "volume": 3149716
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 75.0,
+            "open_price": 73.98999786376953,
+            "pct_change": 1.365052257590392,
+            "volume": 482185
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.31999969482422,
+            "open_price": 29.280000686645508,
+            "pct_change": 0.1366086312865229,
+            "volume": 2186910
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 29.360000610351562,
+            "open_price": 29.25,
+            "pct_change": 0.3760704627403846,
+            "volume": 1403730
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.880000114440918,
+            "open_price": 14.520000457763672,
+            "pct_change": 2.4793364003288203,
+            "volume": 1001491
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.729999542236328,
+            "open_price": 18.6200008392334,
+            "pct_change": 0.5907556285988783,
+            "volume": 315808
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.5600004196167,
+            "open_price": 13.710000038146973,
+            "pct_change": -1.094089118256102,
+            "volume": 16355
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.880000114440918,
+            "open_price": 14.520000457763672,
+            "pct_change": 2.4793364003288203,
+            "volume": 1001491
+          },
+          "search_query": "Penn Entertainment PENN stock rises October 14, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up October 14, 2026",
+            "summary": "Penn Entertainment stock rose 2.5% to close at $14.88 on October 14, 2026, amid positive momentum as the company prepared to report its third quarter results on October 5, with the earnings call scheduled for later that week. The gain came as PENN shares showed strong year-to-date performance, having surged 82.9% in 2026, significantly outperforming the broader consumer discretionary sector.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
