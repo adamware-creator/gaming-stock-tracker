@@ -28225,6 +28225,99 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "date_display": "October 15, 2026",
+      "benchmark": {
+        "current_price": 26435.55859375,
+        "open_price": 26652.984375,
+        "pct_change": -0.8157652373590902,
+        "volume": 3136715000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.28499984741211,
+            "open_price": 19.5,
+            "pct_change": -1.1025648850661058,
+            "volume": 2955374
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 76.11000061035156,
+            "open_price": 77.0199966430664,
+            "pct_change": -1.1815061962830722,
+            "volume": 349213
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.9950008392334,
+            "open_price": 29.270000457763672,
+            "pct_change": -0.9395272095300963,
+            "volume": 5004804
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 28.979999542236328,
+            "open_price": 29.68000030517578,
+            "pct_change": -2.3584931123379493,
+            "volume": 1233109
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.079999923706055,
+            "open_price": 15.25,
+            "pct_change": -1.1147545986488216,
+            "volume": 393059
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.649999618530273,
+            "open_price": 19.010000228881836,
+            "pct_change": -1.8937433246561177,
+            "volume": 204864
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.369999885559082,
+            "open_price": 13.489999771118164,
+            "pct_change": -0.8895469799488027,
+            "volume": 5213
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 28.979999542236328,
+            "open_price": 29.68000030517578,
+            "pct_change": -2.3584931123379493,
+            "volume": 1233109
+          },
+          "search_query": "MGM Resorts MGM stock drops October 15, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down October 15, 2026",
+            "summary": "MGM Resorts stock fell 2.4% to close at $28.98 on October 15, 2026, amid broader weakness in the gaming sector as competitor DraftKings plunged 44% year-to-date, dragging down sentiment across online betting and casino operators. MGM shares declined 20% year-to-date to trade near $29, significantly underperforming the broader market despite the company's BetMGM partnership renewal with the National Hockey League announced the same day.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
