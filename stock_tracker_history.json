@@ -28475,6 +28475,82 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "date_display": "October 19, 2026",
+      "benchmark": {
+        "current_price": 26450.26171875,
+        "open_price": 26332.921875,
+        "pct_change": 0.44560130587483465,
+        "volume": 3300618000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.1200008392334,
+            "open_price": 19.81999969482422,
+            "pct_change": 1.513628400748774,
+            "volume": 2802484
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 78.5199966430664,
+            "open_price": 78.1500015258789,
+            "pct_change": 0.4734422392365256,
+            "volume": 681645
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.989999771118164,
+            "open_price": 28.989999771118164,
+            "pct_change": 0.0,
+            "volume": 2896389
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 28.665000915527344,
+            "open_price": 28.395000457763672,
+            "pct_change": 0.9508732291280847,
+            "volume": 1094798
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.789999961853027,
+            "open_price": 14.710000038146973,
+            "pct_change": 0.5438472025737148,
+            "volume": 508220
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 18.049999237060547,
+            "open_price": 18.110000610351562,
+            "pct_change": -0.3313162411309871,
+            "volume": 529446
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.760000228881836,
+            "open_price": 13.600000381469727,
+            "pct_change": 1.1764694332664312,
+            "volume": 30124
+          }
+        }
+      },
+      "material_changes": []
     }
   ]
 }
