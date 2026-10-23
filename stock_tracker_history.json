@@ -28769,6 +28769,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "date_display": "October 22, 2026",
+      "benchmark": {
+        "current_price": 26060.10546875,
+        "open_price": 25893.953125,
+        "pct_change": 0.6416646502290291,
+        "volume": 2477367000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.684999465942383,
+            "open_price": 20.780000686645508,
+            "pct_change": -0.45717621541840736,
+            "volume": 2230382
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 79.3499984741211,
+            "open_price": 80.06999969482422,
+            "pct_change": -0.8992147164322599,
+            "volume": 244898
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.8799991607666,
+            "open_price": 28.90999984741211,
+            "pct_change": -0.10377269734988717,
+            "volume": 1792102
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 28.43000030517578,
+            "open_price": 28.8799991607666,
+            "pct_change": -1.5581678277960012,
+            "volume": 1306421
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.800000190734863,
+            "open_price": 15.25,
+            "pct_change": -2.9508184214107325,
+            "volume": 1572829
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 15.8100004196167,
+            "open_price": 16.5,
+            "pct_change": -4.181815638686672,
+            "volume": 398581
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.6899995803833,
+            "open_price": 13.539999961853027,
+            "pct_change": 1.107825841601739,
+            "volume": 10305
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.800000190734863,
+            "open_price": 15.25,
+            "pct_change": -2.9508184214107325,
+            "volume": 1572829
+          },
+          "search_query": "Penn Entertainment PENN stock drops October 22, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down October 22, 2026",
+            "summary": "Penn Entertainment (PENN) stock fell 3.0% on October 22, 2026 to close at $14.80, extending losses following Citigroup's downward revision of expectations for the stock earlier in the month on October 12. The decline came despite the company's return to profitability in recent quarters, as investor concerns persisted over the gaming operator's substantial debt load of $2.8 billion reported at mid-year 2026.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 15.8100004196167,
+            "open_price": 16.5,
+            "pct_change": -4.181815638686672,
+            "volume": 398581
+          },
+          "search_query": "Rush Street Interactive RSI stock drops October 22, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down October 22, 2026",
+            "summary": "Rush Street Interactive (RSI) stock fell 4.2% on October 22, 2026, to close at $15.81, trading near its 52-week low of $15.51 amid broader weakness in the gaming sector that also affected PENN Entertainment and other industry peers. The decline came as the stock continued to struggle following its disappointing Q2 earnings report from September, which had initially sent shares down 4.3% and appeared to maintain pressure on the stock in subsequent weeks.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
