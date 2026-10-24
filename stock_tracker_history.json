@@ -28878,6 +28878,147 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-23",
+      "date_display": "October 23, 2026",
+      "benchmark": {
+        "current_price": 25955.33984375,
+        "open_price": 25893.94921875,
+        "pct_change": 0.23708482812481377,
+        "volume": 6554790000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.90999984741211,
+            "open_price": 20.780000686645508,
+            "pct_change": 0.6255974806109941,
+            "volume": 8740400
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 80.08999633789062,
+            "open_price": 80.06999969482422,
+            "pct_change": 0.024973951720520426,
+            "volume": 1408000
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.799999237060547,
+            "open_price": 28.90999984741211,
+            "pct_change": -0.38049329274351157,
+            "volume": 5960200
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 28.059999465942383,
+            "open_price": 28.8799991607666,
+            "pct_change": -2.839334205861703,
+            "volume": 5706900
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.5,
+            "open_price": 15.25,
+            "pct_change": -4.918032786885246,
+            "volume": 4061900
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 15.899999618530273,
+            "open_price": 16.5,
+            "pct_change": -3.636365948301373,
+            "volume": 2482200
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.859999656677246,
+            "open_price": 13.539999961853027,
+            "pct_change": 2.363365551889004,
+            "volume": 51000
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 28.059999465942383,
+            "open_price": 28.8799991607666,
+            "pct_change": -2.839334205861703,
+            "volume": 5706900
+          },
+          "search_query": "MGM Resorts MGM stock drops October 23, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down October 23, 2026",
+            "summary": "MGM Resorts International stock fell 2.8% to close at $28.06 on October 23, 2026, as investor sentiment remained weak ahead of the company's third-quarter earnings report scheduled for October 28. The stock continued to face pressure in the aftermath of Barry Diller's People withdrawing its $18 billion acquisition bid in late September, a deal collapse that had previously sent shares tumbling. The decline extended MGM's year-to-date losses to 22.1% through October 23, reflecting broader challenges facing the casino operator.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.5,
+            "open_price": 15.25,
+            "pct_change": -4.918032786885246,
+            "volume": 4061900
+          },
+          "search_query": "Penn Entertainment PENN stock drops October 23, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock down October 23, 2026",
+            "summary": "Penn Entertainment stock fell 4.9% to close at $14.50 on October 23, 2026, following a volatile trading session where shares had peaked at $15.52 the previous day before retreating. The decline came as the company approached its October 5th scheduled release of third-quarter earnings results, with investors likely taking profits after the stock's brief rally to multi-day highs and amid ongoing uncertainty following the termination of its ESPN Bet partnership nearly a year earlier.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 15.899999618530273,
+            "open_price": 16.5,
+            "pct_change": -3.636365948301373,
+            "volume": 2482200
+          },
+          "search_query": "Rush Street Interactive RSI stock drops October 23, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down October 23, 2026",
+            "summary": "Rush Street Interactive Inc. (NYSE:RSI) stock fell 3.6% to close at $15.90 on October 23, 2026, extending a pattern of volatility that saw shares decline 4.4% earlier in the week on October 19. The online casino and sports betting company's recent weakness came despite reporting better-than-expected Q2 2026 results in late July, suggesting investor concerns about broader market pressures or competitive dynamics in the online gaming sector weighed on the stock.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.859999656677246,
+            "open_price": 13.539999961853027,
+            "pct_change": 2.363365551889004,
+            "volume": 51000
+          },
+          "search_query": "Bally's Corporation BALY stock rises October 23, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up October 23, 2026",
+            "summary": "I apologize, but the web search results provided do not contain any information about specific catalysts, news events, analyst actions, earnings reports, or market developments that would explain why Bally's Corporation (BALY) stock rose 2.4% on October 23, 2026 to close at $13.86. The search results only show generic company website pages without substantive news content or stock performance details from that date. Without access to actual news or market data explaining the price movement, I cannot write a factual narrative about the cause of the stock increase.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
