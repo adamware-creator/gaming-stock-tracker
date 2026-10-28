@@ -29144,6 +29144,82 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-27",
+      "date_display": "October 27, 2026",
+      "benchmark": {
+        "current_price": 26499.77734375,
+        "open_price": 26541.607421875,
+        "pct_change": -0.1576019020254387,
+        "volume": 3781193000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.53499984741211,
+            "open_price": 20.6200008392334,
+            "pct_change": -0.4122259377388522,
+            "volume": 3354198
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 79.01000213623047,
+            "open_price": 78.04000091552734,
+            "pct_change": 1.2429538817574863,
+            "volume": 1313110
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.649999618530273,
+            "open_price": 28.73200035095215,
+            "pct_change": -0.2853986197280468,
+            "volume": 2715038
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 28.329999923706055,
+            "open_price": 28.5,
+            "pct_change": -0.5964914957682292,
+            "volume": 2824590
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 14.880000114440918,
+            "open_price": 14.800000190734863,
+            "pct_change": 0.5405400180747055,
+            "volume": 483714
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 15.71500015258789,
+            "open_price": 15.5600004196167,
+            "pct_change": 0.9961422158818272,
+            "volume": 1725893
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.524999618530273,
+            "open_price": 13.65999984741211,
+            "pct_change": -0.9882886558553788,
+            "volume": 9136
+          }
+        }
+      },
+      "material_changes": []
     }
   ]
 }
