@@ -29345,6 +29345,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "date_display": "October 29, 2026",
+      "benchmark": {
+        "current_price": 25411.02734375,
+        "open_price": 25592.486328125,
+        "pct_change": -0.7090322606740428,
+        "volume": 3752679000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 20.309999465942383,
+            "open_price": 20.67930030822754,
+            "pct_change": -1.7858478612945377,
+            "volume": 2749956
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 80.58499908447266,
+            "open_price": 79.5,
+            "pct_change": 1.3647787226071149,
+            "volume": 894238
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 28.959999084472656,
+            "open_price": 28.940000534057617,
+            "pct_change": 0.06910349013817073,
+            "volume": 1887300
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 29.559999465942383,
+            "open_price": 28.829999923706055,
+            "pct_change": 2.5320830529592584,
+            "volume": 4717915
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 15.569999694824219,
+            "open_price": 15.380000114440918,
+            "pct_change": 1.2353678736640732,
+            "volume": 938481
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 12.045000076293945,
+            "open_price": 13.34000015258789,
+            "pct_change": -9.707646637790496,
+            "volume": 5669350
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.449999809265137,
+            "open_price": 13.3100004196167,
+            "pct_change": 1.0518361024399516,
+            "volume": 5866
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 29.559999465942383,
+            "open_price": 28.829999923706055,
+            "pct_change": 2.5320830529592584,
+            "volume": 4717915
+          },
+          "search_query": "MGM Resorts MGM stock rises October 29, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up October 29, 2026",
+            "summary": "MGM Resorts International stock rose 2.5% on October 29, 2026, closing at $29.56, despite the company reporting revenue and adjusted EBITDA declines for the third quarter. The gain came as MGM announced it had amended its existing Voting Agreement with its largest shareholder, People Inc., hours before releasing the disappointing quarterly results. The stock's advance suggested investors viewed the shareholder agreement modification favorably, offsetting concerns about the company's operational performance decline.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 12.045000076293945,
+            "open_price": 13.34000015258789,
+            "pct_change": -9.707646637790496,
+            "volume": 5669350
+          },
+          "search_query": "Rush Street Interactive RSI stock drops October 29, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down October 29, 2026",
+            "summary": "I apologize, but I cannot write a factual news narrative about why Rush Street Interactive stock fell 9.7% on October 29, 2026, because the web search results provided do not contain any specific information about catalysts or reasons for the decline on that date. While the results confirm the stock movement occurred and reference a StockStory article titled \"Why Rush Street Interactive (RSI) stock is nosediving,\" the actual content explaining the cause is not included in the search results. Without access to the specific catalysts mentioned in that article or other substantive information about what drove the decline, I cannot produce an accurate, factual narrative as requested.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
