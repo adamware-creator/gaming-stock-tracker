@@ -29595,6 +29595,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-02",
+      "date_display": "November 02, 2026",
+      "benchmark": {
+        "current_price": 25469.802734375,
+        "open_price": 25246.634765625,
+        "pct_change": 0.8839513496422828,
+        "volume": 4198113000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 21.635000228881836,
+            "open_price": 21.719999313354492,
+            "pct_change": -0.39134018029362805,
+            "volume": 4101320
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 83.30000305175781,
+            "open_price": 87.0,
+            "pct_change": -4.25287005545079,
+            "volume": 2327593
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.1200008392334,
+            "open_price": 28.969999313354492,
+            "pct_change": 0.5177822900733002,
+            "volume": 2007256
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 31.219999313354492,
+            "open_price": 30.8799991607666,
+            "pct_change": 1.1010367934849714,
+            "volume": 4009546
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 16.895000457763672,
+            "open_price": 17.030000686645508,
+            "pct_change": -0.792720043679738,
+            "volume": 1214696
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 12.329999923706055,
+            "open_price": 11.90999984741211,
+            "pct_change": 3.526449048487654,
+            "volume": 4403314
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.079999923706055,
+            "open_price": 13.449999809265137,
+            "pct_change": -2.7509285561788985,
+            "volume": 26674
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 83.30000305175781,
+            "open_price": 87.0,
+            "pct_change": -4.25287005545079,
+            "volume": 2327593
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops November 02, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down November 02, 2026",
+            "summary": "Flutter Entertainment stock fell 4.3% to close at $83.30 on November 2, 2026, amid news related to its FanDuel CEO that emerged ahead of the company's scheduled third-quarter earnings report on November 4. Despite the decline, the stock remained up 59.24% year-to-date, significantly outperforming the broader market.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 12.329999923706055,
+            "open_price": 11.90999984741211,
+            "pct_change": 3.526449048487654,
+            "volume": 4403314
+          },
+          "search_query": "Rush Street Interactive RSI stock rises November 02, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up November 02, 2026",
+            "summary": "Rush Street Interactive (RSI) stock rose 3.5% on November 2, 2026, to close at $12.33, buoyed by an insider purchase signal as a company director bought 10,000 shares at an average price of $11.83 per share earlier that day. The gain came as RSI traded near its 52-week low of $11.39, with the stock showing a strong 41.33% year-to-date return despite recent volatility.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.079999923706055,
+            "open_price": 13.449999809265137,
+            "pct_change": -2.7509285561788985,
+            "volume": 26674
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 02, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down November 02, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.8% to close at $13.08 on November 2, 2026, amid broader weakness as analysts projected the company would post negative earnings per share of -$9.36 for the current year. The decline reflected ongoing investor concerns about the gaming and sports betting company's profitability challenges as it continued to expand its Bally Bet and Bally Casino platforms.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
