@@ -29720,6 +29720,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "date_display": "November 03, 2026",
+      "benchmark": {
+        "current_price": 25881.2109375,
+        "open_price": 25652.78125,
+        "pct_change": 0.8904675297147361,
+        "volume": 5133019000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.40999984741211,
+            "open_price": 22.211999893188477,
+            "pct_change": 5.393480821107923,
+            "volume": 8152125
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 83.3949966430664,
+            "open_price": 84.47000122070312,
+            "pct_change": -1.2726465752355656,
+            "volume": 2947278
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.274999618530273,
+            "open_price": 29.09000015258789,
+            "pct_change": 0.635955534451673,
+            "volume": 2958283
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 32.349998474121094,
+            "open_price": 32.25,
+            "pct_change": 0.31007278797238375,
+            "volume": 4263951
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.53499984741211,
+            "open_price": 17.299999237060547,
+            "pct_change": 1.358385090839412,
+            "volume": 1425326
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 12.21500015258789,
+            "open_price": 12.510000228881836,
+            "pct_change": -2.358114075912474,
+            "volume": 2784161
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 13.430000305175781,
+            "open_price": 13.380000114440918,
+            "pct_change": 0.3736935000538491,
+            "volume": 20789
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 23.40999984741211,
+            "open_price": 22.211999893188477,
+            "pct_change": 5.393480821107923,
+            "volume": 8152125
+          },
+          "search_query": "DraftKings DKNG stock rises November 03, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up November 03, 2026",
+            "summary": "DraftKings Inc. (DKNG) stock rose 5.4% on November 3, 2026, to close at $23.41, as investors anticipated the company's upcoming third-quarter earnings report scheduled for release. The stock's advance came as broader Americas markets posted strong gains of 11.1% year-to-date in 2026, providing a supportive backdrop for the sports betting and fantasy sports operator. The rally built on momentum from August when shares had surged 8.8% following second-quarter results that showed sales of $1.44 billion despite a net loss of $67.61 million.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 12.21500015258789,
+            "open_price": 12.510000228881836,
+            "pct_change": -2.358114075912474,
+            "volume": 2784161
+          },
+          "search_query": "Rush Street Interactive RSI stock drops November 03, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock down November 03, 2026",
+            "summary": "Rush Street Interactive Inc. stock fell 2.4% to close at $12.22 on November 03, 2026, extending a broader decline that saw shares drop 45.7% over the previous four weeks according to Zacks Equity Research. The continued downward pressure occurred despite some analyst commentary suggesting the stock's dip represented a buying opportunity, as the shares struggled amid challenging market conditions for the online gaming sector.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
