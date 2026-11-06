@@ -29954,6 +29954,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-05",
+      "date_display": "November 05, 2026",
+      "benchmark": {
+        "current_price": 24549.810546875,
+        "open_price": 24602.482421875,
+        "pct_change": -0.21409170870158792,
+        "volume": 5602237000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 17.349599838256836,
+            "open_price": 17.34000015258789,
+            "pct_change": 0.055361508560959366,
+            "volume": 39162808
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 80.1050033569336,
+            "open_price": 77.29000091552734,
+            "pct_change": 3.6421301695711636,
+            "volume": 1491733
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.19499969482422,
+            "open_price": 29.040000915527344,
+            "pct_change": 0.5337423361236844,
+            "volume": 1018618
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 31.8799991607666,
+            "open_price": 31.940000534057617,
+            "pct_change": -0.1878565193730544,
+            "volume": 1369068
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.059999465942383,
+            "open_price": 17.059999465942383,
+            "pct_change": 0.0,
+            "volume": 2016612
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 11.899999618530273,
+            "open_price": 11.680000305175781,
+            "pct_change": 1.883555715807674,
+            "volume": 1618364
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.479999542236328,
+            "open_price": 12.970000267028809,
+            "pct_change": -3.7779546237799013,
+            "volume": 7719
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 80.1050033569336,
+            "open_price": 77.29000091552734,
+            "pct_change": 3.6421301695711636,
+            "volume": 1491733
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises November 05, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up November 05, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock rose 3.6% on November 5, 2026, to close at $80.11, following the company's Q3 2026 earnings release issued the previous day on November 4. The stock remained well above its 52-week low of $72.56, though it traded significantly below its 52-week high of $235.77, as investors digested the latest quarterly results from the gaming and betting company.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.479999542236328,
+            "open_price": 12.970000267028809,
+            "pct_change": -3.7779546237799013,
+            "volume": 7719
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 05, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down November 05, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 3.8% on November 5, 2026, to close at $12.48, amid ongoing concerns about liquidity issues and leadership instability following the September resignation of the company's CFO. The decline also appeared connected to unresolved disputes with VGT that had weighed on investor sentiment since early fall. The stock remained under pressure as investors continued to digest the financial challenges facing the casino and gaming company.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
