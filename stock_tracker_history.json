@@ -30220,6 +30220,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "date_display": "November 09, 2026",
+      "benchmark": {
+        "current_price": 24897.337890625,
+        "open_price": 25047.447265625,
+        "pct_change": -0.5993000939700925,
+        "volume": 4109660000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.198999404907227,
+            "open_price": 18.625,
+            "pct_change": 3.0818759995018876,
+            "volume": 15177314
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 82.69999694824219,
+            "open_price": 81.36000061035156,
+            "pct_change": 1.6469964698109099,
+            "volume": 1580210
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.264999389648438,
+            "open_price": 29.25,
+            "pct_change": 0.051279964610042736,
+            "volume": 1226249
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.119998931884766,
+            "open_price": 32.790000915527344,
+            "pct_change": 1.0063983139480637,
+            "volume": 1763717
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.5,
+            "open_price": 18.3700008392334,
+            "pct_change": 0.7076709571452942,
+            "volume": 891832
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 11.944999694824219,
+            "open_price": 12.0600004196167,
+            "pct_change": -0.9535714825135596,
+            "volume": 952509
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.375,
+            "open_price": 12.109999656677246,
+            "pct_change": -6.069361498883114,
+            "volume": 51139
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.198999404907227,
+            "open_price": 18.625,
+            "pct_change": 3.0818759995018876,
+            "volume": 15177314
+          },
+          "search_query": "DraftKings DKNG stock rises November 09, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock up November 09, 2026",
+            "summary": "DraftKings (DKNG) stock rose 3.1% to close at $19.20 on November 9, 2026, rebounding from earlier premarket losses as analysts from JPMorgan, Stifel, and UBS issued dovish research notes and set a $21 price target amid the company's expansion into prediction markets. The gain came as investors bought beaten-down shares following the S&P 500's worst week since April 2025, despite analysts having recently cut their fair value estimates and reworked growth outlooks for the sports betting company earlier in the week.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.375,
+            "open_price": 12.109999656677246,
+            "pct_change": -6.069361498883114,
+            "volume": 51139
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 09, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down November 09, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 6.1% to close at $11.38 on November 9, 2026, following the company's release of preliminary third-quarter 2026 results showing revenue of $808 million. The decline came amid ongoing financial uncertainty at the casino and sports betting operator, which had announced the departure of its CFO Mira Mircheva in early September 2026.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
