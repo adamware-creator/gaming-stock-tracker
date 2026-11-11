@@ -30329,6 +30329,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "date_display": "November 10, 2026",
+      "benchmark": {
+        "current_price": 25634.76171875,
+        "open_price": 25448.802734375,
+        "pct_change": 0.7307180078998988,
+        "volume": 7157966000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.635000228881836,
+            "open_price": 19.479999542236328,
+            "pct_change": 0.7956914285826187,
+            "volume": 8753643
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 84.38999938964844,
+            "open_price": 81.80000305175781,
+            "pct_change": 3.166254573672621,
+            "volume": 1232517
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.34000015258789,
+            "open_price": 29.299999237060547,
+            "pct_change": 0.13652189955263885,
+            "volume": 784217
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.220001220703125,
+            "open_price": 32.77000045776367,
+            "pct_change": 1.3732095106908724,
+            "volume": 1551536
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.934999465942383,
+            "open_price": 18.290000915527344,
+            "pct_change": -1.9409591679330183,
+            "volume": 872591
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 12.204999923706055,
+            "open_price": 11.8100004196167,
+            "pct_change": 3.344618882766944,
+            "volume": 711787
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.175000190734863,
+            "open_price": 11.779999732971191,
+            "pct_change": 3.3531448787566616,
+            "volume": 22498
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 84.38999938964844,
+            "open_price": 81.80000305175781,
+            "pct_change": 3.166254573672621,
+            "volume": 1232517
+          },
+          "search_query": "Flutter Entertainment FLUT stock rises November 10, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock up November 10, 2026",
+            "summary": "Flutter Entertainment plc (FLUT) stock rose 3.2% to close at $84.39 on November 10, 2026, following positive investor reaction to the company's third-quarter 2026 earnings results released on November 4. The gaming and entertainment company's shares climbed 5.39% during the trading session as analysts and investors digested the quarterly performance update and KPI data disclosed earlier in the week.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "RSI",
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 12.204999923706055,
+            "open_price": 11.8100004196167,
+            "pct_change": 3.344618882766944,
+            "volume": 711787
+          },
+          "search_query": "Rush Street Interactive RSI stock rises November 10, 2026",
+          "news": {
+            "search_query": "Rush Street Interactive RSI stock up November 10, 2026",
+            "summary": "Rush Street Interactive stock rose 3.3% to close at $12.20 on November 10, 2026, as investors continued to react positively to the company's strong third-quarter earnings reported on October 28, which showed revenue growth of 39% year-over-year. The sustained momentum following the impressive Q3 results reflected investor confidence in RSI's performance in the consumer discretionary gaming solutions sector.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 12.175000190734863,
+            "open_price": 11.779999732971191,
+            "pct_change": 3.3531448787566616,
+            "volume": 22498
+          },
+          "search_query": "Bally's Corporation BALY stock rises November 10, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock up November 10, 2026",
+            "summary": "Bally's Corporation (BALY) stock rose 3.4% on November 10, 2026, to close at $12.18, following the company's announcement that third-quarter revenue increased 21.7% to $807.6 million. The gains came despite ongoing shareholder litigation related to a previous 26.3% stock decline, as investors focused on the strong revenue growth in the company's casino and sports betting operations.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
