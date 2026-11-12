@@ -30454,6 +30454,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "date_display": "November 11, 2026",
+      "benchmark": {
+        "current_price": 25466.578125,
+        "open_price": 25092.109375,
+        "pct_change": 1.4923765252398196,
+        "volume": 5946986000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.299999237060547,
+            "open_price": 19.899999618530273,
+            "pct_change": -3.0150773516147433,
+            "volume": 7171911
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 83.41000366210938,
+            "open_price": 85.27999877929688,
+            "pct_change": -2.192771041222707,
+            "volume": 1039463
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.315000534057617,
+            "open_price": 29.34000015258789,
+            "pct_change": -0.0852066066811809,
+            "volume": 918496
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.275001525878906,
+            "open_price": 33.31999969482422,
+            "pct_change": -0.13504852748333704,
+            "volume": 1265877
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.75,
+            "open_price": 18.059999465942383,
+            "pct_change": -1.716497647339254,
+            "volume": 956192
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 12.029999732971191,
+            "open_price": 12.09000015258789,
+            "pct_change": -0.49628138014420126,
+            "volume": 522745
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.96500015258789,
+            "open_price": 12.300000190734863,
+            "pct_change": -2.723577503676104,
+            "volume": 13622
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 19.299999237060547,
+            "open_price": 19.899999618530273,
+            "pct_change": -3.0150773516147433,
+            "volume": 7171911
+          },
+          "search_query": "DraftKings DKNG stock drops November 11, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down November 11, 2026",
+            "summary": "DraftKings stock fell 3.0% on November 11, 2026 to close at $19.30, extending losses from the previous week when shares plummeted 21.3% on November 6 following the company's decision to cut its 2026 outlook due to rising costs associated with expanding its prediction markets business. The decline left DKNG down 43% year-to-date, significantly underperforming the broader market, as investors continued to digest the negative earnings news and approximately 25% of shareholder value had evaporated in recent trading sessions.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 83.41000366210938,
+            "open_price": 85.27999877929688,
+            "pct_change": -2.192771041222707,
+            "volume": 1039463
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops November 11, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down November 11, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock fell 2.2% on November 11, 2026, to close at $83.41, as investors continued to digest the company's recent decision to cut its full-year 2026 revenue and adjusted EBITDA guidance while pausing its share buyback program. The decline came approximately six days after the guidance reduction triggered a steeper 6.09% drop, with concerns about the company's financial outlook and CEO transition weighing on sentiment. The stock had already fallen roughly 20% since May 2026 amid ongoing investor concerns about the company's performance trajectory.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.96500015258789,
+            "open_price": 12.300000190734863,
+            "pct_change": -2.723577503676104,
+            "volume": 13622
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 11, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down November 11, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 2.7% to close at $11.97 on November 11, 2026, despite the company reporting preliminary Q3 2026 results showing strong revenue growth of 21.7%. The decline occurred amid broader market weakness, with tech stocks like NVIDIA also falling 2.10% on the same day, suggesting negative market sentiment overshadowed Bally's positive revenue performance.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
