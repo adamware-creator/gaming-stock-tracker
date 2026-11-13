@@ -30579,6 +30579,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "date_display": "November 12, 2026",
+      "benchmark": {
+        "current_price": 25042.533203125,
+        "open_price": 25408.001953125,
+        "pct_change": -1.4384001964194197,
+        "volume": 4812146000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.860000610351562,
+            "open_price": 19.34000015258789,
+            "pct_change": -2.4819004056321026,
+            "volume": 3289377
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 81.58499908447266,
+            "open_price": 82.69999694824219,
+            "pct_change": -1.34824414137204,
+            "volume": 519925
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.30500030517578,
+            "open_price": 29.329999923706055,
+            "pct_change": -0.08523565835425531,
+            "volume": 594530
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.45500183105469,
+            "open_price": 33.310001373291016,
+            "pct_change": 0.43530606960568213,
+            "volume": 1273643
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.475000381469727,
+            "open_price": 17.530000686645508,
+            "pct_change": -0.31374958939779685,
+            "volume": 569651
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 11.8149995803833,
+            "open_price": 11.970000267028809,
+            "pct_change": -1.2949096339826736,
+            "volume": 679050
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.126299858093262,
+            "open_price": 11.470000267028809,
+            "pct_change": -2.9965161371751137,
+            "volume": 31312
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.860000610351562,
+            "open_price": 19.34000015258789,
+            "pct_change": -2.4819004056321026,
+            "volume": 3289377
+          },
+          "search_query": "DraftKings DKNG stock drops November 12, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down November 12, 2026",
+            "summary": "DraftKings stock fell 2.5% on November 12, 2026, to close at $18.86, continuing its decline following a sharp 21.3% drop on November 6 after the company's earnings report. The stock remained under pressure as shares were already down nearly 40% year-to-date amid heightened competition in the sports betting sector and lingering concerns from the disappointing quarterly results.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.126299858093262,
+            "open_price": 11.470000267028809,
+            "pct_change": -2.9965161371751137,
+            "volume": 31312
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 12, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down November 12, 2026",
+            "summary": "I don't have sufficient information from the provided web search results to write an accurate news narrative about why Bally's Corporation stock fell 3.0% on November 12, 2026. While the search results mention the stock traded during the week of November 5-12, 2026, and reference earlier CFO resignation news from September 2026 amid liquidity issues, they don't provide specific catalysts or news events that occurred on November 12, 2026 to explain that day's 3.0% decline to $11.13.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
