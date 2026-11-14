@@ -30688,6 +30688,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "date_display": "November 13, 2026",
+      "benchmark": {
+        "current_price": 25136.26953125,
+        "open_price": 25408.0,
+        "pct_change": -1.0694681547150502,
+        "volume": 8691350000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.889999389648438,
+            "open_price": 19.30500030517578,
+            "pct_change": -2.149706858155706,
+            "volume": 12134600
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 81.12999725341797,
+            "open_price": 82.69999694824219,
+            "pct_change": -1.8984277542438162,
+            "volume": 1672600
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.329999923706055,
+            "open_price": 29.329999923706055,
+            "pct_change": 0.0,
+            "volume": 1435600
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.4900016784668,
+            "open_price": 33.310001373291016,
+            "pct_change": 0.5403791586754813,
+            "volume": 3630600
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 17.5,
+            "open_price": 17.530000686645508,
+            "pct_change": -0.17113910707580618,
+            "volume": 1809600
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 11.859999656677246,
+            "open_price": 11.970000267028809,
+            "pct_change": -0.9189691553688397,
+            "volume": 1685400
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.119999885559082,
+            "open_price": 11.470000267028809,
+            "pct_change": -3.051441790074088,
+            "volume": 61800
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.889999389648438,
+            "open_price": 19.30500030517578,
+            "pct_change": -2.149706858155706,
+            "volume": 12134600
+          },
+          "search_query": "DraftKings DKNG stock drops November 13, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down November 13, 2026",
+            "summary": "DraftKings Inc. (DKNG) stock fell 2.1% to close at $18.89 on November 13, 2026, following a securities investigation notice announced by Levi & Korsinsky regarding shares that faltered on November 6, 2026. Despite the recent decline, the stock maintained a strong year-to-date return of 45.18% as of the closing date.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 11.119999885559082,
+            "open_price": 11.470000267028809,
+            "pct_change": -3.051441790074088,
+            "volume": 61800
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 13, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down November 13, 2026",
+            "summary": "Bally's Corporation stock fell 3.1% to close at $11.12 on November 13, 2026, amid continued fallout from the company's Australian subsidiary being fined $183 million in late October for violating anti-money laundering and terrorism financing laws. The regulatory penalty contributed to a steep 35% decline in BALY shares from prior levels, weighing heavily on investor sentiment. The stock traded near its lows as concerns mounted about financing risks and the financial impact of the massive fine on the casino operator's operations.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
