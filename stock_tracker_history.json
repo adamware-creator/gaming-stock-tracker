@@ -30797,6 +30797,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "date_display": "November 16, 2026",
+      "benchmark": {
+        "current_price": 24240.09375,
+        "open_price": 24528.056640625,
+        "pct_change": -1.1740142924656196,
+        "volume": 6026918000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.40999984741211,
+            "open_price": 18.3799991607666,
+            "pct_change": 0.16322463555681974,
+            "volume": 4224770
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 76.98500061035156,
+            "open_price": 78.7300033569336,
+            "pct_change": -2.2164393143371464,
+            "volume": 732617
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.225000381469727,
+            "open_price": 29.309999465942383,
+            "pct_change": -0.29000029348831424,
+            "volume": 1819156
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.474998474121094,
+            "open_price": 33.11000061035156,
+            "pct_change": 1.1023795138663264,
+            "volume": 3129809
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.299999237060547,
+            "open_price": 17.690000534057617,
+            "pct_change": 3.4482684261570915,
+            "volume": 1466457
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 11.824999809265137,
+            "open_price": 11.9399995803833,
+            "pct_change": -0.9631471956422992,
+            "volume": 847451
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.774999618530273,
+            "open_price": 10.569999694824219,
+            "pct_change": -7.52128759931025,
+            "volume": 56926
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 76.98500061035156,
+            "open_price": 78.7300033569336,
+            "pct_change": -2.2164393143371464,
+            "volume": 732617
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops November 16, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down November 16, 2026",
+            "summary": "Flutter Entertainment (FLUT) stock fell 2.2% on November 16, 2026, to close at $76.99, amid continued weakness in the sports-betting sector that had previously triggered a sharp selloff among peers in early November. The decline extended the stock's retreat from its June high of $101.73, as shares remained under pressure despite analyst expectations that the upcoming FIFA World Cup could provide a boost to the struggling online gaming company. The November 16 close represented a significant decline from levels seen earlier in the year, though specific catalysts for that day's move were not disclosed beyond broader sector weakness.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.299999237060547,
+            "open_price": 17.690000534057617,
+            "pct_change": 3.4482684261570915,
+            "volume": 1466457
+          },
+          "search_query": "Penn Entertainment PENN stock rises November 16, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up November 16, 2026",
+            "summary": "Penn Entertainment stock rose 3.4% to close at $18.30 on November 16, 2026, following its third-quarter 2026 earnings call held that afternoon at 4:00 PM PST. The gaming and entertainment company had reported its Q3 results on November 5, 2026, with the subsequent investor presentation appearing to provide clarity that boosted investor confidence in the stock.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "BALY",
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.774999618530273,
+            "open_price": 10.569999694824219,
+            "pct_change": -7.52128759931025,
+            "volume": 56926
+          },
+          "search_query": "Bally's Corporation BALY stock drops November 16, 2026",
+          "news": {
+            "search_query": "Bally's Corporation BALY stock down November 16, 2026",
+            "summary": "Bally's Corporation (BALY) stock fell 7.5% to close at $9.77 on November 16, 2026, following the release of the company's third quarter 2026 earnings results after market close. The sharp decline suggested investors reacted negatively to the quarterly financial performance, though specific details of the earnings report were not immediately available. The stock's movement came amid ongoing challenges for the gaming and sports betting operator, including difficulties with its Chicago casino project.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
