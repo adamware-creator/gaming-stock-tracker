@@ -30922,6 +30922,131 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "date_display": "November 17, 2026",
+      "benchmark": {
+        "current_price": 24456.359375,
+        "open_price": 24486.173828125,
+        "pct_change": -0.12176035886323285,
+        "volume": 4710107000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 18.139999389648438,
+            "open_price": 18.204999923706055,
+            "pct_change": -0.3570477029938092,
+            "volume": 7381881
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 73.54000091552734,
+            "open_price": 75.5,
+            "pct_change": -2.5960252774472266,
+            "volume": 1097878
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.385000228881836,
+            "open_price": 29.200000762939453,
+            "pct_change": 0.6335597983174834,
+            "volume": 1866351
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.88999938964844,
+            "open_price": 33.099998474121094,
+            "pct_change": 2.386709824609201,
+            "volume": 1540107
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.709999084472656,
+            "open_price": 18.1299991607666,
+            "pct_change": 3.1991172121021227,
+            "volume": 1478533
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 11.6899995803833,
+            "open_price": 11.65999984741211,
+            "pct_change": 0.2572875931713646,
+            "volume": 1420241
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 10.029999732971191,
+            "open_price": 9.859999656677246,
+            "pct_change": 1.7241387648408317,
+            "volume": 33264
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "FLUT",
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 73.54000091552734,
+            "open_price": 75.5,
+            "pct_change": -2.5960252774472266,
+            "volume": 1097878
+          },
+          "search_query": "Flutter Entertainment FLUT stock drops November 17, 2026",
+          "news": {
+            "search_query": "Flutter Entertainment FLUT stock down November 17, 2026",
+            "summary": "Flutter Entertainment stock fell 2.6% on November 17, 2026, to close at $73.54, extending a difficult year for the gaming company that had already declined 53.5% year-to-date amid ongoing pressures in the U.S. betting market and a weaker 2026 outlook that had previously sent shares tumbling 6.2% in June. The stock continued to trade significantly below its previous levels, with investors remaining cautious about the company's near-term prospects in its key markets.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 33.88999938964844,
+            "open_price": 33.099998474121094,
+            "pct_change": 2.386709824609201,
+            "volume": 1540107
+          },
+          "search_query": "MGM Resorts MGM stock rises November 17, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock up November 17, 2026",
+            "summary": "MGM Resorts International stock rose 2.4% to close at $33.89 on November 17, 2026, boosted by heightened investor interest surrounding the company's partnership with Pepsi for the Formula 1 Heineken Las Vegas Grand Prix 2026 race weekend. The gaming and hospitality giant's shares demonstrated continued momentum with a year-to-date return of 8.61%, supported by ongoing stock repurchase activities under its $1.4 billion buyback program announced in second-quarter results.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "PENN",
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.709999084472656,
+            "open_price": 18.1299991607666,
+            "pct_change": 3.1991172121021227,
+            "volume": 1478533
+          },
+          "search_query": "Penn Entertainment PENN stock rises November 17, 2026",
+          "news": {
+            "search_query": "Penn Entertainment PENN stock up November 17, 2026",
+            "summary": "I cannot write a factual news narrative explaining why PENN stock rose 3.2% on November 17, 2026, because the search results provided do not contain any specific information about catalysts or events that occurred on that date. The search results only show references to earnings calls and press releases from earlier dates in 2026, with no details about what drove the stock movement on November 17th specifically. Without concrete information about analyst upgrades, company announcements, regulatory news, or other specific catalysts from that day, I cannot construct an accurate news narrative that meets the factual requirements.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
