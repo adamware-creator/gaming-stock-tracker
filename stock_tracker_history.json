@@ -31172,6 +31172,115 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "date_display": "November 19, 2026",
+      "benchmark": {
+        "current_price": 23126.541015625,
+        "open_price": 23592.66796875,
+        "pct_change": -1.9757280259376133,
+        "volume": 6473939000
+      },
+      "companies": {
+        "DKNG": {
+          "name": "DraftKings",
+          "data": {
+            "current_price": 16.229999542236328,
+            "open_price": 16.700000762939453,
+            "pct_change": -2.81437843850971,
+            "volume": 5025491
+          }
+        },
+        "FLUT": {
+          "name": "Flutter Entertainment",
+          "data": {
+            "current_price": 67.97000122070312,
+            "open_price": 67.70999908447266,
+            "pct_change": 0.3839937080874851,
+            "volume": 1251135
+          }
+        },
+        "CZR": {
+          "name": "Caesars Entertainment",
+          "data": {
+            "current_price": 29.2549991607666,
+            "open_price": 29.309999465942383,
+            "pct_change": -0.18765031108134436,
+            "volume": 888597
+          }
+        },
+        "MGM": {
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 32.62540054321289,
+            "open_price": 33.36000061035156,
+            "pct_change": -2.2020385302712686,
+            "volume": 2341431
+          }
+        },
+        "PENN": {
+          "name": "Penn Entertainment",
+          "data": {
+            "current_price": 18.450000762939453,
+            "open_price": 18.309999465942383,
+            "pct_change": 0.7646166088507022,
+            "volume": 1349715
+          }
+        },
+        "RSI": {
+          "name": "Rush Street Interactive",
+          "data": {
+            "current_price": 11.4399995803833,
+            "open_price": 11.369999885559082,
+            "pct_change": 0.6156525552223148,
+            "volume": 1565095
+          }
+        },
+        "BALY": {
+          "name": "Bally's Corporation",
+          "data": {
+            "current_price": 9.729999542236328,
+            "open_price": 9.800000190734863,
+            "pct_change": -0.7142923177156192,
+            "volume": 38545
+          }
+        }
+      },
+      "material_changes": [
+        {
+          "ticker": "DKNG",
+          "name": "DraftKings",
+          "data": {
+            "current_price": 16.229999542236328,
+            "open_price": 16.700000762939453,
+            "pct_change": -2.81437843850971,
+            "volume": 5025491
+          },
+          "search_query": "DraftKings DKNG stock drops November 19, 2026",
+          "news": {
+            "search_query": "DraftKings DKNG stock down November 19, 2026",
+            "summary": "DraftKings stock fell 2.8% on November 19, 2026, to close at $16.23, as Zacks Equity Research designated the company as its \"Bear of the Day,\" highlighting concerns about the stock's downward trajectory. The decline extended DKNG's steep year-to-date losses to 50%, with shares trending toward 2022 lows amid ongoing weakness in the sports betting sector. The negative analyst spotlight contrasted sharply with the broader S&P 500's 7.9% gain for the year, underscoring investor concerns about DraftKings' competitive position and profitability outlook.",
+            "needs_manual_lookup": false
+          }
+        },
+        {
+          "ticker": "MGM",
+          "name": "MGM Resorts",
+          "data": {
+            "current_price": 32.62540054321289,
+            "open_price": 33.36000061035156,
+            "pct_change": -2.2020385302712686,
+            "volume": 2341431
+          },
+          "search_query": "MGM Resorts MGM stock drops November 19, 2026",
+          "news": {
+            "search_query": "MGM Resorts MGM stock down November 19, 2026",
+            "summary": "MGM Resorts International stock fell 2.2% to close at $32.63 on November 19, 2026, as the Las Vegas Grand Prix took place that day, potentially failing to meet investor expectations for the high-profile Formula 1 event that the company had heavily promoted with fan experiences and activations. The decline came despite MGM's efforts to capitalize on the race week, following an October earnings report that showed revenue ticking down due to lower room rates in Las Vegas. The stock traded in a range of $32.75 to $33.69 during the session on volume of 3.66 million shares.",
+            "needs_manual_lookup": false
+          }
+        }
+      ]
     }
   ]
 }
